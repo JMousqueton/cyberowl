@@ -5,7 +5,7 @@ on:
     - cron: '0 1 * * *'
   workflow_dispatch:
 jobs:
-  cve-monitor:
+  cyberowl:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     environment: CI
