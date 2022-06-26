@@ -1,4 +1,4 @@
-## CISA (#cyberowl)
+## CISA
 |Title|Description|Date|
 |---|---|---|
 | [Citrix Releases Security Updates for Hypervisor](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/24/citrix-releases-security-updates-hypervisor) | <p>Citrix has released security updates to address vulnerabilities that could affect Hypervisor. An attacker could exploit one of these vulnerabilities to take control of an affected system.</p> | Friday, June 24, 2022 |

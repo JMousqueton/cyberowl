@@ -1,4 +1,4 @@
-## CERT-FR (#cyberowl)
+## CERT-FR
 |Title|Description|Date|
 |---|---|---|
 | [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-579/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 23 juin 2022 |
