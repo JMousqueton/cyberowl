@@ -11,7 +11,7 @@
 
 ## Documentation 📖 
 
-Visit [cve-monitor](https://cyberowl.mousqueton.io) for a demonstration. 
+Visit [cyberowl](https://cyberowl.mousqueton.io) for a demonstration. 
 
 ### Commande line  💻
 
