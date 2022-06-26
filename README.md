@@ -1,4 +1,4 @@
-# Cyber Owl ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+# Cyber Owl 🦉 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 > A daily updated summary of the most frequent types of security incidents currently being reported from different sources using Github Actions
 > 
