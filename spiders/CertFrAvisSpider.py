@@ -2,7 +2,7 @@ import scrapy
 from mdtemplate import Template
 
 
-class CertFrSpider(scrapy.Spider):
+class CertFrAvisSpider(scrapy.Spider):
     name = 'certfr'
     start_urls = [
         'https://www.cert.ssi.gouv.fr/avis/'
@@ -33,7 +33,7 @@ class CertFrSpider(scrapy.Spider):
 
             _data.append(ITEM)
 
-        _to_write = Template("CERT-FR", _data)
+        _to_write = Template("CERT-FR-AVIS", _data)
 
         with open("docs/CERT-FR.md", "w") as f:
             f.write(_to_write._fill_table())

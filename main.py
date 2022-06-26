@@ -1,5 +1,6 @@
 from spiders.CISASpider import CisaSpider
-from spiders.CertFrSpider import CertFrSpider
+from spiders.CertFrAvisSpider import CertFrAvisSpider
+from spiders.CertFrAlerteSpider import CertFrAlerteSpider
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime
 
@@ -15,7 +16,8 @@ A daily updated summary of the most frequent types of security incidents current
 
     try:
         process = CrawlerProcess()
-        process.crawl(CertFrSpider)
+        process.crawl(CertFrAvisSpider)
+        process.crawl(CertFrAlerteSpider)
         process.crawl(CisaSpider)
         process.start()
 
