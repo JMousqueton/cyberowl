@@ -57,5 +57,5 @@ pip3 install -r requirements.txt
 
 ## Thanks 
 
- - [karimhabush]](https://github.com/karimhabush/) for the original idea 💡
+ - [karimhabush](https://github.com/karimhabush/) for the original idea 💡
  - [Guillaume Zeja](https://twitter.com/guzefr) pour le support sur python et les encouragements 🍻
