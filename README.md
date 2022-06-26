@@ -1,9 +1,10 @@
 # Cyber Owl ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 > A daily updated summary of the most frequent types of security incidents currently being reported from different sources using Github Actions
+> 
 > Original script from [karimhabush](https://github.com/karimhabush/cyberowl) 
 
-[![boamp-extractor](https://github.com/JMousqueton/github-cve-monitor/actions/workflows/run.yml/badge.svg)](https://github.com/JMousqueton/git-cve-monitor/actions/workflows/run.yml)[![pages-build-deployment](https://github.com/JMousqueton/github-cve-monitor/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JMousqueton/github-cve-monitor/actions/workflows/pages/pages-build-deployment)
+[![boamp-extractor](https://github.com/JMousqueton/cyberowl/actions/workflows/run.yml/badge.svg)](https://github.com/JMousqueton/cyberowl/actions/workflows/run.yml)[![pages-build-deployment](https://github.com/JMousqueton/cyberowl/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JMousqueton/cyberowl/actions/workflows/pages/pages-build-deployment)
 
 [![Twitter: JMousqueton](https://img.shields.io/twitter/follow/JMousqueton.svg?style=social)](https://twitter.com/JMousqueton)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/jmousqueton/github-cve-monitor/blob/main/LICENSE)
