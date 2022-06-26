@@ -17,7 +17,7 @@ A daily updated summary of the most frequent types of security incidents current
     try:
         process = CrawlerProcess()
         process.crawl(CertFrAvisSpider)
-        process.crawl(CertFrAlerteSpider)
+        process.crawl(CertFrAlerteSpider) #should be 2nd anyway 
         process.crawl(CisaSpider)
         process.start()
 
