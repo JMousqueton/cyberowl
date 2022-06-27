@@ -15,7 +15,7 @@ A daily updated summary of the most frequent types of security incidents current
         f.close()
     
     with open("docs/CERT-FR.md", "w") as f:
-        f.write('/n')
+        f.write('\n')
         f.close()
 
 
