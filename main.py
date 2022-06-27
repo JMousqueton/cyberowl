@@ -13,6 +13,11 @@ A daily updated summary of the most frequent types of security incidents current
     with open("docs/README.md", "w") as f:
         f.write(item)
         f.close()
+    
+    open("docs/CERT-FR", "w") as f:
+        f.write('/n')
+        f.close()
+
 
     try:
         process = CrawlerProcess()

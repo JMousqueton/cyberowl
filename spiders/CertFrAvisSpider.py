@@ -35,6 +35,6 @@ class CertFrAvisSpider(scrapy.Spider):
 
         _to_write = Template("CERT-FR-AVIS", _data)
 
-        with open("docs/CERT-FR.md", "w") as f:
+        with open("docs/CERT-FR.md", "a") as f:
             f.write(_to_write._fill_table())
             f.close()
