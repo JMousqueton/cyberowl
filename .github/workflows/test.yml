@@ -1,4 +1,4 @@
-name: auto_report_cron_job
+name: AutoGenerate
 
 # Controls when the workflow will run
 on:
