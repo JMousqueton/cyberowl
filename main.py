@@ -3,8 +3,6 @@ from spiders.CertFrAvisSpider import CertFrAvisSpider
 from spiders.CertFrAlerteSpider import CertFrAlerteSpider
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime
-from spiders.IBMcloudSpider import IBMCloudSpider
-from spiders.ZDISpider import ZDISpider
 
 def main():
     now = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
@@ -26,8 +24,6 @@ A daily updated summary of the most frequent types of security incidents current
         process.crawl(CertFrAvisSpider)
         process.crawl(CertFrAlerteSpider) #should be 2nd anyway 
         process.crawl(CisaSpider)
-        process.crawl(IBMCloudSpider)
-        process.crawl(ZDISpider)
         process.start()
 
     except Exception:
