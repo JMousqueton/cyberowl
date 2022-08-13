@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-741/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 12 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-740/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité. | 12 août 2022 |
+| [Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-739/) | De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 12 août 2022 |
+| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-738/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 11 août 2022 |
+| [Vulnérabilité dans Palo Alto PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-737/) | Une vulnérabilité a été découverte dans Palo Alto PAN-OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 11 août 2022 |
+| [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-736/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
+| [Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-735/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
+| [Vulnérabilité dans Citrix XenServer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-734/) | Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un problème de sécurité un déni de service, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 11 août 2022 |
+| [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MaJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-019/) | [Version du 15 septembre 2021] | 8 septembre 2021 |
 | [Vulnérabilité dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-021/) | Une vulnérabilité a été découverte dans Microsoft Exchange, initialement dans le cadre de la compétition de cybersécurité  | 10 novembre 2021 |
 | [Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-017/) | Dans son bulletin d'actualité CERTFR-2021-ACT-035 du 12 août 2021  | 27 août 2021 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-738/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 11 août 2022 |
-| [Vulnérabilité dans Palo Alto PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-737/) | Une vulnérabilité a été découverte dans Palo Alto PAN-OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 11 août 2022 |
-| [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-736/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
-| [Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-735/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
-| [Vulnérabilité dans Citrix XenServer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-734/) | Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un problème de sécurité un déni de service, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 11 août 2022 |
-| [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
-| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-731/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
-| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-730/) | Une vulnérabilité a été corrigée dans  | 10 août 2022 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-729/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
