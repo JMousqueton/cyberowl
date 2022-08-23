@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-759/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 22 août 2022 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données. | 19 août 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-757/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données. | 19 août 2022 |
 | [Vulnérabilité dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-756/) | Une vulnérabilité a été découverte dans Apple Safari. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 19 août 2022 |
@@ -11,7 +12,6 @@
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-752/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 18 août 2022 |
 | [Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-751/) | Une vulnérabilité a été découverte dans Cisco AsyncOS for Secure Web Appliance. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 18 août 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-750/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 17 août 2022 |
-| [Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-749/) | Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges. | 17 août 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
