@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-774/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 26 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-773/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 26 août 2022 |
+| [Multiples vulnérabilités dans Tenable Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-772/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus Agent. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 26 août 2022 |
+| [Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 25 août 2022 |
+| [Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/) | Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 25 août 2022 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges. | 25 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/) | De multiples vulnérabilités ont été corrigées dans le noyau Linux d' | 25 août 2022 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 24 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-766/) | De multiples vulnérabilités ont été corrigées dans  | 24 août 2022 |
+| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-765/) | De multiples vulnérabilités ont été corrigées dans  | 24 août 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MaJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-019/) | [Version du 15 septembre 2021] | 8 septembre 2021 |
 | [Vulnérabilité dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-021/) | Une vulnérabilité a été découverte dans Microsoft Exchange, initialement dans le cadre de la compétition de cybersécurité  | 10 novembre 2021 |
 | [Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-017/) | Dans son bulletin d'actualité CERTFR-2021-ACT-035 du 12 août 2021  | 27 août 2021 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 25 août 2022 |
-| [Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/) | Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 25 août 2022 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges. | 25 août 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/) | De multiples vulnérabilités ont été corrigées dans le noyau Linux d' | 25 août 2022 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 24 août 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-766/) | De multiples vulnérabilités ont été corrigées dans  | 24 août 2022 |
-| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-765/) | De multiples vulnérabilités ont été corrigées dans  | 24 août 2022 |
-| [Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-764/) | De multiples vulnérabilités ont été découvertes dans F-Secure les produits F-Secure. Elles permettent à un attaquant de provoquer un déni de service. | 24 août 2022 |
-| [Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-763/) | Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer une élévation de privilèges. | 24 août 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-762/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges. | 23 août 2022 |
