@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/) | Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance. | 6 septembre 2022 |
 | [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-797/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance. | 5 septembre 2022 |
 | [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-796/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 5 septembre 2022 |
 | [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-795/) | Une vulnérabilité a été corrigée dans  | 5 septembre 2022 |
@@ -11,7 +12,6 @@
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/) | De multiples vulnérabilités ont été corrigées dans  | 2 septembre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/) | De multiples vulnérabilités ont été corrigées dans  | 2 septembre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/) | De multiples vulnérabilités ont été corrigées dans  | 2 septembre 2022 |
-| [Vulnérabilité dans Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-788/) | Une vulnérabilité a été découverte dans Nextcloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 1 septembre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
