@@ -15,6 +15,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans TrendMicro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-852/) | De multiples vulnérabilités ont été découvertes dans TrendMicro Deep Security Agent. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 23 septembre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-851/) | De multiples vulnérabilités ont été corrigées dans  | 23 septembre 2022 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-850/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 22 septembre 2022 |
 | [Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-849/) | De multiples vulnérabilités ont été corrigées dans  | 22 septembre 2022 |
 | [Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-848/) | De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données. | 21 septembre 2022 |
@@ -23,5 +25,3 @@
 | [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-845/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 21 septembre 2022 |
 | [Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-844/) | De multiples vulnérabilités ont été découvertes dans Mozilla Firefox et Firefox ESR. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité. | 21 septembre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-843/) | De multiples vulnérabilités ont été corrigées dans  | 21 septembre 2022 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-842/) | De multiples vulnérabilités ont été corrigées dans  | 20 septembre 2022 |
-| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-841/) | Une vulnérabilité a été corrigée dans  | 20 septembre 2022 |
