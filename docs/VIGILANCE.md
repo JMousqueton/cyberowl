@@ -1,6 +1,8 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [sosreport: logged sensitive information via RHV Admin Password](https://vigilance.fr/vulnerability/sosreport-logged-sensitive-information-via-RHV-Admin-Password-39366) | An attacker can read logs of sosreport, via RHV Admin Password, in order to obtain sensitive information... | Visit link for details |
+| [OpenBSD: reuse after free via smtpd](https://vigilance.fr/vulnerability/OpenBSD-reuse-after-free-via-smtpd-39365) | An attacker can force the reuse of a freed memory area of OpenBSD, via smtpd, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [Linux kernel: memory reading via bpf prog_run](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-bpf-prog-run-39362) | An attacker can read a memory fragment of the Linux kernel, via bpf prog_run, in order to obtain sensitive information... | Visit link for details |
 | [DokuWiki: Cross Site Scripting](https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-39360) | An attacker can trigger a Cross Site Scripting of DokuWiki, in order to run JavaScript code in the context of the web site... | Visit link for details |
 | [IBM DataPower Gateway: two vulnerabilities](https://vigilance.fr/vulnerability/IBM-DataPower-Gateway-two-vulnerabilities-39359) | An attacker can use several vulnerabilities of IBM DataPower Gateway... | Visit link for details |
@@ -99,5 +101,3 @@
 | [lighttpd: NULL pointer dereference via mod_wstunnel](https://vigilance.fr/vulnerability/lighttpd-NULL-pointer-dereference-via-mod-wstunnel-39254) | An attacker can force a NULL pointer to be dereferenced on lighttpd, via mod_wstunnel, in order to trigger a denial of service... | Visit link for details |
 | [Forcepoint DLP: external XML entity injection](https://vigilance.fr/vulnerability/Forcepoint-DLP-external-XML-entity-injection-39253) | An attacker can transmit malicious XML data to Forcepoint DLP, in order to read a file, scan sites, or trigger a denial of service... | Visit link for details |
 | [Apache libapreq2: buffer overflow via Multipart Form Upload](https://vigilance.fr/vulnerability/Apache-libapreq2-buffer-overflow-via-Multipart-Form-Upload-39252) | An attacker can trigger a buffer overflow of Apache libapreq2, via Multipart Form Upload, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [AIX: privilege escalation via invscout](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-39251) | An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges... | Visit link for details |
-| [AIX: privilege escalation via Kernel](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Kernel-39250) | An attacker can bypass restrictions of AIX, via Kernel, in order to escalate his privileges... | Visit link for details |
