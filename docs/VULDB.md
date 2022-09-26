@@ -1,7 +1,6 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [None](https://vuldb.com/None) | Visit link for details | 2022-09-26 at None |
 | [joblib Parallel Remote Code Execution](https://vuldb.com/?id.209549) | Visit link for details | 2022-09-26 at 13:01 |
 | [express-xss-sanitizer cross site scripting](https://vuldb.com/?id.209548) | Visit link for details | 2022-09-26 at 13:00 |
 | [Backdoor.Win32.Psychward.b Service Port 8888 hard-coded credentials](https://vuldb.com/?id.209547) | Visit link for details | 2022-09-26 at 08:22 |

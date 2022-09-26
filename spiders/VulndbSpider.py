@@ -49,7 +49,7 @@ class VulDBSpider(scrapy.Spider):
             DATE = str(date.today()) + " at " + str(bulletin.xpath(self.date_selector).get())
             DESC = "Visit link for details"
 
-            if TITLE == "None":
+            if not TITLE:
                 continue
 
             ITEM = {
