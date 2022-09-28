@@ -15,6 +15,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Pulse Secure VPN Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-856/) | Une vulnérabilité a été découverte dans Pulse Secure VPN Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 27 septembre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-855/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service. | 26 septembre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-854/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 26 septembre 2022 |
 | [Vulnérabilité dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-853/) | Une vulnérabilité a été découverte dans Sophos Firewall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 26 septembre 2022 |
@@ -24,4 +25,3 @@
 | [Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-849/) | De multiples vulnérabilités ont été corrigées dans  | 22 septembre 2022 |
 | [Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-848/) | De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données. | 21 septembre 2022 |
 | [Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-847/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 21 septembre 2022 |
-| [Vulnérabilité dans Microsoft Endpoint Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-846/) | Vulnérabilité a été découverte dans Microsoft Endpoint Configuration Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 21 septembre 2022 |
