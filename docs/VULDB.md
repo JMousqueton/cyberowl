@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [mailcow Swagger API Template clickjacking](https://vuldb.com/?id.209637) | Visit link for details | 2022-09-28 at 19:27 |
-| [Orckestra C1 CMS deserialization](https://vuldb.com/?id.209636) | Visit link for details | 2022-09-28 at 19:25 |
-| [TaskBuilder SVG File Upload cross site scripting](https://vuldb.com/?id.209635) | Visit link for details | 2022-09-28 at 10:17 |
-| [ikus060 rdiffweb length parameter](https://vuldb.com/?id.209634) | Visit link for details | 2022-09-28 at 08:53 |
-| [SourceCodester Online Market Place Site cross site scripting](https://vuldb.com/?id.209633) | Visit link for details | 2022-09-28 at 08:53 |
-| [Centreon Escalation cross site scripting](https://vuldb.com/?id.209632) | Visit link for details | 2022-09-28 at 08:52 |
-| [ikus060 rdiffweb length parameter](https://vuldb.com/?id.209631) | Visit link for details | 2022-09-28 at 08:51 |
-| [Hitachi Content Platform Tenant Configuration access control](https://vuldb.com/?id.209630) | Visit link for details | 2022-09-28 at 08:51 |
-| [Bifrost HTTP Basic Authentication improper authentication](https://vuldb.com/?id.209629) | Visit link for details | 2022-09-28 at 08:50 |
-| [Linux Kernel io_uring Module off-by-one](https://vuldb.com/?id.209628) | Visit link for details | 2022-09-28 at 08:49 |
-| [Asus RT-AX88U HTTP Response interpretation conflict](https://vuldb.com/?id.209627) | Visit link for details | 2022-09-28 at 08:49 |
-| [mIPC strcpy stack-based overflow](https://vuldb.com/?id.209626) | Visit link for details | 2022-09-28 at 08:48 |
-| [Mist Command-Line Interface permission](https://vuldb.com/?id.209625) | Visit link for details | 2022-09-28 at 08:43 |
-| [ZFile 1 unrestricted upload](https://vuldb.com/?id.209624) | Visit link for details | 2022-09-28 at 08:38 |
-| [Centreon Configuration Escalations sql injection](https://vuldb.com/?id.209623) | Visit link for details | 2022-09-28 at 08:37 |
-| [Qualcomm Snapdragon Auto ION use after free](https://vuldb.com/?id.209622) | Visit link for details | 2022-09-28 at 08:37 |
-| [mIPC os command injection](https://vuldb.com/?id.209621) | Visit link for details | 2022-09-28 at 08:36 |
-| [ikus060 rdiffweb allocation of resources](https://vuldb.com/?id.209620) | Visit link for details | 2022-09-28 at 08:36 |
-| [SourceCodester Online Market Place Site sql injection](https://vuldb.com/?id.209619) | Visit link for details | 2022-09-28 at 08:35 |
-| [NuProcess Command Line Argument Java_java_lang_UNIXProcess_forkAndExec command injection](https://vuldb.com/?id.209618) | Visit link for details | 2022-09-28 at 08:34 |
-| [HP inkjet/LaserJet Pro/PageWide Pro buffer overflow](https://vuldb.com/?id.209617) | Visit link for details | 2022-09-28 at 08:30 |
-| [Unbound Resolver NRDelegation denial of service](https://vuldb.com/?id.209616) | Visit link for details | 2022-09-28 at 08:29 |
-| [HP inkjet/LaserJet Pro/PageWide Pro Privilege Escalation](https://vuldb.com/?id.209615) | Visit link for details | 2022-09-28 at 08:26 |
-| [Online Tours & Travels Management System update_expense_category.php sql injection](https://vuldb.com/?id.209614) | Visit link for details | 2022-09-28 at 08:24 |
-| [Online Tours & Travels Management System update_expense.php sql injection](https://vuldb.com/?id.209613) | Visit link for details | 2022-09-28 at 08:23 |
-| [Online Tours & Travels Management System update_currency.php sql injection](https://vuldb.com/?id.209612) | Visit link for details | 2022-09-28 at 08:23 |
-| [Google Chrome Storage out-of-bounds write](https://vuldb.com/?id.209611) | Visit link for details | 2022-09-28 at 08:22 |
-| [Google Chrome Mojo sandbox](https://vuldb.com/?id.209610) | Visit link for details | 2022-09-28 at 08:21 |
-| [Google Chrome HTML Page use after free](https://vuldb.com/?id.209609) | Visit link for details | 2022-09-28 at 08:20 |
-| [Wedding Planner package_detail.php sql injection](https://vuldb.com/?id.209608) | Visit link for details | 2022-09-28 at 08:07 |
-| [Wedding Planner client_edit.php sql injection](https://vuldb.com/?id.209607) | Visit link for details | 2022-09-28 at 08:07 |
-| [Wedding Planner wedding_details.php sql injection](https://vuldb.com/?id.209606) | Visit link for details | 2022-09-28 at 08:07 |
-| [Google Chrome Sign-In Flow use after free](https://vuldb.com/?id.209605) | Visit link for details | 2022-09-28 at 08:06 |
-| [Google Chrome iFrame Sandbox access control](https://vuldb.com/?id.209604) | Visit link for details | 2022-09-28 at 08:05 |
-| [Google Chrome Content Security Policy access control](https://vuldb.com/?id.209603) | Visit link for details | 2022-09-28 at 08:04 |
-| [Google Chrome Passwords use after free](https://vuldb.com/?id.209602) | Visit link for details | 2022-09-28 at 08:04 |
-| [Google Chrome DevTools Remote Code Execution](https://vuldb.com/?id.209601) | Visit link for details | 2022-09-28 at 08:03 |
-| [Google Chrome Pointer Lock Remote Code Execution](https://vuldb.com/?id.209600) | Visit link for details | 2022-09-28 at 08:03 |
-| [Google Chrome Window Manager heap-based overflow](https://vuldb.com/?id.209599) | Visit link for details | 2022-09-28 at 08:02 |
-| [Google Chrome Exosphere heap-based overflow](https://vuldb.com/?id.209598) | Visit link for details | 2022-09-28 at 08:01 |
-| [Google Chrome WebUI heap-based overflow](https://vuldb.com/?id.209597) | Visit link for details | 2022-09-28 at 08:01 |
-| [Google Chrome SplitScreen use after free](https://vuldb.com/?id.209596) | Visit link for details | 2022-09-28 at 08:00 |
-| [Google Chrome OS Lockscreen Privilege Escalation](https://vuldb.com/?id.209595) | Visit link for details | 2022-09-28 at 08:00 |
-| [Google Chrome Extensions API Remote Code Execution](https://vuldb.com/?id.209594) | Visit link for details | 2022-09-28 at 07:59 |
-| [Google Chrome Tab Strip use after free](https://vuldb.com/?id.209593) | Visit link for details | 2022-09-28 at 07:59 |
-| [Google Chrome Browser Tag use after free](https://vuldb.com/?id.209592) | Visit link for details | 2022-09-28 at 07:58 |
-| [Google Chrome V8 input validation](https://vuldb.com/?id.209591) | Visit link for details | 2022-09-28 at 07:57 |
-| [Google Chrome Site Isolation Remote Code Execution](https://vuldb.com/?id.209590) | Visit link for details | 2022-09-28 at 07:57 |
-| [Google Chrome Screen Capture heap-based overflow](https://vuldb.com/?id.209589) | Visit link for details | 2022-09-28 at 07:56 |
-| [Google Chrome PhoneHub use after free](https://vuldb.com/?id.209588) | Visit link for details | 2022-09-28 at 07:56 |
+| [Labstack Echo Static server-side request forgery](https://vuldb.com/?id.209705) | Visit link for details | 2022-09-29 at 19:32 |
+| [Hertz normalizePath path traversal](https://vuldb.com/?id.209704) | Visit link for details | 2022-09-29 at 19:32 |
+| [Tenda TX3 compare_parentcontrol_time stack-based overflow](https://vuldb.com/?id.209703) | Visit link for details | 2022-09-29 at 19:31 |
+| [ETAP Lighting International NV ETAP Safety Manager GET Parameter cross site scripting](https://vuldb.com/?id.209702) | Visit link for details | 2022-09-29 at 19:31 |
+| [Carlo Gavazzi UWP/CPY Car Park Server API missing authentication](https://vuldb.com/?id.209701) | Visit link for details | 2022-09-29 at 19:28 |
+| [Carlo Gavazzi UWP/CPY Car Park Server Web-App improper authentication](https://vuldb.com/?id.209700) | Visit link for details | 2022-09-29 at 19:28 |
+| [Carlo Gavazzi UWP/CPY Car Park Server Sentilo Proxy cross site scripting](https://vuldb.com/?id.209699) | Visit link for details | 2022-09-29 at 19:27 |
+| [Carlo Gavazzi UWP/CPY Car Park Server Sentilo Proxy Server sql injection](https://vuldb.com/?id.209698) | Visit link for details | 2022-09-29 at 19:26 |
+| [Carlo Gavazzi UWP/CPY Car Park Server sql injection](https://vuldb.com/?id.209697) | Visit link for details | 2022-09-29 at 19:26 |
+| [Carlo Gavazzi UWP/CPY Car Park Server hard-coded credentials](https://vuldb.com/?id.209696) | Visit link for details | 2022-09-29 at 19:25 |
+| [Carlo Gavazzi UWP/CPY Car Park Server Backup Restore input validation](https://vuldb.com/?id.209695) | Visit link for details | 2022-09-29 at 19:25 |
+| [Carlo Gavazzi UWP/CPY Car Park Server sql injection](https://vuldb.com/?id.209694) | Visit link for details | 2022-09-29 at 19:22 |
+| [Carlo Gavazzi UWP/CPY Car Park Server hard-coded credentials](https://vuldb.com/?id.209693) | Visit link for details | 2022-09-29 at 19:21 |
+| [Carlo Gavazzi UWP/CPY Car Park Server path traversal](https://vuldb.com/?id.209692) | Visit link for details | 2022-09-29 at 19:21 |
+| [Carlo Gavazzi UWP/CPY Car Park Server API Parameter os command injection](https://vuldb.com/?id.209691) | Visit link for details | 2022-09-29 at 19:20 |
+| [Twig Template path traversal](https://vuldb.com/?id.209690) | Visit link for details | 2022-09-29 at 19:18 |
+| [Apache Tomcat Client Connection race condition](https://vuldb.com/?id.209689) | Visit link for details | 2022-09-29 at 19:17 |
+| [TP-LINK Archer AX10 Backup File Privilege Escalation](https://vuldb.com/?id.209688) | Visit link for details | 2022-09-29 at 17:17 |
+| [Octopus Deploy Space ID information exposure](https://vuldb.com/?id.209687) | Visit link for details | 2022-09-29 at 17:17 |
+| [Open5GS UDP Packet ogs-tlv-msg.c denial of service](https://vuldb.com/?id.209686) | Visit link for details | 2022-09-29 at 15:13 |
+| [ToolJet information disclosure](https://vuldb.com/?id.209685) | Visit link for details | 2022-09-29 at 15:09 |
+| [Bytebase Project project improper authorization](https://vuldb.com/?id.209684) | Visit link for details | 2022-09-29 at 15:08 |
+| [Bytebase Issue issue improper authorization](https://vuldb.com/?id.209683) | Visit link for details | 2022-09-29 at 15:07 |
+| [Notepad++ UxTheme.dll uncontrolled search path](https://vuldb.com/?id.209682) | Visit link for details | 2022-09-29 at 15:06 |
+| [ovs flow.c minimasks heap-based overflow](https://vuldb.com/?id.209681) | Visit link for details | 2022-09-29 at 15:00 |
+| [b2evolution Password Reset Token authorization](https://vuldb.com/?id.209680) | Visit link for details | 2022-09-29 at 14:38 |
+| [Sony PS4/PS5 exFAT UVFAT_readupcasetable heap-based overflow](https://vuldb.com/?id.209679) | Visit link for details | 2022-09-29 at 10:20 |
+| [Armoury Crate Service Log File symlink](https://vuldb.com/?id.209678) | Visit link for details | 2022-09-29 at 07:42 |
+| [Cowell Enterprise Travel Management System URL cross site scripting](https://vuldb.com/?id.209677) | Visit link for details | 2022-09-29 at 07:41 |
+| [Heimavista Rpage URL cross site scripting](https://vuldb.com/?id.209676) | Visit link for details | 2022-09-29 at 07:40 |
+| [Lianquan Smart eVision POST Data cross site scripting](https://vuldb.com/?id.209675) | Visit link for details | 2022-09-29 at 07:39 |
+| [Lianquan Smart eVision Report API path traversal](https://vuldb.com/?id.209674) | Visit link for details | 2022-09-29 at 07:39 |
+| [Lianquan Smart eVision File Acquisition path traversal](https://vuldb.com/?id.209673) | Visit link for details | 2022-09-29 at 07:38 |
+| [Lianquan Smart eVision System Command privileges management](https://vuldb.com/?id.209672) | Visit link for details | 2022-09-29 at 07:37 |
+| [Lianquan Smart eVision Task Acquisition improper authorization](https://vuldb.com/?id.209671) | Visit link for details | 2022-09-29 at 07:37 |
+| [Lianquan Smart eVision System Information Query improper authorization](https://vuldb.com/?id.209670) | Visit link for details | 2022-09-29 at 07:36 |
+| [Lianquan Smart eVision Database Query improper authorization](https://vuldb.com/?id.209669) | Visit link for details | 2022-09-29 at 07:35 |
+| [Wazuh Active Response Endpoint Privilege Escalation](https://vuldb.com/?id.209668) | Visit link for details | 2022-09-29 at 07:25 |
+| [ISAMS Title Field cross site scripting](https://vuldb.com/?id.209667) | Visit link for details | 2022-09-29 at 07:23 |
+| [Check Point ZoneAlarm Extreme Security Updates permission](https://vuldb.com/?id.209666) | Visit link for details | 2022-09-29 at 07:22 |
+| [JFinal CMS sql injection](https://vuldb.com/?id.209665) | Visit link for details | 2022-09-29 at 07:21 |
+| [Chipolo ONE Bluetooth Tracker 2020 access control](https://vuldb.com/?id.209664) | Visit link for details | 2022-09-29 at 07:15 |
+| [Exam Reviewer Management System sql injection](https://vuldb.com/?id.209663) | Visit link for details | 2022-09-29 at 07:12 |
+| [Zammad Web Socket Connection access control](https://vuldb.com/?id.209662) | Visit link for details | 2022-09-29 at 07:11 |
+| [Vtiger CRM E-Mail Template cross site scripting](https://vuldb.com/?id.209661) | Visit link for details | 2022-09-29 at 07:09 |
+| [Realtek RTL8195AM Timer Task denial of service](https://vuldb.com/?id.209660) | Visit link for details | 2022-09-29 at 07:09 |
+| [vim stack-based overflow](https://vuldb.com/?id.209659) | Visit link for details | 2022-09-29 at 07:08 |
+| [Strapi Admin API Response Privilege Escalation](https://vuldb.com/?id.209658) | Visit link for details | 2022-09-29 at 07:07 |
+| [Cisco IOS/IOS XE/Meraki/NX-OS/Small Business Switch IPv6 RA Guard authentication spoofing](https://vuldb.com/?id.209657) | Visit link for details | 2022-09-29 at 07:06 |
+| [Cisco IOS/IOS XE/Meraki/NX-OS/Small Business Switch IPv6 RA Guard access control](https://vuldb.com/?id.209656) | Visit link for details | 2022-09-29 at 07:05 |
