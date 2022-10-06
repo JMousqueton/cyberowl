@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/) | De multiples vulnérabilités ont été corrigées dans  | 5 octobre 2022 |
+| [Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/) | De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité. | 5 octobre 2022 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 4 octobre 2022 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-880/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. | 4 octobre 2022 |
+| [Vulnérabilité dans strongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-879/) | Une vulnérabilité a été découverte dans strongSwan. Elle permet à un attaquant de provoquer un déni de service à distance. | 4 octobre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-878/) | De multiples vulnérabilités ont été corrigées dans  | 4 octobre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-877/) | De multiples vulnérabilités ont été corrigées dans  | 4 octobre 2022 |
+| [Multiples vulnérabilités dans Microsoft Exchange Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-876/) | De multiples vulnérabilités ont été découvertes dans Microsoft Exchange Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 3 octobre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-875/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 3 octobre 2022 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-874/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 3 octobre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MaJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-001/) | [Version du 18 janvier 2022 | 12 janvier 2022 |
 | [[MaJ] Vulnérabilité dans Apache Log4j](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/) | Une vulnérabilité a été découverte dans la bibliothèque de journalisation Apache log4j. Cette bibliothèque est très souvent utilisée dans les projets de développement d'application Java/J2EE ainsi que par les éditeurs de solutions logicielles sur étagère basées sur Java/J2EE. | 10 décembre 2021 |
 | [[MaJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-019/) | [Version du 15 septembre 2021] | 8 septembre 2021 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 4 octobre 2022 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-880/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. | 4 octobre 2022 |
-| [Vulnérabilité dans strongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-879/) | Une vulnérabilité a été découverte dans strongSwan. Elle permet à un attaquant de provoquer un déni de service à distance. | 4 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-878/) | De multiples vulnérabilités ont été corrigées dans  | 4 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-877/) | De multiples vulnérabilités ont été corrigées dans  | 4 octobre 2022 |
-| [Multiples vulnérabilités dans Microsoft Exchange Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-876/) | De multiples vulnérabilités ont été découvertes dans Microsoft Exchange Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 3 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-875/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 3 octobre 2022 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-874/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 3 octobre 2022 |
-| [Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-873/) | De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 30 septembre 2022 |
-| [Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-872/) | De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 30 septembre 2022 |
