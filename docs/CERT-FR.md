@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-886/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 6 octobre 2022 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-885/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges, un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF). | 6 octobre 2022 |
+| [Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-884/) | De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges. | 6 octobre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/) | De multiples vulnérabilités ont été corrigées dans  | 5 octobre 2022 |
 | [Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/) | De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité. | 5 octobre 2022 |
 | [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 4 octobre 2022 |
@@ -9,9 +12,6 @@
 | [Vulnérabilité dans strongSwan](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-879/) | Une vulnérabilité a été découverte dans strongSwan. Elle permet à un attaquant de provoquer un déni de service à distance. | 4 octobre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-878/) | De multiples vulnérabilités ont été corrigées dans  | 4 octobre 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-877/) | De multiples vulnérabilités ont été corrigées dans  | 4 octobre 2022 |
-| [Multiples vulnérabilités dans Microsoft Exchange Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-876/) | De multiples vulnérabilités ont été découvertes dans Microsoft Exchange Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 3 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-875/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 3 octobre 2022 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-874/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 3 octobre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
