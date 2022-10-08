@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Rockwell Automation FactoryTalk VantagePoint sql injection](https://vuldb.com/?id.210245) | Visit link for details | 2022-10-07 at 23:04 |
-| [Rockwell Automation FactoryTalk VantagePoint SQL access control](https://vuldb.com/?id.210244) | Visit link for details | 2022-10-07 at 23:03 |
-| [HIWIN Robot System Software Command Source access control](https://vuldb.com/?id.210243) | Visit link for details | 2022-10-07 at 23:02 |
-| [Centreon Template cross site scripting](https://vuldb.com/?id.210242) | Visit link for details | 2022-10-07 at 23:00 |
-| [Zinc Template Delete cross site scripting](https://vuldb.com/?id.210241) | Visit link for details | 2022-10-07 at 22:59 |
-| [Moodle H5P Library cross-site request forgery](https://vuldb.com/?id.210240) | Visit link for details | 2022-10-07 at 22:58 |
-| [Octopus Server Session Cookie cross-site request forgery](https://vuldb.com/?id.210239) | Visit link for details | 2022-10-07 at 22:58 |
-| [syslabs sif signature verification](https://vuldb.com/?id.210238) | Visit link for details | 2022-10-07 at 22:56 |
-| [Yetiforce CRM cross site scripting](https://vuldb.com/?id.210237) | Visit link for details | 2022-10-07 at 22:54 |
-| [Octopus Server Session Cookie missing critical step in authentication](https://vuldb.com/?id.210236) | Visit link for details | 2022-10-07 at 22:53 |
-| [Beckman Coulter Remisol Advance Running Service default permission](https://vuldb.com/?id.210235) | Visit link for details | 2022-10-07 at 22:51 |
-| [Beckman Coulter Remisol Advance Running Service default permission](https://vuldb.com/?id.210234) | Visit link for details | 2022-10-07 at 22:51 |
-| [Beckman Coulter Remisol Advance Normand Viewer Service default permission](https://vuldb.com/?id.210233) | Visit link for details | 2022-10-07 at 22:50 |
-| [Generex CS141 Web Interface gxserve-update.sh run_update Privilege Escalation](https://vuldb.com/?id.210232) | Visit link for details | 2022-10-07 at 22:49 |
-| [lighttpd TCP gw_backend.c denial of service](https://vuldb.com/?id.210231) | Visit link for details | 2022-10-07 at 22:48 |
-| [TOTOLINK NR1800X setSmsCfg stack-based overflow](https://vuldb.com/?id.210230) | Visit link for details | 2022-10-07 at 22:47 |
-| [TOTOLINK NR1800X setOpModeCfg stack-based overflow](https://vuldb.com/?id.210229) | Visit link for details | 2022-10-07 at 22:47 |
-| [TOTOLINK NR1800X setDiagnosisCfg stack-based overflow](https://vuldb.com/?id.210228) | Visit link for details | 2022-10-07 at 22:46 |
-| [TOTOLINK NR1800X cstecgi.cgi OpModeCfg command injection](https://vuldb.com/?id.210227) | Visit link for details | 2022-10-07 at 22:46 |
-| [TOTOLINK NR1800X setParentalRules stack-based overflow](https://vuldb.com/?id.210226) | Visit link for details | 2022-10-07 at 22:45 |
-| [TOTOLINK NR1800X setTracerouteCfg stack-based overflow](https://vuldb.com/?id.210225) | Visit link for details | 2022-10-07 at 22:45 |
-| [TOTOLINK NR1800X main stack-based overflow](https://vuldb.com/?id.210224) | Visit link for details | 2022-10-07 at 22:44 |
-| [TOTOLINK NR1800X setIpPortFilterRules stack-based overflow](https://vuldb.com/?id.210223) | Visit link for details | 2022-10-07 at 22:44 |
-| [TOTOLINK NR1800X UploadCustomModule stack-based overflow](https://vuldb.com/?id.210222) | Visit link for details | 2022-10-07 at 22:43 |
-| [TOTOLINK NR1800X cstecgi.cgi UploadFirmwareFile command injection](https://vuldb.com/?id.210221) | Visit link for details | 2022-10-07 at 22:42 |
-| [TOTOLINK NR1800X setLanguageCfg stack-based overflow](https://vuldb.com/?id.210220) | Visit link for details | 2022-10-07 at 22:42 |
-| [Avaya Aura Application Enablement Services privileges management](https://vuldb.com/?id.210219) | Visit link for details | 2022-10-07 at 22:41 |
-| [Remisol Advance permission](https://vuldb.com/?id.210218) | Visit link for details | 2022-10-07 at 22:37 |
-| [Asus RT-AX56U strcat stack-based overflow](https://vuldb.com/?id.210217) | Visit link for details | 2022-10-07 at 22:36 |
-| [PJSIP SRTP Media Transport cleartext transmission](https://vuldb.com/?id.210216) | Visit link for details | 2022-10-07 at 22:35 |
-| [SUSE Linux Enterprise Server Group authorization](https://vuldb.com/?id.210215) | Visit link for details | 2022-10-07 at 22:34 |
-| [Simple Cold Storage Management System view_details.php sql injection](https://vuldb.com/?id.210214) | Visit link for details | 2022-10-07 at 22:33 |
-| [Simple Cold Storage Management System view_storage.php sql injection](https://vuldb.com/?id.210213) | Visit link for details | 2022-10-07 at 22:32 |
-| [Simple Cold Storage Management System manage_storage.php sql injection](https://vuldb.com/?id.210212) | Visit link for details | 2022-10-07 at 22:32 |
-| [Simple Cold Storage Management System sql injection](https://vuldb.com/?id.210211) | Visit link for details | 2022-10-07 at 22:31 |
-| [Simple Cold Storage Management System sql injection](https://vuldb.com/?id.210210) | Visit link for details | 2022-10-07 at 22:31 |
-| [NeDi Web UI information disclosure](https://vuldb.com/?id.210209) | Visit link for details | 2022-10-07 at 22:31 |
-| [Cisco TelePresence CE Version Control unknown vulnerability](https://vuldb.com/?id.210208) | Visit link for details | 2022-10-07 at 22:27 |
-| [Cisco Jabber Client XMPP exposure of resource](https://vuldb.com/?id.210207) | Visit link for details | 2022-10-07 at 22:25 |
-| [Cisco Expressway Series/TelePresence VCS REST API cross-site request forgery](https://vuldb.com/?id.210206) | Visit link for details | 2022-10-07 at 16:05 |
-| [Cisco Expressway-C/TelePresence VCS certificate validation](https://vuldb.com/?id.210205) | Visit link for details | 2022-10-07 at 16:04 |
-| [Cisco Smart Software Manager On-Prem Web-based Management Interface insecure storage of sensitive information](https://vuldb.com/?id.210204) | Visit link for details | 2022-10-07 at 16:03 |
-| [Cisco BroadWorks Hosted Thin Receptionist cross site scripting](https://vuldb.com/?id.210203) | Visit link for details | 2022-10-07 at 16:02 |
-| [Cisco ATA 190 Cisco Discovery Protocol out-of-bounds](https://vuldb.com/?id.210202) | Visit link for details | 2022-10-07 at 15:59 |
-| [Cisco ATA 190 Cisco Discovery Protocol denial of service](https://vuldb.com/?id.210201) | Visit link for details | 2022-10-07 at 15:59 |
-| [Cisco ATA 190 Discovery Protocol Packet command injection](https://vuldb.com/?id.210200) | Visit link for details | 2022-10-07 at 15:57 |
-| [Cisco ATA 190 Discovery Protocol Packet command injection](https://vuldb.com/?id.210199) | Visit link for details | 2022-10-07 at 15:55 |
-| [Cisco ATA 190 Discovery Protocol Packet denial of service](https://vuldb.com/?id.210198) | Visit link for details | 2022-10-07 at 15:53 |
-| [Cisco ATA 190 LLDP denial of service](https://vuldb.com/?id.210197) | Visit link for details | 2022-10-07 at 15:52 |
-| [Cisco ATA 190 LLDP denial of service](https://vuldb.com/?id.210196) | Visit link for details | 2022-10-07 at 15:51 |
+| [Samsung Internet Bookmark improper authorization](https://vuldb.com/?id.210312) | Visit link for details | 2022-10-08 at 21:50 |
+| [Samsung Smart Phone imsservice Application information disclosure](https://vuldb.com/?id.210311) | Visit link for details | 2022-10-08 at 21:50 |
+| [Samsung Smart Phone FACM Application access control](https://vuldb.com/?id.210310) | Visit link for details | 2022-10-08 at 21:49 |
+| [Samsung Smart Phone AT_Distributor unknown vulnerability](https://vuldb.com/?id.210309) | Visit link for details | 2022-10-08 at 21:49 |
+| [Samsung Checkout access control](https://vuldb.com/?id.210308) | Visit link for details | 2022-10-08 at 21:48 |
+| [Samsung Group Sharing ProfileSharingAccount access control](https://vuldb.com/?id.210307) | Visit link for details | 2022-10-08 at 21:48 |
+| [Samsung SReminder IMEI log file](https://vuldb.com/?id.210306) | Visit link for details | 2022-10-08 at 21:47 |
+| [Samsung Account Logout access control](https://vuldb.com/?id.210305) | Visit link for details | 2022-10-08 at 21:47 |
+| [Samsung Account logging of excessive data](https://vuldb.com/?id.210304) | Visit link for details | 2022-10-08 at 21:46 |
+| [Samsung ShareLive Bluetooth insufficient permissions or privileges](https://vuldb.com/?id.210303) | Visit link for details | 2022-10-08 at 21:45 |
+| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210302) | Visit link for details | 2022-10-08 at 21:45 |
+| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210301) | Visit link for details | 2022-10-08 at 21:44 |
+| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210300) | Visit link for details | 2022-10-08 at 21:44 |
+| [Samsung SmartThings access control](https://vuldb.com/?id.210299) | Visit link for details | 2022-10-08 at 21:44 |
+| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210298) | Visit link for details | 2022-10-08 at 21:42 |
+| [Samsung SmartThings RegisteredEventMediator.kt access control](https://vuldb.com/?id.210297) | Visit link for details | 2022-10-08 at 21:42 |
+| [Samsung SmartThings ContentsSharingActivity.java access control](https://vuldb.com/?id.210296) | Visit link for details | 2022-10-08 at 21:41 |
+| [Samsung SmartThings WifiSetupLaunchHelper access control](https://vuldb.com/?id.210295) | Visit link for details | 2022-10-08 at 21:40 |
+| [Samsung Account input validation](https://vuldb.com/?id.210294) | Visit link for details | 2022-10-08 at 21:40 |
+| [Samsung Smart Phone Dynamic Lockscreen improper authorization](https://vuldb.com/?id.210293) | Visit link for details | 2022-10-08 at 21:35 |
+| [Samsung FactoryCamera AtBroadcastReceiver authorization](https://vuldb.com/?id.210292) | Visit link for details | 2022-10-08 at 21:35 |
+| [Samsung QuickShare access control](https://vuldb.com/?id.210291) | Visit link for details | 2022-10-08 at 21:33 |
+| [Samsung UPHelper Library information disclosure](https://vuldb.com/?id.210290) | Visit link for details | 2022-10-08 at 21:33 |
+| [Samsung FactoryCamera AtBroadcastReceiver path traversal](https://vuldb.com/?id.210289) | Visit link for details | 2022-10-08 at 21:32 |
+| [Samsung FactoryCameraFB CameraTestActivity access control](https://vuldb.com/?id.210288) | Visit link for details | 2022-10-08 at 21:32 |
+| [Samsung Smart Phone IOMMU access control](https://vuldb.com/?id.210287) | Visit link for details | 2022-10-08 at 21:31 |
+| [Samsung Smart Phone perf-mgr Driver use after free](https://vuldb.com/?id.210286) | Visit link for details | 2022-10-08 at 21:30 |
+| [Samsung Smart Phone mum_container_policy Service access control](https://vuldb.com/?id.210285) | Visit link for details | 2022-10-08 at 21:30 |
+| [Samsung Smart Phone knox_vpn_policy access control](https://vuldb.com/?id.210284) | Visit link for details | 2022-10-08 at 21:29 |
+| [Samsung Smart Phone NFC Driver signal_handler use after free](https://vuldb.com/?id.210283) | Visit link for details | 2022-10-08 at 21:29 |
+| [Samsung Smart Phone Bluetooth MouseNKeyHidDevice information disclosure](https://vuldb.com/?id.210282) | Visit link for details | 2022-10-08 at 21:29 |
+| [Samsung Smart Phone CocktailBarService access control](https://vuldb.com/?id.210281) | Visit link for details | 2022-10-08 at 21:28 |
+| [Samsung Smart Phone libagifencoder.quram.so makeContactAGIF heap-based overflow](https://vuldb.com/?id.210280) | Visit link for details | 2022-10-08 at 21:27 |
+| [Hancom Office 2020 Hword buffer underflow](https://vuldb.com/?id.210279) | Visit link for details | 2022-10-08 at 21:27 |
+| [IBM InfoSphere Information Server information disclosure](https://vuldb.com/?id.210278) | Visit link for details | 2022-10-08 at 21:26 |
+| [IBM CICS TX Load denial of service](https://vuldb.com/?id.210277) | Visit link for details | 2022-10-08 at 21:25 |
+| [IBM InfoSphere Information Server session expiration](https://vuldb.com/?id.210276) | Visit link for details | 2022-10-08 at 21:25 |
+| [IBM QRadar SIEM information disclosure](https://vuldb.com/?id.210275) | Visit link for details | 2022-10-08 at 21:24 |
+| [IBM QRadar SIEM Data Node Rebalancing information disclosure](https://vuldb.com/?id.210274) | Visit link for details | 2022-10-08 at 21:23 |
+| [IBM WebSphere Automation for Cloud Pak for Watson AIOps cross-site request forgery](https://vuldb.com/?id.210273) | Visit link for details | 2022-10-08 at 21:08 |
+| [Fortinet FortiOS/FortiProxy Administrative Interface improper authorization](https://vuldb.com/?id.210272) | Visit link for details | 2022-10-08 at 18:00 |
+| [nocodb resource consumption](https://vuldb.com/?id.210271) | Visit link for details | 2022-10-08 at 16:23 |
+| [ToolJet Invite privileges management](https://vuldb.com/?id.210270) | Visit link for details | 2022-10-08 at 16:22 |
+| [CodeIgniter DB_query_builder.php sql injection](https://vuldb.com/?id.210269) | Visit link for details | 2022-10-08 at 16:21 |
+| [CodeIgniter DB_query_builder.php or_not_like sql injection](https://vuldb.com/?id.210268) | Visit link for details | 2022-10-08 at 16:20 |
+| [CodeIgniter DB_query_builder.php or_where_in sql injection](https://vuldb.com/?id.210267) | Visit link for details | 2022-10-08 at 16:20 |
+| [CodeIgniter DB_query_builder.php having sql injection](https://vuldb.com/?id.210266) | Visit link for details | 2022-10-08 at 16:19 |
+| [CodeIgniter DB_query_builder.php like sql injection](https://vuldb.com/?id.210265) | Visit link for details | 2022-10-08 at 16:19 |
+| [CodeIgniter DB_query_builder.php where_not_in sql injection](https://vuldb.com/?id.210264) | Visit link for details | 2022-10-08 at 16:18 |
+| [CodeIgniter DB_query_builder.php or_like sql injection](https://vuldb.com/?id.210263) | Visit link for details | 2022-10-08 at 16:18 |
