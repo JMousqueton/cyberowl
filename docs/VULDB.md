@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Samsung Internet Bookmark improper authorization](https://vuldb.com/?id.210312) | Visit link for details | 2022-10-08 at 21:50 |
-| [Samsung Smart Phone imsservice Application information disclosure](https://vuldb.com/?id.210311) | Visit link for details | 2022-10-08 at 21:50 |
-| [Samsung Smart Phone FACM Application access control](https://vuldb.com/?id.210310) | Visit link for details | 2022-10-08 at 21:49 |
-| [Samsung Smart Phone AT_Distributor unknown vulnerability](https://vuldb.com/?id.210309) | Visit link for details | 2022-10-08 at 21:49 |
-| [Samsung Checkout access control](https://vuldb.com/?id.210308) | Visit link for details | 2022-10-08 at 21:48 |
-| [Samsung Group Sharing ProfileSharingAccount access control](https://vuldb.com/?id.210307) | Visit link for details | 2022-10-08 at 21:48 |
-| [Samsung SReminder IMEI log file](https://vuldb.com/?id.210306) | Visit link for details | 2022-10-08 at 21:47 |
-| [Samsung Account Logout access control](https://vuldb.com/?id.210305) | Visit link for details | 2022-10-08 at 21:47 |
-| [Samsung Account logging of excessive data](https://vuldb.com/?id.210304) | Visit link for details | 2022-10-08 at 21:46 |
-| [Samsung ShareLive Bluetooth insufficient permissions or privileges](https://vuldb.com/?id.210303) | Visit link for details | 2022-10-08 at 21:45 |
-| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210302) | Visit link for details | 2022-10-08 at 21:45 |
-| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210301) | Visit link for details | 2022-10-08 at 21:44 |
-| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210300) | Visit link for details | 2022-10-08 at 21:44 |
-| [Samsung SmartThings access control](https://vuldb.com/?id.210299) | Visit link for details | 2022-10-08 at 21:44 |
-| [Samsung SmartThings cloudNotificationManager.java access control](https://vuldb.com/?id.210298) | Visit link for details | 2022-10-08 at 21:42 |
-| [Samsung SmartThings RegisteredEventMediator.kt access control](https://vuldb.com/?id.210297) | Visit link for details | 2022-10-08 at 21:42 |
-| [Samsung SmartThings ContentsSharingActivity.java access control](https://vuldb.com/?id.210296) | Visit link for details | 2022-10-08 at 21:41 |
-| [Samsung SmartThings WifiSetupLaunchHelper access control](https://vuldb.com/?id.210295) | Visit link for details | 2022-10-08 at 21:40 |
-| [Samsung Account input validation](https://vuldb.com/?id.210294) | Visit link for details | 2022-10-08 at 21:40 |
-| [Samsung Smart Phone Dynamic Lockscreen improper authorization](https://vuldb.com/?id.210293) | Visit link for details | 2022-10-08 at 21:35 |
-| [Samsung FactoryCamera AtBroadcastReceiver authorization](https://vuldb.com/?id.210292) | Visit link for details | 2022-10-08 at 21:35 |
-| [Samsung QuickShare access control](https://vuldb.com/?id.210291) | Visit link for details | 2022-10-08 at 21:33 |
-| [Samsung UPHelper Library information disclosure](https://vuldb.com/?id.210290) | Visit link for details | 2022-10-08 at 21:33 |
-| [Samsung FactoryCamera AtBroadcastReceiver path traversal](https://vuldb.com/?id.210289) | Visit link for details | 2022-10-08 at 21:32 |
-| [Samsung FactoryCameraFB CameraTestActivity access control](https://vuldb.com/?id.210288) | Visit link for details | 2022-10-08 at 21:32 |
-| [Samsung Smart Phone IOMMU access control](https://vuldb.com/?id.210287) | Visit link for details | 2022-10-08 at 21:31 |
-| [Samsung Smart Phone perf-mgr Driver use after free](https://vuldb.com/?id.210286) | Visit link for details | 2022-10-08 at 21:30 |
-| [Samsung Smart Phone mum_container_policy Service access control](https://vuldb.com/?id.210285) | Visit link for details | 2022-10-08 at 21:30 |
-| [Samsung Smart Phone knox_vpn_policy access control](https://vuldb.com/?id.210284) | Visit link for details | 2022-10-08 at 21:29 |
-| [Samsung Smart Phone NFC Driver signal_handler use after free](https://vuldb.com/?id.210283) | Visit link for details | 2022-10-08 at 21:29 |
-| [Samsung Smart Phone Bluetooth MouseNKeyHidDevice information disclosure](https://vuldb.com/?id.210282) | Visit link for details | 2022-10-08 at 21:29 |
-| [Samsung Smart Phone CocktailBarService access control](https://vuldb.com/?id.210281) | Visit link for details | 2022-10-08 at 21:28 |
-| [Samsung Smart Phone libagifencoder.quram.so makeContactAGIF heap-based overflow](https://vuldb.com/?id.210280) | Visit link for details | 2022-10-08 at 21:27 |
-| [Hancom Office 2020 Hword buffer underflow](https://vuldb.com/?id.210279) | Visit link for details | 2022-10-08 at 21:27 |
-| [IBM InfoSphere Information Server information disclosure](https://vuldb.com/?id.210278) | Visit link for details | 2022-10-08 at 21:26 |
-| [IBM CICS TX Load denial of service](https://vuldb.com/?id.210277) | Visit link for details | 2022-10-08 at 21:25 |
-| [IBM InfoSphere Information Server session expiration](https://vuldb.com/?id.210276) | Visit link for details | 2022-10-08 at 21:25 |
-| [IBM QRadar SIEM information disclosure](https://vuldb.com/?id.210275) | Visit link for details | 2022-10-08 at 21:24 |
-| [IBM QRadar SIEM Data Node Rebalancing information disclosure](https://vuldb.com/?id.210274) | Visit link for details | 2022-10-08 at 21:23 |
-| [IBM WebSphere Automation for Cloud Pak for Watson AIOps cross-site request forgery](https://vuldb.com/?id.210273) | Visit link for details | 2022-10-08 at 21:08 |
-| [Fortinet FortiOS/FortiProxy Administrative Interface improper authorization](https://vuldb.com/?id.210272) | Visit link for details | 2022-10-08 at 18:00 |
-| [nocodb resource consumption](https://vuldb.com/?id.210271) | Visit link for details | 2022-10-08 at 16:23 |
-| [ToolJet Invite privileges management](https://vuldb.com/?id.210270) | Visit link for details | 2022-10-08 at 16:22 |
-| [CodeIgniter DB_query_builder.php sql injection](https://vuldb.com/?id.210269) | Visit link for details | 2022-10-08 at 16:21 |
-| [CodeIgniter DB_query_builder.php or_not_like sql injection](https://vuldb.com/?id.210268) | Visit link for details | 2022-10-08 at 16:20 |
-| [CodeIgniter DB_query_builder.php or_where_in sql injection](https://vuldb.com/?id.210267) | Visit link for details | 2022-10-08 at 16:20 |
-| [CodeIgniter DB_query_builder.php having sql injection](https://vuldb.com/?id.210266) | Visit link for details | 2022-10-08 at 16:19 |
-| [CodeIgniter DB_query_builder.php like sql injection](https://vuldb.com/?id.210265) | Visit link for details | 2022-10-08 at 16:19 |
-| [CodeIgniter DB_query_builder.php where_not_in sql injection](https://vuldb.com/?id.210264) | Visit link for details | 2022-10-08 at 16:18 |
-| [CodeIgniter DB_query_builder.php or_like sql injection](https://vuldb.com/?id.210263) | Visit link for details | 2022-10-08 at 16:18 |
+| [Centreon Contact Group sql injection](https://vuldb.com/?id.210366) | Visit link for details | 2022-10-09 at 11:58 |
+| [Centreon Poller Broker sql injection](https://vuldb.com/?id.210365) | Visit link for details | 2022-10-09 at 11:56 |
+| [Trend Micro Apex One origin validation](https://vuldb.com/?id.210364) | Visit link for details | 2022-10-09 at 09:54 |
+| [Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363) | Visit link for details | 2022-10-09 at 09:53 |
+| [Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362) | Visit link for details | 2022-10-09 at 09:52 |
+| [Trend Micro Apex One Vulnerability Protection Service toctou](https://vuldb.com/?id.210361) | Visit link for details | 2022-10-09 at 09:50 |
+| [Tesla Model 3 input validation](https://vuldb.com/?id.210360) | Visit link for details | 2022-10-09 at 09:43 |
+| [Tesla Model 3 bcmdhd Driver access control](https://vuldb.com/?id.210359) | Visit link for details | 2022-10-09 at 09:42 |
+| [Trend Micro Apex One Web Console access control](https://vuldb.com/?id.210358) | Visit link for details | 2022-10-09 at 09:40 |
+| [Linux Kernel IPv4 fib_semantics.c fib_nh_match out-of-bounds](https://vuldb.com/?id.210357) | Visit link for details | 2022-10-09 at 09:38 |
+| [SourceCodester Web-Based Student Clearance System add-student.php prepare cross site scripting](https://vuldb.com/?id.210356) | Visit link for details | 2022-10-09 at 09:24 |
+| [MediaTek MT6983 vowe out-of-bounds write](https://vuldb.com/?id.210355) | Visit link for details | 2022-10-09 at 09:22 |
+| [MediaTek MT8789 cpu dvfs out-of-bounds write](https://vuldb.com/?id.210354) | Visit link for details | 2022-10-09 at 09:21 |
+| [MediaTek MT8789 WLAN use after free](https://vuldb.com/?id.210353) | Visit link for details | 2022-10-09 at 09:20 |
+| [MediaTek MT8789 WLAN out-of-bounds write](https://vuldb.com/?id.210352) | Visit link for details | 2022-10-09 at 09:20 |
+| [MediaTek MT6789/MT6855/MT6879/MT6895/MT6983 sensorhub out-of-bounds write](https://vuldb.com/?id.210351) | Visit link for details | 2022-10-09 at 09:19 |
+| [MediaTek MT8798 vdec fmt use after free](https://vuldb.com/?id.210350) | Visit link for details | 2022-10-09 at 09:19 |
+| [MediaTek MT6879/MT6895/MT6983 isp use after free](https://vuldb.com/?id.210349) | Visit link for details | 2022-10-09 at 09:18 |
+| [Bodhi cross site scripting](https://vuldb.com/?id.210348) | Visit link for details | 2022-10-09 at 09:17 |
+| [Panini Everest Engine Everest.exe untrusted search path](https://vuldb.com/?id.210347) | Visit link for details | 2022-10-09 at 09:17 |
+| [tiny-csrf cross-site request forgery](https://vuldb.com/?id.210346) | Visit link for details | 2022-10-09 at 09:16 |
+| [ZoneMinder Log cross site scripting](https://vuldb.com/?id.210345) | Visit link for details | 2022-10-09 at 09:15 |
+| [puppetlabs-mysql os command injection](https://vuldb.com/?id.210344) | Visit link for details | 2022-10-09 at 09:15 |
+| [puppetlabs-apt os command injection](https://vuldb.com/?id.210343) | Visit link for details | 2022-10-09 at 09:14 |
+| [Liferay Portal auth.login.prompt.enabled information disclosure](https://vuldb.com/?id.210342) | Visit link for details | 2022-10-09 at 09:13 |
+| [TotalJS cross site scripting](https://vuldb.com/?id.210341) | Visit link for details | 2022-10-09 at 09:12 |
+| [ZoneMinder HTTP GET Request cross-site request forgery](https://vuldb.com/?id.210340) | Visit link for details | 2022-10-09 at 09:11 |
+| [MediaTek MT8797 ims deserialization](https://vuldb.com/?id.210339) | Visit link for details | 2022-10-09 at 09:10 |
+| [MediaTek MT8797 Telephony deserialization](https://vuldb.com/?id.210338) | Visit link for details | 2022-10-09 at 09:10 |
+| [Online Pet Shop We App sql injection](https://vuldb.com/?id.210337) | Visit link for details | 2022-10-09 at 09:09 |
+| [Online Pet Shop We App sql injection](https://vuldb.com/?id.210336) | Visit link for details | 2022-10-09 at 09:08 |
+| [Gradle Enterprise Backup access control](https://vuldb.com/?id.210335) | Visit link for details | 2022-10-09 at 09:08 |
+| [ZoneMinder API access control](https://vuldb.com/?id.210334) | Visit link for details | 2022-10-09 at 09:07 |
+| [MediaTek MT8797 ril denial of service](https://vuldb.com/?id.210333) | Visit link for details | 2022-10-09 at 09:06 |
+| [VMware vCenter Server PSC deserialization](https://vuldb.com/?id.210332) | Visit link for details | 2022-10-09 at 09:05 |
+| [Wedding Planner Privilege Escalation](https://vuldb.com/?id.210331) | Visit link for details | 2022-10-09 at 09:04 |
+| [Autodesk AutoCAD Image Processing use after free](https://vuldb.com/?id.210330) | Visit link for details | 2022-10-09 at 09:03 |
+| [Autodesk AutoCAD Image Processing buffer overflow](https://vuldb.com/?id.210329) | Visit link for details | 2022-10-09 at 09:03 |
+| [Autodesk AutoCAD Image Processing heap-based overflow](https://vuldb.com/?id.210328) | Visit link for details | 2022-10-09 at 09:01 |
+| [Autodesk AutoCAD Image Processing memory corruption](https://vuldb.com/?id.210327) | Visit link for details | 2022-10-09 at 09:00 |
+| [Backdrop CMS unrestricted upload](https://vuldb.com/?id.210326) | Visit link for details | 2022-10-09 at 09:00 |
+| [Autodesk AutoCAD Image Processing buffer overflow](https://vuldb.com/?id.210325) | Visit link for details | 2022-10-09 at 08:59 |
+| [MediaTek MT8789 Wi-Fi Driver denial of service](https://vuldb.com/?id.210324) | Visit link for details | 2022-10-09 at 08:58 |
+| [PicUploader SettingController.php setStorageParams cross site scripting](https://vuldb.com/?id.210323) | Visit link for details | 2022-10-09 at 08:57 |
+| [VMware ESXi VMX Process denial of service](https://vuldb.com/?id.210322) | Visit link for details | 2022-10-09 at 08:57 |
+| [Online Diagnostic Lab Management System editcategory.php sql injection](https://vuldb.com/?id.210321) | Visit link for details | 2022-10-09 at 08:55 |
+| [Online Diagnostic Lab Management System editclient.php sql injection](https://vuldb.com/?id.210320) | Visit link for details | 2022-10-09 at 08:54 |
+| [Online Diagnostic Lab Management System editFile.php unrestricted upload](https://vuldb.com/?id.210319) | Visit link for details | 2022-10-09 at 08:54 |
+| [Online Leave Management System unrestricted upload](https://vuldb.com/?id.210318) | Visit link for details | 2022-10-09 at 08:53 |
+| [fat_free_crm Bucket denial of service](https://vuldb.com/?id.210317) | Visit link for details | 2022-10-09 at 08:53 |
