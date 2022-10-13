@@ -1,10 +1,23 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-909/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
+| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-908/) | Une vulnérabilité a été corrigée dans  | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-907/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-906/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-905/) | De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance. | 12 octobre 2022 |
+| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-904/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-903/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-902/) | De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS). | 12 octobre 2022 |
+| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-901/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un déni de service à distance. | 12 octobre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
+| [[MaJ] Vulnérabilité dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/) | [MaJ 12 octobre 2022]  | 7 octobre 2022 |
 | [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | En date du 29 septembre 2022, Microsoft a indiqué l'existence de deux vulnérabilités, de type zéro-jour, au sein de Windows Exchange 2013, 2016 et 2019. | 30 septembre 2022 |
 | [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
-| [Vulnérabilité dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/) | Le 15 septembre 2022, l'éditeur Zimbra a publié un avis de sécurité mentionnant une vulnérabilité dans l'implémentation de  | 7 octobre 2022 |
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/) | Dans le cadre de son  | 16 septembre 2022 |
 | [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
 | [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
@@ -12,16 +25,3 @@
 | [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-004/) | La vulnérabilité  | 11 mai 2022 |
 | [[MàJ] Vulnérabilité dans l’implémentation du protocole RPC par Microsoft](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/) | [mise à jour du 15 avril 2022] | 13 avril 2022 |
 | [[MaJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-001/) | [Version du 18 janvier 2022 | 12 janvier 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-897/) | De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 11 octobre 2022 |
-| [[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-896/) | De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 11 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-895/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 11 octobre 2022 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-894/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 11 octobre 2022 |
-| [Vulnérabilité dans Apple iOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-893/) | Une vulnérabilité a été découverte dans Apple iOS. Elle permet à un attaquant de provoquer un déni de service à distance. | 11 octobre 2022 |
-| [Multiples vulnérabilités dans les produits VMWare](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-892/) | De multiples vulnérabilités ont été découvertes dans les produits VMWare. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un déni de service à distance. | 10 octobre 2022 |
-| [Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-891/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 10 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/) | De multiples vulnérabilités ont été corrigées dans  | 7 octobre 2022 |
-| [Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/) | De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 7 octobre 2022 |
-| [Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/) | Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 7 octobre 2022 |
