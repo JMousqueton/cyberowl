@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/) | Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/) | De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 13 octobre 2022 |
+| [Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/) | Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 13 octobre 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
 | [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-909/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
 | [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-908/) | Une vulnérabilité a été corrigée dans  | 12 octobre 2022 |
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-907/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
-| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-906/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
-| [Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-905/) | De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance. | 12 octobre 2022 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-904/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 12 octobre 2022 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-903/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 12 octobre 2022 |
-| [Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-902/) | De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS). | 12 octobre 2022 |
-| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-901/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un déni de service à distance. | 12 octobre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|

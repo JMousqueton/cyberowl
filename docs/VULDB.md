@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [WiJungle NGFW excessive authentication](https://vuldb.com/?id.210719) | Visit link for details | 2022-10-13 at 21:55 |
-| [Palo Alto PAN-OS Web Interface authentication spoofing](https://vuldb.com/?id.210718) | Visit link for details | 2022-10-13 at 21:54 |
-| [SourceCodester Human Resource Management System getstatecity.php sql injection](https://vuldb.com/?id.210717) | Visit link for details | 2022-10-13 at 18:29 |
-| [SourceCodester Human Resource Management System city.php sql injection](https://vuldb.com/?id.210716) | Visit link for details | 2022-10-13 at 18:27 |
-| [SourceCodester Human Resource Management System city.php sql injection](https://vuldb.com/?id.210715) | Visit link for details | 2022-10-13 at 18:26 |
-| [SourceCodester Human Resource Management System getstatecity.php sql injection](https://vuldb.com/?id.210714) | Visit link for details | 2022-10-13 at 18:25 |
-| [Apple iOS Email denial of service](https://vuldb.com/?id.210713) | Visit link for details | 2022-10-13 at 16:31 |
-| [Dolibarr ERP/CRM Installation Page injection](https://vuldb.com/?id.210712) | Visit link for details | 2022-10-13 at 16:24 |
-| [REDCap Alerts cross site scripting](https://vuldb.com/?id.210711) | Visit link for details | 2022-10-13 at 16:23 |
-| [mfncooper mockery mockery.js enable prototype pollution](https://vuldb.com/?id.210710) | Visit link for details | 2022-10-13 at 16:22 |
-| [Jiusi OA hntdCustomDesktopActionContent sql injection](https://vuldb.com/?id.210709) | Visit link for details | 2022-10-13 at 14:13 |
-| [Octopus Server Masking information disclosure](https://vuldb.com/?id.210708) | Visit link for details | 2022-10-13 at 14:09 |
-| [Apache Shiro RequestDispatcher improper authentication](https://vuldb.com/?id.210707) | Visit link for details | 2022-10-13 at 14:08 |
-| [Google Chrome Peer Connection use after free](https://vuldb.com/?id.210706) | Visit link for details | 2022-10-13 at 11:41 |
-| [Google Chrome Safe Browsing use after free](https://vuldb.com/?id.210705) | Visit link for details | 2022-10-13 at 11:40 |
-| [Google Chrome Permissions API use after free](https://vuldb.com/?id.210704) | Visit link for details | 2022-10-13 at 11:39 |
-| [Google Chrome Custom Tabs Remote Code Execution](https://vuldb.com/?id.210703) | Visit link for details | 2022-10-13 at 11:39 |
-| [Google Chrome WebSQL heap-based overflow](https://vuldb.com/?id.210702) | Visit link for details | 2022-10-13 at 11:38 |
-| [Google Chrome Skia use after free](https://vuldb.com/?id.210701) | Visit link for details | 2022-10-13 at 11:37 |
-| [Mediabridge Medialink index.asp improper authentication](https://vuldb.com/?id.210700) | Visit link for details | 2022-10-13 at 11:34 |
-| [puppyCMS settings.php cross site scripting](https://vuldb.com/?id.210699) | Visit link for details | 2022-10-13 at 11:30 |
-| [SAP 3D Visual Enterprise Author OBJ File ObjTranslator.exe memory corruption](https://vuldb.com/?id.210698) | Visit link for details | 2022-10-13 at 11:27 |
-| [SAP 3D Visual Enterprise Author CGM File CgmCore.dll memory corruption](https://vuldb.com/?id.210697) | Visit link for details | 2022-10-13 at 11:26 |
-| [SAP 3D Visual Enterprise Author VDS File MataiPersistence.dll memory corruption](https://vuldb.com/?id.210696) | Visit link for details | 2022-10-13 at 11:26 |
-| [SAP 3D Visual Enterprise Author CUR File stack-based overflow](https://vuldb.com/?id.210695) | Visit link for details | 2022-10-13 at 11:25 |
-| [SAP 3D Visual Enterprise Author PDF File PDFPublishing.dll memory corruption](https://vuldb.com/?id.210694) | Visit link for details | 2022-10-13 at 11:25 |
-| [SAP 3D Visual Enterprise Author JT File JtTranslator.exe memory corruption](https://vuldb.com/?id.210693) | Visit link for details | 2022-10-13 at 11:24 |
-| [SAP 3D Visual Enterprise Author IGS File CoreCadTranslator.exe memory corruption](https://vuldb.com/?id.210692) | Visit link for details | 2022-10-13 at 11:24 |
-| [SAP 3D Visual Enterprise Author EMF File memory corruption](https://vuldb.com/?id.210691) | Visit link for details | 2022-10-13 at 11:23 |
-| [SAP 3D Visual Enterprise Author DXF File TeighaTranslator.exe memory corruption](https://vuldb.com/?id.210690) | Visit link for details | 2022-10-13 at 11:23 |
-| [SAP 3D Visual Enterprise Author MODEL File CatiaTranslator.exe memory corruption](https://vuldb.com/?id.210689) | Visit link for details | 2022-10-13 at 11:22 |
-| [SAP 3D Visual Enterprise Author CATPART file memory corruption](https://vuldb.com/?id.210688) | Visit link for details | 2022-10-13 at 11:22 |
-| [SAP 3D Visual Enterprise Author DWG File TeighaTranslator.exe memory corruption](https://vuldb.com/?id.210687) | Visit link for details | 2022-10-13 at 11:21 |
-| [SAP 3D Visual Enterprise Author OBJ File ObjTranslator.exe stack-based overflow](https://vuldb.com/?id.210686) | Visit link for details | 2022-10-13 at 11:21 |
-| [SAP 3D Visual Enterprise Author SLDDRW File CoreCadTranslator.exe memory corruption](https://vuldb.com/?id.210685) | Visit link for details | 2022-10-13 at 11:20 |
-| [SAP 3D Visual Enterprise Author CGM File memory corruption](https://vuldb.com/?id.210684) | Visit link for details | 2022-10-13 at 11:19 |
-| [SAP 3D Visual Enterprise Author SLDRP File CoreCadTranslator.exe memory corruption](https://vuldb.com/?id.210683) | Visit link for details | 2022-10-13 at 11:19 |
-| [SAP 3D Visual Enterprise Author SAT File CoreCadTranslator.exe memory corruption](https://vuldb.com/?id.210682) | Visit link for details | 2022-10-13 at 11:18 |
-| [SAP BusinessObjects BI LaunchPad Remote Code Execution](https://vuldb.com/?id.210681) | Visit link for details | 2022-10-13 at 11:18 |
-| [Qube One Redirection for Contact Form 7 Plugin Options Change access control](https://vuldb.com/?id.210680) | Visit link for details | 2022-10-13 at 11:17 |
-| [Flatpress admin.php cross site scripting](https://vuldb.com/?id.210679) | Visit link for details | 2022-10-13 at 11:16 |
-| [Wedding Planner package_edit.php Privilege Escalation](https://vuldb.com/?id.210678) | Visit link for details | 2022-10-13 at 11:16 |
-| [Wedding Planner users_profile.php Privilege Escalation](https://vuldb.com/?id.210677) | Visit link for details | 2022-10-13 at 11:15 |
-| [Google Android Bluetooth Setting CarSettings permission](https://vuldb.com/?id.210676) | Visit link for details | 2022-10-13 at 11:15 |
-| [Google Android Messaging denial of service](https://vuldb.com/?id.210675) | Visit link for details | 2022-10-13 at 11:14 |
-| [Google Android Messaging denial of service](https://vuldb.com/?id.210674) | Visit link for details | 2022-10-13 at 11:14 |
-| [Google Android Messaging denial of service](https://vuldb.com/?id.210673) | Visit link for details | 2022-10-13 at 11:14 |
-| [Google Android Messaging denial of service](https://vuldb.com/?id.210672) | Visit link for details | 2022-10-13 at 11:13 |
-| [Google Android System Service permission](https://vuldb.com/?id.210671) | Visit link for details | 2022-10-13 at 11:13 |
-| [Google Android System Service authorization](https://vuldb.com/?id.210670) | Visit link for details | 2022-10-13 at 11:12 |
+| [SourceCodester Human Resource Management System Master List cross site scripting](https://vuldb.com/?id.210786) | Visit link for details | 2022-10-14 at 19:33 |
+| [SourceCodester Human Resource Management System Admin Panel employeeadd.php access control](https://vuldb.com/?id.210785) | Visit link for details | 2022-10-14 at 19:31 |
+| [SourceCodester Simple Online Public Access Catalog Admin Login sql injection](https://vuldb.com/?id.210784) | Visit link for details | 2022-10-14 at 19:29 |
+| [RPCMS cross-site request forgery](https://vuldb.com/?id.210783) | Visit link for details | 2022-10-14 at 19:27 |
+| [RPCMS cross-site request forgery](https://vuldb.com/?id.210782) | Visit link for details | 2022-10-14 at 19:26 |
+| [RPCMS Search cross site scripting](https://vuldb.com/?id.210781) | Visit link for details | 2022-10-14 at 19:25 |
+| [WAYOS LQ_09 Usb_upload.htm cross-site request forgery](https://vuldb.com/?id.210780) | Visit link for details | 2022-10-14 at 19:25 |
+| [JFinal CMS sql injection](https://vuldb.com/?id.210779) | Visit link for details | 2022-10-14 at 17:06 |
+| [Liferay Portal/DXP Blog Module cross site scripting](https://vuldb.com/?id.210778) | Visit link for details | 2022-10-14 at 17:05 |
+| [SWFTools png2swf.c png_read_header heap-based overflow](https://vuldb.com/?id.210777) | Visit link for details | 2022-10-14 at 17:04 |
+| [SWFTools png.c png_load heap-based overflow](https://vuldb.com/?id.210776) | Visit link for details | 2022-10-14 at 17:04 |
+| [Apache Kylin Cube Designer os command injection](https://vuldb.com/?id.210775) | Visit link for details | 2022-10-14 at 17:03 |
+| [Apache Commons Text Variable Interpolation Privilege Escalation](https://vuldb.com/?id.210774) | Visit link for details | 2022-10-14 at 17:02 |
+| [SourceCodester Human Resource Management System Add Employee cross site scripting](https://vuldb.com/?id.210773) | Visit link for details | 2022-10-14 at 17:01 |
+| [SourceCodester Human Resource Management System Profile Photo os command injection](https://vuldb.com/?id.210772) | Visit link for details | 2022-10-14 at 16:58 |
+| [ResIOT IOT Platform/LoRaWAN Network Server cross-site request forgery](https://vuldb.com/?id.210771) | Visit link for details | 2022-10-14 at 14:24 |
+| [Tenda AX1803 fromSysToolReboot cross-site request forgery](https://vuldb.com/?id.210770) | Visit link for details | 2022-10-14 at 14:24 |
+| [Tenda AX1803 TendaAteMode cross-site request forgery](https://vuldb.com/?id.210769) | Visit link for details | 2022-10-14 at 14:23 |
+| [Tenda AC1206 fromSysToolReboot cross-site request forgery](https://vuldb.com/?id.210767) | Visit link for details | 2022-10-14 at 14:22 |
+| [Synacor Zimbra Collaboration Suite calendar cross site scripting](https://vuldb.com/?id.210766) | Visit link for details | 2022-10-14 at 14:22 |
+| [Synacor Zimbra Collaboration Suite cross site scripting](https://vuldb.com/?id.210765) | Visit link for details | 2022-10-14 at 14:22 |
+| [Zimbra Zimbra Collaboration Suite compose cross site scripting](https://vuldb.com/?id.210764) | Visit link for details | 2022-10-14 at 14:21 |
+| [Dell GeoDrive path traversal](https://vuldb.com/?id.210763) | Visit link for details | 2022-10-14 at 14:21 |
+| [Dell BIOS memory corruption](https://vuldb.com/?id.210762) | Visit link for details | 2022-10-14 at 14:20 |
+| [Dell BIOS UEFI Variable input validation](https://vuldb.com/?id.210761) | Visit link for details | 2022-10-14 at 14:20 |
+| [SonicWALL GMS path traversal](https://vuldb.com/?id.210760) | Visit link for details | 2022-10-14 at 14:19 |
+| [Dell BIOS UEFI Variable input validation](https://vuldb.com/?id.210759) | Visit link for details | 2022-10-14 at 14:18 |
+| [Octopus Server API resource injection](https://vuldb.com/?id.210758) | Visit link for details | 2022-10-14 at 14:16 |
+| [Array Networks ArrayOS command injection](https://vuldb.com/?id.210757) | Visit link for details | 2022-10-14 at 14:15 |
+| [protobuf-java core/protobuf-java lite Garbage Collection denial of service](https://vuldb.com/?id.210756) | Visit link for details | 2022-10-14 at 14:15 |
+| [HashiCorp Vault/Vault Enterprise TLS Certificate certificate validation](https://vuldb.com/?id.210755) | Visit link for details | 2022-10-14 at 14:13 |
+| [webpack loader-utils parseQuery.js parseQuery prototype pollution](https://vuldb.com/?id.210754) | Visit link for details | 2022-10-14 at 14:12 |
+| [Dell GeoDrive default permission](https://vuldb.com/?id.210753) | Visit link for details | 2022-10-14 at 14:11 |
+| [Dell GeoDrive uncontrolled search path](https://vuldb.com/?id.210752) | Visit link for details | 2022-10-14 at 14:10 |
+| [Dell GeoDrive unquoted search path](https://vuldb.com/?id.210751) | Visit link for details | 2022-10-14 at 14:10 |
+| [dotPDN Paint.NET deserialization](https://vuldb.com/?id.210750) | Visit link for details | 2022-10-14 at 13:39 |
+| [dotPDN Paint.NET deserialization](https://vuldb.com/?id.210749) | Visit link for details | 2022-10-14 at 13:39 |
+| [Synacor Zimbra Collaboration Suite IMG Element information disclosure](https://vuldb.com/?id.210748) | Visit link for details | 2022-10-14 at 13:34 |
+| [Dell BIOS SMI memory corruption](https://vuldb.com/?id.210747) | Visit link for details | 2022-10-14 at 13:33 |
+| [Dell BIOS SMI uninitialized variable](https://vuldb.com/?id.210746) | Visit link for details | 2022-10-14 at 13:32 |
+| [Dell BIOS SMI stack-based overflow](https://vuldb.com/?id.210745) | Visit link for details | 2022-10-14 at 13:19 |
+| [Dell BIOS SMI input validation](https://vuldb.com/?id.210744) | Visit link for details | 2022-10-14 at 13:19 |
+| [Dell BIOS SMI input validation](https://vuldb.com/?id.210743) | Visit link for details | 2022-10-14 at 13:18 |
+| [Dell BIOS SMI input validation](https://vuldb.com/?id.210742) | Visit link for details | 2022-10-14 at 13:15 |
+| [Dell BIOS SMI input validation](https://vuldb.com/?id.210741) | Visit link for details | 2022-10-14 at 13:14 |
+| [Avaya Aura Communication Manager privileges management](https://vuldb.com/?id.210740) | Visit link for details | 2022-10-14 at 13:14 |
+| [powerline-gitstatus Directory Remote Code Execution](https://vuldb.com/?id.210739) | Visit link for details | 2022-10-14 at 13:13 |
+| [Bushnell Golf Foresight GC3 Launch Monitor TCF access control](https://vuldb.com/?id.210738) | Visit link for details | 2022-10-14 at 13:11 |
+| [FreeRDP video Command out-of-bounds](https://vuldb.com/?id.210737) | Visit link for details | 2022-10-14 at 13:09 |
+| [FreeRDP parallel Command uninitialized resource](https://vuldb.com/?id.210736) | Visit link for details | 2022-10-14 at 13:07 |
