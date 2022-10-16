@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 14 octobre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 14 octobre 2022 |
-| [Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/) | De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance. | 14 octobre 2022 |
-| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 13 octobre 2022 |
-| [Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/) | Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
-| [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
-| [Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/) | De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 13 octobre 2022 |
-| [Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/) | Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
-| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 13 octobre 2022 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/) | [Mise à jour du 15 juin 2022] Le mardi 14 juin 2022, l'éditeur a publié des mises à jour permettant la correction de cette vulnérabilité.  | 31 mai 2022 |
 | [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-004/) | La vulnérabilité  | 11 mai 2022 |
 | [[MàJ] Vulnérabilité dans l’implémentation du protocole RPC par Microsoft](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/) | [mise à jour du 15 avril 2022] | 13 avril 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 14 octobre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 14 octobre 2022 |
+| [Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/) | De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance. | 14 octobre 2022 |
+| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/) | Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/) | De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 13 octobre 2022 |
+| [Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/) | Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 octobre 2022 |
+| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 13 octobre 2022 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/) | De multiples vulnérabilités ont été corrigées dans  | 12 octobre 2022 |
