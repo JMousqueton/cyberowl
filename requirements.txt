@@ -1,2 +1,2 @@
-﻿Scrapy==2.5.1
+﻿Scrapy==2.7.0
 requests==2.28.1
