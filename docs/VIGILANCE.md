@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Apptainer: weak signature via Sif Dependency](https://vigilance.fr/vulnerability/Apptainer-weak-signature-via-Sif-Dependency-39556) | An attacker can use malicious data on Apptainer, via Sif Dependency, in order to deceive the victim... | Visit link for details |
 | [libxml2: three vulnerabilities](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554) | An attacker can use several vulnerabilities of libxml2... | Visit link for details |
 | [GNOME gThumb: denial of service via JPEG Image](https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553) | An attacker can cause a fatal error of GNOME gThumb, via JPEG Image, in order to trigger a denial of service... | Visit link for details |
 | [Vim: NULL pointer dereference via eval_next_non_blank()](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552) | An attacker can force a NULL pointer to be dereferenced on Vim, via  | Visit link for details |
@@ -100,4 +101,3 @@
 | [Puppetlabs-mysql: code execution](https://vigilance.fr/vulnerability/Puppetlabs-mysql-code-execution-39449) | An attacker can use a vulnerability of Puppetlabs-mysql, in order to run code... | Visit link for details |
 | [Puppetlabs-apt: code execution via Command Injection](https://vigilance.fr/vulnerability/Puppetlabs-apt-code-execution-via-Command-Injection-39448) | An attacker can use a vulnerability of Puppetlabs-apt, via Command Injection, in order to run code... | Visit link for details |
 | [Google Android | Pixel: multiple vulnerabilities of October 2022](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2022-39447) | An attacker can use several vulnerabilities of Google Android | Pixel... | Visit link for details |
-| [Joomla jCart for OpenCart: Cross Site Scripting](https://vigilance.fr/vulnerability/Joomla-jCart-for-OpenCart-Cross-Site-Scripting-39446) | An attacker can trigger a Cross Site Scripting of Joomla jCart for OpenCart, in order to run JavaScript code in the context of the web site... | Visit link for details |
