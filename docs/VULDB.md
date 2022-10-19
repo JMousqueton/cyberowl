@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [GitLab Community Edition/Enterprise Edition GitHub API Endpoint Privilege Escalation](https://vuldb.com/?id.211096) | Visit link for details | 2022-10-18 at 21:12 |
-| [GitLab Package Registry improper authentication](https://vuldb.com/?id.211095) | Visit link for details | 2022-10-18 at 21:10 |
-| [Secuever reverseWall-MDS improper authentication](https://vuldb.com/?id.211094) | Visit link for details | 2022-10-18 at 21:09 |
-| [OSGeo shapelib shpsort.c use after free](https://vuldb.com/?id.211093) | Visit link for details | 2022-10-18 at 21:01 |
-| [SalesForce Tableau Server Administration Agent path traversal](https://vuldb.com/?id.211092) | Visit link for details | 2022-10-18 at 21:00 |
-| [WordPress Header access control](https://vuldb.com/?id.211091) | Visit link for details | 2022-10-18 at 20:59 |
-| [Linux Kernel IPv6 inet6_dgram_ops race condition](https://vuldb.com/?id.211090) | Visit link for details | 2022-10-18 at 19:52 |
-| [Linux Kernel TCP tcp_setsockopt race condition](https://vuldb.com/?id.211089) | Visit link for details | 2022-10-18 at 19:50 |
-| [Linux Kernel Bluetooth l1oip_core.c del_timer use after free](https://vuldb.com/?id.211088) | Visit link for details | 2022-10-18 at 19:47 |
-| [Linux Kernel Bluetooth l2cap_core.c l2cap_reassemble_sdu use after free](https://vuldb.com/?id.211087) | Visit link for details | 2022-10-18 at 19:45 |
-| [Linux Kernel BlueZ mgmt-tester.c read_50_controller_cap_complete null pointer dereference](https://vuldb.com/?id.211086) | Visit link for details | 2022-10-18 at 19:43 |
-| [74cmsSE add cross site scripting](https://vuldb.com/?id.211085) | Visit link for details | 2022-10-18 at 19:38 |
-| [74cmsSE access control](https://vuldb.com/?id.211084) | Visit link for details | 2022-10-18 at 19:38 |
-| [Merchandise Online Store sql injection](https://vuldb.com/?id.211083) | Visit link for details | 2022-10-18 at 19:37 |
-| [Tenda AC10 saveParentControlInfo stack-based overflow](https://vuldb.com/?id.211082) | Visit link for details | 2022-10-18 at 19:37 |
-| [Tenda AC10 formWifiWpsStart stack-based overflow](https://vuldb.com/?id.211081) | Visit link for details | 2022-10-18 at 19:36 |
-| [Tenda AC10 addWifiMacFilter stack-based overflow](https://vuldb.com/?id.211080) | Visit link for details | 2022-10-18 at 19:36 |
-| [Tenda AC10 fromSetIpMacBind stack-based overflow](https://vuldb.com/?id.211079) | Visit link for details | 2022-10-18 at 19:35 |
-| [Tenda AC10 formSetFirewallCfg stack-based overflow](https://vuldb.com/?id.211078) | Visit link for details | 2022-10-18 at 19:34 |
-| [Tenda AC10 formSetSpeedWan stack-based overflow](https://vuldb.com/?id.211077) | Visit link for details | 2022-10-18 at 19:34 |
-| [devhub user session](https://vuldb.com/?id.211076) | Visit link for details | 2022-10-18 at 19:34 |
-| [74cmsSE attach unrestricted upload](https://vuldb.com/?id.211075) | Visit link for details | 2022-10-18 at 19:32 |
-| [SourceCodester Billing System Project editbrand.php sql injection](https://vuldb.com/?id.211074) | Visit link for details | 2022-10-18 at 19:32 |
-| [Exim Regex use after free](https://vuldb.com/?id.211073) | Visit link for details | 2022-10-18 at 17:08 |
-| [Tenda AC10 formSetDeviceName stack-based overflow](https://vuldb.com/?id.211072) | Visit link for details | 2022-10-18 at 17:00 |
-| [Tenda AC10 formSetClientState stack-based overflow](https://vuldb.com/?id.211071) | Visit link for details | 2022-10-18 at 17:00 |
-| [Tenda AC10 fromNatStaticSetting stack-based overflow](https://vuldb.com/?id.211070) | Visit link for details | 2022-10-18 at 16:59 |
-| [WP Custom Cursors Plugin cross-site request forgery](https://vuldb.com/?id.211069) | Visit link for details | 2022-10-18 at 16:57 |
-| [WP Custom Cursors Plugin cross-site request forgery](https://vuldb.com/?id.211068) | Visit link for details | 2022-10-18 at 16:56 |
-| [We're Open Plugin Setting cross site scripting](https://vuldb.com/?id.211067) | Visit link for details | 2022-10-18 at 16:52 |
-| [Frontend File Manager Plugin Plugin cross-site request forgery](https://vuldb.com/?id.211066) | Visit link for details | 2022-10-18 at 16:51 |
-| [Meks Easy Social Share Plugin Setting cross site scripting](https://vuldb.com/?id.211065) | Visit link for details | 2022-10-18 at 16:50 |
-| [Tutor LMS Plugin Course cross site scripting](https://vuldb.com/?id.211064) | Visit link for details | 2022-10-18 at 16:49 |
-| [Import all XML, CSV & TXT Plugin authorization](https://vuldb.com/?id.211063) | Visit link for details | 2022-10-18 at 16:49 |
-| [Import all XML, CSV & TXT Plugin sql injection](https://vuldb.com/?id.211062) | Visit link for details | 2022-10-18 at 16:48 |
-| [Passster Plugin Cookie inadequate encryption](https://vuldb.com/?id.211061) | Visit link for details | 2022-10-18 at 16:44 |
-| [WP Custom Cursors Plugin sql injection](https://vuldb.com/?id.211060) | Visit link for details | 2022-10-18 at 16:43 |
-| [Search Logger Plugin sql injection](https://vuldb.com/?id.211059) | Visit link for details | 2022-10-18 at 16:42 |
-| [miniOrange Discord Integration Plugin AJAX Action cross-site request forgery](https://vuldb.com/?id.211058) | Visit link for details | 2022-10-18 at 16:42 |
-| [Helpful Plugin Log information disclosure](https://vuldb.com/?id.211057) | Visit link for details | 2022-10-18 at 16:32 |
-| [Drag and Drop Multiple File Upload Plugin authorization](https://vuldb.com/?id.211056) | Visit link for details | 2022-10-18 at 16:31 |
-| [X.org libX11 xcb_disp.c _XFreeX11XCBStructure memory leak](https://vuldb.com/?id.211055) | Visit link for details | 2022-10-18 at 14:48 |
-| [X.org libX11 imsClbk.c _XimRegisterIMInstantiateCallback memory leak](https://vuldb.com/?id.211054) | Visit link for details | 2022-10-18 at 14:46 |
-| [X.org Server xquartz X11Controller.m denial of service](https://vuldb.com/?id.211053) | Visit link for details | 2022-10-18 at 14:43 |
-| [X.org Server xkb.c ProcXkbGetKbdByName memory leak](https://vuldb.com/?id.211052) | Visit link for details | 2022-10-18 at 14:32 |
-| [X.org Server xkb.c _GetCountedString buffer overflow](https://vuldb.com/?id.211051) | Visit link for details | 2022-10-18 at 14:24 |
-| [Backdoor.Win32.Redkod.d Service Port 4820 hard-coded credentials](https://vuldb.com/?id.211050) | Visit link for details | 2022-10-18 at 14:15 |
-| [SourceCodester Simple Cold Storage Management System Avatar unrestricted upload](https://vuldb.com/?id.211049) | Visit link for details | 2022-10-18 at 13:34 |
-| [SourceCodester Simple Cold Storage Management System Add New Storage cross site scripting](https://vuldb.com/?id.211048) | Visit link for details | 2022-10-18 at 13:32 |
-| [SourceCodester Simple Cold Storage Management System Setting cross site scripting](https://vuldb.com/?id.211047) | Visit link for details | 2022-10-18 at 13:30 |
+| [Linux Kernel CIFS sess.c sess_free_buffer double free](https://vuldb.com/?id.211364) | Visit link for details | 2022-10-19 at 22:06 |
+| [Linux Kernel BPF r8152.c intr_callback logging of excessive data](https://vuldb.com/?id.211363) | Visit link for details | 2022-10-19 at 22:04 |
+| [Linux Kernel iproute2 ipmptcp.c mptcp_limit_get_set memory leak](https://vuldb.com/?id.211362) | Visit link for details | 2022-10-19 at 22:01 |
+| [Billing System Project editProductImage.php unrestricted upload](https://vuldb.com/?id.211361) | Visit link for details | 2022-10-19 at 19:17 |
+| [Fortinet FortiTester Certificate Import os command injection](https://vuldb.com/?id.211360) | Visit link for details | 2022-10-19 at 19:16 |
+| [Fortinet FortiTester Console Login os command injection](https://vuldb.com/?id.211359) | Visit link for details | 2022-10-19 at 19:15 |
+| [supybot-fedora Refresh resource consumption](https://vuldb.com/?id.211358) | Visit link for details | 2022-10-19 at 19:15 |
+| [MobSF Mobile Security Framework HTTP Request views.py file inclusion](https://vuldb.com/?id.211357) | Visit link for details | 2022-10-19 at 19:10 |
+| [TP-LINK AX10v1 hard-coded key](https://vuldb.com/?id.211356) | Visit link for details | 2022-10-19 at 19:09 |
+| [Tenda AC18 fromSetSysTime stack-based overflow](https://vuldb.com/?id.211355) | Visit link for details | 2022-10-19 at 19:08 |
+| [Tenda AC15 form_fast_setting_wifi_set stack-based overflow](https://vuldb.com/?id.211354) | Visit link for details | 2022-10-19 at 19:07 |
+| [TP-Link AX10v1 authentication replay](https://vuldb.com/?id.211353) | Visit link for details | 2022-10-19 at 19:07 |
+| [DevExpress ASP.NET Web Forms ASPxHttpHandlerModule DXR.axd resource injection](https://vuldb.com/?id.211352) | Visit link for details | 2022-10-19 at 19:06 |
+| [Fortinet FortiTester Telnet Port excessive authentication](https://vuldb.com/?id.211351) | Visit link for details | 2022-10-19 at 19:04 |
+| [Fortinet FortiTester SSH Login os command injection](https://vuldb.com/?id.211350) | Visit link for details | 2022-10-19 at 19:04 |
+| [Fortinet FortiTester Telnet Login os command injection](https://vuldb.com/?id.211349) | Visit link for details | 2022-10-19 at 19:02 |
+| [Fortinet FortiOS/FortiProxy HTTP GET Request uninitialized pointer](https://vuldb.com/?id.211348) | Visit link for details | 2022-10-19 at 19:00 |
+| [Online Tours & Travels Management System profile.php unrestricted upload](https://vuldb.com/?id.211347) | Visit link for details | 2022-10-19 at 18:59 |
+| [GetSimple CMS theme-edit.php Privilege Escalation](https://vuldb.com/?id.211346) | Visit link for details | 2022-10-19 at 18:58 |
+| [AVEVA Edge LoadImportedLibraries xml external entity reference](https://vuldb.com/?id.211345) | Visit link for details | 2022-10-19 at 16:34 |
+| [Tesla Model 3 ice_updater toctou](https://vuldb.com/?id.211344) | Visit link for details | 2022-10-19 at 16:33 |
+| [AVEVA Edge Privilege Escalation](https://vuldb.com/?id.211343) | Visit link for details | 2022-10-19 at 16:32 |
+| [D-Link DIR-2150 xupnpd_generic command injection](https://vuldb.com/?id.211342) | Visit link for details | 2022-10-19 at 16:30 |
+| [D-Link DIR-2150 xupnpd command injection](https://vuldb.com/?id.211341) | Visit link for details | 2022-10-19 at 16:30 |
+| [OPC Labs QuickOPC deserialization](https://vuldb.com/?id.211340) | Visit link for details | 2022-10-19 at 16:29 |
+| [AVEVA Edge SetBytesToManagedControl deserialization](https://vuldb.com/?id.211339) | Visit link for details | 2022-10-19 at 16:29 |
+| [AVEVA Edge uncontrolled search path](https://vuldb.com/?id.211338) | Visit link for details | 2022-10-19 at 16:28 |
+| [AVEVA Edge uncontrolled search path](https://vuldb.com/?id.211337) | Visit link for details | 2022-10-19 at 16:28 |
+| [AVEVA Edge uncontrolled search path](https://vuldb.com/?id.211336) | Visit link for details | 2022-10-19 at 16:27 |
+| [D-Link DIR-2150 anweb action_handler stack-based overflow](https://vuldb.com/?id.211335) | Visit link for details | 2022-10-19 at 16:27 |
+| [D-Link DIR-2150 anweb websocket_data_handler stack-based overflow](https://vuldb.com/?id.211334) | Visit link for details | 2022-10-19 at 16:26 |
+| [D-Link DIR-2150 xupnpd ui_upload command injection](https://vuldb.com/?id.211333) | Visit link for details | 2022-10-19 at 16:25 |
+| [D-Link Router lighttpd stack-based overflow](https://vuldb.com/?id.211332) | Visit link for details | 2022-10-19 at 16:25 |
+| [TP-LINK TL-WR841N cross site scripting](https://vuldb.com/?id.211331) | Visit link for details | 2022-10-19 at 16:24 |
+| [Asus System Control Interface AsusSoftwareManager.exe temp file](https://vuldb.com/?id.211330) | Visit link for details | 2022-10-19 at 16:24 |
+| [ASUS System Control Interface AsusSwitch.exe permission](https://vuldb.com/?id.211329) | Visit link for details | 2022-10-19 at 16:22 |
+| [Linux Kernel nft_object use after free](https://vuldb.com/?id.211328) | Visit link for details | 2022-10-19 at 16:21 |
+| [Adobe Acrobat Reader AcroForm use after free](https://vuldb.com/?id.211327) | Visit link for details | 2022-10-19 at 16:20 |
+| [Apple macOS Remote Event memory corruption](https://vuldb.com/?id.211326) | Visit link for details | 2022-10-19 at 16:19 |
+| [Windscribe uncontrolled search path](https://vuldb.com/?id.211325) | Visit link for details | 2022-10-19 at 16:18 |
+| [Unified Automation OPC UA C++ denial of service](https://vuldb.com/?id.211324) | Visit link for details | 2022-10-19 at 16:17 |
+| [Unified Automation OPC UA C++ denial of service](https://vuldb.com/?id.211323) | Visit link for details | 2022-10-19 at 16:17 |
+| [EnterpriseDT CompleteFTP Server HttpFile pathname traversal](https://vuldb.com/?id.211322) | Visit link for details | 2022-10-19 at 16:13 |
+| [Centreon Poller Broker sql injection](https://vuldb.com/?id.211321) | Visit link for details | 2022-10-19 at 16:12 |
+| [Centreon Poller Broker sql injection](https://vuldb.com/?id.211320) | Visit link for details | 2022-10-19 at 16:12 |
+| [Centreon Poller Broker sql injection](https://vuldb.com/?id.211319) | Visit link for details | 2022-10-19 at 16:11 |
+| [Centreon Poller Broker sql injection](https://vuldb.com/?id.211318) | Visit link for details | 2022-10-19 at 16:10 |
+| [Foxit PDF Editor Javascript Array out-of-bounds](https://vuldb.com/?id.211317) | Visit link for details | 2022-10-19 at 15:59 |
+| [Foxit PDF Reader AFSpecial_KeystrokeEx use after free](https://vuldb.com/?id.211316) | Visit link for details | 2022-10-19 at 15:59 |
+| [Foxit PDF Reader newConnection out-of-bounds](https://vuldb.com/?id.211315) | Visit link for details | 2022-10-19 at 15:59 |
