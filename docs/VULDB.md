@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [GitHub Enterprise Server SVNBridge deserialization](https://vuldb.com/?id.211807) | Visit link for details | 2022-10-20 at 21:10 |
-| [Relatedcode Messenger information disclosure](https://vuldb.com/?id.211806) | Visit link for details | 2022-10-20 at 21:09 |
-| [Markdownify Markdown File information disclosure](https://vuldb.com/?id.211805) | Visit link for details | 2022-10-20 at 21:08 |
-| [D-Link DIR878 proc.cgi command injection](https://vuldb.com/?id.211804) | Visit link for details | 2022-10-20 at 21:08 |
-| [GPAC scene_dump.c gf_dump_vrml_sffield memory corruption](https://vuldb.com/?id.211803) | Visit link for details | 2022-10-20 at 21:06 |
-| [GPAC meta.c gf_isom_get_meta_item_info memory corruption](https://vuldb.com/?id.211802) | Visit link for details | 2022-10-20 at 21:06 |
-| [GPAC field_decode.c BD_CheckSFTimeOffset memory corruption](https://vuldb.com/?id.211801) | Visit link for details | 2022-10-20 at 21:06 |
-| [GPAC isom_intern.c FixSDTPInTRAF heap-based overflow](https://vuldb.com/?id.211800) | Visit link for details | 2022-10-20 at 21:06 |
-| [GPAC box_funcs.c gf_isom_box_dump_start_ex heap-based overflow](https://vuldb.com/?id.211799) | Visit link for details | 2022-10-20 at 21:05 |
-| [GPAC meta.c gf_isom_meta_restore_items_ref memory corruption](https://vuldb.com/?id.211798) | Visit link for details | 2022-10-20 at 21:05 |
-| [Axiomatic Bento4 mp42ts ReadCache heap-based overflow](https://vuldb.com/?id.211797) | Visit link for details | 2022-10-20 at 20:49 |
-| [Axiomatic Bento4 Ap4File.cpp ParseStream memory leak](https://vuldb.com/?id.211796) | Visit link for details | 2022-10-20 at 20:49 |
-| [Axiomatic Bento4 Ap4Dec3Atom.cpp AP4_Dec3Atom denial of service](https://vuldb.com/?id.211795) | Visit link for details | 2022-10-20 at 20:48 |
-| [Axiomatic Bento4 mp42ts SkipBits heap-based overflow](https://vuldb.com/?id.211794) | Visit link for details | 2022-10-20 at 20:48 |
-| [Axiomatic Bento4 ~AP4_HdlrAtom denial of service](https://vuldb.com/?id.211793) | Visit link for details | 2022-10-20 at 20:47 |
-| [Axiomatic Bento4 Ap4DescriptorFactory.cpp CreateDescriptorFromStream memory leak](https://vuldb.com/?id.211792) | Visit link for details | 2022-10-20 at 20:44 |
-| [Cisco Identity Services Engine External RESTful Services API cross site scripting](https://vuldb.com/?id.211791) | Visit link for details | 2022-10-20 at 20:43 |
-| [Cisco TelePresence Collaboration Endpoint/RoomOS CLI access control](https://vuldb.com/?id.211790) | Visit link for details | 2022-10-20 at 20:42 |
-| [Cisco TelePresence Collaboration Endpoint/RoomOS CLI access control](https://vuldb.com/?id.211789) | Visit link for details | 2022-10-20 at 20:40 |
-| [Cisco TelePresence Collaboration Endpoint/RoomOS information disclosure](https://vuldb.com/?id.211788) | Visit link for details | 2022-10-20 at 20:39 |
-| [Cisco TelePresence Collaboration Endpoint/RoomOS Video Endpoint xAPI pathname traversal](https://vuldb.com/?id.211787) | Visit link for details | 2022-10-20 at 20:39 |
-| [Cisco TelePresence Collaboration Endpoint/RoomOS Video Endpoint xAPI pathname traversal](https://vuldb.com/?id.211786) | Visit link for details | 2022-10-20 at 20:37 |
-| [Cisco Identity Services Engine path traversal](https://vuldb.com/?id.211785) | Visit link for details | 2022-10-20 at 20:30 |
-| [Cisco Meraki MX/Meraki Z3 AnyConnect VPN Server denial of service](https://vuldb.com/?id.211784) | Visit link for details | 2022-10-20 at 20:29 |
-| [Bifrost Request Header improper authentication](https://vuldb.com/?id.211783) | Visit link for details | 2022-10-20 at 17:36 |
-| [octoprint unknown vulnerability](https://vuldb.com/?id.211782) | Visit link for details | 2022-10-20 at 17:35 |
-| [Acer Altos W2000h-W570h F4 RevserveMem denial of service](https://vuldb.com/?id.211781) | Visit link for details | 2022-10-20 at 17:35 |
-| [thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.211780) | Visit link for details | 2022-10-20 at 17:31 |
-| [Git heap-based overflow](https://vuldb.com/?id.211779) | Visit link for details | 2022-10-20 at 17:30 |
-| [Enalean Tuleap Branch Prefix Update authorization](https://vuldb.com/?id.211778) | Visit link for details | 2022-10-20 at 15:09 |
-| [Git Local Clone information disclosure](https://vuldb.com/?id.211777) | Visit link for details | 2022-10-20 at 14:51 |
-| [Qualcomm Snapdragon Auto Metadata memory corruption](https://vuldb.com/?id.211776) | Visit link for details | 2022-10-20 at 14:49 |
-| [Qualcomm Snapdragon Auto Automotive Multimedia memory corruption](https://vuldb.com/?id.211775) | Visit link for details | 2022-10-20 at 14:48 |
-| [Qualcomm Snapdragon Mobile BTHOST memory corruption](https://vuldb.com/?id.211774) | Visit link for details | 2022-10-20 at 14:48 |
-| [Qualcomm Snapdragon Auto WLAN denial of service](https://vuldb.com/?id.211773) | Visit link for details | 2022-10-20 at 14:47 |
-| [Qualcomm Snapdragon Auto WLAN integer overflow](https://vuldb.com/?id.211772) | Visit link for details | 2022-10-20 at 14:46 |
-| [Qualcomm Snapdragon Auto WLAN denial of service](https://vuldb.com/?id.211771) | Visit link for details | 2022-10-20 at 14:45 |
-| [Qualcomm Snapdragon Mobile Multimedia use after free](https://vuldb.com/?id.211770) | Visit link for details | 2022-10-20 at 14:45 |
-| [Qualcomm Snapdragon Auto WLAN memory corruption](https://vuldb.com/?id.211769) | Visit link for details | 2022-10-20 at 14:44 |
-| [Qualcomm Snapdragon Auto WLAN improper authentication](https://vuldb.com/?id.211768) | Visit link for details | 2022-10-20 at 14:43 |
-| [Qualcomm Snapdragon Auto ASF Clip Parser memory corruption](https://vuldb.com/?id.211767) | Visit link for details | 2022-10-20 at 14:42 |
-| [Qualcomm Snapdragon Auto use after free](https://vuldb.com/?id.211766) | Visit link for details | 2022-10-20 at 14:41 |
-| [Qualcomm Snapdragon Compute Management Frame Rx buffer overflow](https://vuldb.com/?id.211765) | Visit link for details | 2022-10-20 at 14:39 |
-| [Qualcomm Snapdragon Auto Boot denial of service](https://vuldb.com/?id.211764) | Visit link for details | 2022-10-20 at 14:38 |
-| [Qualcomm Snapdragon Mobile Graphics use after free](https://vuldb.com/?id.211763) | Visit link for details | 2022-10-20 at 14:37 |
-| [Asus RT-N12E system.asp improper authentication](https://vuldb.com/?id.211762) | Visit link for details | 2022-10-20 at 14:36 |
-| [Heimdal Kerberos 5 null pointer dereference](https://vuldb.com/?id.211761) | Visit link for details | 2022-10-20 at 14:30 |
-| [Qualcomm Snapdragon Mobile IPC memory corruption](https://vuldb.com/?id.211760) | Visit link for details | 2022-10-20 at 14:29 |
-| [Qualcomm Snapdragon Auto WLAN information disclosure](https://vuldb.com/?id.211759) | Visit link for details | 2022-10-20 at 14:28 |
-| [Qualcomm Snapdragon Auto GPU information disclosure](https://vuldb.com/?id.211758) | Visit link for details | 2022-10-20 at 14:27 |
+| [Linux Kernel BPF gup.c follow_page_pte race condition](https://vuldb.com/?id.211921) | Visit link for details | 2022-10-21 at 21:58 |
+| [Linux Kernel nilfs2 inode.c nilfs_bmap_lookup_at_level null pointer dereference](https://vuldb.com/?id.211920) | Visit link for details | 2022-10-21 at 21:55 |
+| [Exim DMARC dmarc.c dmarc_dns_lookup use after free](https://vuldb.com/?id.211919) | Visit link for details | 2022-10-21 at 21:53 |
+| [Linux Kernel Bluetooth l2cap_core.c l2cap_recv_acldata memory leak](https://vuldb.com/?id.211918) | Visit link for details | 2022-10-21 at 21:50 |
+| [Tenda 11N improper authentication](https://vuldb.com/?id.211917) | Visit link for details | 2022-10-21 at 21:47 |
+| [Siemens JT2Go/Teamcenter Visualization PDF File Parser APDFL.dll heap-based overflow](https://vuldb.com/?id.211916) | Visit link for details | 2022-10-21 at 21:46 |
+| [Sonos One Mini-PCI Express Slot Local Privilege Escalation](https://vuldb.com/?id.211915) | Visit link for details | 2022-10-21 at 21:40 |
+| [Adobe Commerce Object Reference me input validation](https://vuldb.com/?id.211914) | Visit link for details | 2022-10-21 at 21:39 |
+| [Linux Kernel Kid-friendly Wired Controller Driver hid-bigbenff.c bigben_probe memory leak](https://vuldb.com/?id.211913) | Visit link for details | 2022-10-21 at 21:38 |
+| [PCTechSoft PCSecure Admin Panel hard-coded credentials](https://vuldb.com/?id.211912) | Visit link for details | 2022-10-21 at 18:59 |
+| [OpenCRX Password Reset information exposure](https://vuldb.com/?id.211911) | Visit link for details | 2022-10-21 at 18:59 |
+| [Best Student Result Management System notice-details.php sql injection](https://vuldb.com/?id.211910) | Visit link for details | 2022-10-21 at 18:57 |
+| [Simple Exam Reviewer Management System Exam List cross site scripting](https://vuldb.com/?id.211909) | Visit link for details | 2022-10-21 at 17:05 |
+| [Simple Exam Reviewer Management System Exam List cross-site request forgery](https://vuldb.com/?id.211908) | Visit link for details | 2022-10-21 at 17:04 |
+| [Simple Exam Reviewer Management System unrestricted upload](https://vuldb.com/?id.211907) | Visit link for details | 2022-10-21 at 17:03 |
+| [Simple Exam Reviewer Management System User List unrestricted upload](https://vuldb.com/?id.211906) | Visit link for details | 2022-10-21 at 17:03 |
+| [Simple Exam Reviewer Management System User List access control](https://vuldb.com/?id.211905) | Visit link for details | 2022-10-21 at 17:01 |
+| [EVE-NG UNL api_labs.php apiImportLabs unrestricted upload](https://vuldb.com/?id.211904) | Visit link for details | 2022-10-21 at 17:00 |
+| [Checkbox Parameter Plugin cross site scripting](https://vuldb.com/?id.211903) | Visit link for details | 2022-10-21 at 16:04 |
+| [Contrast Continuous Application Security Plugin API Response cross site scripting](https://vuldb.com/?id.211902) | Visit link for details | 2022-10-21 at 16:04 |
+| [Katalon Plugin cross-site request forgery](https://vuldb.com/?id.211901) | Visit link for details | 2022-10-21 at 16:03 |
+| [Supporting APIs Plugin POST Request cross site scripting](https://vuldb.com/?id.211900) | Visit link for details | 2022-10-21 at 16:03 |
+| [Compuware Topaz for Total Test Plugin XML Parser xml external entity reference](https://vuldb.com/?id.211899) | Visit link for details | 2022-10-21 at 16:02 |
+| [REPO Plugin XML Parser xml external entity reference](https://vuldb.com/?id.211898) | Visit link for details | 2022-10-21 at 16:02 |
+| [Stage View Plugin inappropriate encoding for output context](https://vuldb.com/?id.211897) | Visit link for details | 2022-10-21 at 16:01 |
+| [Input Step Plugin inappropriate encoding for output context](https://vuldb.com/?id.211896) | Visit link for details | 2022-10-21 at 16:00 |
+| [Rukovoditel Holidays Module cross site scripting](https://vuldb.com/?id.211895) | Visit link for details | 2022-10-21 at 15:59 |
+| [sra-admin Profile Picture cross site scripting](https://vuldb.com/?id.211894) | Visit link for details | 2022-10-21 at 15:57 |
+| [EasyVista Service Manager New Equipment Page cross site scripting](https://vuldb.com/?id.211893) | Visit link for details | 2022-10-21 at 15:56 |
+| [OpenCATS Check Email cross site scripting](https://vuldb.com/?id.211892) | Visit link for details | 2022-10-21 at 15:56 |
+| [OpenCATS indexFile Component cross site scripting](https://vuldb.com/?id.211891) | Visit link for details | 2022-10-21 at 15:55 |
+| [OpenCATS Callback cross site scripting](https://vuldb.com/?id.211890) | Visit link for details | 2022-10-21 at 15:55 |
+| [OpenCATS cross site scripting](https://vuldb.com/?id.211889) | Visit link for details | 2022-10-21 at 15:54 |
+| [OpenCATS cross site scripting](https://vuldb.com/?id.211888) | Visit link for details | 2022-10-21 at 15:54 |
+| [Nginx Plus ngx_http_hls_module out-of-bounds write](https://vuldb.com/?id.211887) | Visit link for details | 2022-10-21 at 15:53 |
+| [360 FireLine Plugin protection mechanism](https://vuldb.com/?id.211886) | Visit link for details | 2022-10-21 at 15:52 |
+| [NeuVector Vulnerability Scanner Plugin protection mechanism](https://vuldb.com/?id.211885) | Visit link for details | 2022-10-21 at 15:52 |
+| [ScreenRecorder Plugin protection mechanism](https://vuldb.com/?id.211884) | Visit link for details | 2022-10-21 at 15:51 |
+| [XFramium Builder Plugin protection mechanism](https://vuldb.com/?id.211883) | Visit link for details | 2022-10-21 at 15:51 |
+| [Compuware Strobe Measurement Plugin HTTP Endpoint authorization](https://vuldb.com/?id.211882) | Visit link for details | 2022-10-21 at 15:46 |
+| [Compuware Topaz for Total Test Plugin HTTP Endpoint authorization](https://vuldb.com/?id.211881) | Visit link for details | 2022-10-21 at 15:46 |
+| [S3 Explorer Plugin missing password field masking](https://vuldb.com/?id.211880) | Visit link for details | 2022-10-21 at 15:45 |
+| [Katalon Plugin Controller File System config.xml credentials storage](https://vuldb.com/?id.211879) | Visit link for details | 2022-10-21 at 15:44 |
+| [Katalon Plugin HTTP Endpoint authorization](https://vuldb.com/?id.211878) | Visit link for details | 2022-10-21 at 15:43 |
+| [NUnit Plugin Agent-to-Controller Message protection mechanism](https://vuldb.com/?id.211877) | Visit link for details | 2022-10-21 at 15:43 |
+| [Job Import Plugin HTTP Endpoint authorization](https://vuldb.com/?id.211876) | Visit link for details | 2022-10-21 at 15:42 |
+| [Generic Webhook Trigger Plugin Webhook Token timing discrepancy](https://vuldb.com/?id.211875) | Visit link for details | 2022-10-21 at 15:41 |
+| [GitLab Plugin Webhook Token timing discrepancy](https://vuldb.com/?id.211874) | Visit link for details | 2022-10-21 at 15:40 |
+| [Mercurial Plugin Webhook Endpoint information disclosure](https://vuldb.com/?id.211873) | Visit link for details | 2022-10-21 at 15:39 |
+| [Deprecated Groovy Libraries Plugin protection mechanism](https://vuldb.com/?id.211872) | Visit link for details | 2022-10-21 at 15:38 |
