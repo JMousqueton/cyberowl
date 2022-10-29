@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [ThemeFusion Avada Premium Theme Plugin Installation cross-site request forgery](https://vuldb.com/?id.212382) | Visit link for details | 2022-10-28 at 20:36 |
-| [Bosch VIDEOJET multi 4000 URL cross site scripting](https://vuldb.com/?id.212381) | Visit link for details | 2022-10-28 at 20:35 |
-| [ForgeRock Access Managemen LDAP Query access control](https://vuldb.com/?id.212380) | Visit link for details | 2022-10-28 at 20:35 |
-| [ForgeRock Access Managemen Deployment authorization](https://vuldb.com/?id.212379) | Visit link for details | 2022-10-28 at 20:33 |
-| [Bosch VIDEOJET multi 4000 Configuration cross site scripting](https://vuldb.com/?id.212378) | Visit link for details | 2022-10-28 at 20:29 |
-| [Wireshark OPUS Protocol Dissector denial of service](https://vuldb.com/?id.212377) | Visit link for details | 2022-10-28 at 20:26 |
-| [Dart SDK WhatWG URL authorization](https://vuldb.com/?id.212376) | Visit link for details | 2022-10-28 at 20:25 |
-| [Octopus Server Session Token session fixiation](https://vuldb.com/?id.212375) | Visit link for details | 2022-10-28 at 20:04 |
-| [Octopus Server information disclosure](https://vuldb.com/?id.212374) | Visit link for details | 2022-10-28 at 20:03 |
-| [Train Scheduler App cross site scripting](https://vuldb.com/?id.212373) | Visit link for details | 2022-10-28 at 20:02 |
-| [Yordam Library Information Document Automation cross site scripting](https://vuldb.com/?id.212372) | Visit link for details | 2022-10-28 at 20:00 |
-| [Password Storage Application Setup Page cross site scripting](https://vuldb.com/?id.212371) | Visit link for details | 2022-10-28 at 19:59 |
-| [Simple Online Public Access Catalog Edit Account cross site scripting](https://vuldb.com/?id.212370) | Visit link for details | 2022-10-28 at 19:58 |
-| [Nextcloud Server/Enterprise Server resource consumption](https://vuldb.com/?id.212369) | Visit link for details | 2022-10-28 at 19:53 |
-| [Nextcloud Server/Enterprise Server improper authorization](https://vuldb.com/?id.212368) | Visit link for details | 2022-10-28 at 19:52 |
-| [Rockwell Automation FactoryTalk Alarm/Events Service improper authentication](https://vuldb.com/?id.212367) | Visit link for details | 2022-10-28 at 19:51 |
-| [Pimcore Twig Template code injection](https://vuldb.com/?id.212366) | Visit link for details | 2022-10-28 at 19:50 |
-| [Nextcloud Server/Enterprise Server cleartext storage](https://vuldb.com/?id.212365) | Visit link for details | 2022-10-28 at 19:43 |
-| [Yordam Library Information Document Automation information disclosure](https://vuldb.com/?id.212364) | Visit link for details | 2022-10-28 at 18:10 |
-| [OpenBMC bmcweb HTTP Header multipart_parser memory corruption](https://vuldb.com/?id.212363) | Visit link for details | 2022-10-28 at 18:09 |
-| [Delta Electronics InfraSuite Device Master AddNewUser improper authentication](https://vuldb.com/?id.212362) | Visit link for details | 2022-10-28 at 17:52 |
-| [Delta Electronics InfraSuite Device Master ModifyPrivByID improper authentication](https://vuldb.com/?id.212361) | Visit link for details | 2022-10-28 at 17:51 |
-| [Delta Electronics InfraSuite Device Master WriteConfiguration improper authentication](https://vuldb.com/?id.212360) | Visit link for details | 2022-10-28 at 17:51 |
-| [Delta Electronics InfraSuite Device Master APRunning information disclosure](https://vuldb.com/?id.212359) | Visit link for details | 2022-10-28 at 17:50 |
-| [Delta Electronics InfraSuite Device Master Device-Gateway Service deserialization](https://vuldb.com/?id.212358) | Visit link for details | 2022-10-28 at 17:49 |
-| [Delta Electronics InfraSuite Device Master Device-DataCollect Service deserialization](https://vuldb.com/?id.212357) | Visit link for details | 2022-10-28 at 17:48 |
-| [Delta Electronics InfraSuite Device Master CheckLoadingStartupConfig pathname traversal](https://vuldb.com/?id.212356) | Visit link for details | 2022-10-28 at 17:48 |
-| [Delta Electronics InfraSuite Device Master ExeCommandInCommandLineMode improper authentication](https://vuldb.com/?id.212355) | Visit link for details | 2022-10-28 at 17:47 |
-| [Delta Electronics InfraSuite Device Master DeSerializeBinary deserialization](https://vuldb.com/?id.212354) | Visit link for details | 2022-10-28 at 17:46 |
-| [Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation pathname traversal](https://vuldb.com/?id.212353) | Visit link for details | 2022-10-28 at 17:44 |
-| [OpenBMC bmcweb multipart_parser heap-based overflow](https://vuldb.com/?id.212352) | Visit link for details | 2022-10-28 at 17:42 |
-| [Hashicorp Boundary clickjacking](https://vuldb.com/?id.212351) | Visit link for details | 2022-10-28 at 17:42 |
-| [Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder heap-based overflow](https://vuldb.com/?id.212350) | Visit link for details | 2022-10-28 at 11:47 |
-| [Exiv2 QuickTime Video quicktimevideo.cpp decodeBlock null pointer dereference](https://vuldb.com/?id.212349) | Visit link for details | 2022-10-28 at 11:45 |
-| [Exiv2 bmffimage.cpp boxHandler memory corruption](https://vuldb.com/?id.212348) | Visit link for details | 2022-10-28 at 11:42 |
-| [SourceCodester Online Medicine Ordering System cross site scripting](https://vuldb.com/?id.212347) | Visit link for details | 2022-10-28 at 09:56 |
-| [SourceCodester Online Medicine Ordering System sql injection](https://vuldb.com/?id.212346) | Visit link for details | 2022-10-28 at 09:53 |
-| [JFinal CMS list sql injection](https://vuldb.com/?id.212345) | Visit link for details | 2022-10-28 at 09:45 |
-| [AliveCor Kardia App authentication bypass by assumed-immutable data](https://vuldb.com/?id.212344) | Visit link for details | 2022-10-28 at 09:43 |
-| [ikus060 rdiffweb behavioral workflow](https://vuldb.com/?id.212343) | Visit link for details | 2022-10-28 at 09:39 |
-| [D-Link DIR-816 A2 setRepeaterSecurity stack-based overflow](https://vuldb.com/?id.212342) | Visit link for details | 2022-10-28 at 09:07 |
-| [D-Link DIR-816 A2 form2WizardStep54 stack-based overflow](https://vuldb.com/?id.212341) | Visit link for details | 2022-10-28 at 09:07 |
-| [D-Link DIR-816 A2 setSecurity stack-based overflow](https://vuldb.com/?id.212340) | Visit link for details | 2022-10-28 at 09:06 |
-| [D-Link DIR-816 A2 form2WizardStep4 stack-based overflow](https://vuldb.com/?id.212339) | Visit link for details | 2022-10-28 at 09:06 |
-| [D-Link DIR-816 A2 setSysAdm command injection](https://vuldb.com/?id.212338) | Visit link for details | 2022-10-28 at 09:05 |
-| [D-Link DIR-816 A2 form2IPQoSTcAdd stack-based overflow](https://vuldb.com/?id.212337) | Visit link for details | 2022-10-28 at 09:04 |
-| [Delta Electronics DIAEnergy HICT_Loop sql injection](https://vuldb.com/?id.212336) | Visit link for details | 2022-10-28 at 09:03 |
-| [Delta Electronics DIAEnergy HandlerPageP_KID sql injection](https://vuldb.com/?id.212335) | Visit link for details | 2022-10-28 at 09:02 |
-| [Metabase URL Parameter geojson server-side request forgery](https://vuldb.com/?id.212334) | Visit link for details | 2022-10-28 at 08:45 |
-| [Metabase GeoJSON map URL information disclosure](https://vuldb.com/?id.212333) | Visit link for details | 2022-10-28 at 08:44 |
+| [Employee Record Management System editempprofile.php cross site scripting](https://vuldb.com/?id.212445) | Visit link for details | 2022-10-29 at 20:00 |
+| [Hospital Management System patient-search.php cross site scripting](https://vuldb.com/?id.212444) | Visit link for details | 2022-10-29 at 20:00 |
+| [SEMCMS Shop Ant_Pro.php sql injection](https://vuldb.com/?id.212443) | Visit link for details | 2022-10-29 at 19:58 |
+| [SEMCMS Shop Ant_Global.php sql injection](https://vuldb.com/?id.212442) | Visit link for details | 2022-10-29 at 19:58 |
+| [SEMCMS Shop Ant_Menu.php sql injection](https://vuldb.com/?id.212441) | Visit link for details | 2022-10-29 at 19:57 |
+| [GitLab Community Edition/Enterprise Edition DataDog information disclosure](https://vuldb.com/?id.212440) | Visit link for details | 2022-10-29 at 19:57 |
+| [GitLab Community Edition/Enterprise Edition Access Token Privilege Escalation](https://vuldb.com/?id.212439) | Visit link for details | 2022-10-29 at 19:55 |
+| [Employee Record Management System editempprofile.php sql injection](https://vuldb.com/?id.212438) | Visit link for details | 2022-10-29 at 19:54 |
+| [Hospital Management System view-patient.php sql injection](https://vuldb.com/?id.212437) | Visit link for details | 2022-10-29 at 19:54 |
+| [Canteen Management System fetchSelectedfood.php sql injection](https://vuldb.com/?id.212436) | Visit link for details | 2022-10-29 at 19:53 |
+| [Canteen Management System editProductImage.php unrestricted upload](https://vuldb.com/?id.212435) | Visit link for details | 2022-10-29 at 19:53 |
+| [Apache DolphinScheduler Log Server path traversal](https://vuldb.com/?id.212434) | Visit link for details | 2022-10-29 at 16:41 |
+| [Cloudflare OctoRPKI iteration](https://vuldb.com/?id.212433) | Visit link for details | 2022-10-29 at 16:41 |
+| [Cloudflare WARP Client Policy Verification authorization](https://vuldb.com/?id.212432) | Visit link for details | 2022-10-29 at 16:40 |
+| [chatwoot Email Verification excessive authentication](https://vuldb.com/?id.212431) | Visit link for details | 2022-10-29 at 16:38 |
+| [Cloudflare WARP Client VPN Profile authorization](https://vuldb.com/?id.212430) | Visit link for details | 2022-10-29 at 16:36 |
+| [Cloudflare WARP Client Zero Trust Secure Web Gateway Policy authorization](https://vuldb.com/?id.212429) | Visit link for details | 2022-10-29 at 16:35 |
+| [Cloudflare WARP Client CLI Command authorization](https://vuldb.com/?id.212428) | Visit link for details | 2022-10-29 at 16:34 |
+| [Cloudflare WARP Client Configuration authorization](https://vuldb.com/?id.212427) | Visit link for details | 2022-10-29 at 16:32 |
+| [Honeywell Experion PKS C200 path traversal](https://vuldb.com/?id.212426) | Visit link for details | 2022-10-29 at 08:13 |
+| [Johnson Controls CKS CEVAS cross site scripting](https://vuldb.com/?id.212425) | Visit link for details | 2022-10-29 at 08:12 |
+| [VMware Cloud Foundation XML xml external entity reference](https://vuldb.com/?id.212424) | Visit link for details | 2022-10-29 at 08:11 |
+| [Aruba EdgeConnect Enterprise Orchestrator Web-based Management Interface improper authentication](https://vuldb.com/?id.212423) | Visit link for details | 2022-10-29 at 08:07 |
+| [Aruba EdgeConnect Enterprise Orchestrator Web-based Management Interface improper authentication](https://vuldb.com/?id.212422) | Visit link for details | 2022-10-29 at 07:57 |
+| [Honeywell Experion PKS C200 unrestricted upload](https://vuldb.com/?id.212421) | Visit link for details | 2022-10-29 at 07:56 |
+| [Honeywell Experion PKS C200 injection](https://vuldb.com/?id.212420) | Visit link for details | 2022-10-29 at 07:55 |
+| [Eaton Foreseer EPMS unrestricted upload](https://vuldb.com/?id.212419) | Visit link for details | 2022-10-29 at 07:52 |
+| [Aruba EdgeConnect Enterprise Orchestrator Web-based Management Interface Remote Code Execution](https://vuldb.com/?id.212418) | Visit link for details | 2022-10-29 at 07:51 |
+| [seccome Ehoney signup access control](https://vuldb.com/?id.212417) | Visit link for details | 2022-10-29 at 07:47 |
+| [Redis dbghelp.dll uncontrolled search path](https://vuldb.com/?id.212416) | Visit link for details | 2022-10-29 at 07:44 |
+| [SourceCodester Web-Based Student Clearance System edit-admin.php sql injection](https://vuldb.com/?id.212415) | Visit link for details | 2022-10-29 at 07:37 |
+| [seccome Ehoney set sql injection](https://vuldb.com/?id.212414) | Visit link for details | 2022-10-29 at 07:35 |
+| [seccome Ehoney token sql injection](https://vuldb.com/?id.212413) | Visit link for details | 2022-10-29 at 07:34 |
+| [seccome Ehoney falco sql injection](https://vuldb.com/?id.212412) | Visit link for details | 2022-10-29 at 07:32 |
+| [seccome Ehoney attack sql injection](https://vuldb.com/?id.212411) | Visit link for details | 2022-10-29 at 07:31 |
+| [dzzoffice cross-site request forgery](https://vuldb.com/?id.212410) | Visit link for details | 2022-10-29 at 07:28 |
+| [Delta Electronics DIAEnergie InsertReg API cross site scripting](https://vuldb.com/?id.212409) | Visit link for details | 2022-10-29 at 07:22 |
+| [Delta Electronics DIAEnergie PutShift API cross site scripting](https://vuldb.com/?id.212408) | Visit link for details | 2022-10-29 at 07:21 |
+| [Delta Electronics DIAEnergie SetPF API cross site scripting](https://vuldb.com/?id.212407) | Visit link for details | 2022-10-29 at 07:21 |
+| [Delta Electronics DIAEnergie PutLineMessageSetting API cross site scripting](https://vuldb.com/?id.212406) | Visit link for details | 2022-10-29 at 07:20 |
+| [Delta Electronics DIAEnergie PostEnergyType API cross site scripting](https://vuldb.com/?id.212405) | Visit link for details | 2022-10-29 at 07:18 |
+| [IP-COM EW9 information disclosure](https://vuldb.com/?id.212404) | Visit link for details | 2022-10-29 at 07:17 |
+| [IP-COM EW9 password recovery](https://vuldb.com/?id.212403) | Visit link for details | 2022-10-29 at 07:17 |
+| [GL.iNet GoodCloud IoT Device Management System cross site scripting](https://vuldb.com/?id.212402) | Visit link for details | 2022-10-29 at 07:16 |
+| [Litespeed Technologies OpenLiteSpeed Web Server Container untrusted search path](https://vuldb.com/?id.212401) | Visit link for details | 2022-10-29 at 07:16 |
+| [Litespeed Technologies OpenLiteSpeed Web Server Dashboard command injection](https://vuldb.com/?id.212400) | Visit link for details | 2022-10-29 at 07:15 |
+| [IP-COM EW9 formSetDebugCfg command injection](https://vuldb.com/?id.212399) | Visit link for details | 2022-10-29 at 07:13 |
+| [Tenda AX1803 GetParentControlInfo heap-based overflow](https://vuldb.com/?id.212398) | Visit link for details | 2022-10-29 at 07:12 |
+| [Softr Create A New Account Module cross site scripting](https://vuldb.com/?id.212397) | Visit link for details | 2022-10-29 at 07:10 |
+| [gl-inet GL-MT300N-V2 Mango/GL-AX1800 Flint command injection](https://vuldb.com/?id.212396) | Visit link for details | 2022-10-29 at 07:07 |
