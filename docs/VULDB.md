@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Axiomatic Bento4 Avcinfo SetDataSize heap-based overflow](https://vuldb.com/?id.212564) | Visit link for details | 2022-11-01 at 21:36 |
-| [Axiomatic Bento4 mp4hls Ap4Mp4AudioInfo.cpp ReadBits heap-based overflow](https://vuldb.com/?id.212563) | Visit link for details | 2022-11-01 at 21:33 |
-| [Lodepng pngdetail memory corruption](https://vuldb.com/?id.212562) | Visit link for details | 2022-11-01 at 21:31 |
-| [tsMuxer bitStream.h flushBits heap-based overflow](https://vuldb.com/?id.212561) | Visit link for details | 2022-11-01 at 21:31 |
-| [timg term-query.cc QueryBackgroundColor memory leak](https://vuldb.com/?id.212560) | Visit link for details | 2022-11-01 at 21:31 |
-| [rtf2html rtf_tools.h heap-based overflow](https://vuldb.com/?id.212559) | Visit link for details | 2022-11-01 at 21:30 |
-| [zrax pycdc StackDepotNode stack-based overflow](https://vuldb.com/?id.212558) | Visit link for details | 2022-11-01 at 21:30 |
-| [conduit-hyper to_bytes resource consumption](https://vuldb.com/?id.212557) | Visit link for details | 2022-11-01 at 21:27 |
-| [zephyrproject-rtos Zephyr CAN Frame resource consumption](https://vuldb.com/?id.212556) | Visit link for details | 2022-11-01 at 21:26 |
-| [node-red-dashboard ui_text Format ui-component-ctrl.js cross site scripting](https://vuldb.com/?id.212555) | Visit link for details | 2022-11-01 at 21:23 |
-| [xfig buffer overflow](https://vuldb.com/?id.212554) | Visit link for details | 2022-11-01 at 21:19 |
-| [Newspaper Theme AJAX Action cross site scripting](https://vuldb.com/?id.212553) | Visit link for details | 2022-11-01 at 21:19 |
-| [Newspaper Theme AJAX Action cross site scripting](https://vuldb.com/?id.212552) | Visit link for details | 2022-11-01 at 21:18 |
-| [Rock Convert Plugin Setting cross site scripting](https://vuldb.com/?id.212551) | Visit link for details | 2022-11-01 at 21:18 |
-| [Rock Convert Plugin Attribute cross site scripting](https://vuldb.com/?id.212550) | Visit link for details | 2022-11-01 at 21:17 |
-| [Official Integration for Billingo Plugin cross site scripting](https://vuldb.com/?id.212549) | Visit link for details | 2022-11-01 at 21:16 |
-| [Automatic User Roles Switcher Plugin cross-site request forgery](https://vuldb.com/?id.212548) | Visit link for details | 2022-11-01 at 21:16 |
-| [WP Word Count Plugin Setting cross site scripting](https://vuldb.com/?id.212547) | Visit link for details | 2022-11-01 at 21:08 |
-| [WP Contact Slider Plugin Setting cross site scripting](https://vuldb.com/?id.212546) | Visit link for details | 2022-11-01 at 21:07 |
-| [WP Total Hacks Plugin Setting cross site scripting](https://vuldb.com/?id.212545) | Visit link for details | 2022-11-01 at 21:07 |
-| [Gallery Plugin for Plugin Attribute cross site scripting](https://vuldb.com/?id.212544) | Visit link for details | 2022-11-01 at 21:06 |
-| [Classifieds Plugin Premium Module sql injection](https://vuldb.com/?id.212543) | Visit link for details | 2022-11-01 at 21:06 |
-| [Clinic Patient Management System Profile Picture users.php unrestricted upload](https://vuldb.com/?id.212542) | Visit link for details | 2022-11-01 at 21:05 |
-| [Customizer Export Import Plugin Imported File deserialization](https://vuldb.com/?id.212541) | Visit link for details | 2022-11-01 at 21:04 |
-| [Ocean Extra Plugin Imported File deserialization](https://vuldb.com/?id.212540) | Visit link for details | 2022-11-01 at 21:00 |
-| [PublishPress Capabilities Plugin File Import deserialization](https://vuldb.com/?id.212539) | Visit link for details | 2022-11-01 at 20:59 |
-| [Smart Slider 3 Plugin Imported File deserialization](https://vuldb.com/?id.212538) | Visit link for details | 2022-11-01 at 20:58 |
-| [Easy WP SMTP Plugin Admin Import File deserialization](https://vuldb.com/?id.212537) | Visit link for details | 2022-11-01 at 20:57 |
-| [LearnPress Plugin REST API Endpoint wp_hash deserialization](https://vuldb.com/?id.212536) | Visit link for details | 2022-11-01 at 20:57 |
-| [ProcessWire cross-site request forgery](https://vuldb.com/?id.212535) | Visit link for details | 2022-11-01 at 18:20 |
-| [thlorenz browserify-shim resolve-shims.js resolveShims prototype pollution](https://vuldb.com/?id.212534) | Visit link for details | 2022-11-01 at 18:15 |
-| [kangax html-minifier htmlminifier.js incorrect regex](https://vuldb.com/?id.212533) | Visit link for details | 2022-11-01 at 18:15 |
-| [PwnDoc Authentication timing discrepancy](https://vuldb.com/?id.212532) | Visit link for details | 2022-11-01 at 18:14 |
-| [PwnDoc Authentication timing discrepancy](https://vuldb.com/?id.212531) | Visit link for details | 2022-11-01 at 18:13 |
-| [total.js Metacharacter ping os command injection](https://vuldb.com/?id.212530) | Visit link for details | 2022-11-01 at 18:12 |
-| [Tech Now Ragic Report Generator cross site scripting](https://vuldb.com/?id.212529) | Visit link for details | 2022-11-01 at 18:12 |
-| [ProcessWire Search cross site scripting](https://vuldb.com/?id.212528) | Visit link for details | 2022-11-01 at 18:11 |
-| [First Class One U-Office Force Forum cross site scripting](https://vuldb.com/?id.212527) | Visit link for details | 2022-11-01 at 18:10 |
-| [First Class One U-Office Force UserDefault Page cross site scripting](https://vuldb.com/?id.212526) | Visit link for details | 2022-11-01 at 18:09 |
-| [First Class One U-Office Force PrintMessage cross site scripting](https://vuldb.com/?id.212525) | Visit link for details | 2022-11-01 at 18:09 |
-| [First Class One U-Office Force Bulletin cross site scripting](https://vuldb.com/?id.212524) | Visit link for details | 2022-11-01 at 18:07 |
-| [First Class One U-Office Force Download path traversal](https://vuldb.com/?id.212523) | Visit link for details | 2022-11-01 at 18:07 |
-| [First Class One U-Office Force Download path traversal](https://vuldb.com/?id.212522) | Visit link for details | 2022-11-01 at 18:06 |
-| [First Class One U-Office Force redirect](https://vuldb.com/?id.212521) | Visit link for details | 2022-11-01 at 18:06 |
-| [thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.212520) | Visit link for details | 2022-11-01 at 18:05 |
-| [thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.212519) | Visit link for details | 2022-11-01 at 18:05 |
-| [Stimulsoft Reports Compilation Mode code injection](https://vuldb.com/?id.212518) | Visit link for details | 2022-11-01 at 18:04 |
-| [strongSwan Revocation Plugin resource consumption](https://vuldb.com/?id.212517) | Visit link for details | 2022-11-01 at 18:03 |
-| [multipath-tools Unix Domain Socket access control](https://vuldb.com/?id.212516) | Visit link for details | 2022-11-01 at 18:02 |
-| [multipath-tools multipathd shm symlink](https://vuldb.com/?id.212515) | Visit link for details | 2022-11-01 at 18:02 |
+| [Axiomatic Bento4 mp4mux memory leak](https://vuldb.com/?id.212683) | Visit link for details | 2022-11-02 at 23:12 |
+| [Axiomatic Bento4 mp4decrypt memory leak](https://vuldb.com/?id.212682) | Visit link for details | 2022-11-02 at 23:11 |
+| [Axiomatic Bento4 mp4decrypt memory leak](https://vuldb.com/?id.212681) | Visit link for details | 2022-11-02 at 23:09 |
+| [Axiomatic Bento4 mp4decrypt memory leak](https://vuldb.com/?id.212680) | Visit link for details | 2022-11-02 at 23:05 |
+| [Axiomatic Bento4 mp4edit memory leak](https://vuldb.com/?id.212679) | Visit link for details | 2022-11-02 at 23:04 |
+| [Axiomatic Bento4 mp4encrypt AP4_ContainerAtom memory leak](https://vuldb.com/?id.212678) | Visit link for details | 2022-11-02 at 23:01 |
+| [Canteen Management System editorder.php sql injection](https://vuldb.com/?id.212677) | Visit link for details | 2022-11-02 at 22:58 |
+| [HCL Verse Digital Signature inadequate encryption](https://vuldb.com/?id.212676) | Visit link for details | 2022-11-02 at 22:58 |
+| [Senayan Library Management System pop_chart.php cross site scripting](https://vuldb.com/?id.212675) | Visit link for details | 2022-11-02 at 22:57 |
+| [GitHub Enterprise Server URL information disclosure](https://vuldb.com/?id.212674) | Visit link for details | 2022-11-02 at 22:56 |
+| [Devolutions Remote Desktop Manager/Server My Account Settings missing encryption](https://vuldb.com/?id.212673) | Visit link for details | 2022-11-02 at 22:54 |
+| [Devolutions Remote Desktop Manager MySQL Data Source access control](https://vuldb.com/?id.212672) | Visit link for details | 2022-11-02 at 22:53 |
+| [Senayan Library Management System loan_by_class.php sql injection](https://vuldb.com/?id.212671) | Visit link for details | 2022-11-02 at 22:52 |
+| [Canteen Management System printOrder.php sql injection](https://vuldb.com/?id.212670) | Visit link for details | 2022-11-02 at 22:51 |
+| [Canteen Management System editorder.php sql injection](https://vuldb.com/?id.212669) | Visit link for details | 2022-11-02 at 22:51 |
+| [Canteen Management System print.php sql injection](https://vuldb.com/?id.212668) | Visit link for details | 2022-11-02 at 22:50 |
+| [Axiomatic Bento4 mp42hevc Mp42Hevc.cpp AP4_File denial of service](https://vuldb.com/?id.212667) | Visit link for details | 2022-11-02 at 21:08 |
+| [Axiomatic Bento4 mp4tag Mp4Tag.cpp ParseCommandLine denial of service](https://vuldb.com/?id.212666) | Visit link for details | 2022-11-02 at 21:06 |
+| [phpCAS setUrl resource injection](https://vuldb.com/?id.212665) | Visit link for details | 2022-11-02 at 19:48 |
+| [NdkAdvancedCustomizationFields sql injection](https://vuldb.com/?id.212664) | Visit link for details | 2022-11-02 at 19:47 |
+| [Apache DolphinScheduler Resource Center path traversal](https://vuldb.com/?id.212663) | Visit link for details | 2022-11-02 at 19:45 |
+| [Apache Spark Log cross site scripting](https://vuldb.com/?id.212662) | Visit link for details | 2022-11-02 at 19:43 |
+| [WebFactory Under Construction Plugin Plugin Setting cross site scripting](https://vuldb.com/?id.212661) | Visit link for details | 2022-11-02 at 19:12 |
+| [Axiomatic Bento4 Incomplete Fix CVE-2019-13238 resource consumption](https://vuldb.com/?id.212660) | Visit link for details | 2022-11-02 at 19:10 |
+| [oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212659) | Visit link for details | 2022-11-02 at 19:03 |
+| [Train Scheduler App add-fee.php cross site scripting](https://vuldb.com/?id.212658) | Visit link for details | 2022-11-02 at 19:03 |
+| [open5gs UE Attachment ngap-handler.c memory leak](https://vuldb.com/?id.212657) | Visit link for details | 2022-11-02 at 19:02 |
+| [open5gs PFCP Packet pfcp-path.c memory leak](https://vuldb.com/?id.212656) | Visit link for details | 2022-11-02 at 19:02 |
+| [open5gs PFCP Packet pfcp-path.c memory leak](https://vuldb.com/?id.212655) | Visit link for details | 2022-11-02 at 19:01 |
+| [Restaurant POS System add_product.php unrestricted upload](https://vuldb.com/?id.212654) | Visit link for details | 2022-11-02 at 19:01 |
+| [Vehicle Booking System admin-add-vehicle.php cross site scripting](https://vuldb.com/?id.212653) | Visit link for details | 2022-11-02 at 19:00 |
+| [Vehicle Booking System admin-add-vehicle.php unrestricted upload](https://vuldb.com/?id.212652) | Visit link for details | 2022-11-02 at 19:00 |
+| [Fast Food Ordering System purchase.php cross site scripting](https://vuldb.com/?id.212651) | Visit link for details | 2022-11-02 at 18:59 |
+| [Web-based Student Clearance System add-fee.php cross site scripting](https://vuldb.com/?id.212650) | Visit link for details | 2022-11-02 at 18:59 |
+| [Web-based Student Clearance System edit-admin.php cross site scripting](https://vuldb.com/?id.212649) | Visit link for details | 2022-11-02 at 18:59 |
+| [oretnom23 Online Diagnostic Lab Management System update_status.php sql injection](https://vuldb.com/?id.212648) | Visit link for details | 2022-11-02 at 18:57 |
+| [oretnom23 Online Diagnostic Lab Management System manage_test.php sql injection](https://vuldb.com/?id.212647) | Visit link for details | 2022-11-02 at 18:57 |
+| [oretnom23 Online Diagnostic Lab Management System manage_appointment.php sql injection](https://vuldb.com/?id.212646) | Visit link for details | 2022-11-02 at 18:56 |
+| [Restaurant POS System update_customer.php sql injection](https://vuldb.com/?id.212645) | Visit link for details | 2022-11-02 at 18:56 |
+| [Fast Food Ordering System purchase.php sql injection](https://vuldb.com/?id.212644) | Visit link for details | 2022-11-02 at 18:56 |
+| [OpenSSL X.509 Certificate buffer overflow](https://vuldb.com/?id.212643) | Visit link for details | 2022-11-02 at 17:05 |
+| [OpenSSL x.509 Certificate buffer overflow](https://vuldb.com/?id.212642) | Visit link for details | 2022-11-02 at 17:03 |
+| [Xen Integer Truncation memory corruption](https://vuldb.com/?id.212641) | Visit link for details | 2022-11-02 at 16:59 |
+| [eolinker apinto-dashboard login cross site scripting](https://vuldb.com/?id.212640) | Visit link for details | 2022-11-02 at 16:55 |
+| [eolinker apinto-dashboard cross site scripting](https://vuldb.com/?id.212639) | Visit link for details | 2022-11-02 at 16:52 |
+| [IBAX go-ibax rowsInfo sql injection](https://vuldb.com/?id.212638) | Visit link for details | 2022-11-02 at 16:50 |
+| [IBAX go-ibax rowsInfo sql injection](https://vuldb.com/?id.212637) | Visit link for details | 2022-11-02 at 16:48 |
+| [IBAX go-ibax rowsInfo sql injection](https://vuldb.com/?id.212636) | Visit link for details | 2022-11-02 at 16:46 |
+| [IBAX go-ibax tablesInfo sql injection](https://vuldb.com/?id.212635) | Visit link for details | 2022-11-02 at 16:44 |
+| [IBAX go-ibax tablesInfo sql injection](https://vuldb.com/?id.212634) | Visit link for details | 2022-11-02 at 16:43 |
