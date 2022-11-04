@@ -1,6 +1,9 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Sudo: buffer overflow via Small Passwords](https://vigilance.fr/vulnerability/Sudo-buffer-overflow-via-Small-Passwords-39834) | An attacker can trigger a buffer overflow of Sudo, via Small Passwords, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+| [Webmin: Cross Site Scripting via xterm/index.cgi](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-xterm-index-cgi-39833) | An attacker can trigger a Cross Site Scripting of Webmin, via xterm/index.cgi, in order to run JavaScript code in the context of the web site... | Visit link for details |
+| [Fortinet FortiOS | FortiClient: ingress filtrering bypass via AV Engine](https://vigilance.fr/vulnerability/Fortinet-FortiOS-FortiClient-ingress-filtrering-bypass-via-AV-Engine-39832) | An attacker can bypass filtering rules of Fortinet FortiOS | FortiClient, via AV Engine, in order to send malicious data... | Visit link for details |
 | [Dogtag PKI: external XML entity injection](https://vigilance.fr/vulnerability/Dogtag-PKI-external-XML-entity-injection-39831) | An attacker can transmit malicious XML data to Dogtag PKI, in order to read a file, scan sites, or trigger a denial of service... | Visit link for details |
 | [Splunk Enterprise: denial of service via Indexing Blockage](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Indexing-Blockage-39830) | An attacker can cause a fatal error of Splunk Enterprise, via Indexing Blockage, in order to trigger a denial of service... | Visit link for details |
 | [Splunk Enterprise: code execution via Dashboard PDF Generation](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Dashboard-PDF-Generation-39829) | An attacker can use a vulnerability of Splunk Enterprise, via Dashboard PDF Generation, in order to run code... | Visit link for details |
@@ -98,6 +101,3 @@
 | [Intel Processor: information disclosure](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-39729) | An attacker can bypass access restrictions to data of Intel Processor, in order to read sensitive information... | Visit link for details |
 | [ArubaOS: multiple vulnerabilities](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-39727) | An attacker can use several vulnerabilities of ArubaOS... | Visit link for details |
 | [ArcGIS Server: five vulnerabilities](https://vigilance.fr/vulnerability/ArcGIS-Server-five-vulnerabilities-39726) | An attacker can use several vulnerabilities of ArcGIS Server... | Visit link for details |
-| [Webmin | Usermin: two vulnerabilities](https://vigilance.fr/vulnerability/Webmin-Usermin-two-vulnerabilities-39725) | An attacker can use several vulnerabilities of Webmin | Usermin... | Visit link for details |
-| [Joomla Core: two vulnerabilities](https://vigilance.fr/vulnerability/Joomla-Core-two-vulnerabilities-39724) | An attacker can use several vulnerabilities of Joomla Core... | Visit link for details |
-| [Synology DiskStation Manager: two vulnerabilities](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-two-vulnerabilities-39723) | An attacker can use several vulnerabilities of Synology DiskStation Manager... | Visit link for details |
