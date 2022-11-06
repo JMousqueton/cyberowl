@@ -1,32 +1,27 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [GLPI Debug Panel update.php access control](https://vuldb.com/?id.212896) | Visit link for details | 2022-11-04 at 19:46 |
-| [JetBrains TeamCity User Setting omission of security-relevant information](https://vuldb.com/?id.212895) | Visit link for details | 2022-11-04 at 19:22 |
-| [JetBrains TeamCity log file](https://vuldb.com/?id.212894) | Visit link for details | 2022-11-04 at 19:21 |
-| [JetBrains TeamCity Project Viewer file information disclosure](https://vuldb.com/?id.212893) | Visit link for details | 2022-11-04 at 19:21 |
-| [JetBrains TeamCity Secure Token Health Item access control](https://vuldb.com/?id.212892) | Visit link for details | 2022-11-04 at 19:20 |
-| [Tenda AC23 formSetFirewallCfg stack-based overflow](https://vuldb.com/?id.212891) | Visit link for details | 2022-11-04 at 19:19 |
-| [Tenda AC23 setSmartPowerManagement stack-based overflow](https://vuldb.com/?id.212890) | Visit link for details | 2022-11-04 at 19:18 |
-| [Tenda AC23 setSchedWifi stack-based overflow](https://vuldb.com/?id.212889) | Visit link for details | 2022-11-04 at 19:17 |
-| [Tenda AC23 fromSetWifiGusetBasic stack-based overflow](https://vuldb.com/?id.212888) | Visit link for details | 2022-11-04 at 19:17 |
-| [Tenda AC23 fromSetWirelessRepeat stack-based overflow](https://vuldb.com/?id.212887) | Visit link for details | 2022-11-04 at 19:16 |
-| [Tenda AC23 Parameter formSetQosBand out-of-bounds write](https://vuldb.com/?id.212886) | Visit link for details | 2022-11-04 at 19:15 |
-| [Tenda AC23 fromSetSysTime out-of-bounds write](https://vuldb.com/?id.212885) | Visit link for details | 2022-11-04 at 19:13 |
-| [Tenda AC23 formSetDeviceName out-of-bounds write](https://vuldb.com/?id.212884) | Visit link for details | 2022-11-04 at 19:12 |
-| [OpenWRT LuCI Public Key Comment sshkeys.js cross site scripting](https://vuldb.com/?id.212883) | Visit link for details | 2022-11-04 at 19:12 |
-| [Keystone Environment Variable injection](https://vuldb.com/?id.212882) | Visit link for details | 2022-11-04 at 19:09 |
-| [D-Link DIR-823G Packet SetNetworkTomographySettings command injection](https://vuldb.com/?id.212881) | Visit link for details | 2022-11-04 at 19:08 |
-| [GLPI API REST sql injection](https://vuldb.com/?id.212880) | Visit link for details | 2022-11-04 at 19:07 |
-| [GLPI Rich-Text Content cross site scripting](https://vuldb.com/?id.212879) | Visit link for details | 2022-11-04 at 19:06 |
-| [GLPI Cookie session expiration](https://vuldb.com/?id.212878) | Visit link for details | 2022-11-04 at 19:04 |
-| [GLPI RSS Feed server-side request forgery](https://vuldb.com/?id.212877) | Visit link for details | 2022-11-04 at 19:03 |
-| [Apache UIMA PEAR Management FileUtil path traversal](https://vuldb.com/?id.212876) | Visit link for details | 2022-11-04 at 18:59 |
-| [Pixman libpixman rasterize_edges_8 out-of-bounds write](https://vuldb.com/?id.212875) | Visit link for details | 2022-11-04 at 12:38 |
-| [Alpine STARTTLS denial of service](https://vuldb.com/?id.212874) | Visit link for details | 2022-11-04 at 12:37 |
-| [Ayoub Media AM-HiLi Plugin cross site scripting](https://vuldb.com/?id.212873) | Visit link for details | 2022-11-04 at 07:28 |
-| [AgentEasy Properties Plugin cross site scripting](https://vuldb.com/?id.212872) | Visit link for details | 2022-11-04 at 07:27 |
-| [GitLab Community Edition/Enterprise Edition External Status Check cross site scripting](https://vuldb.com/?id.212871) | Visit link for details | 2022-11-04 at 07:25 |
-| [Trihedral VTScada HTTP Request denial of service](https://vuldb.com/?id.212870) | Visit link for details | 2022-11-04 at 07:23 |
-| [oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212869) | Visit link for details | 2022-11-04 at 07:22 |
-| [oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212868) | Visit link for details | 2022-11-04 at 07:22 |
+| [froxlor code injection](https://vuldb.com/?id.213013) | Visit link for details | 2022-11-06 at 17:50 |
+| [SourceCodester Sanitization Management System sql injection](https://vuldb.com/?id.213012) | Visit link for details | 2022-11-06 at 09:51 |
+| [jhead exif.c Put16u buffer overflow](https://vuldb.com/?id.213011) | Visit link for details | 2022-11-06 at 09:47 |
+| [Saibamen HotelManager Contact Field Kernel.php cross site scripting](https://vuldb.com/?id.213010) | Visit link for details | 2022-11-06 at 09:45 |
+| [Splunk Enterprise Data Model cross site scripting](https://vuldb.com/?id.213009) | Visit link for details | 2022-11-06 at 09:43 |
+| [HCL XPages cross-site request forgery](https://vuldb.com/?id.213008) | Visit link for details | 2022-11-06 at 09:43 |
+| [Blobster Foundry Blobster Service cross site scripting](https://vuldb.com/?id.213007) | Visit link for details | 2022-11-06 at 09:41 |
+| [diplib double free](https://vuldb.com/?id.213006) | Visit link for details | 2022-11-06 at 09:40 |
+| [Splunk Splunk Enterprise XML xml external entity reference](https://vuldb.com/?id.213005) | Visit link for details | 2022-11-06 at 09:33 |
+| [Splunk Enterprise JSON cross site scripting](https://vuldb.com/?id.213004) | Visit link for details | 2022-11-06 at 09:32 |
+| [OSIsoft Foundry Magritte Plugin Authentication Request log file](https://vuldb.com/?id.213003) | Visit link for details | 2022-11-06 at 09:32 |
+| [Splunk Enterprise Header input validation](https://vuldb.com/?id.213002) | Visit link for details | 2022-11-06 at 09:25 |
+| [HCL Domino Search information disclosure](https://vuldb.com/?id.213001) | Visit link for details | 2022-11-06 at 09:25 |
+| [Splunk Enterprise Splunk-to-Splunk Collector/HTTP Event Collector resource consumption](https://vuldb.com/?id.213000) | Visit link for details | 2022-11-06 at 09:24 |
+| [Splunk Enterprise SPL Safeguard access control](https://vuldb.com/?id.212999) | Visit link for details | 2022-11-06 at 09:23 |
+| [Splunk Enterprise tstats Command access control](https://vuldb.com/?id.212998) | Visit link for details | 2022-11-06 at 09:22 |
+| [Splunk Enterprise SPL Safeguard access control](https://vuldb.com/?id.212997) | Visit link for details | 2022-11-06 at 09:21 |
+| [OpenZeppelin Contracts Contract Creation initialization](https://vuldb.com/?id.212996) | Visit link for details | 2022-11-06 at 09:20 |
+| [Azure RTOS USBX USB DFU UPLOAD ux_device_class_dfu_control_request buffer overflow](https://vuldb.com/?id.212995) | Visit link for details | 2022-11-06 at 08:44 |
+| [XWiki Request Parameter improper authentication](https://vuldb.com/?id.212994) | Visit link for details | 2022-11-06 at 08:38 |
+| [Splunk Enterprise Search Macro resource consumption](https://vuldb.com/?id.212993) | Visit link for details | 2022-11-06 at 08:18 |
+| [Splunk Enterprise Mobile Alerts deserialization](https://vuldb.com/?id.212992) | Visit link for details | 2022-11-06 at 08:17 |
+| [VMware Spring Tools/VSCode Extension Snakeyaml Remote Code Execution](https://vuldb.com/?id.212991) | Visit link for details | 2022-11-06 at 08:12 |
+| [Linux Kernel NFSD buffer size](https://vuldb.com/?id.212990) | Visit link for details | 2022-11-06 at 08:07 |
