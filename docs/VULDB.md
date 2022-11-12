@@ -1,53 +1,52 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Vela Server/Worker/UI privileges management](https://vuldb.com/?id.213415) | Visit link for details | 2022-11-11 at 22:42 |
-| [Hualing Agentflow BPM improper authentication](https://vuldb.com/?id.213414) | Visit link for details | 2022-11-11 at 22:41 |
-| [Hualing Agentflow BPM path traversal](https://vuldb.com/?id.213413) | Visit link for details | 2022-11-11 at 22:40 |
-| [Hualing Agentflow BPM URL unrestricted upload](https://vuldb.com/?id.213412) | Visit link for details | 2022-11-11 at 22:40 |
-| [UPSMON Pro Configuration File insufficiently protected credentials](https://vuldb.com/?id.213411) | Visit link for details | 2022-11-11 at 22:39 |
-| [UPSMON Pro path traversal](https://vuldb.com/?id.213410) | Visit link for details | 2022-11-11 at 22:39 |
-| [UPSMON Pro Login improper authentication](https://vuldb.com/?id.213409) | Visit link for details | 2022-11-11 at 22:38 |
-| [Payara Community/Enterprise Privilege Escalation](https://vuldb.com/?id.213408) | Visit link for details | 2022-11-11 at 22:37 |
-| [Deeplearning4J invariant value in dynamically changing context](https://vuldb.com/?id.213407) | Visit link for details | 2022-11-11 at 22:36 |
-| [AyaCMS fst_upload.inc.php unrestricted upload](https://vuldb.com/?id.213406) | Visit link for details | 2022-11-11 at 22:35 |
-| [xterm OSC 50 Response Privilege Escalation](https://vuldb.com/?id.213405) | Visit link for details | 2022-11-11 at 19:11 |
-| [Wiesemann & Theis AT-Modem-Emulator/Com-Server small space of random values](https://vuldb.com/?id.213404) | Visit link for details | 2022-11-11 at 19:10 |
-| [NVIDIA GPU Display Driver Kernel Mode Layer null pointer dereference](https://vuldb.com/?id.213403) | Visit link for details | 2022-11-11 at 19:09 |
-| [SUSE Linux Enterprise Module for SUSE Manager Server cross site scripting](https://vuldb.com/?id.213402) | Visit link for details | 2022-11-11 at 19:07 |
-| [SUSE Linux Enterprise Module for SUSE Manager Server path traversal](https://vuldb.com/?id.213401) | Visit link for details | 2022-11-11 at 19:06 |
-| [SUSE Linux Enterprise Module for SUSE Manager Server path traversal](https://vuldb.com/?id.213400) | Visit link for details | 2022-11-11 at 19:05 |
-| [DedeCMS cross-site request forgery](https://vuldb.com/?id.213399) | Visit link for details | 2022-11-11 at 10:14 |
-| [tasklists Task Content cross site scripting](https://vuldb.com/?id.213398) | Visit link for details | 2022-11-11 at 10:13 |
-| [James Lao Simple Video Embedder Plugin cross site scripting](https://vuldb.com/?id.213397) | Visit link for details | 2022-11-11 at 10:12 |
-| [Lin-CMS improper authentication](https://vuldb.com/?id.213396) | Visit link for details | 2022-11-11 at 10:10 |
-| [Samsung Smart Phone RIL RxServiceModeBigDataInfo insufficient permissions or privileges](https://vuldb.com/?id.213395) | Visit link for details | 2022-11-11 at 10:10 |
-| [Samsung Smart Phone DeviceManagement BootCompletedReceiver_CMCC insufficient permissions or privileges](https://vuldb.com/?id.213394) | Visit link for details | 2022-11-11 at 10:02 |
-| [Samsung Smart Phone IImsService access control](https://vuldb.com/?id.213393) | Visit link for details | 2022-11-11 at 10:01 |
-| [Samsung Smart Phone StorageManagerService improper authorization](https://vuldb.com/?id.213392) | Visit link for details | 2022-11-11 at 10:00 |
-| [Samsung Smart Phone libsmat.so sflacf_fal_bytes_peek out-of-bounds write](https://vuldb.com/?id.213391) | Visit link for details | 2022-11-11 at 10:00 |
-| [Samsung Smart Phone CallBGProvider improper authorization](https://vuldb.com/?id.213390) | Visit link for details | 2022-11-11 at 09:59 |
-| [Samsung Smart Phone MiscPolicy access control](https://vuldb.com/?id.213389) | Visit link for details | 2022-11-11 at 09:49 |
-| [Samsung Smart Phone DualOutFocusViewer input validation](https://vuldb.com/?id.213388) | Visit link for details | 2022-11-11 at 09:02 |
-| [AMD Link information disclosure](https://vuldb.com/?id.213387) | Visit link for details | 2022-11-11 at 09:01 |
-| [Huawei HarmonyOS SD Upgrade Mode race condition](https://vuldb.com/?id.213386) | Visit link for details | 2022-11-11 at 09:00 |
-| [Huawei HarmonyOS System Framework Layer deserialization](https://vuldb.com/?id.213385) | Visit link for details | 2022-11-11 at 08:59 |
-| [Huawei HarmonyOS Launcher Module access control](https://vuldb.com/?id.213384) | Visit link for details | 2022-11-11 at 08:59 |
-| [Huawei HarmonyOS AMS Module deserialization](https://vuldb.com/?id.213383) | Visit link for details | 2022-11-11 at 08:58 |
-| [Huawei HarmonyOS AMS Module deserialization](https://vuldb.com/?id.213382) | Visit link for details | 2022-11-11 at 08:55 |
-| [Huawei HarmonyOS DDMP/ODMF denial of service](https://vuldb.com/?id.213381) | Visit link for details | 2022-11-11 at 08:54 |
-| [Huawei HarmonyOS Power Module permission](https://vuldb.com/?id.213380) | Visit link for details | 2022-11-11 at 08:53 |
-| [Huawei HarmonyOS Lock Screen denial of service](https://vuldb.com/?id.213379) | Visit link for details | 2022-11-11 at 08:53 |
-| [Huawei HarmonyOS iAware Module Privilege Escalation](https://vuldb.com/?id.213378) | Visit link for details | 2022-11-11 at 08:52 |
-| [Huawei HarmonyOS Graphics Display denial of service](https://vuldb.com/?id.213377) | Visit link for details | 2022-11-11 at 08:47 |
-| [Huawei HarmonyOS Display Service denial of service](https://vuldb.com/?id.213376) | Visit link for details | 2022-11-11 at 08:46 |
-| [Samsung Pass Keep Open Feature improper authentication](https://vuldb.com/?id.213375) | Visit link for details | 2022-11-11 at 08:45 |
-| [Samsung Editor Lite libsavsaudio.so parse_pce heap-based overflow](https://vuldb.com/?id.213374) | Visit link for details | 2022-11-11 at 08:45 |
-| [Samsung Billing improper authorization](https://vuldb.com/?id.213373) | Visit link for details | 2022-11-11 at 08:44 |
-| [GalaxyWatch4Plugin access control](https://vuldb.com/?id.213372) | Visit link for details | 2022-11-11 at 08:44 |
-| [Huawei HarmonyOS Memory Management Module information disclosure](https://vuldb.com/?id.213371) | Visit link for details | 2022-11-11 at 08:43 |
-| [Huawei HarmonyOS DRM Module Remote Code Execution](https://vuldb.com/?id.213370) | Visit link for details | 2022-11-11 at 08:42 |
-| [AMD Radeon/Ryzen/Athlon ASP Driver Privilege Escalation](https://vuldb.com/?id.213369) | Visit link for details | 2022-11-11 at 08:42 |
-| [GitLab Community Edition/Enterprise Edition cross site scripting](https://vuldb.com/?id.213368) | Visit link for details | 2022-11-11 at 08:40 |
-| [GitLab Community Edition/Enterprise Edition Emoji improper authorization](https://vuldb.com/?id.213367) | Visit link for details | 2022-11-11 at 08:40 |
-| [GitLab Community Edition/Enterprise Edition Configuration File improper authorization](https://vuldb.com/?id.213366) | Visit link for details | 2022-11-11 at 08:38 |
+| [drogon Session Hash small space of random values](https://vuldb.com/?id.213464) | Visit link for details | 2022-11-12 at 17:04 |
+| [GPAC SVG Parser svg_attributes.c svg_parse_preserveaspectratio memory leak](https://vuldb.com/?id.213463) | Visit link for details | 2022-11-12 at 16:55 |
+| [tsruban HHIMS Patient Portrait sql injection](https://vuldb.com/?id.213462) | Visit link for details | 2022-11-12 at 16:50 |
+| [tholum crm42 Login class.user.php sql injection](https://vuldb.com/?id.213461) | Visit link for details | 2022-11-12 at 16:47 |
+| [SnakeYAML YAML File stack-based overflow](https://vuldb.com/?id.213460) | Visit link for details | 2022-11-12 at 16:43 |
+| [Exiv2 QuickTime Video quicktimevideo.cpp multipleEntriesDecoder infinite loop](https://vuldb.com/?id.213459) | Visit link for details | 2022-11-12 at 14:54 |
+| [kareadita kavita excessive authentication](https://vuldb.com/?id.213458) | Visit link for details | 2022-11-12 at 14:51 |
+| [ManyDesigns Portofino WarFileLauncher.java createTempDir temp file](https://vuldb.com/?id.213457) | Visit link for details | 2022-11-12 at 14:46 |
+| [sanluan PublicCMS Tab dwz.min.js initLink cross site scripting](https://vuldb.com/?id.213456) | Visit link for details | 2022-11-12 at 14:32 |
+| [Sourcecodester Simple Cashiering System User Account cross site scripting](https://vuldb.com/?id.213455) | Visit link for details | 2022-11-12 at 13:22 |
+| [eolinker goku_lite getList sql injection](https://vuldb.com/?id.213454) | Visit link for details | 2022-11-12 at 13:19 |
+| [eolinker goku_lite list sql injection](https://vuldb.com/?id.213453) | Visit link for details | 2022-11-12 at 13:15 |
+| [AMI/Dell/HPE/Insyde/Intel UEFI toctou](https://vuldb.com/?id.213452) | Visit link for details | 2022-11-12 at 08:58 |
+| [jerryhanjj ERP Commodity Management inventory.php uploadImages unrestricted upload](https://vuldb.com/?id.213451) | Visit link for details | 2022-11-12 at 08:39 |
+| [ForU CMS cms_chip.php cross site scripting](https://vuldb.com/?id.213450) | Visit link for details | 2022-11-12 at 08:34 |
+| [SourceCodester Sanitization Management System Quote Requests Form cross site scripting](https://vuldb.com/?id.213449) | Visit link for details | 2022-11-12 at 08:23 |
+| [Activity Log Plugin HTTP Header neutralization for logs](https://vuldb.com/?id.213448) | Visit link for details | 2022-11-12 at 08:11 |
+| [lanyulei ferry task.go path traversal](https://vuldb.com/?id.213447) | Visit link for details | 2022-11-12 at 08:01 |
+| [lanyulei ferry API file.go path traversal](https://vuldb.com/?id.213446) | Visit link for details | 2022-11-12 at 07:55 |
+| [mm-wki cross site scripting](https://vuldb.com/?id.213445) | Visit link for details | 2022-11-12 at 07:51 |
+| [Traffic Manager Plugin cross site scripting](https://vuldb.com/?id.213444) | Visit link for details | 2022-11-12 at 07:51 |
+| [shamaton msgpack denial of service](https://vuldb.com/?id.213443) | Visit link for details | 2022-11-12 at 07:46 |
+| [EU Cookie Law GDPR Module sql injection](https://vuldb.com/?id.213442) | Visit link for details | 2022-11-12 at 07:45 |
+| [xpdfreader buffer overflow](https://vuldb.com/?id.213441) | Visit link for details | 2022-11-12 at 07:44 |
+| [HashiCorp Nomad/Nomad Enterprise Token session expiration](https://vuldb.com/?id.213440) | Visit link for details | 2022-11-12 at 07:44 |
+| [ESPCMS IS_GETCACHE Privilege Escalation](https://vuldb.com/?id.213439) | Visit link for details | 2022-11-12 at 07:43 |
+| [ESPCMS INPUT_ISDESCRIPTION Privilege Escalation](https://vuldb.com/?id.213438) | Visit link for details | 2022-11-12 at 07:43 |
+| [ESPCMS UPFILE_PIC_ZOOM_HIGHT Privilege Escalation](https://vuldb.com/?id.213437) | Visit link for details | 2022-11-12 at 07:42 |
+| [dotCMS information disclosure](https://vuldb.com/?id.213436) | Visit link for details | 2022-11-12 at 07:42 |
+| [Arches Web Request sql injection](https://vuldb.com/?id.213435) | Visit link for details | 2022-11-12 at 07:40 |
+| [Contiki-NG L2CAP ble-l2cap.c get_channel_for_cid out-of-bounds write](https://vuldb.com/?id.213434) | Visit link for details | 2022-11-12 at 07:38 |
+| [UPSMON Pro cleartext transmission](https://vuldb.com/?id.213433) | Visit link for details | 2022-11-12 at 07:37 |
+| [Intel Server Board M10JNP Family input validation](https://vuldb.com/?id.213432) | Visit link for details | 2022-11-12 at 07:36 |
+| [Istio Service Mesh authorization](https://vuldb.com/?id.213431) | Visit link for details | 2022-11-12 at 07:35 |
+| [Plesk Obsidian REST API commands cross-site request forgery](https://vuldb.com/?id.213430) | Visit link for details | 2022-11-12 at 07:31 |
+| [Wasmtime C API trap.h out-of-bounds write](https://vuldb.com/?id.213429) | Visit link for details | 2022-11-12 at 07:29 |
+| [Wasmtime out-of-bounds write](https://vuldb.com/?id.213428) | Visit link for details | 2022-11-12 at 07:26 |
+| [Wiesemann & Theis AT-Modem-Emulator/Com-Server cross site scripting](https://vuldb.com/?id.213427) | Visit link for details | 2022-11-12 at 07:23 |
+| [HashiCorp Nomad/Nomad Enterprise exposure of resource](https://vuldb.com/?id.213426) | Visit link for details | 2022-11-12 at 07:21 |
+| [Parse Server Cloud Code Webhook prototype pollution](https://vuldb.com/?id.213425) | Visit link for details | 2022-11-12 at 07:20 |
+| [ownCloud Server E-Mail Message Remote Code Execution](https://vuldb.com/?id.213424) | Visit link for details | 2022-11-12 at 07:20 |
+| [Parse Server Cloud Code Webhook Target Endpoint prototype pollution](https://vuldb.com/?id.213423) | Visit link for details | 2022-11-12 at 07:10 |
+| [ezplatform-graphql Password Hash User.types.yaml&quot insecure storage of sensitive information](https://vuldb.com/?id.213422) | Visit link for details | 2022-11-12 at 07:09 |
+| [ETIC Telecom Remote Access Server unrestricted upload](https://vuldb.com/?id.213421) | Visit link for details | 2022-11-12 at 07:03 |
+| [ETIC Telecom Remote Access Server Web Portal data authenticity](https://vuldb.com/?id.213420) | Visit link for details | 2022-11-12 at 07:02 |
+| [Wasmtime unknown vulnerability](https://vuldb.com/?id.213419) | Visit link for details | 2022-11-12 at 07:01 |
+| [BMC Remedy Incident Forwarding cross site scripting](https://vuldb.com/?id.213418) | Visit link for details | 2022-11-12 at 07:00 |
+| [Redex APK File get_stringidx_fromdex untrusted pointer dereference](https://vuldb.com/?id.213417) | Visit link for details | 2022-11-12 at 06:59 |
+| [ETIC Telecom Remote Access Server API path traversal](https://vuldb.com/?id.213416) | Visit link for details | 2022-11-12 at 06:56 |
