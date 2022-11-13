@@ -1,52 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [drogon Session Hash small space of random values](https://vuldb.com/?id.213464) | Visit link for details | 2022-11-12 at 17:04 |
-| [GPAC SVG Parser svg_attributes.c svg_parse_preserveaspectratio memory leak](https://vuldb.com/?id.213463) | Visit link for details | 2022-11-12 at 16:55 |
-| [tsruban HHIMS Patient Portrait sql injection](https://vuldb.com/?id.213462) | Visit link for details | 2022-11-12 at 16:50 |
-| [tholum crm42 Login class.user.php sql injection](https://vuldb.com/?id.213461) | Visit link for details | 2022-11-12 at 16:47 |
-| [SnakeYAML YAML File stack-based overflow](https://vuldb.com/?id.213460) | Visit link for details | 2022-11-12 at 16:43 |
-| [Exiv2 QuickTime Video quicktimevideo.cpp multipleEntriesDecoder infinite loop](https://vuldb.com/?id.213459) | Visit link for details | 2022-11-12 at 14:54 |
-| [kareadita kavita excessive authentication](https://vuldb.com/?id.213458) | Visit link for details | 2022-11-12 at 14:51 |
-| [ManyDesigns Portofino WarFileLauncher.java createTempDir temp file](https://vuldb.com/?id.213457) | Visit link for details | 2022-11-12 at 14:46 |
-| [sanluan PublicCMS Tab dwz.min.js initLink cross site scripting](https://vuldb.com/?id.213456) | Visit link for details | 2022-11-12 at 14:32 |
-| [Sourcecodester Simple Cashiering System User Account cross site scripting](https://vuldb.com/?id.213455) | Visit link for details | 2022-11-12 at 13:22 |
-| [eolinker goku_lite getList sql injection](https://vuldb.com/?id.213454) | Visit link for details | 2022-11-12 at 13:19 |
-| [eolinker goku_lite list sql injection](https://vuldb.com/?id.213453) | Visit link for details | 2022-11-12 at 13:15 |
-| [AMI/Dell/HPE/Insyde/Intel UEFI toctou](https://vuldb.com/?id.213452) | Visit link for details | 2022-11-12 at 08:58 |
-| [jerryhanjj ERP Commodity Management inventory.php uploadImages unrestricted upload](https://vuldb.com/?id.213451) | Visit link for details | 2022-11-12 at 08:39 |
-| [ForU CMS cms_chip.php cross site scripting](https://vuldb.com/?id.213450) | Visit link for details | 2022-11-12 at 08:34 |
-| [SourceCodester Sanitization Management System Quote Requests Form cross site scripting](https://vuldb.com/?id.213449) | Visit link for details | 2022-11-12 at 08:23 |
-| [Activity Log Plugin HTTP Header neutralization for logs](https://vuldb.com/?id.213448) | Visit link for details | 2022-11-12 at 08:11 |
-| [lanyulei ferry task.go path traversal](https://vuldb.com/?id.213447) | Visit link for details | 2022-11-12 at 08:01 |
-| [lanyulei ferry API file.go path traversal](https://vuldb.com/?id.213446) | Visit link for details | 2022-11-12 at 07:55 |
-| [mm-wki cross site scripting](https://vuldb.com/?id.213445) | Visit link for details | 2022-11-12 at 07:51 |
-| [Traffic Manager Plugin cross site scripting](https://vuldb.com/?id.213444) | Visit link for details | 2022-11-12 at 07:51 |
-| [shamaton msgpack denial of service](https://vuldb.com/?id.213443) | Visit link for details | 2022-11-12 at 07:46 |
-| [EU Cookie Law GDPR Module sql injection](https://vuldb.com/?id.213442) | Visit link for details | 2022-11-12 at 07:45 |
-| [xpdfreader buffer overflow](https://vuldb.com/?id.213441) | Visit link for details | 2022-11-12 at 07:44 |
-| [HashiCorp Nomad/Nomad Enterprise Token session expiration](https://vuldb.com/?id.213440) | Visit link for details | 2022-11-12 at 07:44 |
-| [ESPCMS IS_GETCACHE Privilege Escalation](https://vuldb.com/?id.213439) | Visit link for details | 2022-11-12 at 07:43 |
-| [ESPCMS INPUT_ISDESCRIPTION Privilege Escalation](https://vuldb.com/?id.213438) | Visit link for details | 2022-11-12 at 07:43 |
-| [ESPCMS UPFILE_PIC_ZOOM_HIGHT Privilege Escalation](https://vuldb.com/?id.213437) | Visit link for details | 2022-11-12 at 07:42 |
-| [dotCMS information disclosure](https://vuldb.com/?id.213436) | Visit link for details | 2022-11-12 at 07:42 |
-| [Arches Web Request sql injection](https://vuldb.com/?id.213435) | Visit link for details | 2022-11-12 at 07:40 |
-| [Contiki-NG L2CAP ble-l2cap.c get_channel_for_cid out-of-bounds write](https://vuldb.com/?id.213434) | Visit link for details | 2022-11-12 at 07:38 |
-| [UPSMON Pro cleartext transmission](https://vuldb.com/?id.213433) | Visit link for details | 2022-11-12 at 07:37 |
-| [Intel Server Board M10JNP Family input validation](https://vuldb.com/?id.213432) | Visit link for details | 2022-11-12 at 07:36 |
-| [Istio Service Mesh authorization](https://vuldb.com/?id.213431) | Visit link for details | 2022-11-12 at 07:35 |
-| [Plesk Obsidian REST API commands cross-site request forgery](https://vuldb.com/?id.213430) | Visit link for details | 2022-11-12 at 07:31 |
-| [Wasmtime C API trap.h out-of-bounds write](https://vuldb.com/?id.213429) | Visit link for details | 2022-11-12 at 07:29 |
-| [Wasmtime out-of-bounds write](https://vuldb.com/?id.213428) | Visit link for details | 2022-11-12 at 07:26 |
-| [Wiesemann & Theis AT-Modem-Emulator/Com-Server cross site scripting](https://vuldb.com/?id.213427) | Visit link for details | 2022-11-12 at 07:23 |
-| [HashiCorp Nomad/Nomad Enterprise exposure of resource](https://vuldb.com/?id.213426) | Visit link for details | 2022-11-12 at 07:21 |
-| [Parse Server Cloud Code Webhook prototype pollution](https://vuldb.com/?id.213425) | Visit link for details | 2022-11-12 at 07:20 |
-| [ownCloud Server E-Mail Message Remote Code Execution](https://vuldb.com/?id.213424) | Visit link for details | 2022-11-12 at 07:20 |
-| [Parse Server Cloud Code Webhook Target Endpoint prototype pollution](https://vuldb.com/?id.213423) | Visit link for details | 2022-11-12 at 07:10 |
-| [ezplatform-graphql Password Hash User.types.yaml&quot insecure storage of sensitive information](https://vuldb.com/?id.213422) | Visit link for details | 2022-11-12 at 07:09 |
-| [ETIC Telecom Remote Access Server unrestricted upload](https://vuldb.com/?id.213421) | Visit link for details | 2022-11-12 at 07:03 |
-| [ETIC Telecom Remote Access Server Web Portal data authenticity](https://vuldb.com/?id.213420) | Visit link for details | 2022-11-12 at 07:02 |
-| [Wasmtime unknown vulnerability](https://vuldb.com/?id.213419) | Visit link for details | 2022-11-12 at 07:01 |
-| [BMC Remedy Incident Forwarding cross site scripting](https://vuldb.com/?id.213418) | Visit link for details | 2022-11-12 at 07:00 |
-| [Redex APK File get_stringidx_fromdex untrusted pointer dereference](https://vuldb.com/?id.213417) | Visit link for details | 2022-11-12 at 06:59 |
-| [ETIC Telecom Remote Access Server API path traversal](https://vuldb.com/?id.213416) | Visit link for details | 2022-11-12 at 06:56 |
+| [gnuboard5 FAQ Key ID faq.php cross site scripting](https://vuldb.com/?id.213540) | Visit link for details | 2022-11-13 at 17:20 |
+| [Intel EMA cross site scripting](https://vuldb.com/?id.213539) | Visit link for details | 2022-11-13 at 15:38 |
+| [Intel Glorp uncontrolled search path](https://vuldb.com/?id.213538) | Visit link for details | 2022-11-13 at 15:37 |
+| [Intel SPS Firmware denial of service](https://vuldb.com/?id.213537) | Visit link for details | 2022-11-13 at 15:37 |
+| [Intel CPU BIOS Firmware input validation](https://vuldb.com/?id.213536) | Visit link for details | 2022-11-13 at 15:36 |
+| [Intel CPU BIOS Firmware toctou](https://vuldb.com/?id.213535) | Visit link for details | 2022-11-13 at 15:35 |
+| [CBRN-Analysis mws XML Document xml external entity reference](https://vuldb.com/?id.213534) | Visit link for details | 2022-11-13 at 15:35 |
+| [Intel SGX SDK information disclosure](https://vuldb.com/?id.213533) | Visit link for details | 2022-11-13 at 15:33 |
+| [Zoho ManageEngine Password Manager Pro/PAM360/Access Manager Plus sql injection](https://vuldb.com/?id.213532) | Visit link for details | 2022-11-13 at 15:33 |
+| [Zoho ManageEngine Mobile Device Manager Plus User Administration Module Privilege Escalation](https://vuldb.com/?id.213531) | Visit link for details | 2022-11-13 at 15:32 |
+| [WsgiDAV Configuration cross site scripting](https://vuldb.com/?id.213530) | Visit link for details | 2022-11-13 at 15:24 |
+| [Pi-Star_DV_Dash Privilege Escalation](https://vuldb.com/?id.213529) | Visit link for details | 2022-11-13 at 15:23 |
+| [Intel DCM protection mechanism](https://vuldb.com/?id.213528) | Visit link for details | 2022-11-13 at 15:23 |
+| [Intel PROSet/Wireless WiFi out-of-bounds write](https://vuldb.com/?id.213527) | Visit link for details | 2022-11-13 at 15:22 |
+| [Intel Distribution of OpenVINO Toolkit denial of service](https://vuldb.com/?id.213526) | Visit link for details | 2022-11-13 at 15:21 |
+| [CBRN-Analysis Public Profile permission](https://vuldb.com/?id.213525) | Visit link for details | 2022-11-13 at 15:18 |
+| [Intel Quartus Prime Standard Edition xml injection](https://vuldb.com/?id.213524) | Visit link for details | 2022-11-13 at 15:18 |
+| [Intel SDP Tool information disclosure](https://vuldb.com/?id.213523) | Visit link for details | 2022-11-13 at 15:17 |
+| [Intel NUC 11 Compute Element BIOS Firmware input validation](https://vuldb.com/?id.213522) | Visit link for details | 2022-11-13 at 15:16 |
+| [Intel NUC Kit BIOS Firmware improper authentication](https://vuldb.com/?id.213521) | Visit link for details | 2022-11-13 at 15:16 |
+| [Intel NUC 11 Pro Kit/NUC 11 Pro Board initialization](https://vuldb.com/?id.213520) | Visit link for details | 2022-11-13 at 15:14 |
+| [Intel NUC 10 BIOS Firmware access control](https://vuldb.com/?id.213519) | Visit link for details | 2022-11-13 at 15:10 |
+| [Intel NUC Kit Wireless Adapter Driver Installer path traversal](https://vuldb.com/?id.213518) | Visit link for details | 2022-11-13 at 15:10 |
+| [Intel NUC Kit Wireless Adapter Driver Installer unquoted search path](https://vuldb.com/?id.213517) | Visit link for details | 2022-11-13 at 15:09 |
+| [Intel NUC Kit Wireless Adapter Driver Installer uncontrolled search path](https://vuldb.com/?id.213516) | Visit link for details | 2022-11-13 at 15:07 |
+| [Intel NUC Kit Wireless Adapter Driver permission](https://vuldb.com/?id.213515) | Visit link for details | 2022-11-13 at 15:06 |
+| [Intel NUC Board/NUC Kit improper authentication](https://vuldb.com/?id.213514) | Visit link for details | 2022-11-13 at 15:06 |
+| [Intel NUC Board/NUC Kit Initialization denial of service](https://vuldb.com/?id.213513) | Visit link for details | 2022-11-13 at 15:05 |
+| [Intel NUC 8 Compute Elements BIOS Firmware access control](https://vuldb.com/?id.213512) | Visit link for details | 2022-11-13 at 15:04 |
+| [Intel NUC Board/NUC Kit BIOS Firmware input validation](https://vuldb.com/?id.213511) | Visit link for details | 2022-11-13 at 15:02 |
+| [Intel NUC 11 BIOS Firmware input validation](https://vuldb.com/?id.213510) | Visit link for details | 2022-11-13 at 15:01 |
+| [Intel NUC M15 Laptop Kit BIOS Firmware buffer overflow](https://vuldb.com/?id.213509) | Visit link for details | 2022-11-13 at 14:58 |
+| [Intel Server Board S2600WF input validation](https://vuldb.com/?id.213508) | Visit link for details | 2022-11-13 at 14:57 |
+| [Intel SPS denial of service](https://vuldb.com/?id.213507) | Visit link for details | 2022-11-13 at 14:56 |
+| [Intel XMM 7560 input validation](https://vuldb.com/?id.213506) | Visit link for details | 2022-11-13 at 14:55 |
+| [Intel XMM 7560 input validation](https://vuldb.com/?id.213505) | Visit link for details | 2022-11-13 at 14:54 |
+| [Intel XMM 7560 improper authentication](https://vuldb.com/?id.213504) | Visit link for details | 2022-11-13 at 14:54 |
+| [Intel Advanced Link Analyzer Pro uncontrolled search path](https://vuldb.com/?id.213503) | Visit link for details | 2022-11-13 at 14:52 |
+| [Intel Quartus Prime Standard Edition uncontrolled search path](https://vuldb.com/?id.213502) | Visit link for details | 2022-11-13 at 14:40 |
+| [Intel XMM buffer overflow](https://vuldb.com/?id.213501) | Visit link for details | 2022-11-13 at 14:37 |
+| [Intel NUC BIOS Firmware buffer overflow](https://vuldb.com/?id.213500) | Visit link for details | 2022-11-13 at 14:37 |
+| [Intel PresentMon uncontrolled search path](https://vuldb.com/?id.213499) | Visit link for details | 2022-11-13 at 14:35 |
+| [Intel XMM 7560 denial of service](https://vuldb.com/?id.213498) | Visit link for details | 2022-11-13 at 14:35 |
+| [Intel PROSet/Wireless WiFi/vPro CSME WiFi/Killer WiFi denial of service](https://vuldb.com/?id.213497) | Visit link for details | 2022-11-13 at 14:35 |
+| [Intel XMM 7560 buffer overflow](https://vuldb.com/?id.213496) | Visit link for details | 2022-11-13 at 14:34 |
+| [Intel VTune Profiler uncontrolled search path](https://vuldb.com/?id.213495) | Visit link for details | 2022-11-13 at 14:32 |
+| [Intel NUC HDMI Firmware Update Tool access control](https://vuldb.com/?id.213494) | Visit link for details | 2022-11-13 at 14:32 |
+| [Intel M50CYP denial of service](https://vuldb.com/?id.213493) | Visit link for details | 2022-11-13 at 14:29 |
+| [Intel NUC improper authentication](https://vuldb.com/?id.213492) | Visit link for details | 2022-11-13 at 14:28 |
+| [Intel AMT Subsystem improper authentication](https://vuldb.com/?id.213491) | Visit link for details | 2022-11-13 at 14:28 |
