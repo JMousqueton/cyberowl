@@ -1,20 +1,44 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [NagVis CoreLogonMultisite.php checkAuthCookie type conversion](https://vuldb.com/?id.213557) | Visit link for details | 2022-11-14 at 21:19 |
-| [MZ Automation libiec61850 MMS File Services mms_client_files.c path traversal](https://vuldb.com/?id.213556) | Visit link for details | 2022-11-14 at 15:10 |
-| [NodeBB abort cross-site request forgery](https://vuldb.com/?id.213555) | Visit link for details | 2022-11-14 at 14:59 |
-| [NukeViet CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554) | Visit link for details | 2022-11-14 at 09:40 |
-| [Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553) | Visit link for details | 2022-11-14 at 09:36 |
-| [Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552) | Visit link for details | 2022-11-14 at 09:32 |
-| [Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551) | Visit link for details | 2022-11-14 at 09:31 |
-| [matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550) | Visit link for details | 2022-11-14 at 09:28 |
-| [LibTIFF tif_getimage.c TIFFReadRGBATileExt integer overflow](https://vuldb.com/?id.213549) | Visit link for details | 2022-11-14 at 09:06 |
-| [OpenKM FileUtils.java getFileExtension temp file](https://vuldb.com/?id.213548) | Visit link for details | 2022-11-14 at 09:02 |
-| [emlog article_save.php cross site scripting](https://vuldb.com/?id.213547) | Visit link for details | 2022-11-14 at 08:57 |
-| [Vesta Control Panel sed main.sh argument injection](https://vuldb.com/?id.213546) | Visit link for details | 2022-11-14 at 08:54 |
-| [Ultimate Member Plugin Template class-shortcodes.php load_template pathname traversal](https://vuldb.com/?id.213545) | Visit link for details | 2022-11-14 at 08:46 |
-| [ffmpeg QuickTime Graphics Video Encoder smcenc.c smc_encode_stream out-of-bounds](https://vuldb.com/?id.213544) | Visit link for details | 2022-11-14 at 08:41 |
-| [ffmpeg QuickTime RPZA Video Encoder rpzaenc.c out-of-bounds](https://vuldb.com/?id.213543) | Visit link for details | 2022-11-14 at 08:40 |
-| [Hyperledger Fabric Channel Name denial of service](https://vuldb.com/?id.213542) | Visit link for details | 2022-11-14 at 08:36 |
-| [SimpleXMQ Private Key cryptographic issues](https://vuldb.com/?id.213541) | Visit link for details | 2022-11-14 at 08:36 |
+| [Webmaster Tools Verification Plugin cross-site request forgery](https://vuldb.com/?id.213598) | Visit link for details | 2022-11-15 at 21:38 |
+| [ITRS OP5 Monitor cross site scripting](https://vuldb.com/?id.213597) | Visit link for details | 2022-11-15 at 21:37 |
+| [Concrete CMS External Concrete Authentication Service cross-site request forgery](https://vuldb.com/?id.213596) | Visit link for details | 2022-11-15 at 21:35 |
+| [kareadita kavita authentication bypass](https://vuldb.com/?id.213595) | Visit link for details | 2022-11-15 at 21:34 |
+| [Silicon Labs Ember ZNet Packet memory corruption](https://vuldb.com/?id.213594) | Visit link for details | 2022-11-15 at 21:34 |
+| [HTMLDOC image_set_mask heap-based overflow](https://vuldb.com/?id.213593) | Visit link for details | 2022-11-15 at 21:33 |
+| [Eramba GRC KPI Title Add cross site scripting](https://vuldb.com/?id.213592) | Visit link for details | 2022-11-15 at 21:33 |
+| [DigitialPixies OAuth Client Plugin cross-site request forgery](https://vuldb.com/?id.213591) | Visit link for details | 2022-11-15 at 21:32 |
+| [ProfileGrid Plugin cross site scripting](https://vuldb.com/?id.213590) | Visit link for details | 2022-11-15 at 21:31 |
+| [WPB Show Core Plugin cross site scripting](https://vuldb.com/?id.213589) | Visit link for details | 2022-11-15 at 21:30 |
+| [Silicon Labs Ember ZNet memory corruption](https://vuldb.com/?id.213588) | Visit link for details | 2022-11-15 at 21:30 |
+| [WPForms Pro Plugin csv injection](https://vuldb.com/?id.213587) | Visit link for details | 2022-11-15 at 21:29 |
+| [IBM MQ Internet Pass-Thru Trace File log file](https://vuldb.com/?id.213586) | Visit link for details | 2022-11-15 at 21:23 |
+| [IBM CICS TX information disclosure](https://vuldb.com/?id.213585) | Visit link for details | 2022-11-15 at 21:22 |
+| [DigitialPixies OAuth Client Plugin Setting cross site scripting](https://vuldb.com/?id.213584) | Visit link for details | 2022-11-15 at 21:22 |
+| [Testimonials Plugin Setting cross site scripting](https://vuldb.com/?id.213583) | Visit link for details | 2022-11-15 at 21:21 |
+| [IBM CICS TX HTTP Response Header information disclosure](https://vuldb.com/?id.213582) | Visit link for details | 2022-11-15 at 21:20 |
+| [IBM CICS TX risky encryption](https://vuldb.com/?id.213581) | Visit link for details | 2022-11-15 at 21:20 |
+| [SONiC buildimage DHCPv6 Packet memcpy buffer overflow](https://vuldb.com/?id.213580) | Visit link for details | 2022-11-15 at 21:19 |
+| [IBM CICS TX information disclosure](https://vuldb.com/?id.213579) | Visit link for details | 2022-11-15 at 21:18 |
+| [IBM CICS TX Standard/CICS TX Advanced redirect](https://vuldb.com/?id.213578) | Visit link for details | 2022-11-15 at 21:17 |
+| [WP Attachments Plugin Setting cross site scripting](https://vuldb.com/?id.213577) | Visit link for details | 2022-11-15 at 19:59 |
+| [Chat Bubble Plugin Contact Parameter cross site scripting](https://vuldb.com/?id.213576) | Visit link for details | 2022-11-15 at 19:58 |
+| [reSmush.it Only Free Image Optimizer & Compress Plugin Plugin AJAX Action cross-site request forgery](https://vuldb.com/?id.213575) | Visit link for details | 2022-11-15 at 19:57 |
+| [tagDiv Composer Plugin Facebook Login improper authentication](https://vuldb.com/?id.213574) | Visit link for details | 2022-11-15 at 19:56 |
+| [reSmush.it Only Free Image Optimizer & Compress Plugin Plugin authorization](https://vuldb.com/?id.213573) | Visit link for details | 2022-11-15 at 19:55 |
+| [Rukovoditel sql injection](https://vuldb.com/?id.213572) | Visit link for details | 2022-11-15 at 19:54 |
+| [SourceCodester Sanitization Management System Banner Image cross site scripting](https://vuldb.com/?id.213571) | Visit link for details | 2022-11-15 at 18:03 |
+| [Apache Jena SDB JDBC URL deserialization](https://vuldb.com/?id.213570) | Visit link for details | 2022-11-15 at 18:00 |
+| [Apache SOAP RPCRouterServlet deserialization](https://vuldb.com/?id.213569) | Visit link for details | 2022-11-15 at 16:23 |
+| [Pillow denial of service](https://vuldb.com/?id.213568) | Visit link for details | 2022-11-15 at 14:46 |
+| [Pillow GIF Data denial of service](https://vuldb.com/?id.213567) | Visit link for details | 2022-11-15 at 14:45 |
+| [GNOME Nautilus ZIP Archive get_basename null pointer dereference](https://vuldb.com/?id.213566) | Visit link for details | 2022-11-15 at 14:43 |
+| [Ironman PowerShell Universal Web Server information disclosure](https://vuldb.com/?id.213565) | Visit link for details | 2022-11-15 at 14:43 |
+| [Ironman PowerShell Universal Web Server pathname traversal](https://vuldb.com/?id.213564) | Visit link for details | 2022-11-15 at 14:41 |
+| [Apache Airflow UI code injection](https://vuldb.com/?id.213563) | Visit link for details | 2022-11-15 at 14:38 |
+| [Apache Airflow UI information disclosure](https://vuldb.com/?id.213562) | Visit link for details | 2022-11-15 at 14:38 |
+| [PHP GD Extension imageloadfont buffer size](https://vuldb.com/?id.213561) | Visit link for details | 2022-11-15 at 14:35 |
+| [Frappe Search navbar_search.html cross site scripting](https://vuldb.com/?id.213560) | Visit link for details | 2022-11-15 at 11:49 |
+| [Xiongmai Camera XM-JPR2-LX cleartext transmission](https://vuldb.com/?id.213559) | Visit link for details | 2022-11-15 at 07:44 |
+| [Xiongmai Camera XM-JPR2-LX Privilege Escalation](https://vuldb.com/?id.213558) | Visit link for details | 2022-11-15 at 07:43 |
