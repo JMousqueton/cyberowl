@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [phpservermon User.php setUserLoggedIn predictable algorithm in random number generator](https://vuldb.com/?id.213744) | Visit link for details | 2022-11-16 at 23:20 |
-| [Cluster Statistics Plugin cross-site request forgery](https://vuldb.com/?id.213743) | Visit link for details | 2022-11-16 at 23:15 |
-| [Delete log Plugin Build Log cross-site request forgery](https://vuldb.com/?id.213742) | Visit link for details | 2022-11-16 at 23:15 |
-| [JAPEX Plugin XML Parser xml external entity reference](https://vuldb.com/?id.213741) | Visit link for details | 2022-11-16 at 23:14 |
-| [OSF Builder Suite XML Linter Plugin XML Parser xml external entity reference](https://vuldb.com/?id.213740) | Visit link for details | 2022-11-16 at 23:14 |
-| [CCCC Plugin XML Parser xml external entity reference](https://vuldb.com/?id.213739) | Visit link for details | 2022-11-16 at 23:10 |
-| [Violations Plugin XML Parser xml external entity reference](https://vuldb.com/?id.213738) | Visit link for details | 2022-11-16 at 23:09 |
-| [SourceMonitor Plugin XML Parser xml external entity reference](https://vuldb.com/?id.213737) | Visit link for details | 2022-11-16 at 23:09 |
-| [Associated Files Plugin cross site scripting](https://vuldb.com/?id.213736) | Visit link for details | 2022-11-16 at 23:08 |
-| [Cluster Statistics Plugin permission](https://vuldb.com/?id.213735) | Visit link for details | 2022-11-16 at 23:08 |
-| [Delete Log Plugin authorization](https://vuldb.com/?id.213734) | Visit link for details | 2022-11-16 at 23:07 |
-| [loader.io Plugin authorization](https://vuldb.com/?id.213733) | Visit link for details | 2022-11-16 at 23:07 |
-| [XP-Dev Plugin authorization](https://vuldb.com/?id.213732) | Visit link for details | 2022-11-16 at 23:06 |
-| [BART Plugin UI cross site scripting](https://vuldb.com/?id.213731) | Visit link for details | 2022-11-16 at 23:06 |
-| [JUnit Plugin cross site scripting](https://vuldb.com/?id.213730) | Visit link for details | 2022-11-16 at 23:05 |
-| [Script Security Plugin weak hash](https://vuldb.com/?id.213729) | Visit link for details | 2022-11-16 at 23:05 |
-| [NS-ND Integration Performance Publisher Plugin certificate validation](https://vuldb.com/?id.213728) | Visit link for details | 2022-11-16 at 23:03 |
-| [Naginator Plugin Display Name cross site scripting](https://vuldb.com/?id.213727) | Visit link for details | 2022-11-16 at 23:01 |
-| [Spotfire Analyst/Spotfire Desktop/Spotfire Server Visualizations Component cross site scripting](https://vuldb.com/?id.213726) | Visit link for details | 2022-11-16 at 23:00 |
-| [Performance Publisher Plugin Controller File System config.xml credentials storage](https://vuldb.com/?id.213725) | Visit link for details | 2022-11-16 at 22:54 |
-| [NS-ND Integration Performance Publisher Plugin certificate validation](https://vuldb.com/?id.213724) | Visit link for details | 2022-11-16 at 22:50 |
-| [Config Rotator Plugin HTTP Endpoint pathname traversal](https://vuldb.com/?id.213723) | Visit link for details | 2022-11-16 at 22:49 |
-| [CloudBees Docker Hub Registry Notification Plugin authorization](https://vuldb.com/?id.213722) | Visit link for details | 2022-11-16 at 22:46 |
-| [Reverse Proxy Auth Plugin Controller File System config.xml credentials storage](https://vuldb.com/?id.213721) | Visit link for details | 2022-11-16 at 22:45 |
-| [Support Core Plugin Support Bundle authorization](https://vuldb.com/?id.213720) | Visit link for details | 2022-11-16 at 22:44 |
-| [Pipeline Utility Steps Plugin Controller File System path traversal](https://vuldb.com/?id.213719) | Visit link for details | 2022-11-16 at 22:43 |
-| [Palantir Foundry log file](https://vuldb.com/?id.213718) | Visit link for details | 2022-11-16 at 22:42 |
-| [phpservermon User.php generatePasswordResetToken predictable algorithm in random number generator](https://vuldb.com/?id.213717) | Visit link for details | 2022-11-16 at 22:36 |
-| [WBCE CMS Header class.login.php increase_attempts excessive authentication](https://vuldb.com/?id.213716) | Visit link for details | 2022-11-16 at 21:39 |
-| [ceph Crash Service Local Privilege Escalation](https://vuldb.com/?id.213715) | Visit link for details | 2022-11-16 at 21:36 |
-| [XPDF PDF File readPageLabelTree2(Object* stack-based overflow](https://vuldb.com/?id.213714) | Visit link for details | 2022-11-16 at 21:34 |
-| [BlueSpice BlueSpiceDiscovery Skin cross site scripting](https://vuldb.com/?id.213713) | Visit link for details | 2022-11-16 at 18:58 |
-| [BlueSpice UI cross site scripting](https://vuldb.com/?id.213712) | Visit link for details | 2022-11-16 at 18:58 |
-| [BlueSpice BlueSpiceBookshelf Extension cross site scripting](https://vuldb.com/?id.213711) | Visit link for details | 2022-11-16 at 18:58 |
-| [BlueSpice BlueSpiceSocialProfile Extension cross site scripting](https://vuldb.com/?id.213710) | Visit link for details | 2022-11-16 at 18:57 |
-| [BlueSpice BlueSpiceFoundation Extension cross site scripting](https://vuldb.com/?id.213709) | Visit link for details | 2022-11-16 at 18:56 |
-| [BlueSpice BlueSpiceUserSidebar Extension cross site scripting](https://vuldb.com/?id.213708) | Visit link for details | 2022-11-16 at 18:55 |
-| [BlueSpice BlueSpiceCustomMenu Extension cross site scripting](https://vuldb.com/?id.213707) | Visit link for details | 2022-11-16 at 18:55 |
-| [BlueSpice BlueSpiceDiscovery Skin cross site scripting](https://vuldb.com/?id.213706) | Visit link for details | 2022-11-16 at 18:54 |
-| [Phoenix Contact FL MGUARD/TC MGUARD HTTPS Connection allocation of resources](https://vuldb.com/?id.213705) | Visit link for details | 2022-11-16 at 17:18 |
-| [Apache Archiva denial of service](https://vuldb.com/?id.213704) | Visit link for details | 2022-11-16 at 17:15 |
-| [Apache Archiva information disclosure](https://vuldb.com/?id.213703) | Visit link for details | 2022-11-16 at 17:15 |
-| [Follow Me Plugin FollowMeIgniteSocialMedia_options_page cross-site request forgery](https://vuldb.com/?id.213702) | Visit link for details | 2022-11-16 at 17:14 |
-| [Phoenix Contact Automation Worx Software Suite out-of-bounds](https://vuldb.com/?id.213701) | Visit link for details | 2022-11-16 at 17:13 |
-| [Phoenix Contact Automation Worx Software Suite File heap-based overflow](https://vuldb.com/?id.213700) | Visit link for details | 2022-11-16 at 17:13 |
-| [MonikaBrzica scm uredi_korisnika.php sql injection](https://vuldb.com/?id.213699) | Visit link for details | 2022-11-16 at 14:08 |
-| [MonikaBrzica scm upis_u_bazu.php sql injection](https://vuldb.com/?id.213698) | Visit link for details | 2022-11-16 at 14:06 |
-| [Qualcomm Snapdragon Consumer IOT Modem denial of service](https://vuldb.com/?id.213697) | Visit link for details | 2022-11-16 at 13:51 |
-| [Qualcomm Snapdragon Consumer IOT memory corruption](https://vuldb.com/?id.213696) | Visit link for details | 2022-11-16 at 13:50 |
-| [Qualcomm Snapdragon Consumer IOT WLAN cryptographic issues](https://vuldb.com/?id.213695) | Visit link for details | 2022-11-16 at 13:49 |
+| [IBM Sterling Partner Engagement Manager insecure storage of sensitive information](https://vuldb.com/?id.213808) | Visit link for details | 2022-11-17 at 20:28 |
+| [Zenario CMS User cross site scripting](https://vuldb.com/?id.213807) | Visit link for details | 2022-11-17 at 19:16 |
+| [Zenario CMS Profile cross site scripting](https://vuldb.com/?id.213806) | Visit link for details | 2022-11-17 at 19:16 |
+| [Zenario CMS News Article cross site scripting](https://vuldb.com/?id.213805) | Visit link for details | 2022-11-17 at 19:13 |
+| [Zenario CMS Nest Library Module cross site scripting](https://vuldb.com/?id.213804) | Visit link for details | 2022-11-17 at 19:13 |
+| [Arobas Music Guitar Pro Web Request pathname traversal](https://vuldb.com/?id.213803) | Visit link for details | 2022-11-17 at 19:12 |
+| [Arobas Music Guitar Pro cross site scripting](https://vuldb.com/?id.213802) | Visit link for details | 2022-11-17 at 19:11 |
+| [SeaCms index.php sql injection](https://vuldb.com/?id.213801) | Visit link for details | 2022-11-17 at 19:09 |
+| [Hoosk PHP File attachments unrestricted upload](https://vuldb.com/?id.213800) | Visit link for details | 2022-11-17 at 19:09 |
+| [Human Resource Management System login.php sql injection](https://vuldb.com/?id.213799) | Visit link for details | 2022-11-17 at 19:08 |
+| [Cisco Identity Services Engine cross site scripting](https://vuldb.com/?id.213798) | Visit link for details | 2022-11-17 at 18:01 |
+| [Cisco Identity Services Engine cross site scripting](https://vuldb.com/?id.213797) | Visit link for details | 2022-11-17 at 18:00 |
+| [Cisco Identity Services Engine cross site scripting](https://vuldb.com/?id.213796) | Visit link for details | 2022-11-17 at 18:00 |
+| [Cisco Identity Services Engine cross site scripting](https://vuldb.com/?id.213795) | Visit link for details | 2022-11-17 at 17:59 |
+| [Sophos Mobile Managed On-Premises XML server-side request forgery](https://vuldb.com/?id.213794) | Visit link for details | 2022-11-17 at 16:30 |
+| [ikus060 rdiffweb missing authentication](https://vuldb.com/?id.213793) | Visit link for details | 2022-11-17 at 16:28 |
+| [Permalink Manager Lite Plugin Setting cross-site request forgery](https://vuldb.com/?id.213792) | Visit link for details | 2022-11-17 at 16:28 |
+| [SVG Support Plugin SVG Upload cross site scripting](https://vuldb.com/?id.213791) | Visit link for details | 2022-11-17 at 16:26 |
+| [Karmasis Infraskope Security Event Manager Log access control](https://vuldb.com/?id.213790) | Visit link for details | 2022-11-17 at 14:29 |
+| [Sports Club Management System make_payments.php sql injection](https://vuldb.com/?id.213789) | Visit link for details | 2022-11-17 at 09:00 |
+| [FeehiCMS Post My Comment Tab cross-site request forgery](https://vuldb.com/?id.213788) | Visit link for details | 2022-11-17 at 08:58 |
+| [Hospital Management Center appointment.php cross-site request forgery](https://vuldb.com/?id.213787) | Visit link for details | 2022-11-17 at 08:53 |
+| [Hospital Management Center patient-info.php sql injection](https://vuldb.com/?id.213786) | Visit link for details | 2022-11-17 at 08:49 |
+| [Simple History Plugin Header neutralization for logs](https://vuldb.com/?id.213785) | Visit link for details | 2022-11-17 at 08:47 |
+| [mastodon excessive authentication](https://vuldb.com/?id.213784) | Visit link for details | 2022-11-17 at 08:45 |
+| [Hashicorp Consul/Consul Enterprise authorization](https://vuldb.com/?id.213783) | Visit link for details | 2022-11-17 at 08:44 |
+| [ZoneMinder session fixiation](https://vuldb.com/?id.213782) | Visit link for details | 2022-11-17 at 08:43 |
+| [ZoneMinder Logout cross site scripting](https://vuldb.com/?id.213781) | Visit link for details | 2022-11-17 at 08:42 |
+| [s::can moni::tools image-relocator Module path traversal](https://vuldb.com/?id.213780) | Visit link for details | 2022-11-17 at 08:42 |
+| [Micrium uC-HTTP HTTP Request heap-based overflow](https://vuldb.com/?id.213779) | Visit link for details | 2022-11-17 at 08:41 |
+| [insyde Kernel FwBlockServiceSmm Driver Privilege Escalation](https://vuldb.com/?id.213778) | Visit link for details | 2022-11-17 at 08:40 |
+| [Apache Mina SSHD Java deserialization](https://vuldb.com/?id.213777) | Visit link for details | 2022-11-17 at 08:37 |
+| [OpenSearch Java Security Manager Policy Configuration information disclosure](https://vuldb.com/?id.213776) | Visit link for details | 2022-11-17 at 08:36 |
+| [Heimdal KDC/kinit off-by-one](https://vuldb.com/?id.213775) | Visit link for details | 2022-11-17 at 08:31 |
+| [s::can moni::tools sql injection](https://vuldb.com/?id.213774) | Visit link for details | 2022-11-17 at 07:57 |
+| [OpenSearch Access Control Rules access control](https://vuldb.com/?id.213773) | Visit link for details | 2022-11-17 at 07:43 |
+| [Wiesemann & Theis AT-Modem-Emulator/Com-Server HTTP GET Request missing authentication](https://vuldb.com/?id.213772) | Visit link for details | 2022-11-17 at 07:39 |
+| [ESRI Portal for ArcGIS Quick Capture Web Designer redirect](https://vuldb.com/?id.213771) | Visit link for details | 2022-11-17 at 07:31 |
+| [Canteen Management System save_user.php unrestricted upload](https://vuldb.com/?id.213770) | Visit link for details | 2022-11-17 at 07:30 |
+| [insyde Kernel PnpSmm Privilege Escalation](https://vuldb.com/?id.213769) | Visit link for details | 2022-11-17 at 07:29 |
+| [insyde Kernel PnpSmm memory corruption](https://vuldb.com/?id.213768) | Visit link for details | 2022-11-17 at 07:28 |
+| [insyde Kernel UsbCoreDxe buffer overflow](https://vuldb.com/?id.213767) | Visit link for details | 2022-11-17 at 07:27 |
+| [insyde Kernel SdMmcDevice memory corruption](https://vuldb.com/?id.213766) | Visit link for details | 2022-11-17 at 07:27 |
+| [insyde Kernel NvmExpressDxe Driver memory corruption](https://vuldb.com/?id.213765) | Visit link for details | 2022-11-17 at 07:26 |
+| [insyde Kernel AhciBusDxe memory corruption](https://vuldb.com/?id.213764) | Visit link for details | 2022-11-17 at 07:24 |
+| [insyde Kernel UsbCoreDxe memory corruption](https://vuldb.com/?id.213763) | Visit link for details | 2022-11-17 at 07:23 |
+| [LimeSurvey update.php sql injection](https://vuldb.com/?id.213762) | Visit link for details | 2022-11-17 at 07:16 |
+| [Cisco FirePOWER Management Center Web-based Management Interface cross site scripting](https://vuldb.com/?id.213761) | Visit link for details | 2022-11-17 at 07:06 |
+| [Cisco FirePOWER Management Center Web-based Management Interface cross site scripting](https://vuldb.com/?id.213760) | Visit link for details | 2022-11-17 at 07:06 |
+| [Cisco FirePOWER Management Center Web-based Management Interface cross site scripting](https://vuldb.com/?id.213759) | Visit link for details | 2022-11-17 at 07:06 |
