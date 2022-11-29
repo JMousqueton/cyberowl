@@ -1,42 +1,47 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Botan OCSP Response certificate validation](https://vuldb.com/?id.214430) | Visit link for details | 2022-11-28 at 11:13 |
-| [KubeView kube-system improper authentication](https://vuldb.com/?id.214429) | Visit link for details | 2022-11-28 at 08:49 |
-| [ESL Protocol Label improper authentication](https://vuldb.com/?id.214428) | Visit link for details | 2022-11-28 at 08:48 |
-| [OpenDaylight RoleStore.java deleteRole sql injection](https://vuldb.com/?id.214427) | Visit link for details | 2022-11-28 at 08:47 |
-| [OpenDaylight AAA UserStore.java deleteUser sql injection](https://vuldb.com/?id.214426) | Visit link for details | 2022-11-28 at 08:46 |
-| [OpenDaylight AAA DomainStore.java deleteDomain sql injection](https://vuldb.com/?id.214425) | Visit link for details | 2022-11-28 at 08:39 |
-| [qs denial of service](https://vuldb.com/?id.214424) | Visit link for details | 2022-11-28 at 08:39 |
-| [Linux Kernel l2cap_config_req Packet l2cap_core.c integer overflow](https://vuldb.com/?id.214423) | Visit link for details | 2022-11-28 at 08:37 |
-| [Linux Kernel dvb_ca_en50221.c dvb_ca_en50221_io_release use after free](https://vuldb.com/?id.214422) | Visit link for details | 2022-11-28 at 08:36 |
-| [PyroCMS cross site scripting](https://vuldb.com/?id.214421) | Visit link for details | 2022-11-28 at 08:34 |
-| [Microweber cross site scripting](https://vuldb.com/?id.214420) | Visit link for details | 2022-11-28 at 08:34 |
-| [drachtio-server Invite Request heap-based overflow](https://vuldb.com/?id.214419) | Visit link for details | 2022-11-28 at 08:28 |
-| [BaserCMS cross site scripting](https://vuldb.com/?id.214418) | Visit link for details | 2022-11-28 at 08:28 |
-| [PyTorch torch.jit.annotations.parse_type_line Privilege Escalation](https://vuldb.com/?id.214417) | Visit link for details | 2022-11-28 at 08:27 |
-| [TOTOLINK A7100RU setOpenVpnCfg command injection](https://vuldb.com/?id.214416) | Visit link for details | 2022-11-28 at 08:26 |
-| [TOTOLINK A7100RU setOpenVpnClientCfg the command injection](https://vuldb.com/?id.214415) | Visit link for details | 2022-11-28 at 08:25 |
-| [Jeecg-boot deleteRecycleBin sql injection](https://vuldb.com/?id.214414) | Visit link for details | 2022-11-28 at 08:24 |
-| [Jeecg-boot putRecycleBin sql injection](https://vuldb.com/?id.214413) | Visit link for details | 2022-11-28 at 08:24 |
-| [Jeecg-boot updateNullByEmptyString sql injection](https://vuldb.com/?id.214412) | Visit link for details | 2022-11-28 at 08:24 |
-| [Jeecg-boot check sql injection](https://vuldb.com/?id.214411) | Visit link for details | 2022-11-28 at 08:24 |
-| [Jeecg-boot queryTableData sql injection](https://vuldb.com/?id.214410) | Visit link for details | 2022-11-28 at 08:23 |
-| [Human Resource Management System Authentication Error Message cross site scripting](https://vuldb.com/?id.214409) | Visit link for details | 2022-11-28 at 08:23 |
-| [Nextcloud Desktop certificate validation](https://vuldb.com/?id.214408) | Visit link for details | 2022-11-28 at 08:22 |
-| [Moodle LTI Provider Library server-side request forgery](https://vuldb.com/?id.214407) | Visit link for details | 2022-11-28 at 08:21 |
-| [Tiny File Manager cross-site request forgery](https://vuldb.com/?id.214406) | Visit link for details | 2022-11-28 at 08:17 |
-| [Tiny File Manager cross-site request forgery](https://vuldb.com/?id.214405) | Visit link for details | 2022-11-28 at 08:13 |
-| [MPXJ temp file](https://vuldb.com/?id.214404) | Visit link for details | 2022-11-28 at 08:05 |
-| [user_oidc URL cross site scripting](https://vuldb.com/?id.214403) | Visit link for details | 2022-11-28 at 08:04 |
-| [Nextcloud Talk permission assignment](https://vuldb.com/?id.214402) | Visit link for details | 2022-11-28 at 08:03 |
-| [Kyungrinara ERP Solution sERP Server hard-coded credentials](https://vuldb.com/?id.214401) | Visit link for details | 2022-11-28 at 08:02 |
-| [Nextcloud Desktop HTML cross site scripting](https://vuldb.com/?id.214400) | Visit link for details | 2022-11-28 at 08:02 |
-| [Nextcloud Desktop HTML cross site scripting](https://vuldb.com/?id.214399) | Visit link for details | 2022-11-28 at 08:01 |
-| [Nexcloud Desktop cross site scripting](https://vuldb.com/?id.214398) | Visit link for details | 2022-11-28 at 08:00 |
-| [PaddlePaddle paddle.audio.functional.get_window code injection](https://vuldb.com/?id.214397) | Visit link for details | 2022-11-28 at 08:00 |
-| [user_oidc cleartext transmission](https://vuldb.com/?id.214396) | Visit link for details | 2022-11-28 at 07:59 |
-| [eyoom Builder Cookie code injection](https://vuldb.com/?id.214395) | Visit link for details | 2022-11-28 at 07:58 |
-| [OndiskPlayerAgent URL data authenticity](https://vuldb.com/?id.214394) | Visit link for details | 2022-11-28 at 07:58 |
-| [Nextcloud Server User Display Name resource consumption](https://vuldb.com/?id.214393) | Visit link for details | 2022-11-28 at 07:48 |
-| [Book Store Management System book cross site scripting](https://vuldb.com/?id.214392) | Visit link for details | 2022-11-28 at 07:45 |
+| [Dinstar FXO Analog VoIP Gateway DAG2000-16O cross site scripting](https://vuldb.com/?id.214474) | Visit link for details | 2022-11-29 at 21:03 |
+| [oretnom23 Purchase Order Management System unrestricted upload](https://vuldb.com/?id.214473) | Visit link for details | 2022-11-29 at 20:56 |
+| [AVS Audio Converter buffer overflow](https://vuldb.com/?id.214472) | Visit link for details | 2022-11-29 at 20:56 |
+| [MSI Center TCP Packet MSI.TerminalServer.exe Privilege Escalation](https://vuldb.com/?id.214471) | Visit link for details | 2022-11-29 at 20:55 |
+| [Velneo vClient unknown vulnerability](https://vuldb.com/?id.214470) | Visit link for details | 2022-11-29 at 20:55 |
+| [Theme and Plugin Translation for Polylang process_polylang_theme_translation_wp_loaded authorization](https://vuldb.com/?id.214469) | Visit link for details | 2022-11-29 at 20:54 |
+| [IBM Maximo Mobile credentials storage](https://vuldb.com/?id.214468) | Visit link for details | 2022-11-29 at 20:50 |
+| [crewjam saml Assertion Element improper authentication](https://vuldb.com/?id.214467) | Visit link for details | 2022-11-29 at 20:49 |
+| [Muhammara PDF unknown vulnerability](https://vuldb.com/?id.214466) | Visit link for details | 2022-11-29 at 20:48 |
+| [Online Tours & Travels Management System file.php unrestricted upload](https://vuldb.com/?id.214465) | Visit link for details | 2022-11-29 at 20:47 |
+| [Poultry Farm Management System category.php sql injection](https://vuldb.com/?id.214464) | Visit link for details | 2022-11-29 at 20:47 |
+| [Discourse Notification information disclosure](https://vuldb.com/?id.214463) | Visit link for details | 2022-11-29 at 20:46 |
+| [Discourse Chat Message denial of service](https://vuldb.com/?id.214462) | Visit link for details | 2022-11-29 at 20:45 |
+| [decode-uri-component denial of service](https://vuldb.com/?id.214461) | Visit link for details | 2022-11-29 at 16:59 |
+| [Showing URL in QR Code Plugin Setting cross-site request forgery](https://vuldb.com/?id.214460) | Visit link for details | 2022-11-29 at 16:59 |
+| [Callback CBFS Filter handle_ioctl_0x830a0_systembuffer null pointer dereference](https://vuldb.com/?id.214459) | Visit link for details | 2022-11-29 at 16:58 |
+| [Callback CBFS Filter handle_ioctl_8314C null pointer dereference](https://vuldb.com/?id.214458) | Visit link for details | 2022-11-29 at 16:58 |
+| [Callback CBFS Filter handle_ioctl_83150 null pointer dereference](https://vuldb.com/?id.214457) | Visit link for details | 2022-11-29 at 16:57 |
+| [Acer Notebook HQSwSmiDxe Driver default permission](https://vuldb.com/?id.214456) | Visit link for details | 2022-11-29 at 16:57 |
+| [Find and Replace All Plugin cross-site request forgery](https://vuldb.com/?id.214455) | Visit link for details | 2022-11-29 at 16:56 |
+| [Analytics for WP Plugin Setting cross site scripting](https://vuldb.com/?id.214454) | Visit link for details | 2022-11-29 at 16:56 |
+| [ThematoSoup Fancier Author Box Plugin Setting cross site scripting](https://vuldb.com/?id.214453) | Visit link for details | 2022-11-29 at 16:55 |
+| [reCAPTCHA Plugin Setting cross site scripting](https://vuldb.com/?id.214452) | Visit link for details | 2022-11-29 at 16:55 |
+| [Video Thumbnails Plugin Setting cross site scripting](https://vuldb.com/?id.214451) | Visit link for details | 2022-11-29 at 16:54 |
+| [WP Admin UI Customize Plugin cross site scripting](https://vuldb.com/?id.214450) | Visit link for details | 2022-11-29 at 16:54 |
+| [Beautiful Cookie Consent Banner Plugin Setting cross site scripting](https://vuldb.com/?id.214449) | Visit link for details | 2022-11-29 at 16:53 |
+| [Donations via PayPal Plugin Setting cross site scripting](https://vuldb.com/?id.214448) | Visit link for details | 2022-11-29 at 16:53 |
+| [Jeeng Push Notifications Plugin Setting cross site scripting](https://vuldb.com/?id.214447) | Visit link for details | 2022-11-29 at 16:52 |
+| [Image Hover Effects CSS3 Plugin Setting cross site scripting](https://vuldb.com/?id.214446) | Visit link for details | 2022-11-29 at 16:52 |
+| [Salat Times Plugin Setting cross site scripting](https://vuldb.com/?id.214445) | Visit link for details | 2022-11-29 at 16:51 |
+| [Find and Replace All Plugin Setting Page cross site scripting](https://vuldb.com/?id.214444) | Visit link for details | 2022-11-29 at 16:51 |
+| [School Management System sql injection](https://vuldb.com/?id.214443) | Visit link for details | 2022-11-29 at 16:50 |
+| [Google Forms Plugin Setting cross site scripting](https://vuldb.com/?id.214442) | Visit link for details | 2022-11-29 at 16:49 |
+| [WP User Merger Plugin sql injection](https://vuldb.com/?id.214441) | Visit link for details | 2022-11-29 at 16:49 |
+| [WP User Merger Plugin sql injection](https://vuldb.com/?id.214440) | Visit link for details | 2022-11-29 at 16:48 |
+| [WP User Merger Plugin sql injection](https://vuldb.com/?id.214439) | Visit link for details | 2022-11-29 at 16:48 |
+| [OWM Weather Plugin sql injection](https://vuldb.com/?id.214438) | Visit link for details | 2022-11-29 at 16:47 |
+| [WPSmartContracts Plugin sql injection](https://vuldb.com/?id.214437) | Visit link for details | 2022-11-29 at 16:47 |
+| [HTML Forms Plugin sql injection](https://vuldb.com/?id.214436) | Visit link for details | 2022-11-29 at 16:46 |
+| [Awesome Support Plugin Exported Tickets Archive authorization](https://vuldb.com/?id.214435) | Visit link for details | 2022-11-29 at 16:44 |
+| [Download Plugin Plugin path traversal](https://vuldb.com/?id.214434) | Visit link for details | 2022-11-29 at 16:43 |
+| [Export Customers List CSV for WooCommerce Plugin csv injection](https://vuldb.com/?id.214433) | Visit link for details | 2022-11-29 at 16:42 |
+| [GNU Emacs ctags etags.c os command injection](https://vuldb.com/?id.214432) | Visit link for details | 2022-11-29 at 16:41 |
+| [Checkout Field Editor for WooCommerce Plugin Setting deserialization](https://vuldb.com/?id.214431) | Visit link for details | 2022-11-29 at 16:39 |
