@@ -1,47 +1,51 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Dinstar FXO Analog VoIP Gateway DAG2000-16O cross site scripting](https://vuldb.com/?id.214474) | Visit link for details | 2022-11-29 at 21:03 |
-| [oretnom23 Purchase Order Management System unrestricted upload](https://vuldb.com/?id.214473) | Visit link for details | 2022-11-29 at 20:56 |
-| [AVS Audio Converter buffer overflow](https://vuldb.com/?id.214472) | Visit link for details | 2022-11-29 at 20:56 |
-| [MSI Center TCP Packet MSI.TerminalServer.exe Privilege Escalation](https://vuldb.com/?id.214471) | Visit link for details | 2022-11-29 at 20:55 |
-| [Velneo vClient unknown vulnerability](https://vuldb.com/?id.214470) | Visit link for details | 2022-11-29 at 20:55 |
-| [Theme and Plugin Translation for Polylang process_polylang_theme_translation_wp_loaded authorization](https://vuldb.com/?id.214469) | Visit link for details | 2022-11-29 at 20:54 |
-| [IBM Maximo Mobile credentials storage](https://vuldb.com/?id.214468) | Visit link for details | 2022-11-29 at 20:50 |
-| [crewjam saml Assertion Element improper authentication](https://vuldb.com/?id.214467) | Visit link for details | 2022-11-29 at 20:49 |
-| [Muhammara PDF unknown vulnerability](https://vuldb.com/?id.214466) | Visit link for details | 2022-11-29 at 20:48 |
-| [Online Tours & Travels Management System file.php unrestricted upload](https://vuldb.com/?id.214465) | Visit link for details | 2022-11-29 at 20:47 |
-| [Poultry Farm Management System category.php sql injection](https://vuldb.com/?id.214464) | Visit link for details | 2022-11-29 at 20:47 |
-| [Discourse Notification information disclosure](https://vuldb.com/?id.214463) | Visit link for details | 2022-11-29 at 20:46 |
-| [Discourse Chat Message denial of service](https://vuldb.com/?id.214462) | Visit link for details | 2022-11-29 at 20:45 |
-| [decode-uri-component denial of service](https://vuldb.com/?id.214461) | Visit link for details | 2022-11-29 at 16:59 |
-| [Showing URL in QR Code Plugin Setting cross-site request forgery](https://vuldb.com/?id.214460) | Visit link for details | 2022-11-29 at 16:59 |
-| [Callback CBFS Filter handle_ioctl_0x830a0_systembuffer null pointer dereference](https://vuldb.com/?id.214459) | Visit link for details | 2022-11-29 at 16:58 |
-| [Callback CBFS Filter handle_ioctl_8314C null pointer dereference](https://vuldb.com/?id.214458) | Visit link for details | 2022-11-29 at 16:58 |
-| [Callback CBFS Filter handle_ioctl_83150 null pointer dereference](https://vuldb.com/?id.214457) | Visit link for details | 2022-11-29 at 16:57 |
-| [Acer Notebook HQSwSmiDxe Driver default permission](https://vuldb.com/?id.214456) | Visit link for details | 2022-11-29 at 16:57 |
-| [Find and Replace All Plugin cross-site request forgery](https://vuldb.com/?id.214455) | Visit link for details | 2022-11-29 at 16:56 |
-| [Analytics for WP Plugin Setting cross site scripting](https://vuldb.com/?id.214454) | Visit link for details | 2022-11-29 at 16:56 |
-| [ThematoSoup Fancier Author Box Plugin Setting cross site scripting](https://vuldb.com/?id.214453) | Visit link for details | 2022-11-29 at 16:55 |
-| [reCAPTCHA Plugin Setting cross site scripting](https://vuldb.com/?id.214452) | Visit link for details | 2022-11-29 at 16:55 |
-| [Video Thumbnails Plugin Setting cross site scripting](https://vuldb.com/?id.214451) | Visit link for details | 2022-11-29 at 16:54 |
-| [WP Admin UI Customize Plugin cross site scripting](https://vuldb.com/?id.214450) | Visit link for details | 2022-11-29 at 16:54 |
-| [Beautiful Cookie Consent Banner Plugin Setting cross site scripting](https://vuldb.com/?id.214449) | Visit link for details | 2022-11-29 at 16:53 |
-| [Donations via PayPal Plugin Setting cross site scripting](https://vuldb.com/?id.214448) | Visit link for details | 2022-11-29 at 16:53 |
-| [Jeeng Push Notifications Plugin Setting cross site scripting](https://vuldb.com/?id.214447) | Visit link for details | 2022-11-29 at 16:52 |
-| [Image Hover Effects CSS3 Plugin Setting cross site scripting](https://vuldb.com/?id.214446) | Visit link for details | 2022-11-29 at 16:52 |
-| [Salat Times Plugin Setting cross site scripting](https://vuldb.com/?id.214445) | Visit link for details | 2022-11-29 at 16:51 |
-| [Find and Replace All Plugin Setting Page cross site scripting](https://vuldb.com/?id.214444) | Visit link for details | 2022-11-29 at 16:51 |
-| [School Management System sql injection](https://vuldb.com/?id.214443) | Visit link for details | 2022-11-29 at 16:50 |
-| [Google Forms Plugin Setting cross site scripting](https://vuldb.com/?id.214442) | Visit link for details | 2022-11-29 at 16:49 |
-| [WP User Merger Plugin sql injection](https://vuldb.com/?id.214441) | Visit link for details | 2022-11-29 at 16:49 |
-| [WP User Merger Plugin sql injection](https://vuldb.com/?id.214440) | Visit link for details | 2022-11-29 at 16:48 |
-| [WP User Merger Plugin sql injection](https://vuldb.com/?id.214439) | Visit link for details | 2022-11-29 at 16:48 |
-| [OWM Weather Plugin sql injection](https://vuldb.com/?id.214438) | Visit link for details | 2022-11-29 at 16:47 |
-| [WPSmartContracts Plugin sql injection](https://vuldb.com/?id.214437) | Visit link for details | 2022-11-29 at 16:47 |
-| [HTML Forms Plugin sql injection](https://vuldb.com/?id.214436) | Visit link for details | 2022-11-29 at 16:46 |
-| [Awesome Support Plugin Exported Tickets Archive authorization](https://vuldb.com/?id.214435) | Visit link for details | 2022-11-29 at 16:44 |
-| [Download Plugin Plugin path traversal](https://vuldb.com/?id.214434) | Visit link for details | 2022-11-29 at 16:43 |
-| [Export Customers List CSV for WooCommerce Plugin csv injection](https://vuldb.com/?id.214433) | Visit link for details | 2022-11-29 at 16:42 |
-| [GNU Emacs ctags etags.c os command injection](https://vuldb.com/?id.214432) | Visit link for details | 2022-11-29 at 16:41 |
-| [Checkout Field Editor for WooCommerce Plugin Setting deserialization](https://vuldb.com/?id.214431) | Visit link for details | 2022-11-29 at 16:39 |
+| [Amasty Blog Pro Plugin Admin Panel cross site scripting](https://vuldb.com/?id.214522) | Visit link for details | 2022-11-30 at 18:56 |
+| [GPAC unquantize.c Q_IsTypeOn use after free](https://vuldb.com/?id.214521) | Visit link for details | 2022-11-30 at 18:56 |
+| [Prometheus Exporter Toolkit web.yml unknown vulnerability](https://vuldb.com/?id.214520) | Visit link for details | 2022-11-30 at 18:55 |
+| [Apache Fineract File Upload path traversal](https://vuldb.com/?id.214519) | Visit link for details | 2022-11-30 at 18:54 |
+| [GPAC lsr_dec.c lsr_translate_coords integer overflow](https://vuldb.com/?id.214518) | Visit link for details | 2022-11-30 at 08:36 |
+| [Wenzhou Huoyin BossCMS Administrator List Module Add cross-site request forgery](https://vuldb.com/?id.214517) | Visit link for details | 2022-11-30 at 08:32 |
+| [KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214516) | Visit link for details | 2022-11-30 at 08:31 |
+| [KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214515) | Visit link for details | 2022-11-30 at 08:31 |
+| [LINE Group Chat denial of service](https://vuldb.com/?id.214514) | Visit link for details | 2022-11-30 at 08:30 |
+| [ChurchCRM cross site scripting](https://vuldb.com/?id.214513) | Visit link for details | 2022-11-30 at 08:29 |
+| [ChurchCRM cross site scripting](https://vuldb.com/?id.214512) | Visit link for details | 2022-11-30 at 08:29 |
+| [Virgial Berveling Notification E-mails Plugin cross-site request forgery](https://vuldb.com/?id.214511) | Visit link for details | 2022-11-30 at 08:29 |
+| [AeroCMS sql injection](https://vuldb.com/?id.214510) | Visit link for details | 2022-11-30 at 08:28 |
+| [D-Link DNR-322L Backup Config Privilege Escalation](https://vuldb.com/?id.214509) | Visit link for details | 2022-11-30 at 08:27 |
+| [ghost Newsletter access control](https://vuldb.com/?id.214508) | Visit link for details | 2022-11-30 at 08:26 |
+| [NetIQ Advanced Authentication Multi-Factor Authentication improper authentication](https://vuldb.com/?id.214507) | Visit link for details | 2022-11-30 at 08:26 |
+| [Dropbox JPEG Compression infinite loop](https://vuldb.com/?id.214506) | Visit link for details | 2022-11-30 at 08:24 |
+| [GPAC box_code_3gpp.c dimC_box_read memory leak](https://vuldb.com/?id.214505) | Visit link for details | 2022-11-30 at 08:23 |
+| [GPAC box_code_3gpp.c dimC_box_read stack-based overflow](https://vuldb.com/?id.214504) | Visit link for details | 2022-11-30 at 08:15 |
+| [Raiden MAILD Mail Server Website cross site scripting](https://vuldb.com/?id.214503) | Visit link for details | 2022-11-30 at 08:14 |
+| [Realtek RTL8168FP-CG Dash Remote Management authorization](https://vuldb.com/?id.214502) | Visit link for details | 2022-11-30 at 08:13 |
+| [Realtek RTL8111EP-CG/RTL8111FP-CG dash hard-coded password](https://vuldb.com/?id.214501) | Visit link for details | 2022-11-30 at 08:12 |
+| [XBlock Drag and Drop Image cross site scripting](https://vuldb.com/?id.214500) | Visit link for details | 2022-11-30 at 07:55 |
+| [Ourphoto App acceptBind improper authentication](https://vuldb.com/?id.214499) | Visit link for details | 2022-11-30 at 07:54 |
+| [Ourphoto App API improper authorization](https://vuldb.com/?id.214498) | Visit link for details | 2022-11-30 at 07:53 |
+| [Squirrly SEO Plugin unrestricted upload](https://vuldb.com/?id.214497) | Visit link for details | 2022-11-30 at 07:52 |
+| [Ourphoto App signin missing encryption](https://vuldb.com/?id.214496) | Visit link for details | 2022-11-30 at 07:52 |
+| [Ourphoto App resource injection](https://vuldb.com/?id.214495) | Visit link for details | 2022-11-30 at 07:51 |
+| [Russound XSourcePlayer 777D scriptRunner.cgi Privilege Escalation](https://vuldb.com/?id.214494) | Visit link for details | 2022-11-30 at 07:50 |
+| [Chocolatey Azure-Pipelines-Agent Package agent permission](https://vuldb.com/?id.214493) | Visit link for details | 2022-11-30 at 07:50 |
+| [Chocolatey Cmder Package permission](https://vuldb.com/?id.214492) | Visit link for details | 2022-11-30 at 07:47 |
+| [APsystems Energy Communication Unit access control](https://vuldb.com/?id.214491) | Visit link for details | 2022-11-30 at 07:46 |
+| [Telos Alliance Omnia MPX Node resource injection](https://vuldb.com/?id.214490) | Visit link for details | 2022-11-30 at 07:45 |
+| [FusionAuth HTTP Request access control](https://vuldb.com/?id.214489) | Visit link for details | 2022-11-30 at 07:45 |
+| [Opencast Paella Authentication Page redirect](https://vuldb.com/?id.214488) | Visit link for details | 2022-11-30 at 07:43 |
+| [Sanitization Management System Login.php cross site scripting](https://vuldb.com/?id.214487) | Visit link for details | 2022-11-30 at 07:43 |
+| [PuneethReddyHC online-shopping-system-advanced product.php sql injection](https://vuldb.com/?id.214486) | Visit link for details | 2022-11-30 at 07:42 |
+| [Web-Based Student Clearance System add-admin.php cross site scripting](https://vuldb.com/?id.214485) | Visit link for details | 2022-11-30 at 07:42 |
+| [Web-Based Student Clearance System add-student.php cross site scripting](https://vuldb.com/?id.214484) | Visit link for details | 2022-11-30 at 07:39 |
+| [Web-Based Student Clearance System changepassword.php cross site scripting](https://vuldb.com/?id.214483) | Visit link for details | 2022-11-30 at 07:38 |
+| [Linux Kernel L2TP l2tp_core.c sk_user_data null pointer dereference](https://vuldb.com/?id.214482) | Visit link for details | 2022-11-30 at 07:38 |
+| [Chocolatey Package Python311 permission](https://vuldb.com/?id.214481) | Visit link for details | 2022-11-30 at 07:36 |
+| [Chocolatey Gem ruby31 permission](https://vuldb.com/?id.214480) | Visit link for details | 2022-11-30 at 07:36 |
+| [Linux Kernel MPTCP Protocol null pointer dereference](https://vuldb.com/?id.214479) | Visit link for details | 2022-11-30 at 07:35 |
+| [Linux Kernel io_files_update_with_index_alloc null pointer dereference](https://vuldb.com/?id.214478) | Visit link for details | 2022-11-30 at 07:35 |
+| [Sinatra Header code download](https://vuldb.com/?id.214477) | Visit link for details | 2022-11-30 at 07:34 |
+| [Chocolatey PHP Package php81 permission](https://vuldb.com/?id.214476) | Visit link for details | 2022-11-30 at 07:32 |
+| [Raiden MAILD Mail Server Website csv injection](https://vuldb.com/?id.214475) | Visit link for details | 2022-11-30 at 07:32 |
