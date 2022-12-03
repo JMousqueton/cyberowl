@@ -1,31 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214640) | Visit link for details | 2022-12-02 at 17:45 |
-| [Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214639) | Visit link for details | 2022-12-02 at 17:44 |
-| [asith-eranga ISIC Tour Booking controller.php sql injection](https://vuldb.com/?id.214638) | Visit link for details | 2022-12-02 at 17:43 |
-| [asith-eranga ISIC Tour Booking controller.php information disclosure](https://vuldb.com/?id.214637) | Visit link for details | 2022-12-02 at 17:43 |
-| [Asus NAS-M25 Cookie os command injection](https://vuldb.com/?id.214636) | Visit link for details | 2022-12-02 at 14:47 |
-| [Rocket TRUfusion Enterprise JSP File unrestricted upload](https://vuldb.com/?id.214635) | Visit link for details | 2022-12-02 at 14:46 |
-| [Festo VTEM-S1 insufficient technical documentation](https://vuldb.com/?id.214634) | Visit link for details | 2022-12-02 at 14:45 |
-| [SnakeYAML Constructor deserialization](https://vuldb.com/?id.214633) | Visit link for details | 2022-12-02 at 14:41 |
-| [Axiell Iguana CMS twitter.php cross site scripting](https://vuldb.com/?id.214632) | Visit link for details | 2022-12-02 at 14:37 |
-| [C-DATA Web Management System GET Parameter jumpto.php argument injection](https://vuldb.com/?id.214631) | Visit link for details | 2022-12-02 at 14:35 |
-| [SourceCodester Canteen Management System customer.php builtin_echo cross site scripting](https://vuldb.com/?id.214630) | Visit link for details | 2022-12-02 at 08:33 |
-| [SourceCodester Canteen Management System categories.php builtin_echo cross site scripting](https://vuldb.com/?id.214629) | Visit link for details | 2022-12-02 at 08:31 |
-| [Movie Ticket Booking System editBooking.php cross site scripting](https://vuldb.com/?id.214628) | Visit link for details | 2022-12-02 at 08:28 |
-| [Movie Ticket Booking System booking.php cross site scripting](https://vuldb.com/?id.214627) | Visit link for details | 2022-12-02 at 08:26 |
-| [Movie Ticket Booking System POST Request cross site scripting](https://vuldb.com/?id.214626) | Visit link for details | 2022-12-02 at 08:24 |
-| [Movie Ticket Booking System editBooking.php sql injection](https://vuldb.com/?id.214625) | Visit link for details | 2022-12-02 at 08:23 |
-| [Movie Ticket Booking System booking.php sql injection](https://vuldb.com/?id.214624) | Visit link for details | 2022-12-02 at 08:21 |
-| [Kakao PotPlayer MID File denial of service](https://vuldb.com/?id.214623) | Visit link for details | 2022-12-02 at 08:14 |
-| [ThinkCMF cross-site request forgery](https://vuldb.com/?id.214622) | Visit link for details | 2022-12-02 at 08:07 |
-| [Tenda AC6 denial of service](https://vuldb.com/?id.214621) | Visit link for details | 2022-12-02 at 08:06 |
-| [DBI Module File permission assignment](https://vuldb.com/?id.214620) | Visit link for details | 2022-12-02 at 07:59 |
-| [ff4j Privilege Escalation](https://vuldb.com/?id.214619) | Visit link for details | 2022-12-02 at 07:55 |
-| [Synthetic Monitoring Agent debug code](https://vuldb.com/?id.214618) | Visit link for details | 2022-12-02 at 07:52 |
-| [discourse-bbcode CSS injection](https://vuldb.com/?id.214617) | Visit link for details | 2022-12-02 at 07:41 |
-| [Check Point SSL Network Extender IPsec VPN Blade excessive authentication](https://vuldb.com/?id.214616) | Visit link for details | 2022-12-02 at 07:40 |
-| [ThinkCMF Slideshow Management cross site scripting](https://vuldb.com/?id.214615) | Visit link for details | 2022-12-02 at 07:38 |
-| [Xiongmai MBD6304T/NBD6808T-PL JSON File deserialization](https://vuldb.com/?id.214614) | Visit link for details | 2022-12-02 at 07:37 |
-| [FreeBSD Ping pr_pack stack-based overflow](https://vuldb.com/?id.214613) | Visit link for details | 2022-12-02 at 07:33 |
+| [vim heap-based overflow](https://vuldb.com/?id.214744) | Visit link for details | 2022-12-03 at 22:34 |
+| [webTareas Chat cross site scripting](https://vuldb.com/?id.214743) | Visit link for details | 2022-12-03 at 22:34 |
+| [Rukovoditel sql injection](https://vuldb.com/?id.214742) | Visit link for details | 2022-12-03 at 22:33 |
+| [Horner Automation RCC 972 Global Variable excessive reliance on global variables](https://vuldb.com/?id.214741) | Visit link for details | 2022-12-03 at 22:33 |
+| [Horner Automation RCC 972 inadequate encryption](https://vuldb.com/?id.214740) | Visit link for details | 2022-12-03 at 22:32 |
+| [Horner Automation RCC 972 hard-coded key](https://vuldb.com/?id.214739) | Visit link for details | 2022-12-03 at 22:32 |
+| [Capsule authorization](https://vuldb.com/?id.214738) | Visit link for details | 2022-12-03 at 22:31 |
+| [webTareas viewcalendar.php cross site scripting](https://vuldb.com/?id.214737) | Visit link for details | 2022-12-03 at 22:31 |
+| [webTareas editforum.php cross site scripting](https://vuldb.com/?id.214736) | Visit link for details | 2022-12-03 at 22:30 |
+| [webTareas cross site scripting](https://vuldb.com/?id.214735) | Visit link for details | 2022-12-03 at 22:30 |
+| [webTareas listmeetings.php cross site scripting](https://vuldb.com/?id.214734) | Visit link for details | 2022-12-03 at 22:30 |
+| [webTareas listclients.php cross site scripting](https://vuldb.com/?id.214733) | Visit link for details | 2022-12-03 at 22:30 |
+| [webTareas listprojects.php cross site scripting](https://vuldb.com/?id.214732) | Visit link for details | 2022-12-03 at 22:29 |
+| [webTareas listcontacts.php cross site scripting](https://vuldb.com/?id.214731) | Visit link for details | 2022-12-03 at 22:29 |
+| [webTareas listfiles.php cross site scripting](https://vuldb.com/?id.214730) | Visit link for details | 2022-12-03 at 22:28 |
+| [Rukovoditel cross site scripting](https://vuldb.com/?id.214729) | Visit link for details | 2022-12-03 at 22:28 |
+| [Rukovoditel Add New Form Tab cross site scripting](https://vuldb.com/?id.214728) | Visit link for details | 2022-12-03 at 22:28 |
+| [Rukovoditel cross site scripting](https://vuldb.com/?id.214727) | Visit link for details | 2022-12-03 at 22:27 |
+| [Rukovoditel Add New Field cross site scripting](https://vuldb.com/?id.214726) | Visit link for details | 2022-12-03 at 22:27 |
+| [Rukovoditel Entities Group cross site scripting](https://vuldb.com/?id.214725) | Visit link for details | 2022-12-03 at 22:26 |
+| [Rukovoditel Highlight Row cross site scripting](https://vuldb.com/?id.214724) | Visit link for details | 2022-12-03 at 22:26 |
+| [Rukovoditel Add Page cross site scripting](https://vuldb.com/?id.214723) | Visit link for details | 2022-12-03 at 22:25 |
+| [Rukovoditel Add Announcement cross site scripting](https://vuldb.com/?id.214722) | Visit link for details | 2022-12-03 at 22:25 |
+| [webTareas phasesets.php sql injection](https://vuldb.com/?id.214721) | Visit link for details | 2022-12-03 at 22:24 |
+| [webTareas deleteapprovalstages.php sql injection](https://vuldb.com/?id.214720) | Visit link for details | 2022-12-03 at 22:24 |
+| [Tenda AC6 fromSysToolReboot cross-site request forgery](https://vuldb.com/?id.214719) | Visit link for details | 2022-12-03 at 22:21 |
+| [Tenda AC6 fromSysToolRestoreSet cross-site request forgery](https://vuldb.com/?id.214718) | Visit link for details | 2022-12-03 at 22:21 |
+| [Tenda i22 fromSysToolReboot cross-site request forgery](https://vuldb.com/?id.214717) | Visit link for details | 2022-12-03 at 22:21 |
+| [Tenda i22 fromSysToolRestoreSet cross-site request forgery](https://vuldb.com/?id.214716) | Visit link for details | 2022-12-03 at 22:20 |
+| [Tenda AC6 formSetMacFilterCfg buffer overflow](https://vuldb.com/?id.214715) | Visit link for details | 2022-12-03 at 22:19 |
+| [Tenda i21 setUplinkInfo buffer overflow](https://vuldb.com/?id.214714) | Visit link for details | 2022-12-03 at 22:19 |
+| [Tenda i21 setDiagnoseInfo buffer overflow](https://vuldb.com/?id.214713) | Visit link for details | 2022-12-03 at 22:19 |
+| [Tenda i21 setSysPwd stack-based overflow](https://vuldb.com/?id.214712) | Visit link for details | 2022-12-03 at 22:18 |
+| [Tenda i21 setSnmpInfo buffer overflow](https://vuldb.com/?id.214711) | Visit link for details | 2022-12-03 at 22:18 |
+| [Tenda i21 AddSysLogRule buffer overflow](https://vuldb.com/?id.214710) | Visit link for details | 2022-12-03 at 22:18 |
+| [vim use after free](https://vuldb.com/?id.214709) | Visit link for details | 2022-12-03 at 22:17 |
+| [Tenda i22 formWx3AuthorizeSet buffer overflow](https://vuldb.com/?id.214708) | Visit link for details | 2022-12-03 at 22:17 |
+| [Tenda i22 formSetAppFilterRule buffer overflow](https://vuldb.com/?id.214707) | Visit link for details | 2022-12-03 at 22:17 |
+| [Tenda i22 formSetAutoPing buffer overflow](https://vuldb.com/?id.214706) | Visit link for details | 2022-12-03 at 22:17 |
+| [Tenda i22 formWifiMacFilterGet buffer overflow](https://vuldb.com/?id.214705) | Visit link for details | 2022-12-03 at 22:16 |
+| [Tenda i22 formwrlSSIDget buffer overflow](https://vuldb.com/?id.214704) | Visit link for details | 2022-12-03 at 22:16 |
+| [Tenda i22 formWifiMacFilterSet buffer overflow](https://vuldb.com/?id.214703) | Visit link for details | 2022-12-03 at 22:16 |
+| [Tenda AC6 setSmartPowerManagement buffer overflow](https://vuldb.com/?id.214702) | Visit link for details | 2022-12-03 at 21:11 |
+| [Tenda AC6 setSchedWifi buffer overflow](https://vuldb.com/?id.214701) | Visit link for details | 2022-12-03 at 21:11 |
+| [Tenda AC6 fromSetWirelessRepeat buffer overflow](https://vuldb.com/?id.214700) | Visit link for details | 2022-12-03 at 21:11 |
+| [Tenda AC6 setSchedWifi buffer overflow](https://vuldb.com/?id.214699) | Visit link for details | 2022-12-03 at 21:11 |
+| [Tenda AC6 fromSetSysTime buffer overflow](https://vuldb.com/?id.214698) | Visit link for details | 2022-12-03 at 21:10 |
+| [Tenda AC6 form_fast_setting_wifi_set buffer overflow](https://vuldb.com/?id.214697) | Visit link for details | 2022-12-03 at 21:10 |
+| [Tenda AC6 form_fast_setting_wifi_set buffer overflow](https://vuldb.com/?id.214696) | Visit link for details | 2022-12-03 at 21:10 |
+| [Tenda AC6 fromNatStaticSetting buffer overflow](https://vuldb.com/?id.214695) | Visit link for details | 2022-12-03 at 21:09 |

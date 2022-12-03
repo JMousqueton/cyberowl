@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1069/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 1 décembre 2022 |
-| [Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1068/) | Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 1 décembre 2022 |
-| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1067/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 1 décembre 2022 |
-| [Multiples vulnérabilités dans Aruba AirWave](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1066/) | De multiples vulnérabilités ont été découvertes dans Aruba AirWave. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 30 novembre 2022 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1065/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 30 novembre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1064/) | De multiples vulnérabilités ont été corrigées dans  | 30 novembre 2022 |
-| [Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1063/) | Une vulnérabilité a été corrigée dans  | 30 novembre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1062/) | De multiples vulnérabilités ont été corrigées dans  | 30 novembre 2022 |
-| [[SCADA] Multiples vulnérabilités dans Moxa Gamme UC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1061/) | De multiples vulnérabilités ont été découvertes dans Moxa Gamme UC. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 29 novembre 2022 |
-| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1060/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 29 novembre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/) | [Mise à jour du 15 juin 2022] Le mardi 14 juin 2022, l'éditeur a publié des mises à jour permettant la correction de cette vulnérabilité.  | 31 mai 2022 |
 | [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-004/) | La vulnérabilité  | 11 mai 2022 |
 | [[MàJ] Vulnérabilité dans l’implémentation du protocole RPC par Microsoft](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/) | [mise à jour du 15 avril 2022] | 13 avril 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits NextCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1073/) | De multiples vulnérabilités ont été découvertes dans les produits NextCloud. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données. | 2 décembre 2022 |
+| [Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1072/) | De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 2 décembre 2022 |
+| [Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1071/) | De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges. | 2 décembre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1070/) | De multiples vulnérabilités ont été corrigées dans  | 2 décembre 2022 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1069/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 1 décembre 2022 |
+| [Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1068/) | Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 1 décembre 2022 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1067/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 1 décembre 2022 |
+| [Multiples vulnérabilités dans Aruba AirWave](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1066/) | De multiples vulnérabilités ont été découvertes dans Aruba AirWave. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 30 novembre 2022 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1065/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 30 novembre 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1064/) | De multiples vulnérabilités ont été corrigées dans  | 30 novembre 2022 |
