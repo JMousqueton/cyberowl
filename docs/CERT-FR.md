@@ -2,6 +2,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1081/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 7 décembre 2022 |
+| [Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1080/) | De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 7 décembre 2022 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1079/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un contournement de la politique de sécurité. | 6 décembre 2022 |
 | [Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1078/) | De multiples vulnérabilités ont été découvertes dans les micrologiciels Baseboard Management Controller (BMC) Intel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges. | 6 décembre 2022 |
 | [Multiples vulnérabilités dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1077/) | De multiples vulnérabilités ont été découvertes dans Sophos Firewall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 5 décembre 2022 |
@@ -10,8 +12,6 @@
 | [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1074/) | Une vulnérabilité a été corrigée dans  | 5 décembre 2022 |
 | [Multiples vulnérabilités dans les produits NextCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1073/) | De multiples vulnérabilités ont été découvertes dans les produits NextCloud. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données. | 2 décembre 2022 |
 | [Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1072/) | De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 2 décembre 2022 |
-| [Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1071/) | De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges. | 2 décembre 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1070/) | De multiples vulnérabilités ont été corrigées dans  | 2 décembre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
