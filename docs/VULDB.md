@@ -1,53 +1,36 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Rockwell Automation CompactLogix Network Message denial of service](https://vuldb.com/?id.215277) | Visit link for details | 2022-12-12 at 21:38 |
-| [AVEVA InTouch Access Anywhere path traversal](https://vuldb.com/?id.215276) | Visit link for details | 2022-12-12 at 21:36 |
-| [thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.215275) | Visit link for details | 2022-12-12 at 19:11 |
-| [thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.215274) | Visit link for details | 2022-12-12 at 19:11 |
-| [thorsten phpmyfaq missing secure attribute](https://vuldb.com/?id.215273) | Visit link for details | 2022-12-12 at 19:10 |
-| [SourceCodester Canteen Management System ajax_represent.php sql injection](https://vuldb.com/?id.215272) | Visit link for details | 2022-12-12 at 12:35 |
-| [RainyGao DocSys ZIP File Decompression path traversal](https://vuldb.com/?id.215271) | Visit link for details | 2022-12-12 at 08:52 |
-| [grub2 Font Code out-of-bounds write](https://vuldb.com/?id.215270) | Visit link for details | 2022-12-12 at 08:46 |
-| [Mozilla Bleach bleach.clean resource consumption](https://vuldb.com/?id.215269) | Visit link for details | 2022-12-12 at 08:35 |
-| [pallidlight online-course-selection-system cross site scripting](https://vuldb.com/?id.215268) | Visit link for details | 2022-12-12 at 23:11 |
-| [zbl1996 FS-Blog Title cross site scripting](https://vuldb.com/?id.215267) | Visit link for details | 2022-12-12 at 23:09 |
-| [Apache Struts cross site scripting](https://vuldb.com/?id.215266) | Visit link for details | 2022-12-12 at 23:06 |
-| [Spring Framework Spring MVC JavaScriptUtils.java JavaScriptUtils.javaScriptEscape cross site scripting](https://vuldb.com/?id.215265) | Visit link for details | 2022-12-12 at 23:05 |
-| [libtpms out-of-bounds write](https://vuldb.com/?id.215264) | Visit link for details | 2022-12-12 at 23:03 |
-| [libtpms out-of-bounds write](https://vuldb.com/?id.215263) | Visit link for details | 2022-12-12 at 23:02 |
-| [Planet eStream information disclosure](https://vuldb.com/?id.215262) | Visit link for details | 2022-12-12 at 22:45 |
-| [Planet eStream URL Parameter path traversal](https://vuldb.com/?id.215261) | Visit link for details | 2022-12-12 at 22:45 |
-| [Planet eStream cross site scripting](https://vuldb.com/?id.215260) | Visit link for details | 2022-12-12 at 22:44 |
-| [Planet eStream cross site scripting](https://vuldb.com/?id.215259) | Visit link for details | 2022-12-12 at 22:44 |
-| [Planet eStream sql injection](https://vuldb.com/?id.215258) | Visit link for details | 2022-12-12 at 22:43 |
-| [Planet eStream authorization](https://vuldb.com/?id.215257) | Visit link for details | 2022-12-12 at 22:43 |
-| [Planet eStream user session](https://vuldb.com/?id.215256) | Visit link for details | 2022-12-12 at 22:43 |
-| [Planet eStream improper authentication](https://vuldb.com/?id.215255) | Visit link for details | 2022-12-12 at 22:36 |
-| [snap-confine must_mkdir_and_open_with_perms race condition](https://vuldb.com/?id.215254) | Visit link for details | 2022-12-12 at 22:33 |
-| [radareorg radare2 integer overflow](https://vuldb.com/?id.215253) | Visit link for details | 2022-12-12 at 22:24 |
-| [TicklishHoneyBee nodau db.c sql injection](https://vuldb.com/?id.215252) | Visit link for details | 2022-12-12 at 20:09 |
-| [CHICKEN EGG File egg-compile.scm os command injection](https://vuldb.com/?id.215251) | Visit link for details | 2022-12-12 at 20:04 |
-| [morontt zend-blog-number-2 Comment Comment.php cross-site request forgery](https://vuldb.com/?id.215250) | Visit link for details | 2022-12-12 at 16:36 |
-| [RDFlib pyrdfa3 __init__.py _get_option cross site scripting](https://vuldb.com/?id.215249) | Visit link for details | 2022-12-12 at 12:41 |
-| [Yii Yii2 Gii cross site scripting](https://vuldb.com/?id.215248) | Visit link for details | 2022-12-12 at 12:34 |
-| [Broadcom Symantec Messaging Gateway Admin Group Policy Page cross site scripting](https://vuldb.com/?id.215247) | Visit link for details | 2022-12-12 at 12:34 |
-| [BAOTA Linux Panel Log Analysis cross site scripting](https://vuldb.com/?id.215246) | Visit link for details | 2022-12-12 at 12:33 |
-| [Zephyr IF Statement smp_check_keys state issue](https://vuldb.com/?id.215245) | Visit link for details | 2022-12-12 at 12:32 |
-| [Kbase Doc IndexController.java denial of service](https://vuldb.com/?id.215244) | Visit link for details | 2022-12-12 at 12:31 |
-| [OpenShift HSTS initialization](https://vuldb.com/?id.215243) | Visit link for details | 2022-12-12 at 12:30 |
-| [Netgear RAX30 AX2400 IPv6 access control](https://vuldb.com/?id.215242) | Visit link for details | 2022-12-12 at 12:26 |
-| [Interspire Email Marketer Surveys Module sql injection](https://vuldb.com/?id.215241) | Visit link for details | 2022-12-12 at 12:24 |
-| [VMware ESXi/Cloud Foundation ESXi OpenSLP heap-based overflow](https://vuldb.com/?id.215240) | Visit link for details | 2022-12-12 at 12:22 |
-| [VMware vCenter Server/Cloud Foundation Content Library Service denial of service](https://vuldb.com/?id.215239) | Visit link for details | 2022-12-12 at 12:21 |
-| [VMware vCenter Server/Cloud Foundation log file](https://vuldb.com/?id.215238) | Visit link for details | 2022-12-12 at 12:20 |
-| [VMware ESXi/Cloud Foundation ESXi Network Socket memory corruption](https://vuldb.com/?id.215237) | Visit link for details | 2022-12-12 at 12:19 |
-| [cube-js sql-runner sql injection](https://vuldb.com/?id.215236) | Visit link for details | 2022-12-12 at 09:36 |
-| [Wireshark USB HID protocol dissector denial of service](https://vuldb.com/?id.215235) | Visit link for details | 2022-12-12 at 09:35 |
-| [Broadcom Symantec Messaging Gateway Content Tab cross site scripting](https://vuldb.com/?id.215234) | Visit link for details | 2022-12-12 at 09:34 |
-| [Spring Boot Admins Notifier env code injection](https://vuldb.com/?id.215233) | Visit link for details | 2022-12-12 at 09:33 |
-| [Funkwhale User Invite access control](https://vuldb.com/?id.215232) | Visit link for details | 2022-12-12 at 09:33 |
-| [Western Digital My Cloud Encrypted Pages improper authentication](https://vuldb.com/?id.215231) | Visit link for details | 2022-12-12 at 09:24 |
-| [Marc Lehmann rxvt-unicode Perl Background Extension injection](https://vuldb.com/?id.215230) | Visit link for details | 2022-12-12 at 09:23 |
-| [Western Digital My Cloud insufficiently protected credentials](https://vuldb.com/?id.215229) | Visit link for details | 2022-12-12 at 09:19 |
-| [Automotive Shop Management System view_service.php sql injection](https://vuldb.com/?id.215228) | Visit link for details | 2022-12-12 at 09:19 |
+| [Motors Plugin AJAX Action unrestricted upload](https://vuldb.com/?id.215310) | Visit link for details | 2022-12-13 at 22:05 |
+| [Amazon CloudWatch Agent insufficient privileges](https://vuldb.com/?id.215309) | Visit link for details | 2022-12-13 at 15:57 |
+| [IFM Moneo Appliance password recovery](https://vuldb.com/?id.215308) | Visit link for details | 2022-12-13 at 14:39 |
+| [yikes-inc-easy-mailchimp-extender Plugin add_field_to_form.php cross site scripting](https://vuldb.com/?id.215307) | Visit link for details | 2022-12-13 at 13:24 |
+| [claviska jquery-minicolors jquery.minicolors.js cross site scripting](https://vuldb.com/?id.215306) | Visit link for details | 2022-12-13 at 13:21 |
+| [Plot Plugin XML Parser xml external entity reference](https://vuldb.com/?id.215305) | Visit link for details | 2022-12-13 at 13:11 |
+| [rAthena FluxCP Service Desk Image URL view.php cross site scripting](https://vuldb.com/?id.215304) | Visit link for details | 2022-12-13 at 13:10 |
+| [Sonar Gerrit Plugin cross-site request forgery](https://vuldb.com/?id.215303) | Visit link for details | 2022-12-13 at 13:07 |
+| [Spring Config Plugin Build Display Name cross site scripting](https://vuldb.com/?id.215302) | Visit link for details | 2022-12-13 at 13:05 |
+| [Build Properties Plugin Custom Build Property Handler/Build Summary Page cross site scripting](https://vuldb.com/?id.215301) | Visit link for details | 2022-12-13 at 13:04 |
+| [Gitea Plugin Access Token server log file](https://vuldb.com/?id.215300) | Visit link for details | 2022-12-13 at 13:03 |
+| [Checkmarx Plugin Service API cross site scripting](https://vuldb.com/?id.215299) | Visit link for details | 2022-12-13 at 13:02 |
+| [Google Login Plugin URL redirect](https://vuldb.com/?id.215298) | Visit link for details | 2022-12-13 at 13:01 |
+| [Devolutions Remote Desktop Manager Azure SQL Data Source Privilege Escalation](https://vuldb.com/?id.215297) | Visit link for details | 2022-12-13 at 13:00 |
+| [Trend Micro Apex One/Apex One as a Service Damage Cleanup Engine Privilege Escalation](https://vuldb.com/?id.215296) | Visit link for details | 2022-12-13 at 12:59 |
+| [SQLite Safe Execution azProhibitedFunctions protection mechanism](https://vuldb.com/?id.215295) | Visit link for details | 2022-12-13 at 12:58 |
+| [IBM API Connect http headers for scripting syntax](https://vuldb.com/?id.215294) | Visit link for details | 2022-12-13 at 12:56 |
+| [IBM Db2U cross-site request forgery](https://vuldb.com/?id.215293) | Visit link for details | 2022-12-13 at 12:56 |
+| [SENS getRegister cross site scripting](https://vuldb.com/?id.215292) | Visit link for details | 2022-12-13 at 08:25 |
+| [SENS cross site scripting](https://vuldb.com/?id.215291) | Visit link for details | 2022-12-13 at 08:25 |
+| [nuxt framework cross site scripting](https://vuldb.com/?id.215290) | Visit link for details | 2022-12-13 at 08:24 |
+| [nuxt framework cross site scripting](https://vuldb.com/?id.215289) | Visit link for details | 2022-12-13 at 08:23 |
+| [Redmine Textile Formatter cross site scripting](https://vuldb.com/?id.215288) | Visit link for details | 2022-12-13 at 08:22 |
+| [Dragino Lora LG01 18ed40 IoT Logout Page cross-site request forgery](https://vuldb.com/?id.215287) | Visit link for details | 2022-12-13 at 08:22 |
+| [SENS access control](https://vuldb.com/?id.215286) | Visit link for details | 2022-12-13 at 08:19 |
+| [SENS unrestricted upload](https://vuldb.com/?id.215285) | Visit link for details | 2022-12-13 at 08:18 |
+| [Redmine Textile Formatter cross site scripting](https://vuldb.com/?id.215284) | Visit link for details | 2022-12-13 at 08:16 |
+| [SAP BusinessObjects Business Intelligence Platform Monitoring DB exposure of resource](https://vuldb.com/?id.215283) | Visit link for details | 2022-12-13 at 08:15 |
+| [Dragino Lora LG01 18ed40 IoT Backup File lib exposure of information through directory listing](https://vuldb.com/?id.215282) | Visit link for details | 2022-12-13 at 07:59 |
+| [Bluetooth Core Specification Pairing channel accessible](https://vuldb.com/?id.215281) | Visit link for details | 2022-12-13 at 07:56 |
+| [Bluetooth Code Specification Low Energy Pairing channel accessible](https://vuldb.com/?id.215280) | Visit link for details | 2022-12-13 at 07:55 |
+| [Trojan-Dropper.Win32.Decay.dxv Settings.ini cleartext storage in a file or on disk](https://vuldb.com/?id.215279) | Visit link for details | 2022-12-13 at 07:54 |
+| [RainyGao DocSys getReposAllUsers.do getReposAllUsers sql injection](https://vuldb.com/?id.215278) | Visit link for details | 2022-12-13 at 07:44 |
