@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [AeroCMS cross-site request forgery](https://vuldb.com/?id.215642) | Visit link for details | 2022-12-14 at 23:06 |
-| [Gym Management System cross-site request forgery](https://vuldb.com/?id.215641) | Visit link for details | 2022-12-14 at 23:06 |
-| [Arris NVG443B HTTP POST logs.ha cross site scripting](https://vuldb.com/?id.215640) | Visit link for details | 2022-12-14 at 23:06 |
-| [Loofah URI cross site scripting](https://vuldb.com/?id.215639) | Visit link for details | 2022-12-14 at 23:05 |
-| [rails-html-sanitizer URI cross site scripting](https://vuldb.com/?id.215638) | Visit link for details | 2022-12-14 at 23:05 |
-| [rails-html-sanitizer cross site scripting](https://vuldb.com/?id.215637) | Visit link for details | 2022-12-14 at 23:04 |
-| [rails-html-sanitizer cross site scripting](https://vuldb.com/?id.215636) | Visit link for details | 2022-12-14 at 23:04 |
-| [Siemens SCALANCE CLI User Password storing passwords in a recoverable format](https://vuldb.com/?id.215635) | Visit link for details | 2022-12-14 at 23:03 |
-| [AeroCMS sql injection](https://vuldb.com/?id.215634) | Visit link for details | 2022-12-14 at 23:03 |
-| [EXEMSI MSI Wrapper Local Privilege Escalation](https://vuldb.com/?id.215633) | Visit link for details | 2022-12-14 at 23:02 |
-| [Google Android Lockscreen NotificationLockscreenUserManagerImpl.java updatePublicMode information disclosure](https://vuldb.com/?id.215632) | Visit link for details | 2022-12-14 at 23:02 |
-| [Loofah incorrect regex](https://vuldb.com/?id.215629) | Visit link for details | 2022-12-14 at 22:59 |
-| [Loofah recursion](https://vuldb.com/?id.215628) | Visit link for details | 2022-12-14 at 22:58 |
-| [rails-html-sanitizer incorrect regex](https://vuldb.com/?id.215627) | Visit link for details | 2022-12-14 at 22:57 |
-| [Microsoft Windows Graphics Privilege Escalation](https://vuldb.com/?id.215631) | Visit link for details | 2022-12-14 at 22:57 |
-| [Siemens SCALANCE X204RNA/SCALANCE X204RNA EEC Integrated Web Server cross site scripting](https://vuldb.com/?id.215626) | Visit link for details | 2022-12-14 at 22:57 |
-| [hutool-json XML.toJSONObject stack-based overflow](https://vuldb.com/?id.215625) | Visit link for details | 2022-12-14 at 22:56 |
-| [Microsoft Windows Bluetooth Driver Privilege Escalation](https://vuldb.com/?id.215630) | Visit link for details | 2022-12-14 at 22:56 |
-| [Jettison JSON Data stack-based overflow](https://vuldb.com/?id.215624) | Visit link for details | 2022-12-14 at 22:56 |
-| [Siemens PLM Help Server Web Interface cross site scripting](https://vuldb.com/?id.215623) | Visit link for details | 2022-12-14 at 22:55 |
-| [Qualcomm Snapdragon Auto memory corruption](https://vuldb.com/?id.215622) | Visit link for details | 2022-12-14 at 22:54 |
-| [Qualcomm Snapdragon Mobile/Snapdragon Wearables SPI Bus memory corruption](https://vuldb.com/?id.215621) | Visit link for details | 2022-12-14 at 22:54 |
-| [Qualcomm Snapdragon Mobile/Snapdragon Wearables i2c Driver memory corruption](https://vuldb.com/?id.215620) | Visit link for details | 2022-12-14 at 22:53 |
-| [Qualcomm Snapdragon Mobile Modem assertion](https://vuldb.com/?id.215619) | Visit link for details | 2022-12-14 at 22:53 |
-| [Qualcomm Snapdragon Mobile Modem assertion](https://vuldb.com/?id.215618) | Visit link for details | 2022-12-14 at 22:53 |
-| [Qualcomm Snapdragon Compute Modem assertion](https://vuldb.com/?id.215617) | Visit link for details | 2022-12-14 at 22:52 |
-| [Qualcomm Snapdragon Mobile Modem assertion](https://vuldb.com/?id.215616) | Visit link for details | 2022-12-14 at 22:52 |
-| [Qualcomm Snapdragon Mobile Modem denial of service](https://vuldb.com/?id.215615) | Visit link for details | 2022-12-14 at 22:51 |
-| [Google Android ResetTargetTaskHelper.java test Local Privilege Escalation](https://vuldb.com/?id.215614) | Visit link for details | 2022-12-14 at 22:51 |
-| [Google Android ReviewPermissionsActivity.java onCreate permission](https://vuldb.com/?id.215613) | Visit link for details | 2022-12-14 at 22:50 |
-| [IP-COM EW9 cmd_get_ping_output command injection](https://vuldb.com/?id.215612) | Visit link for details | 2022-12-14 at 22:50 |
-| [Jettison denial of service](https://vuldb.com/?id.215610) | Visit link for details | 2022-12-14 at 22:48 |
-| [hutool-json resource consumption](https://vuldb.com/?id.215609) | Visit link for details | 2022-12-14 at 22:48 |
-| [Resque Scheduler {schedule_job} cross site scripting](https://vuldb.com/?id.215608) | Visit link for details | 2022-12-14 at 22:47 |
-| [Google Android System Settings App Parcel.java readLazyValue Local Privilege Escalation](https://vuldb.com/?id.215607) | Visit link for details | 2022-12-14 at 22:47 |
-| [Microsoft Windows Graphics information disclosure](https://vuldb.com/?id.215611) | Visit link for details | 2022-12-14 at 22:46 |
-| [Citrix ADC/Gateway resource control](https://vuldb.com/?id.215606) | Visit link for details | 2022-12-14 at 22:46 |
-| [Siemens SCALANCE X204RNA/SCALANCE X204RNA EEC PROFINET DCP Packet denial of service](https://vuldb.com/?id.215605) | Visit link for details | 2022-12-14 at 22:44 |
-| [Siemens Simcenter STAR-CCM+ permission assignment](https://vuldb.com/?id.215604) | Visit link for details | 2022-12-14 at 22:44 |
-| [Google Android DeletePackageHelper.java deletePackageVersionedInternal permission](https://vuldb.com/?id.215603) | Visit link for details | 2022-12-14 at 22:43 |
-| [Google Android EnableAccountPreferenceActivity.java onCreate improper restriction of rendered ui layers](https://vuldb.com/?id.215602) | Visit link for details | 2022-12-14 at 22:42 |
-| [Google Android ShortcutPackage.java loadFromXml denial of service](https://vuldb.com/?id.215601) | Visit link for details | 2022-12-14 at 22:41 |
-| [Google Android AccessibilityManager.java getEnabledAccessibilityServiceList Local Privilege Escalation](https://vuldb.com/?id.215600) | Visit link for details | 2022-12-14 at 22:41 |
-| [Google Android KeyguardNotificationVisibilityProvider.kt shouldHideNotification Local Privilege Escalation](https://vuldb.com/?id.215599) | Visit link for details | 2022-12-14 at 22:40 |
-| [Google Android Bluetooth avct_lcb_act.cc avct_lcb_msg_asmbl out-of-bounds write](https://vuldb.com/?id.215598) | Visit link for details | 2022-12-14 at 22:40 |
-| [TIBCO JasperReports Server Dashboard cross site scripting](https://vuldb.com/?id.215597) | Visit link for details | 2022-12-14 at 22:39 |
-| [TIBCO JasperReports Server HTML Escaping cross site scripting](https://vuldb.com/?id.215596) | Visit link for details | 2022-12-14 at 22:39 |
-| [Microsoft Edge Remote Code Execution](https://vuldb.com/?id.215595) | Visit link for details | 2022-12-14 at 22:38 |
-| [Microsoft Edge Remote Code Execution](https://vuldb.com/?id.215594) | Visit link for details | 2022-12-14 at 22:38 |
-| [Microsoft Edge Remote Code Execution](https://vuldb.com/?id.215593) | Visit link for details | 2022-12-14 at 22:38 |
+| [Linux Kernel kfd_crat.c kfd_parse_subtype_iolink return value](https://vuldb.com/?id.215850) | Visit link for details | 2022-12-15 at 01:09 |
+| [Linux Kernel ef100_nic.c ef100_update_stats null pointer dereference](https://vuldb.com/?id.215849) | Visit link for details | 2022-12-15 at 01:08 |
+| [Linux Kernel uverbs_uapi.c uapi_finalize null pointer dereference](https://vuldb.com/?id.215848) | Visit link for details | 2022-12-15 at 01:08 |
+| [fp_newsletter Extension CAPTCHA access control](https://vuldb.com/?id.215847) | Visit link for details | 2022-12-15 at 01:07 |
+| [fp_masterquiz Extension access control](https://vuldb.com/?id.215846) | Visit link for details | 2022-12-15 at 01:06 |
+| [fe_change_pwd Extension session expiration](https://vuldb.com/?id.215845) | Visit link for details | 2022-12-15 at 01:06 |
+| [fp_newsletter Extension information disclosure](https://vuldb.com/?id.215844) | Visit link for details | 2022-12-15 at 01:03 |
+| [fp_newsletter Extension information disclosure](https://vuldb.com/?id.215843) | Visit link for details | 2022-12-15 at 01:03 |
+| [fp_newsletter Extension denial of service](https://vuldb.com/?id.215842) | Visit link for details | 2022-12-15 at 01:02 |
+| [Linux Kernel malidp_crtc.c malidp_crtc_reset null pointer dereference](https://vuldb.com/?id.215841) | Visit link for details | 2022-12-15 at 01:02 |
+| [Linux Kernel clk.c imx_register_uart_clocks null pointer dereference](https://vuldb.com/?id.215840) | Visit link for details | 2022-12-15 at 01:01 |
+| [Linux Kernel mtk_vcodec_fw_vpu.c mtk_vcodec_fw_vpu_init null pointer dereference](https://vuldb.com/?id.215839) | Visit link for details | 2022-12-15 at 01:01 |
+| [Linux Kernel vdec_helpers.c amvdec_set_canvases null pointer dereference](https://vuldb.com/?id.215838) | Visit link for details | 2022-12-15 at 01:01 |
+| [Linux Kernel wm8350_power.c free_charger_irq null pointer dereference](https://vuldb.com/?id.215837) | Visit link for details | 2022-12-15 at 01:00 |
+| [Linux Kernel netvsc_drv.c netvsc_get_ethtool_stats null pointer dereference](https://vuldb.com/?id.215836) | Visit link for details | 2022-12-15 at 01:00 |
+| [Linux Kernel bugs.c lkdtm_ARRAY_BOUNDS null pointer dereference](https://vuldb.com/?id.215835) | Visit link for details | 2022-12-15 at 00:59 |
+| [IBM Spectrum Protect Plus cleartext transmission](https://vuldb.com/?id.215834) | Visit link for details | 2022-12-15 at 00:58 |
+| [Linux Kernel rtw_xmit.c _rtw_init_xmit_priv null pointer dereference](https://vuldb.com/?id.215833) | Visit link for details | 2022-12-15 at 00:58 |
+| [D-Link DIR-3040 SetTriggerLEDBlink command injection](https://vuldb.com/?id.215832) | Visit link for details | 2022-12-15 at 00:57 |
+| [Proxmox Virtual Environment cross site scripting](https://vuldb.com/?id.215831) | Visit link for details | 2022-12-15 at 00:57 |
+| [VMware vRealize Network Insight vRNI REST API command injection](https://vuldb.com/?id.215830) | Visit link for details | 2022-12-15 at 00:50 |
+| [GitHub Enterprise Server authorization](https://vuldb.com/?id.215829) | Visit link for details | 2022-12-15 at 00:49 |
+| [Asus Aura Sync IOCTL MsIo64.sys memory corruption](https://vuldb.com/?id.215828) | Visit link for details | 2022-12-15 at 00:47 |
+| [MeterSphere &quot deleteBodyFiles path traversal](https://vuldb.com/?id.215827) | Visit link for details | 2022-12-15 at 00:01 |
+| [VMware Workspace ONE Access/Identity Manager information disclosure](https://vuldb.com/?id.215826) | Visit link for details | 2022-12-15 at 00:00 |
+| [GitHub Enterprise Server path traversal](https://vuldb.com/?id.215825) | Visit link for details | 2022-12-15 at 23:59 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215824) | Visit link for details | 2022-12-15 at 23:58 |
+| [oretnom23 Helmet Store Showroom Site manage_brand.php sql injection](https://vuldb.com/?id.215823) | Visit link for details | 2022-12-15 at 23:57 |
+| [oretnom23 Helmet Store Showroom Site manage_category.php sql injection](https://vuldb.com/?id.215822) | Visit link for details | 2022-12-15 at 23:57 |
+| [oretnom23 Helmet Store Showroom Site view_category.php sql injection](https://vuldb.com/?id.215821) | Visit link for details | 2022-12-15 at 23:56 |
+| [GitHub Enterprise Server path traversal](https://vuldb.com/?id.215820) | Visit link for details | 2022-12-15 at 23:55 |
+| [Passhunt backdoor](https://vuldb.com/?id.215819) | Visit link for details | 2022-12-15 at 23:54 |
+| [vSphere_selfuse backdoor](https://vuldb.com/?id.215818) | Visit link for details | 2022-12-15 at 23:54 |
+| [VMware Workspace ONE Access Privilege Escalation](https://vuldb.com/?id.215817) | Visit link for details | 2022-12-15 at 23:53 |
+| [mod_auth_openidc Regular Expression oidc_validate_redirect_url](https://vuldb.com/?id.215816) | Visit link for details | 2022-12-15 at 23:52 |
+| [Python3-RESTfulAPI backdoor](https://vuldb.com/?id.215815) | Visit link for details | 2022-12-15 at 23:51 |
+| [VMware ESXi/Workstation/Fusion/Cloud Foundation USB 2.0 controller out-of-bounds write](https://vuldb.com/?id.215814) | Visit link for details | 2022-12-15 at 23:49 |
+| [collective.dms.basecontent column.py renderCell cross site scripting](https://vuldb.com/?id.215813) | Visit link for details | 2022-12-15 at 13:15 |
+| [Apache Atlas path traversal](https://vuldb.com/?id.215812) | Visit link for details | 2022-12-15 at 13:10 |
+| [Weidmueller Interface 19 IOT MD01 LAN H4 S0011/FP IOT MD01/FP IOT MD02 Example Web Template cross site scripting](https://vuldb.com/?id.215811) | Visit link for details | 2022-12-15 at 13:09 |
+| [WordPress Pingback server-side request forgery](https://vuldb.com/?id.215810) | Visit link for details | 2022-12-15 at 13:08 |
+| [Google Chrome Profiles use after free](https://vuldb.com/?id.215809) | Visit link for details | 2022-12-15 at 12:25 |
+| [Google Chrome Aura use after free](https://vuldb.com/?id.215808) | Visit link for details | 2022-12-15 at 12:24 |
+| [Google Chrome Blink Frames use after free](https://vuldb.com/?id.215807) | Visit link for details | 2022-12-15 at 12:23 |
+| [Google Chrome Mojo IPC use after free](https://vuldb.com/?id.215806) | Visit link for details | 2022-12-15 at 12:23 |
+| [Google Chrome Blink Media use after free](https://vuldb.com/?id.215805) | Visit link for details | 2022-12-15 at 12:22 |
+| [bspkrs MCPMappingViewer ZIP File RemoteZipHandler.java extractZip path traversal](https://vuldb.com/?id.215804) | Visit link for details | 2022-12-15 at 12:18 |
+| [scifio ZIP File DefaultSampleFilesService.java downloadAndUnpackResource path traversal](https://vuldb.com/?id.215803) | Visit link for details | 2022-12-15 at 12:15 |
+| [Apple iOS WebKit type confusion](https://vuldb.com/?id.215802) | Visit link for details | 2022-12-15 at 12:07 |
+| [Apple Xcode IDE Xcode Server input validation](https://vuldb.com/?id.215801) | Visit link for details | 2022-12-15 at 12:04 |
