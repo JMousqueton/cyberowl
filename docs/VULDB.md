@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Linux Kernel kfd_crat.c kfd_parse_subtype_iolink return value](https://vuldb.com/?id.215850) | Visit link for details | 2022-12-15 at 01:09 |
-| [Linux Kernel ef100_nic.c ef100_update_stats null pointer dereference](https://vuldb.com/?id.215849) | Visit link for details | 2022-12-15 at 01:08 |
-| [Linux Kernel uverbs_uapi.c uapi_finalize null pointer dereference](https://vuldb.com/?id.215848) | Visit link for details | 2022-12-15 at 01:08 |
-| [fp_newsletter Extension CAPTCHA access control](https://vuldb.com/?id.215847) | Visit link for details | 2022-12-15 at 01:07 |
-| [fp_masterquiz Extension access control](https://vuldb.com/?id.215846) | Visit link for details | 2022-12-15 at 01:06 |
-| [fe_change_pwd Extension session expiration](https://vuldb.com/?id.215845) | Visit link for details | 2022-12-15 at 01:06 |
-| [fp_newsletter Extension information disclosure](https://vuldb.com/?id.215844) | Visit link for details | 2022-12-15 at 01:03 |
-| [fp_newsletter Extension information disclosure](https://vuldb.com/?id.215843) | Visit link for details | 2022-12-15 at 01:03 |
-| [fp_newsletter Extension denial of service](https://vuldb.com/?id.215842) | Visit link for details | 2022-12-15 at 01:02 |
-| [Linux Kernel malidp_crtc.c malidp_crtc_reset null pointer dereference](https://vuldb.com/?id.215841) | Visit link for details | 2022-12-15 at 01:02 |
-| [Linux Kernel clk.c imx_register_uart_clocks null pointer dereference](https://vuldb.com/?id.215840) | Visit link for details | 2022-12-15 at 01:01 |
-| [Linux Kernel mtk_vcodec_fw_vpu.c mtk_vcodec_fw_vpu_init null pointer dereference](https://vuldb.com/?id.215839) | Visit link for details | 2022-12-15 at 01:01 |
-| [Linux Kernel vdec_helpers.c amvdec_set_canvases null pointer dereference](https://vuldb.com/?id.215838) | Visit link for details | 2022-12-15 at 01:01 |
-| [Linux Kernel wm8350_power.c free_charger_irq null pointer dereference](https://vuldb.com/?id.215837) | Visit link for details | 2022-12-15 at 01:00 |
-| [Linux Kernel netvsc_drv.c netvsc_get_ethtool_stats null pointer dereference](https://vuldb.com/?id.215836) | Visit link for details | 2022-12-15 at 01:00 |
-| [Linux Kernel bugs.c lkdtm_ARRAY_BOUNDS null pointer dereference](https://vuldb.com/?id.215835) | Visit link for details | 2022-12-15 at 00:59 |
-| [IBM Spectrum Protect Plus cleartext transmission](https://vuldb.com/?id.215834) | Visit link for details | 2022-12-15 at 00:58 |
-| [Linux Kernel rtw_xmit.c _rtw_init_xmit_priv null pointer dereference](https://vuldb.com/?id.215833) | Visit link for details | 2022-12-15 at 00:58 |
-| [D-Link DIR-3040 SetTriggerLEDBlink command injection](https://vuldb.com/?id.215832) | Visit link for details | 2022-12-15 at 00:57 |
-| [Proxmox Virtual Environment cross site scripting](https://vuldb.com/?id.215831) | Visit link for details | 2022-12-15 at 00:57 |
-| [VMware vRealize Network Insight vRNI REST API command injection](https://vuldb.com/?id.215830) | Visit link for details | 2022-12-15 at 00:50 |
-| [GitHub Enterprise Server authorization](https://vuldb.com/?id.215829) | Visit link for details | 2022-12-15 at 00:49 |
-| [Asus Aura Sync IOCTL MsIo64.sys memory corruption](https://vuldb.com/?id.215828) | Visit link for details | 2022-12-15 at 00:47 |
-| [MeterSphere &quot deleteBodyFiles path traversal](https://vuldb.com/?id.215827) | Visit link for details | 2022-12-15 at 00:01 |
-| [VMware Workspace ONE Access/Identity Manager information disclosure](https://vuldb.com/?id.215826) | Visit link for details | 2022-12-15 at 00:00 |
-| [GitHub Enterprise Server path traversal](https://vuldb.com/?id.215825) | Visit link for details | 2022-12-15 at 23:59 |
-| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215824) | Visit link for details | 2022-12-15 at 23:58 |
-| [oretnom23 Helmet Store Showroom Site manage_brand.php sql injection](https://vuldb.com/?id.215823) | Visit link for details | 2022-12-15 at 23:57 |
-| [oretnom23 Helmet Store Showroom Site manage_category.php sql injection](https://vuldb.com/?id.215822) | Visit link for details | 2022-12-15 at 23:57 |
-| [oretnom23 Helmet Store Showroom Site view_category.php sql injection](https://vuldb.com/?id.215821) | Visit link for details | 2022-12-15 at 23:56 |
-| [GitHub Enterprise Server path traversal](https://vuldb.com/?id.215820) | Visit link for details | 2022-12-15 at 23:55 |
-| [Passhunt backdoor](https://vuldb.com/?id.215819) | Visit link for details | 2022-12-15 at 23:54 |
-| [vSphere_selfuse backdoor](https://vuldb.com/?id.215818) | Visit link for details | 2022-12-15 at 23:54 |
-| [VMware Workspace ONE Access Privilege Escalation](https://vuldb.com/?id.215817) | Visit link for details | 2022-12-15 at 23:53 |
-| [mod_auth_openidc Regular Expression oidc_validate_redirect_url](https://vuldb.com/?id.215816) | Visit link for details | 2022-12-15 at 23:52 |
-| [Python3-RESTfulAPI backdoor](https://vuldb.com/?id.215815) | Visit link for details | 2022-12-15 at 23:51 |
-| [VMware ESXi/Workstation/Fusion/Cloud Foundation USB 2.0 controller out-of-bounds write](https://vuldb.com/?id.215814) | Visit link for details | 2022-12-15 at 23:49 |
-| [collective.dms.basecontent column.py renderCell cross site scripting](https://vuldb.com/?id.215813) | Visit link for details | 2022-12-15 at 13:15 |
-| [Apache Atlas path traversal](https://vuldb.com/?id.215812) | Visit link for details | 2022-12-15 at 13:10 |
-| [Weidmueller Interface 19 IOT MD01 LAN H4 S0011/FP IOT MD01/FP IOT MD02 Example Web Template cross site scripting](https://vuldb.com/?id.215811) | Visit link for details | 2022-12-15 at 13:09 |
-| [WordPress Pingback server-side request forgery](https://vuldb.com/?id.215810) | Visit link for details | 2022-12-15 at 13:08 |
-| [Google Chrome Profiles use after free](https://vuldb.com/?id.215809) | Visit link for details | 2022-12-15 at 12:25 |
-| [Google Chrome Aura use after free](https://vuldb.com/?id.215808) | Visit link for details | 2022-12-15 at 12:24 |
-| [Google Chrome Blink Frames use after free](https://vuldb.com/?id.215807) | Visit link for details | 2022-12-15 at 12:23 |
-| [Google Chrome Mojo IPC use after free](https://vuldb.com/?id.215806) | Visit link for details | 2022-12-15 at 12:23 |
-| [Google Chrome Blink Media use after free](https://vuldb.com/?id.215805) | Visit link for details | 2022-12-15 at 12:22 |
-| [bspkrs MCPMappingViewer ZIP File RemoteZipHandler.java extractZip path traversal](https://vuldb.com/?id.215804) | Visit link for details | 2022-12-15 at 12:18 |
-| [scifio ZIP File DefaultSampleFilesService.java downloadAndUnpackResource path traversal](https://vuldb.com/?id.215803) | Visit link for details | 2022-12-15 at 12:15 |
-| [Apple iOS WebKit type confusion](https://vuldb.com/?id.215802) | Visit link for details | 2022-12-15 at 12:07 |
-| [Apple Xcode IDE Xcode Server input validation](https://vuldb.com/?id.215801) | Visit link for details | 2022-12-15 at 12:04 |
+| [Transposh Translation Plugin POST Parameter transposh_db.php improper authorization](https://vuldb.com/?id.215908) | Visit link for details | 2022-12-16 at 22:42 |
+| [collective.task table.py AssignedGroupColumn cross site scripting](https://vuldb.com/?id.215907) | Visit link for details | 2022-12-16 at 21:52 |
+| [django-photologue Default Template photo_detail.html cross site scripting](https://vuldb.com/?id.215906) | Visit link for details | 2022-12-16 at 21:46 |
+| [National Sleep Research Resource sleepdata.org cross site scripting](https://vuldb.com/?id.215905) | Visit link for details | 2022-12-16 at 21:42 |
+| [Roots soil Plugin CleanUpModule.php language_attributes cross site scripting](https://vuldb.com/?id.215904) | Visit link for details | 2022-12-16 at 21:40 |
+| [vexim2 cross site scripting](https://vuldb.com/?id.215903) | Visit link for details | 2022-12-16 at 21:36 |
+| [CalendarXP cross site scripting](https://vuldb.com/?id.215902) | Visit link for details | 2022-12-16 at 21:32 |
+| [WSO2 carbon-registry Request Parameter cross site scripting](https://vuldb.com/?id.215901) | Visit link for details | 2022-12-16 at 21:14 |
+| [WSO2 carbon-registry Advanced Search advancedSearchForm-ajaxprocessor.jsp cross site scripting](https://vuldb.com/?id.215900) | Visit link for details | 2022-12-16 at 21:11 |
+| [Prosys OPC UA Simulation Server insufficiently protected credentials](https://vuldb.com/?id.215899) | Visit link for details | 2022-12-16 at 21:07 |
+| [Apache BookKeeper certificate validation](https://vuldb.com/?id.215898) | Visit link for details | 2022-12-16 at 21:03 |
+| [Lansweeper HTTP Request SanitizeHtml incomplete blacklist](https://vuldb.com/?id.215897) | Visit link for details | 2022-12-16 at 12:56 |
+| [Lansweeper HTTP Request HdConfigActions.aspx altertextlanguages cross site scripting](https://vuldb.com/?id.215896) | Visit link for details | 2022-12-16 at 12:56 |
+| [Zabbix Web Service Report Generation input validation](https://vuldb.com/?id.215895) | Visit link for details | 2022-12-16 at 12:55 |
+| [Lansweeper HTTP Request AssetActions.aspx addDoc path traversal](https://vuldb.com/?id.215894) | Visit link for details | 2022-12-16 at 12:54 |
+| [Lansweeper HTTP Request HelpdeskActions.aspx edittemplate path traversal](https://vuldb.com/?id.215893) | Visit link for details | 2022-12-16 at 12:54 |
+| [Lansweeper HTTP Request KnowledgebasePageActions.aspx ImportArticles path traversal](https://vuldb.com/?id.215892) | Visit link for details | 2022-12-16 at 12:54 |
+| [Lansweeper HTTP Request TicketTemplateActions.aspx path traversal](https://vuldb.com/?id.215891) | Visit link for details | 2022-12-16 at 12:53 |
+| [OpenEMR cross site scripting](https://vuldb.com/?id.215890) | Visit link for details | 2022-12-16 at 12:17 |
+| [OpenEMR cross site scripting](https://vuldb.com/?id.215889) | Visit link for details | 2022-12-16 at 12:16 |
+| [oretnom23 Helmet Store Showroom cross-site request forgery](https://vuldb.com/?id.215888) | Visit link for details | 2022-12-16 at 12:16 |
+| [oretnom23 Helmet Store Showroom cross site scripting](https://vuldb.com/?id.215887) | Visit link for details | 2022-12-16 at 12:16 |
+| [Opencaching Deutschland oc-server3 varset.inc.php cross site scripting](https://vuldb.com/?id.215886) | Visit link for details | 2022-12-16 at 12:14 |
+| [European Environment Agency eionet.contreg cross site scripting](https://vuldb.com/?id.215885) | Visit link for details | 2022-12-16 at 11:59 |
+| [Trend Micro Apex One Damage Cleanup Engine link following](https://vuldb.com/?id.215884) | Visit link for details | 2022-12-16 at 11:52 |
+| [chbrown rfc6902 pointer.ts prototype pollution](https://vuldb.com/?id.215883) | Visit link for details | 2022-12-16 at 10:39 |
+| [OpenEMR unrestricted upload](https://vuldb.com/?id.215882) | Visit link for details | 2022-12-16 at 10:33 |
+| [OpenEMR access control](https://vuldb.com/?id.215881) | Visit link for details | 2022-12-16 at 10:32 |
+| [OpenEMR input validation](https://vuldb.com/?id.215880) | Visit link for details | 2022-12-16 at 10:29 |
+| [tendermint-light-client signature verification](https://vuldb.com/?id.215879) | Visit link for details | 2022-12-16 at 10:29 |
+| [Helm String Parser resource consumption](https://vuldb.com/?id.215878) | Visit link for details | 2022-12-16 at 10:28 |
+| [Helm Repository Index File null pointer dereference](https://vuldb.com/?id.215877) | Visit link for details | 2022-12-16 at 10:27 |
+| [Helm Schema File denial of service](https://vuldb.com/?id.215876) | Visit link for details | 2022-12-16 at 10:26 |
+| [logrocket-oauth2-example register sql injection](https://vuldb.com/?id.215875) | Visit link for details | 2022-12-16 at 10:23 |
+| [VMware vRealize Network Insight vRNI REST API pathname traversal](https://vuldb.com/?id.215874) | Visit link for details | 2022-12-16 at 10:09 |
+| [mesinkasir Bangresto sql injection](https://vuldb.com/?id.215873) | Visit link for details | 2022-12-16 at 10:08 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215872) | Visit link for details | 2022-12-16 at 10:07 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215871) | Visit link for details | 2022-12-16 at 10:07 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215870) | Visit link for details | 2022-12-16 at 10:06 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215869) | Visit link for details | 2022-12-16 at 10:05 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215868) | Visit link for details | 2022-12-16 at 10:05 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215867) | Visit link for details | 2022-12-16 at 10:04 |
+| [oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215866) | Visit link for details | 2022-12-16 at 10:04 |
+| [oretnom23 Helmet Store Showroom sql injection](https://vuldb.com/?id.215865) | Visit link for details | 2022-12-16 at 10:03 |
+| [oretnom23 Helmet Store Showroom Login Page sql injection](https://vuldb.com/?id.215864) | Visit link for details | 2022-12-16 at 10:02 |
+| [Binbloom helpers.c read_pointer heap-based overflow](https://vuldb.com/?id.215863) | Visit link for details | 2022-12-16 at 10:02 |
+| [Canon imageCLASS MF644Cdw BJNP integer overflow](https://vuldb.com/?id.215862) | Visit link for details | 2022-12-16 at 10:01 |
+| [X.Org X11 Server XvdiSelectVideoNotify Request Local Privilege Escalation](https://vuldb.com/?id.215861) | Visit link for details | 2022-12-16 at 10:00 |
+| [Motorola Mobility e20 Bootloader access control](https://vuldb.com/?id.215860) | Visit link for details | 2022-12-16 at 10:00 |
+| [X.Org X11 Server ScreenSaverSetAttributes Request Privilege Escalation](https://vuldb.com/?id.215859) | Visit link for details | 2022-12-16 at 09:58 |

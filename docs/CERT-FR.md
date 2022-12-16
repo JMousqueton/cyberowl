@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1109/) | De multiples vulnérabilités ont été corrigées dans Google  | 15 décembre 2022 |
+| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1108/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 15 décembre 2022 |
+| [Multiples vulnérabilités dans Bluetooth Core Specification](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1107/) | De multiples vulnérabilités ont été découvertes dans Bluetooth. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 15 décembre 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1106/) | De multiples vulnérabilités ont été corrigées dans  | 14 décembre 2022 |
 | [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1105/) | De multiples vulnérabilités ont été corrigées dans  | 14 décembre 2022 |
 | [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1104/) | Une vulnérabilité a été corrigée dans  | 14 décembre 2022 |
@@ -9,13 +12,10 @@
 | [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1102/) | De multiples vulnérabilités ont été corrigées dans  | 14 décembre 2022 |
 | [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1101/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 14 décembre 2022 |
 | [Multiples vulnérabilités dans Aruba EdgeConnect Enterprise Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1100/) | De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise Orchestrator. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 14 décembre 2022 |
-| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1099/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 14 décembre 2022 |
-| [Vulnérabilité dans Sonicwall SentinelOne Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1098/) | Une vulnérabilité a été découverte dans Sonicwall SentinelOne Agent. Elle permet à un attaquant de provoquer une élévation de privilèges. | 14 décembre 2022 |
-| [Multiples vulnérabilités dans Typo3 cms-core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1097/) | De multiples vulnérabilités ont été découvertes dans Typo3 cms-core. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 14 décembre 2022 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
+| [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
 | [[MàJ] Vulnérabilité dans FortiOS SSL-VPN](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/) | Le 12 décembre 2022, l'éditeur Fortinet a publié un avis de sécurité mentionnant une vulnérabilité critique dans son produit FortiOS SSL-VPN. Cette vulnérabilité de débordement de tas permet à un attaquant distant non authentifié d'exécuter du code ou des commandes arbitraires  | 13 décembre 2022 |
 | [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/) | [MàJ du 31 octobre 2022] | 16 septembre 2022 |
