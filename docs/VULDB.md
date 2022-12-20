@@ -1,39 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [3D City Database OGC Web Feature Service xml external entity reference](https://vuldb.com/?id.216215) | Visit link for details | 2022-12-19 at 23:06 |
-| [ctrlo lenio Task task.tt cross site scripting](https://vuldb.com/?id.216214) | Visit link for details | 2022-12-19 at 23:01 |
-| [ctrlo lenio index.tt cross site scripting](https://vuldb.com/?id.216213) | Visit link for details | 2022-12-19 at 22:59 |
-| [ctrlo lenio contractor.tt cross site scripting](https://vuldb.com/?id.216212) | Visit link for details | 2022-12-19 at 22:58 |
-| [ctrlo lenio Notice main.tt cross site scripting](https://vuldb.com/?id.216211) | Visit link for details | 2022-12-19 at 22:55 |
-| [ctrlo lenio Ticket Lenio.pm cross site scripting](https://vuldb.com/?id.216210) | Visit link for details | 2022-12-19 at 22:16 |
-| [WP-Ban ban-options.php toggle_checkbox cross site scripting](https://vuldb.com/?id.216209) | Visit link for details | 2022-12-19 at 22:13 |
-| [as include.cdn.php getFullURL cross site scripting](https://vuldb.com/?id.216208) | Visit link for details | 2022-12-19 at 22:07 |
-| [cgriego active_attr Regex boolean_typecaster.rb call denial of service](https://vuldb.com/?id.216207) | Visit link for details | 2022-12-19 at 22:00 |
-| [flatpress filename control](https://vuldb.com/?id.216206) | Visit link for details | 2022-12-19 at 21:44 |
-| [ewxrjk sftpserver parse.c sftp_parse_path uninitialized pointer](https://vuldb.com/?id.216205) | Visit link for details | 2022-12-19 at 15:56 |
-| [xml-conduit DOCTYPE Entity Expansion Parse.hs infinite loop](https://vuldb.com/?id.216204) | Visit link for details | 2022-12-19 at 15:44 |
-| [Linux Kernel WILC1000 Wireless Driver hif.c wilc_parse_join_bss_param out-of-bounds](https://vuldb.com/?id.216203) | Visit link for details | 2022-12-19 at 15:34 |
-| [Linux Kernel WILC1000 Wireless Driver cfg80211.c wilc_wfi_cfg_parse_ch_attr out-of-bounds write](https://vuldb.com/?id.216202) | Visit link for details | 2022-12-19 at 15:33 |
-| [Linux Kernel WILC1000 Wireless Driver cfg80211.c wilc_wfi_cfg_parse_ch_attr heap-based overflow](https://vuldb.com/?id.216201) | Visit link for details | 2022-12-19 at 15:32 |
-| [Linux Kernel WILC1000 Wireless Driver cfg80211.c wilc_wfi_cfg_parse_ch_attr heap-based overflow](https://vuldb.com/?id.216200) | Visit link for details | 2022-12-19 at 15:31 |
-| [wp-english-wp-admin Plugin english-wp-admin.php register_endpoints cross-site request forgery](https://vuldb.com/?id.216199) | Visit link for details | 2022-12-19 at 12:06 |
-| [ppp pppdump pppdump.c dumpppp array index](https://vuldb.com/?id.216198) | Visit link for details | 2022-12-19 at 12:01 |
-| [Shoplazza LifeStyle Review Flow cross site scripting](https://vuldb.com/?id.216197) | Visit link for details | 2022-12-19 at 11:51 |
-| [Shoplazza LifeStyle Shipping/Member Discount/Icon cross site scripting](https://vuldb.com/?id.216196) | Visit link for details | 2022-12-19 at 11:49 |
-| [Shoplazza LifeStyle Product Carousel cross site scripting](https://vuldb.com/?id.216195) | Visit link for details | 2022-12-19 at 11:48 |
-| [Shoplazza LifeStyle Product cross site scripting](https://vuldb.com/?id.216194) | Visit link for details | 2022-12-19 at 11:46 |
-| [Shoplazza LifeStyle Announcement cross site scripting](https://vuldb.com/?id.216193) | Visit link for details | 2022-12-19 at 11:45 |
-| [Shoplazza LifeStyle Create Product v2_products cross site scripting](https://vuldb.com/?id.216192) | Visit link for details | 2022-12-19 at 11:43 |
-| [Shoplazza LifeStyle Add Blog Post cross site scripting](https://vuldb.com/?id.216191) | Visit link for details | 2022-12-19 at 11:40 |
-| [Intelbras WiFiber 120AC inMesh Web Server command injection](https://vuldb.com/?id.216190) | Visit link for details | 2022-12-19 at 11:37 |
-| [django-openipam exposed_hosts.html cross site scripting](https://vuldb.com/?id.216189) | Visit link for details | 2022-12-19 at 11:34 |
-| [kapetan dns Request.cs entropy](https://vuldb.com/?id.216188) | Visit link for details | 2022-12-19 at 11:27 |
-| [drogatkin TJWS2 WarRoller.java deployWar path traversal](https://vuldb.com/?id.216187) | Visit link for details | 2022-12-19 at 09:09 |
-| [retra-system cross site scripting](https://vuldb.com/?id.216186) | Visit link for details | 2022-12-19 at 09:01 |
-| [luckyshot CRMx index.php commentdelete sql injection](https://vuldb.com/?id.216185) | Visit link for details | 2022-12-19 at 08:57 |
-| [OWASP NodeGoat Query Parameter research.js denial of service](https://vuldb.com/?id.216184) | Visit link for details | 2022-12-19 at 08:38 |
-| [XML-RPC.NET POST Request pingback.aspx server-side request forgery](https://vuldb.com/?id.216183) | Visit link for details | 2022-12-19 at 08:33 |
-| [drachtio-server UDP Message url_canonize2 heap-based overflow](https://vuldb.com/?id.216182) | Visit link for details | 2022-12-19 at 08:31 |
-| [drachtio-server UDP Message tport.c denial of service](https://vuldb.com/?id.216181) | Visit link for details | 2022-12-19 at 08:30 |
-| [drachtio-server TCP Request length_error denial of service](https://vuldb.com/?id.216180) | Visit link for details | 2022-12-19 at 08:28 |
+| [OpenEMR cross site scripting](https://vuldb.com/?id.216335) | Visit link for details | 2022-12-20 at 23:21 |
+| [alagrede znote-app cross site scripting](https://vuldb.com/?id.216334) | Visit link for details | 2022-12-20 at 23:20 |
+| [Cortex Alertmanager Config file inclusion](https://vuldb.com/?id.216333) | Visit link for details | 2022-12-20 at 23:20 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216332) | Visit link for details | 2022-12-20 at 23:18 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216331) | Visit link for details | 2022-12-20 at 23:17 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216330) | Visit link for details | 2022-12-20 at 23:17 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216329) | Visit link for details | 2022-12-20 at 23:17 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216328) | Visit link for details | 2022-12-20 at 23:16 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216327) | Visit link for details | 2022-12-20 at 23:16 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216326) | Visit link for details | 2022-12-20 at 23:16 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216325) | Visit link for details | 2022-12-20 at 23:16 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216324) | Visit link for details | 2022-12-20 at 23:15 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216323) | Visit link for details | 2022-12-20 at 23:15 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216322) | Visit link for details | 2022-12-20 at 23:15 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216321) | Visit link for details | 2022-12-20 at 23:14 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216320) | Visit link for details | 2022-12-20 at 23:14 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216319) | Visit link for details | 2022-12-20 at 23:14 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216318) | Visit link for details | 2022-12-20 at 23:14 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216317) | Visit link for details | 2022-12-20 at 23:13 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216316) | Visit link for details | 2022-12-20 at 23:13 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216315) | Visit link for details | 2022-12-20 at 23:13 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216314) | Visit link for details | 2022-12-20 at 23:12 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216313) | Visit link for details | 2022-12-20 at 23:12 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216312) | Visit link for details | 2022-12-20 at 23:11 |
+| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216311) | Visit link for details | 2022-12-20 at 23:11 |
+| [BlogEngine.NET PNG File UploadController.cs unrestricted upload](https://vuldb.com/?id.216310) | Visit link for details | 2022-12-20 at 23:11 |
+| [Adobe Experience Manager redirect](https://vuldb.com/?id.216309) | Visit link for details | 2022-12-20 at 23:09 |
+| [IBM Spectrum Scale Pod path traversal](https://vuldb.com/?id.216308) | Visit link for details | 2022-12-20 at 23:09 |
+| [SilverStripe subsites permission](https://vuldb.com/?id.216307) | Visit link for details | 2022-12-20 at 20:35 |
+| [Deark atari-img.c do_prism_read_palette stack-based overflow](https://vuldb.com/?id.216306) | Visit link for details | 2022-12-20 at 20:34 |
+| [Employee Performance Evaluation System Departments/Designations Module cross site scripting](https://vuldb.com/?id.216305) | Visit link for details | 2022-12-20 at 20:33 |
+| [Autodesk Maya X_B File buffer overflow](https://vuldb.com/?id.216304) | Visit link for details | 2022-12-20 at 20:32 |
+| [Autodesk DWG TrueViewTM uncontrolled search path](https://vuldb.com/?id.216303) | Visit link for details | 2022-12-20 at 20:31 |
+| [SolarWinds Platform cleartext storage](https://vuldb.com/?id.216302) | Visit link for details | 2022-12-20 at 20:31 |
+| [Hikvision Wwireless Bridge Web Server access control](https://vuldb.com/?id.216301) | Visit link for details | 2022-12-20 at 20:30 |
+| [libtar libtar.c tar_close use after free](https://vuldb.com/?id.216300) | Visit link for details | 2022-12-20 at 20:29 |
+| [Concourse authorization](https://vuldb.com/?id.216299) | Visit link for details | 2022-12-20 at 20:28 |
+| [Autodesk Maya X_B File buffer overflow](https://vuldb.com/?id.216298) | Visit link for details | 2022-12-20 at 20:27 |
+| [WP-Table Reloaded Plugin cross site scripting](https://vuldb.com/?id.216297) | Visit link for details | 2022-12-20 at 17:17 |
+| [GS Insever Portfolio Plugin cross-site request forgery](https://vuldb.com/?id.216296) | Visit link for details | 2022-12-20 at 17:16 |
+| [WP CSV to Database Plugin cross-site request forgery](https://vuldb.com/?id.216295) | Visit link for details | 2022-12-20 at 17:16 |
+| [Popup Manager Plugin cross-site request forgery](https://vuldb.com/?id.216294) | Visit link for details | 2022-12-20 at 17:15 |
+| [Popup Manager Plugin cross-site request forgery](https://vuldb.com/?id.216293) | Visit link for details | 2022-12-20 at 17:15 |
+| [Directorist Plugin authorization](https://vuldb.com/?id.216292) | Visit link for details | 2022-12-20 at 17:14 |
+| [Quizlord Plugin Setting cross site scripting](https://vuldb.com/?id.216291) | Visit link for details | 2022-12-20 at 17:14 |
+| [10Web Photo Gallery Plugin cross-site request forgery](https://vuldb.com/?id.216290) | Visit link for details | 2022-12-20 at 17:13 |
+| [Registration Forms Plugin cross-site request forgery](https://vuldb.com/?id.216289) | Visit link for details | 2022-12-20 at 17:13 |
+| [Responsive Lightbox2 Plugin Shortcode Attribute cross site scripting](https://vuldb.com/?id.216288) | Visit link for details | 2022-12-20 at 17:13 |
+| [WP Stripe Checkout Plugin Shortcode Attribute cross site scripting](https://vuldb.com/?id.216287) | Visit link for details | 2022-12-20 at 17:12 |
+| [Videojs HTML5 Player Plugin Shortcode Attribute cross site scripting](https://vuldb.com/?id.216286) | Visit link for details | 2022-12-20 at 17:12 |
