@@ -1,53 +1,37 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [OpenEMR cross site scripting](https://vuldb.com/?id.216335) | Visit link for details | 2022-12-20 at 23:21 |
-| [alagrede znote-app cross site scripting](https://vuldb.com/?id.216334) | Visit link for details | 2022-12-20 at 23:20 |
-| [Cortex Alertmanager Config file inclusion](https://vuldb.com/?id.216333) | Visit link for details | 2022-12-20 at 23:20 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216332) | Visit link for details | 2022-12-20 at 23:18 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216331) | Visit link for details | 2022-12-20 at 23:17 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216330) | Visit link for details | 2022-12-20 at 23:17 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216329) | Visit link for details | 2022-12-20 at 23:17 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216328) | Visit link for details | 2022-12-20 at 23:16 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216327) | Visit link for details | 2022-12-20 at 23:16 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216326) | Visit link for details | 2022-12-20 at 23:16 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216325) | Visit link for details | 2022-12-20 at 23:16 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216324) | Visit link for details | 2022-12-20 at 23:15 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216323) | Visit link for details | 2022-12-20 at 23:15 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216322) | Visit link for details | 2022-12-20 at 23:15 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216321) | Visit link for details | 2022-12-20 at 23:14 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216320) | Visit link for details | 2022-12-20 at 23:14 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216319) | Visit link for details | 2022-12-20 at 23:14 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216318) | Visit link for details | 2022-12-20 at 23:14 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216317) | Visit link for details | 2022-12-20 at 23:13 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216316) | Visit link for details | 2022-12-20 at 23:13 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216315) | Visit link for details | 2022-12-20 at 23:13 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216314) | Visit link for details | 2022-12-20 at 23:12 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216313) | Visit link for details | 2022-12-20 at 23:12 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216312) | Visit link for details | 2022-12-20 at 23:11 |
-| [Adobe Experience Manager cross site scripting](https://vuldb.com/?id.216311) | Visit link for details | 2022-12-20 at 23:11 |
-| [BlogEngine.NET PNG File UploadController.cs unrestricted upload](https://vuldb.com/?id.216310) | Visit link for details | 2022-12-20 at 23:11 |
-| [Adobe Experience Manager redirect](https://vuldb.com/?id.216309) | Visit link for details | 2022-12-20 at 23:09 |
-| [IBM Spectrum Scale Pod path traversal](https://vuldb.com/?id.216308) | Visit link for details | 2022-12-20 at 23:09 |
-| [SilverStripe subsites permission](https://vuldb.com/?id.216307) | Visit link for details | 2022-12-20 at 20:35 |
-| [Deark atari-img.c do_prism_read_palette stack-based overflow](https://vuldb.com/?id.216306) | Visit link for details | 2022-12-20 at 20:34 |
-| [Employee Performance Evaluation System Departments/Designations Module cross site scripting](https://vuldb.com/?id.216305) | Visit link for details | 2022-12-20 at 20:33 |
-| [Autodesk Maya X_B File buffer overflow](https://vuldb.com/?id.216304) | Visit link for details | 2022-12-20 at 20:32 |
-| [Autodesk DWG TrueViewTM uncontrolled search path](https://vuldb.com/?id.216303) | Visit link for details | 2022-12-20 at 20:31 |
-| [SolarWinds Platform cleartext storage](https://vuldb.com/?id.216302) | Visit link for details | 2022-12-20 at 20:31 |
-| [Hikvision Wwireless Bridge Web Server access control](https://vuldb.com/?id.216301) | Visit link for details | 2022-12-20 at 20:30 |
-| [libtar libtar.c tar_close use after free](https://vuldb.com/?id.216300) | Visit link for details | 2022-12-20 at 20:29 |
-| [Concourse authorization](https://vuldb.com/?id.216299) | Visit link for details | 2022-12-20 at 20:28 |
-| [Autodesk Maya X_B File buffer overflow](https://vuldb.com/?id.216298) | Visit link for details | 2022-12-20 at 20:27 |
-| [WP-Table Reloaded Plugin cross site scripting](https://vuldb.com/?id.216297) | Visit link for details | 2022-12-20 at 17:17 |
-| [GS Insever Portfolio Plugin cross-site request forgery](https://vuldb.com/?id.216296) | Visit link for details | 2022-12-20 at 17:16 |
-| [WP CSV to Database Plugin cross-site request forgery](https://vuldb.com/?id.216295) | Visit link for details | 2022-12-20 at 17:16 |
-| [Popup Manager Plugin cross-site request forgery](https://vuldb.com/?id.216294) | Visit link for details | 2022-12-20 at 17:15 |
-| [Popup Manager Plugin cross-site request forgery](https://vuldb.com/?id.216293) | Visit link for details | 2022-12-20 at 17:15 |
-| [Directorist Plugin authorization](https://vuldb.com/?id.216292) | Visit link for details | 2022-12-20 at 17:14 |
-| [Quizlord Plugin Setting cross site scripting](https://vuldb.com/?id.216291) | Visit link for details | 2022-12-20 at 17:14 |
-| [10Web Photo Gallery Plugin cross-site request forgery](https://vuldb.com/?id.216290) | Visit link for details | 2022-12-20 at 17:13 |
-| [Registration Forms Plugin cross-site request forgery](https://vuldb.com/?id.216289) | Visit link for details | 2022-12-20 at 17:13 |
-| [Responsive Lightbox2 Plugin Shortcode Attribute cross site scripting](https://vuldb.com/?id.216288) | Visit link for details | 2022-12-20 at 17:13 |
-| [WP Stripe Checkout Plugin Shortcode Attribute cross site scripting](https://vuldb.com/?id.216287) | Visit link for details | 2022-12-20 at 17:12 |
-| [Videojs HTML5 Player Plugin Shortcode Attribute cross site scripting](https://vuldb.com/?id.216286) | Visit link for details | 2022-12-20 at 17:12 |
+| [D-Link DIR-869 phpcgi improper authentication](https://vuldb.com/?id.216369) | Visit link for details | 2022-12-21 at 01:14 |
+| [OpenFGA improper authorization](https://vuldb.com/?id.216368) | Visit link for details | 2022-12-21 at 01:13 |
+| [IBM AIX/VIOS lpd Daemon resource management](https://vuldb.com/?id.216367) | Visit link for details | 2022-12-21 at 01:12 |
+| [IBM UrbanCode Deploy Web UI cross site scripting](https://vuldb.com/?id.216366) | Visit link for details | 2022-12-21 at 01:11 |
+| [IBM Financial Transaction Manager for SWIFT Services for Multiplatforms denial of service](https://vuldb.com/?id.216365) | Visit link for details | 2022-12-21 at 01:11 |
+| [IBM Financial Transaction Manager HTTP Request improper authorization](https://vuldb.com/?id.216364) | Visit link for details | 2022-12-21 at 01:10 |
+| [Baijiacms common.inc.php Privilege Escalation](https://vuldb.com/?id.216363) | Visit link for details | 2022-12-21 at 16:23 |
+| [Apache Airflow Hive Provider. command injection](https://vuldb.com/?id.216362) | Visit link for details | 2022-12-21 at 16:00 |
+| [bradleyfalzon ghinstallation JWT Error Response information exposure](https://vuldb.com/?id.216361) | Visit link for details | 2022-12-21 at 09:22 |
+| [p4 run command injection](https://vuldb.com/?id.216360) | Visit link for details | 2022-12-21 at 09:20 |
+| [Netatalk libatalk adouble.h ad_entry out-of-bounds](https://vuldb.com/?id.216359) | Visit link for details | 2022-12-21 at 09:19 |
+| [Netatalk appl.c copyapplfile stack-based overflow](https://vuldb.com/?id.216358) | Visit link for details | 2022-12-21 at 09:18 |
+| [Microchip RN4870 Message Reject Privilege Escalation](https://vuldb.com/?id.216357) | Visit link for details | 2022-12-21 at 09:17 |
+| [Microchip RN4870 PairCon_rmSend Privilege Escalation](https://vuldb.com/?id.216356) | Visit link for details | 2022-12-21 at 09:16 |
+| [Microchip RN4870 missing encryption](https://vuldb.com/?id.216355) | Visit link for details | 2022-12-21 at 09:14 |
+| [Microchip RN4870 Legacy Pairing improper authentication](https://vuldb.com/?id.216354) | Visit link for details | 2022-12-21 at 09:14 |
+| [Microchip RN4870 ConReqTimeoutZero denial of service](https://vuldb.com/?id.216353) | Visit link for details | 2022-12-21 at 09:13 |
+| [Rainrocka Xinhu sql injection](https://vuldb.com/?id.216352) | Visit link for details | 2022-12-21 at 09:13 |
+| [Patchelf patchelf.cc modifyRPath out-of-bounds](https://vuldb.com/?id.216351) | Visit link for details | 2022-12-21 at 09:11 |
+| [Softr Account Page cross site scripting](https://vuldb.com/?id.216350) | Visit link for details | 2022-12-21 at 09:11 |
+| [pdftojson makeFilter stack-based overflow](https://vuldb.com/?id.216349) | Visit link for details | 2022-12-21 at 09:10 |
+| [pdftojson Object.cc copy(Object*) stack-based overflow](https://vuldb.com/?id.216348) | Visit link for details | 2022-12-21 at 09:09 |
+| [Silverware Games URL cross site scripting](https://vuldb.com/?id.216347) | Visit link for details | 2022-12-21 at 09:08 |
+| [lite-server Control Character decodeURI denial of service](https://vuldb.com/?id.216346) | Visit link for details | 2022-12-21 at 09:05 |
+| [easy-static-server pathname traversal](https://vuldb.com/?id.216345) | Visit link for details | 2022-12-21 at 09:03 |
+| [safe-eval safeEval prototype pollution](https://vuldb.com/?id.216344) | Visit link for details | 2022-12-21 at 09:02 |
+| [Zoho ManageEngine Device Control Plus Endpoint Protection Agent access control](https://vuldb.com/?id.216343) | Visit link for details | 2022-12-21 at 09:01 |
+| [Zoho ManageEngine Device Control Plus Endpoint Protection Agent access control](https://vuldb.com/?id.216342) | Visit link for details | 2022-12-21 at 08:54 |
+| [Apiman Manager REST API permission](https://vuldb.com/?id.216341) | Visit link for details | 2022-12-21 at 08:53 |
+| [IBM Cognos Analytics URL server-side request forgery](https://vuldb.com/?id.216340) | Visit link for details | 2022-12-21 at 08:23 |
+| [IBM Cognos Analytics URL injection](https://vuldb.com/?id.216339) | Visit link for details | 2022-12-21 at 07:50 |
+| [IBM Cognos Analytics Web UI cross site scripting](https://vuldb.com/?id.216338) | Visit link for details | 2022-12-21 at 07:49 |
+| [IBM Cognos Analytics API Key log file](https://vuldb.com/?id.216337) | Visit link for details | 2022-12-21 at 07:39 |
+| [Netalk ad_open.c ad_header_read_osx buffer overflow](https://vuldb.com/?id.216336) | Visit link for details | 2022-12-21 at 07:33 |
