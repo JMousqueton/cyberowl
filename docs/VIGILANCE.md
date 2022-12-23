@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Linux kernel: reuse after free via io_sqpoll_wait_sq()](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-sqpoll-wait-sq-40165) | An attacker can force the reuse of a freed memory area of the Linux kernel, via  | Visit link for details |
 | [IBM i: four vulnerabilities via IBM Navigator](https://vigilance.fr/vulnerability/IBM-i-four-vulnerabilities-via-IBM-Navigator-40164) | An attacker can use several vulnerabilities of IBM i, via IBM Navigator... | Visit link for details |
 | [xrdp: multiple vulnerabilities](https://vigilance.fr/vulnerability/xrdp-multiple-vulnerabilities-40163) | An attacker can use several vulnerabilities of xrdp... | Visit link for details |
 | [cURL: reuse after free via HTTP Proxy Deny](https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162) | An attacker can force the reuse of a freed memory area of cURL, via HTTP Proxy Deny, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
@@ -100,4 +101,3 @@
 | [Go net/http: overload via Canonical Header Cache](https://vigilance.fr/vulnerability/Go-net-http-overload-via-Canonical-Header-Cache-40059) | An attacker can trigger an overload of Go net/http, via Canonical Header Cache, in order to trigger a denial of service... | Visit link for details |
 | [Cisco IP Phone 7800/8800: buffer overflow via CDP](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-buffer-overflow-via-CDP-40058) | An attacker can trigger a buffer overflow of Cisco IP Phone 7800/8800, via CDP, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [Leptonica Linked Library: denial of service via JPEG File](https://vigilance.fr/vulnerability/Leptonica-Linked-Library-denial-of-service-via-JPEG-File-40057) | An attacker can cause a fatal error of Leptonica Linked Library, via JPEG File, in order to trigger a denial of service... | Visit link for details |
-| [Synology DSM: vulnerability](https://vigilance.fr/vulnerability/Synology-DSM-vulnerability-40056) | A vulnerability of Synology DSM was announced... | Visit link for details |
