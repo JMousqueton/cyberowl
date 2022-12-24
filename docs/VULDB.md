@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Mozilla Thunderbird Angle Remote Code Execution](https://vuldb.com/?id.216553) | Visit link for details | 2022-12-23 at 22:34 |
-| [Mozilla Firefox Angle Remote Code Execution](https://vuldb.com/?id.216552) | Visit link for details | 2022-12-23 at 22:34 |
-| [Mozilla Thunderbird memory corruption](https://vuldb.com/?id.216551) | Visit link for details | 2022-12-23 at 22:33 |
-| [Mozilla Firefox memory corruption](https://vuldb.com/?id.216550) | Visit link for details | 2022-12-23 at 22:33 |
-| [Mozilla VPN OAuth session fixiation](https://vuldb.com/?id.216549) | Visit link for details | 2022-12-23 at 22:32 |
-| [CodeIgniter improper authentication](https://vuldb.com/?id.216548) | Visit link for details | 2022-12-23 at 22:31 |
-| [IBM Security Verify Governance Identity Manager improper authentication](https://vuldb.com/?id.216547) | Visit link for details | 2022-12-23 at 22:30 |
-| [CodeIgniter Reverse Proxy getIPAddress data authenticity](https://vuldb.com/?id.216546) | Visit link for details | 2022-12-23 at 22:29 |
-| [IBM Security Verify Governance Identity Manager risky encryption](https://vuldb.com/?id.216545) | Visit link for details | 2022-12-23 at 22:29 |
-| [Mozilla Firefox memory corruption](https://vuldb.com/?id.216544) | Visit link for details | 2022-12-23 at 22:28 |
-| [Mozilla Firefox memory corruption](https://vuldb.com/?id.216543) | Visit link for details | 2022-12-23 at 22:27 |
-| [Mozilla Thunderbird memory corruption](https://vuldb.com/?id.216542) | Visit link for details | 2022-12-23 at 22:27 |
-| [Mozilla Firefox memory corruption](https://vuldb.com/?id.216541) | Visit link for details | 2022-12-23 at 22:27 |
-| [Mozilla Thunderbird memory corruption](https://vuldb.com/?id.216540) | Visit link for details | 2022-12-23 at 22:26 |
-| [Mozilla Thunderbird memory corruption](https://vuldb.com/?id.216539) | Visit link for details | 2022-12-23 at 22:26 |
-| [Mozilla Thunderbird memory corruption](https://vuldb.com/?id.216538) | Visit link for details | 2022-12-23 at 22:25 |
-| [Mozilla Firefox memory corruption](https://vuldb.com/?id.216537) | Visit link for details | 2022-12-23 at 22:25 |
-| [Mozilla Thunderbird Email Attachment access control](https://vuldb.com/?id.216536) | Visit link for details | 2022-12-23 at 22:24 |
-| [cURL HSTS cleartext transmission](https://vuldb.com/?id.216535) | Visit link for details | 2022-12-23 at 21:16 |
-| [cURL Proxy Error use after free](https://vuldb.com/?id.216534) | Visit link for details | 2022-12-23 at 21:15 |
-| [kyverno verifyImages Rule Privilege Escalation](https://vuldb.com/?id.216533) | Visit link for details | 2022-12-23 at 21:12 |
-| [Adobe Experience Manager URL cross site scripting](https://vuldb.com/?id.216532) | Visit link for details | 2022-12-23 at 21:11 |
-| [AyaCMS fst_del.inc.php denial of service](https://vuldb.com/?id.216531) | Visit link for details | 2022-12-23 at 21:11 |
-| [AyaCMS fst_down.inc.php unrestricted upload](https://vuldb.com/?id.216530) | Visit link for details | 2022-12-23 at 21:09 |
-| [AyaCMS ust_sql.inc.php Privilege Escalation](https://vuldb.com/?id.216529) | Visit link for details | 2022-12-23 at 21:08 |
-| [JetBrains IntelliJ IDEA special elements used in a template engine](https://vuldb.com/?id.216528) | Visit link for details | 2022-12-23 at 16:08 |
-| [JetBrains IntelliJ IDEA Validate JSP File cleartext transmission](https://vuldb.com/?id.216527) | Visit link for details | 2022-12-23 at 16:08 |
-| [Apache ShardingSphere-Proxy Client Authentication cleanup](https://vuldb.com/?id.216526) | Visit link for details | 2022-12-23 at 16:07 |
-| [Ghost HTTP Request observable response discrepancy](https://vuldb.com/?id.216525) | Visit link for details | 2022-12-23 at 13:14 |
-| [microweber cross site scripting](https://vuldb.com/?id.216524) | Visit link for details | 2022-12-23 at 10:32 |
-| [ikus060 rdiffweb cross-site request forgery](https://vuldb.com/?id.216523) | Visit link for details | 2022-12-23 at 10:31 |
-| [Inhabit Move CRM User Profile cross site scripting](https://vuldb.com/?id.216522) | Visit link for details | 2022-12-23 at 10:31 |
-| [destiny.gg chat main.go websocket.Upgrader cross-site request forgery](https://vuldb.com/?id.216521) | Visit link for details | 2022-12-23 at 09:26 |
-| [ahorner text-helpers translation.rb reverse tabnabbing](https://vuldb.com/?id.216520) | Visit link for details | 2022-12-23 at 09:19 |
-| [ikus060 rdiffweb redirect](https://vuldb.com/?id.216519) | Visit link for details | 2022-12-23 at 09:11 |
-| [Baidunetdisk untrusted search path](https://vuldb.com/?id.216518) | Visit link for details | 2022-12-23 at 09:10 |
-| [jsonwebtoken risky encryption](https://vuldb.com/?id.216517) | Visit link for details | 2022-12-23 at 09:08 |
-| [jsonwebtoken jwt.verify improper authentication](https://vuldb.com/?id.216516) | Visit link for details | 2022-12-23 at 09:07 |
-| [jsonwebtoken Private improper authentication](https://vuldb.com/?id.216515) | Visit link for details | 2022-12-23 at 09:07 |
-| [Dataprobe iBoot-PDU information disclosure](https://vuldb.com/?id.216514) | Visit link for details | 2022-12-23 at 09:06 |
-| [liquidjs information disclosure](https://vuldb.com/?id.216513) | Visit link for details | 2022-12-23 at 09:02 |
-| [Dataprobe iBoot-PDU os command injection](https://vuldb.com/?id.216512) | Visit link for details | 2022-12-23 at 09:02 |
-| [node-jsonwebtoken jwt.verify input validation](https://vuldb.com/?id.216511) | Visit link for details | 2022-12-23 at 08:52 |
-| [Proofpoint Enterprise Protection privileges management](https://vuldb.com/?id.216510) | Visit link for details | 2022-12-23 at 08:51 |
-| [SourceCodester Simple Client Management System Input Field MAster.php cross site scripting](https://vuldb.com/?id.216509) | Visit link for details | 2022-12-23 at 08:49 |
-| [Dataprobe iBoot-PDU Main Management Page access control](https://vuldb.com/?id.216508) | Visit link for details | 2022-12-23 at 08:48 |
-| [Dataprobe iBoot-PDU URL server-side request forgery](https://vuldb.com/?id.216507) | Visit link for details | 2022-12-23 at 08:47 |
-| [Dataprobe iBoot-PDU authorization](https://vuldb.com/?id.216506) | Visit link for details | 2022-12-23 at 08:46 |
-| [Dataprobe iBoot-PDU improper authorization](https://vuldb.com/?id.216505) | Visit link for details | 2022-12-23 at 08:46 |
-| [Dataprobe iBoot-PDU path traversal](https://vuldb.com/?id.216504) | Visit link for details | 2022-12-23 at 08:37 |
+| [memos cross site scripting](https://vuldb.com/?id.216728) | Visit link for details | 2022-12-24 at 00:23 |
+| [Seriously Simple Podcasting Plugin Shortcode cross site scripting](https://vuldb.com/?id.216727) | Visit link for details | 2022-12-24 at 00:22 |
+| [Simple Membership Plugin Shortcode cross site scripting](https://vuldb.com/?id.216726) | Visit link for details | 2022-12-24 at 00:22 |
+| [Sassy Social Share Plugin cross site scripting](https://vuldb.com/?id.216725) | Visit link for details | 2022-12-24 at 00:22 |
+| [Meteor Slides Plugin cross site scripting](https://vuldb.com/?id.216724) | Visit link for details | 2022-12-24 at 00:21 |
+| [Subscribe2 Plugin cross-site request forgery](https://vuldb.com/?id.216723) | Visit link for details | 2022-12-24 at 00:21 |
+| [Social Media Share Buttons Plugin Shortcode cross site scripting](https://vuldb.com/?id.216722) | Visit link for details | 2022-12-24 at 00:20 |
+| [RSSImport Plugin Shortcode cross site scripting](https://vuldb.com/?id.216721) | Visit link for details | 2022-12-24 at 00:20 |
+| [D-Link DIR-882 SetWan3Settings Module stack-based overflow](https://vuldb.com/?id.216720) | Visit link for details | 2022-12-24 at 00:19 |
+| [D-Link DIR-882 SetWLanRadioSecurity Module stack-based overflow](https://vuldb.com/?id.216719) | Visit link for details | 2022-12-24 at 00:18 |
+| [D-Link DIR-882 SetSysEmailSettings Module stack-based overflow](https://vuldb.com/?id.216718) | Visit link for details | 2022-12-24 at 00:18 |
+| [D-Link DIR-882 SetQuickVPNSettings Module stack-based overflow](https://vuldb.com/?id.216717) | Visit link for details | 2022-12-24 at 00:17 |
+| [D-Link DIR-882 SetDynamicDNSSettings Module stack-based overflow](https://vuldb.com/?id.216716) | Visit link for details | 2022-12-24 at 00:17 |
+| [D-Link DIR-882 SetQuickVPNSettings Module stack-based overflow](https://vuldb.com/?id.216715) | Visit link for details | 2022-12-24 at 00:17 |
+| [D-Link DIR-882 SetWanSettings Module stack-based overflow](https://vuldb.com/?id.216714) | Visit link for details | 2022-12-24 at 00:16 |
+| [D-Link DIR-882 SetWan2Settings Module stack-based overflow](https://vuldb.com/?id.216713) | Visit link for details | 2022-12-24 at 00:16 |
+| [IP-COM M50 formDelWewifiPic buffer overflow](https://vuldb.com/?id.216712) | Visit link for details | 2022-12-24 at 00:16 |
+| [IP-COM M50 formPortalAuth buffer overflow](https://vuldb.com/?id.216711) | Visit link for details | 2022-12-24 at 00:15 |
+| [IP-COM M50 formSetPortMapping buffer overflow](https://vuldb.com/?id.216710) | Visit link for details | 2022-12-24 at 00:15 |
+| [IP-COM M50 formQOSRuleDel buffer overflow](https://vuldb.com/?id.216709) | Visit link for details | 2022-12-24 at 00:14 |
+| [IP-COM M50 formAddDnsForward buffer overflow](https://vuldb.com/?id.216708) | Visit link for details | 2022-12-24 at 00:14 |
+| [IP-COM M50 formSetNetCheckTools command injection](https://vuldb.com/?id.216707) | Visit link for details | 2022-12-24 at 00:14 |
+| [IP-COM M50 formSetDebugCfg buffer overflow](https://vuldb.com/?id.216706) | Visit link for details | 2022-12-24 at 00:13 |
+| [IP-COM M50 formSetDebugCfg command injection](https://vuldb.com/?id.216705) | Visit link for details | 2022-12-24 at 00:13 |
+| [IP-COM M50 formDelPortMapping buffer overflow](https://vuldb.com/?id.216704) | Visit link for details | 2022-12-24 at 00:12 |
+| [IP-COM M50 formAddDnsHijack buffer overflow](https://vuldb.com/?id.216703) | Visit link for details | 2022-12-24 at 00:12 |
+| [IP-COM M50 formSetNetCheckTools buffer overflow](https://vuldb.com/?id.216702) | Visit link for details | 2022-12-24 at 00:12 |
+| [IP-COM M50 formIPMacBindModify buffer overflow](https://vuldb.com/?id.216701) | Visit link for details | 2022-12-24 at 00:11 |
+| [IP-COM M50 formIPMacBindAdd buffer overflow](https://vuldb.com/?id.216700) | Visit link for details | 2022-12-24 at 00:11 |
+| [IP-COM M50 formIPMacBindDel buffer overflow](https://vuldb.com/?id.216699) | Visit link for details | 2022-12-24 at 00:10 |
+| [IP-COM M50 GET Request formSetUSBPartitionUmount command injection](https://vuldb.com/?id.216698) | Visit link for details | 2022-12-24 at 00:08 |
+| [IBM AIX/VIOS SMB Client denial of service](https://vuldb.com/?id.216697) | Visit link for details | 2022-12-24 at 00:07 |
+| [IBM AIX/VIOS CAA denial of service](https://vuldb.com/?id.216696) | Visit link for details | 2022-12-24 at 00:07 |
+| [IBM AIX/VIOS rm_rlcache_file unnecessary privileges](https://vuldb.com/?id.216695) | Visit link for details | 2022-12-24 at 00:06 |
+| [IBM AIX/VIOS Kernel resource consumption](https://vuldb.com/?id.216694) | Visit link for details | 2022-12-24 at 00:05 |
+| [IBM AIX/VIOS pfcdd Kernel Extension denial of service](https://vuldb.com/?id.216693) | Visit link for details | 2022-12-24 at 00:05 |
+| [IBM AIX/VIOS perfstat Kernel Extension denial of service](https://vuldb.com/?id.216692) | Visit link for details | 2022-12-24 at 00:04 |
+| [IBM AIX/VIOS NFS Kernel Extension resource management](https://vuldb.com/?id.216691) | Visit link for details | 2022-12-24 at 00:04 |
+| [IBM AIX/VIOS TCP/IP Kernel Extension denial of service](https://vuldb.com/?id.216690) | Visit link for details | 2022-12-24 at 00:03 |
+| [F-Secure SAFE Browser IDN Homograph unknown vulnerability](https://vuldb.com/?id.216689) | Visit link for details | 2022-12-24 at 21:03 |
+| [D-Link DIR-846 SetAutoUpgradeInfo command injection](https://vuldb.com/?id.216688) | Visit link for details | 2022-12-24 at 20:59 |
+| [Rocket.Chat-Desktop URL internalVideoChatWindow.ts shell.openExternal os command injection](https://vuldb.com/?id.216687) | Visit link for details | 2022-12-24 at 20:58 |
+| [ProfilePress Plugin cross site scripting](https://vuldb.com/?id.216686) | Visit link for details | 2022-12-24 at 20:56 |
+| [ProfilePress Plugin cross site scripting](https://vuldb.com/?id.216685) | Visit link for details | 2022-12-24 at 20:55 |
+| [Ubiquiti airMAX AC access control](https://vuldb.com/?id.216684) | Visit link for details | 2022-12-24 at 20:54 |
+| [Micro Focus ZENworks Managed Device privileges management](https://vuldb.com/?id.216683) | Visit link for details | 2022-12-24 at 20:53 |
+| [D-Link DIR-846 SetIpMacBindSettings command injection](https://vuldb.com/?id.216682) | Visit link for details | 2022-12-24 at 20:51 |
+| [PJSIP STUN Message Parser heap-based overflow](https://vuldb.com/?id.216681) | Visit link for details | 2022-12-24 at 20:49 |
+| [Linux Kernel ksmbd smb2misc.c smb2_get_data_area_len out-of-bounds](https://vuldb.com/?id.216680) | Visit link for details | 2022-12-24 at 20:48 |
+| [Linux Kernel ksmbd smb2pdu.c smb2_write information disclosure](https://vuldb.com/?id.216679) | Visit link for details | 2022-12-24 at 20:46 |
