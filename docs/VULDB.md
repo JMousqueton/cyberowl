@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Sterc Google Analytics Dashboard for MODX Internal Search widget.analytics.tpl cross site scripting](https://vuldb.com/?id.217069) | Visit link for details | 2022-12-31 at 22:35 |
-| [ghostlander Phoenixcoin main.cpp accept denial of service](https://vuldb.com/?id.217068) | Visit link for details | 2022-12-31 at 21:45 |
-| [usememos insufficient permissions or privileges](https://vuldb.com/?id.217067) | Visit link for details | 2022-12-31 at 18:55 |
-| [M-Files Server Token unknown vulnerability](https://vuldb.com/?id.217066) | Visit link for details | 2022-12-31 at 17:22 |
-| [M-Files Server Token log file](https://vuldb.com/?id.217065) | Visit link for details | 2022-12-31 at 15:17 |
-| [FreeRADIUS Server SIM Option eapsimlib.c null pointer dereference](https://vuldb.com/?id.217064) | Visit link for details | 2022-12-31 at 15:16 |
-| [FreeRADIUS Server filters.c denial of service](https://vuldb.com/?id.217063) | Visit link for details | 2022-12-31 at 15:15 |
-| [Linux Kernel SYSCTL Subsystem stack-based overflow](https://vuldb.com/?id.217062) | Visit link for details | 2022-12-31 at 15:13 |
-| [Apache Kylin Diagnosis Controller command injection](https://vuldb.com/?id.217061) | Visit link for details | 2022-12-31 at 14:12 |
-| [Apache Kylin Configuration command injection](https://vuldb.com/?id.217060) | Visit link for details | 2022-12-31 at 14:11 |
-| [KBase Metrics methods_upload_user_stats.py upload_user_data sql injection](https://vuldb.com/?id.217059) | Visit link for details | 2022-12-31 at 12:54 |
-| [Macaron csrf csrf.go missing secure attribute](https://vuldb.com/?id.217058) | Visit link for details | 2022-12-31 at 12:52 |
-| [aerouk imageserve cross site scripting](https://vuldb.com/?id.217057) | Visit link for details | 2022-12-31 at 12:49 |
-| [aerouk imageserve File viewer.php path traversal](https://vuldb.com/?id.217056) | Visit link for details | 2022-12-31 at 12:47 |
-| [Joget User Profile Menu UserProfileMenu.java submitForm cross site scripting](https://vuldb.com/?id.217055) | Visit link for details | 2022-12-31 at 12:43 |
-| [iText RUPS XfaFile.java xml external entity reference](https://vuldb.com/?id.217054) | Visit link for details | 2022-12-31 at 12:40 |
-| [usememos cross-site request forgery](https://vuldb.com/?id.217053) | Visit link for details | 2022-12-31 at 12:36 |
-| [usememos cross-site request forgery](https://vuldb.com/?id.217052) | Visit link for details | 2022-12-31 at 12:32 |
-| [usememos cross-site request forgery](https://vuldb.com/?id.217051) | Visit link for details | 2022-12-31 at 12:32 |
-| [usememos cross-site request forgery](https://vuldb.com/?id.217050) | Visit link for details | 2022-12-31 at 12:32 |
-| [usememos cross-site request forgery](https://vuldb.com/?id.217049) | Visit link for details | 2022-12-31 at 12:31 |
-| [usememos cross site scripting](https://vuldb.com/?id.217048) | Visit link for details | 2022-12-31 at 12:30 |
-| [usememos cross site scripting](https://vuldb.com/?id.217047) | Visit link for details | 2022-12-31 at 12:30 |
-| [usememos cross site scripting](https://vuldb.com/?id.217046) | Visit link for details | 2022-12-31 at 12:30 |
-| [Netgear RAX40 buffer overflow](https://vuldb.com/?id.217045) | Visit link for details | 2022-12-31 at 12:27 |
-| [TP-Link TL-WR902AC V3 Firmware Update denial of service](https://vuldb.com/?id.217044) | Visit link for details | 2022-12-31 at 12:16 |
-| [Chris92de AdminServ adminserv.php cross site scripting](https://vuldb.com/?id.217043) | Visit link for details | 2022-12-31 at 12:16 |
-| [Chris92de AdminServ adminserv.php cross site scripting](https://vuldb.com/?id.217042) | Visit link for details | 2022-12-31 at 12:13 |
-| [Reprise RLM License Administration cross site scripting](https://vuldb.com/?id.217041) | Visit link for details | 2022-12-31 at 12:07 |
-| [pastebinit server.go pasteHandler path traversal](https://vuldb.com/?id.217040) | Visit link for details | 2022-12-31 at 12:02 |
-| [usememos values](https://vuldb.com/?id.217039) | Visit link for details | 2022-12-31 at 11:56 |
-| [usememos unknown vulnerability](https://vuldb.com/?id.217038) | Visit link for details | 2022-12-31 at 11:56 |
-| [radare2 null pointer dereference](https://vuldb.com/?id.217037) | Visit link for details | 2022-12-31 at 11:56 |
-| [SourceCodester Sanitization Management System sql injection](https://vuldb.com/?id.217036) | Visit link for details | 2022-12-31 at 11:55 |
-| [usememos unknown vulnerability](https://vuldb.com/?id.217035) | Visit link for details | 2022-12-31 at 11:51 |
-| [Gotify Server HTML File cross site scripting](https://vuldb.com/?id.217034) | Visit link for details | 2022-12-31 at 11:48 |
-| [ESRI Portal for ArcGIS server-side request forgery](https://vuldb.com/?id.217033) | Visit link for details | 2022-12-31 at 11:46 |
-| [ESRI Portal for ArcGIS server-side request forgery](https://vuldb.com/?id.217032) | Visit link for details | 2022-12-31 at 11:14 |
-| [ESRI Portal for ArcGIS Link cross site scripting](https://vuldb.com/?id.217031) | Visit link for details | 2022-12-31 at 11:14 |
-| [ESRI Portal for ArcGIS Link cross site scripting](https://vuldb.com/?id.217030) | Visit link for details | 2022-12-31 at 11:12 |
-| [ESRI Portal for ArcGIS Link cross site scripting](https://vuldb.com/?id.217029) | Visit link for details | 2022-12-31 at 11:11 |
-| [ESRI Portal for ArcGIS Link cross site scripting](https://vuldb.com/?id.217028) | Visit link for details | 2022-12-31 at 11:10 |
-| [ESRI Portal for ArcGIS server-side request forgery](https://vuldb.com/?id.217027) | Visit link for details | 2022-12-31 at 11:04 |
-| [MeterSphere Upload File path traversal](https://vuldb.com/?id.217026) | Visit link for details | 2022-12-31 at 10:44 |
-| [ESRI Portal for ArcGIS Link cross site scripting](https://vuldb.com/?id.217025) | Visit link for details | 2022-12-31 at 10:42 |
-| [ESRI Portal for ArcGIS URL redirect](https://vuldb.com/?id.217024) | Visit link for details | 2022-12-31 at 10:35 |
-| [ESRI Portal for ArcGIS path traversal](https://vuldb.com/?id.217023) | Visit link for details | 2022-12-31 at 10:11 |
-| [Modbus Tools Modbus Poll mbp File mbpoll.exe buffer overflow](https://vuldb.com/?id.217022) | Visit link for details | 2022-12-31 at 10:10 |
-| [Modbus Tools Modbus Slave mbs File mbslave.exe buffer overflow](https://vuldb.com/?id.217021) | Visit link for details | 2022-12-31 at 10:07 |
-| [SourceCodester Lead Management System login.php sql injection](https://vuldb.com/?id.217020) | Visit link for details | 2022-12-31 at 09:51 |
+| [rgb2hex redos](https://vuldb.com/?id.217151) | Visit link for details | 2023-01-01 at 20:38 |
+| [ttskch PaginationServiceProvider Demo index.php sql injection](https://vuldb.com/?id.217150) | Visit link for details | 2023-01-01 at 20:32 |
+| [flitto express-param fetchParams.js parameter pollution](https://vuldb.com/?id.217149) | Visit link for details | 2023-01-01 at 20:20 |
+| [valtech IDP Test Client main.py cross-site request forgery](https://vuldb.com/?id.217148) | Visit link for details | 2023-01-01 at 20:16 |
+| [Yuna Scatari TBDev usersearch.php get_user_icons cross site scripting](https://vuldb.com/?id.217147) | Visit link for details | 2023-01-01 at 16:17 |
+| [froxlor cross-site request forgery](https://vuldb.com/?id.217146) | Visit link for details | 2023-01-01 at 12:42 |
+| [usememos cross site scripting](https://vuldb.com/?id.217145) | Visit link for details | 2023-01-01 at 12:42 |
+| [usememos cross site scripting](https://vuldb.com/?id.217144) | Visit link for details | 2023-01-01 at 12:41 |
+| [froxlor improper authorization](https://vuldb.com/?id.217143) | Visit link for details | 2023-01-01 at 12:40 |
+| [rf Keynote rumble.rb cross site scripting](https://vuldb.com/?id.217142) | Visit link for details | 2023-01-01 at 11:09 |
+| [vova07 Yii2 FileAPI Widget UploadAction.php run cross site scripting](https://vuldb.com/?id.217141) | Visit link for details | 2023-01-01 at 11:05 |
+| [Ariadne Component Library Url.php server-side request forgery](https://vuldb.com/?id.217140) | Visit link for details | 2023-01-01 at 10:15 |
+| [Exciting Printer Argument prepare_page.rb command injection](https://vuldb.com/?id.217139) | Visit link for details | 2023-01-01 at 10:12 |
+| [froxlor argument injection](https://vuldb.com/?id.217138) | Visit link for details | 2023-01-01 at 10:07 |
+| [LibTIFF TIFF Image out-of-bounds write](https://vuldb.com/?id.217137) | Visit link for details | 2023-01-01 at 10:06 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217136) | Visit link for details | 2023-01-01 at 10:05 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217135) | Visit link for details | 2023-01-01 at 10:05 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217134) | Visit link for details | 2023-01-01 at 10:04 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217133) | Visit link for details | 2023-01-01 at 10:04 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217132) | Visit link for details | 2023-01-01 at 10:04 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217131) | Visit link for details | 2023-01-01 at 10:04 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217130) | Visit link for details | 2023-01-01 at 10:04 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217129) | Visit link for details | 2023-01-01 at 10:04 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217128) | Visit link for details | 2023-01-01 at 10:03 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217127) | Visit link for details | 2023-01-01 at 10:03 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217126) | Visit link for details | 2023-01-01 at 10:03 |
+| [Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217125) | Visit link for details | 2023-01-01 at 10:02 |
+| [Tenda A15 SysToolChangePwd stack-based overflow](https://vuldb.com/?id.217124) | Visit link for details | 2023-01-01 at 10:02 |
+| [Tenda Tenda A15 WifiBasicSet stack-based overflow](https://vuldb.com/?id.217123) | Visit link for details | 2023-01-01 at 09:55 |
+| [TRENDnet TEW755AP icp_setbg_img stack-based overflow](https://vuldb.com/?id.217122) | Visit link for details | 2023-01-01 at 09:54 |
+| [TRENDnet TEW755AP set_sta_enrollee_pin_24g stack-based overflow](https://vuldb.com/?id.217121) | Visit link for details | 2023-01-01 at 09:54 |
+| [TRENDnet TEW755AP icp_setlogo_img stack-based overflow](https://vuldb.com/?id.217120) | Visit link for details | 2023-01-01 at 09:54 |
+| [TRENDnet TEW755AP set_sta_enrollee_pin_5g command injection](https://vuldb.com/?id.217119) | Visit link for details | 2023-01-01 at 09:54 |
+| [TRENDnet TEW755AP setup_wizard_mydlink command injection](https://vuldb.com/?id.217118) | Visit link for details | 2023-01-01 at 09:53 |
+| [TRENDnet TEW755AP icp_delete_img stack-based overflow](https://vuldb.com/?id.217117) | Visit link for details | 2023-01-01 at 09:53 |
+| [TRENDnet TEW755AP auto_up_fw stack-based overflow](https://vuldb.com/?id.217116) | Visit link for details | 2023-01-01 at 09:53 |
+| [TRENDnet TEW755AP do_sta_enrollee_wifi stack-based overflow](https://vuldb.com/?id.217115) | Visit link for details | 2023-01-01 at 09:53 |
+| [TRENDnet TEW755AP set_sta_enrollee_pin_5g stack-based overflow](https://vuldb.com/?id.217114) | Visit link for details | 2023-01-01 at 09:52 |
+| [TRENDnet TEW755AP reject stack-based overflow](https://vuldb.com/?id.217113) | Visit link for details | 2023-01-01 at 09:52 |
+| [TRENDnet TEW755AP tools_netstat stack-based overflow](https://vuldb.com/?id.217112) | Visit link for details | 2023-01-01 at 09:52 |
+| [TRENDnet TEW755AP tools_netstat stack-based overflow](https://vuldb.com/?id.217111) | Visit link for details | 2023-01-01 at 09:52 |
+| [TRENDnet TEW755AP setup_wizard_mydlink stack-based overflow](https://vuldb.com/?id.217110) | Visit link for details | 2023-01-01 at 09:51 |
+| [TRENDnet TEW755AP kick_ban_wifi_mac_allow stack-based overflow](https://vuldb.com/?id.217109) | Visit link for details | 2023-01-01 at 09:51 |
+| [TRENDnet TEW755AP kick_ban_wifi_mac_deny stack-based overflow](https://vuldb.com/?id.217108) | Visit link for details | 2023-01-01 at 09:50 |
+| [TRENDnet TEW755AP wizard_ipv6 stack-based overflow](https://vuldb.com/?id.217107) | Visit link for details | 2023-01-01 at 09:50 |
+| [TRENDnet TEW755AP do_graph_auth stack-based overflow](https://vuldb.com/?id.217106) | Visit link for details | 2023-01-01 at 09:49 |
+| [TRENDnet TEW755AP tools_nslookup stack-based overflow](https://vuldb.com/?id.217105) | Visit link for details | 2023-01-01 at 09:49 |
+| [TRENDnet TEW755AP wifi_captive_portal stack-based overflow](https://vuldb.com/?id.217104) | Visit link for details | 2023-01-01 at 09:47 |
+| [TRENDnet TEW755AP get_access stack-based overflow](https://vuldb.com/?id.217103) | Visit link for details | 2023-01-01 at 09:46 |
+| [NVIDIA Trusted OS SMC Call input validation](https://vuldb.com/?id.217102) | Visit link for details | 2023-01-01 at 09:40 |
