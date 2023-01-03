@@ -1,26 +1,26 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [trampgeek jobe Restapi.php runs_post Privilege Escalation](https://vuldb.com/?id.217174) | Visit link for details | 2023-01-02 at 19:20 |
-| [OpenStack Nova log file](https://vuldb.com/?id.217173) | Visit link for details | 2023-01-02 at 19:17 |
-| [admont28 Ingnovarq insertarSliderAjax.php cross site scripting](https://vuldb.com/?id.217172) | Visit link for details | 2023-01-02 at 17:41 |
-| [Ziftr primecoin bitcoinrpc.cpp HTTPAuthorized timing discrepancy](https://vuldb.com/?id.217171) | Visit link for details | 2023-01-02 at 17:34 |
-| [SimpleSAMLphp simplesamlphp-module-openid OpenID consumer.php cross site scripting](https://vuldb.com/?id.217170) | Visit link for details | 2023-01-02 at 17:21 |
-| [Multilaser RE708 Telnet Service denial of service](https://vuldb.com/?id.217169) | Visit link for details | 2023-01-02 at 14:50 |
-| [linagora twake cross site scripting](https://vuldb.com/?id.217168) | Visit link for details | 2023-01-02 at 14:12 |
-| [WeBankPartners WeCube Plugin Database Execution Page cross site scripting](https://vuldb.com/?id.217167) | Visit link for details | 2023-01-02 at 14:10 |
-| [PrimeKey EJBCA End Entity Section cross site scripting](https://vuldb.com/?id.217166) | Visit link for details | 2023-01-02 at 14:08 |
-| [Kemp LoadMaster Web Application Firewall protection mechanism](https://vuldb.com/?id.217165) | Visit link for details | 2023-01-02 at 14:07 |
-| [perfSONAR Participant Discovery information disclosure](https://vuldb.com/?id.217164) | Visit link for details | 2023-01-02 at 14:05 |
-| [WeBankPartners WeCube Terminal Plugin cleartext storage](https://vuldb.com/?id.217163) | Visit link for details | 2023-01-02 at 13:58 |
-| [perfSONAR file URL Privilege Escalation](https://vuldb.com/?id.217162) | Visit link for details | 2023-01-02 at 12:46 |
-| [lxc lxc-user-nic Privilege Escalation](https://vuldb.com/?id.217161) | Visit link for details | 2023-01-02 at 12:45 |
-| [XRT Business Exchange Display Model DOWNLOADFRS cross site scripting](https://vuldb.com/?id.217160) | Visit link for details | 2023-01-02 at 12:44 |
-| [Sage Enterprise Intelligence Notification cross site scripting](https://vuldb.com/?id.217159) | Visit link for details | 2023-01-02 at 12:43 |
-| [Isode M-Link Archive Server unknown vulnerability](https://vuldb.com/?id.217158) | Visit link for details | 2023-01-02 at 12:42 |
-| [Sage XRT Business Exchange Add Currencies/Payment Order/Transfer History sql injection](https://vuldb.com/?id.217157) | Visit link for details | 2023-01-02 at 12:41 |
-| [vooon ntpd_driver Source Code access control](https://vuldb.com/?id.217156) | Visit link for details | 2023-01-02 at 12:36 |
-| [WeBankPartners WeCube Resources/System Params/Basekey Configuration csv injection](https://vuldb.com/?id.217155) | Visit link for details | 2023-01-02 at 12:26 |
-| [taoeffect Empress hard-coded password](https://vuldb.com/?id.217154) | Visit link for details | 2023-01-02 at 09:40 |
-| [Zenoss Dashboard defaultportlets.js cross site scripting](https://vuldb.com/?id.217153) | Visit link for details | 2023-01-02 at 09:37 |
-| [flar2 ElementalX ipsec xfrm_user.c xfrm_dump_policy_done denial of service](https://vuldb.com/?id.217152) | Visit link for details | 2023-01-02 at 09:19 |
+| [OpenDNS OpenResolve endpoints.py neutralization for logs](https://vuldb.com/?id.217197) | Visit link for details | 2023-01-03 at 22:05 |
+| [OpenDNS OpenResolve API endpoints.py get cross site scripting](https://vuldb.com/?id.217196) | Visit link for details | 2023-01-03 at 22:00 |
+| [Centralized-Salesforce-Dev-Framework SOQL SObjectService.cls SObjectService injection](https://vuldb.com/?id.217195) | Visit link for details | 2023-01-03 at 19:41 |
+| [YUI2 TreeView cross site scripting](https://vuldb.com/?id.217194) | Visit link for details | 2023-01-03 at 19:20 |
+| [Kiwi TCMS Configuration Setting weak password](https://vuldb.com/?id.217193) | Visit link for details | 2023-01-03 at 19:19 |
+| [IS_Projecto2 NewsBean.java sql injection](https://vuldb.com/?id.217192) | Visit link for details | 2023-01-03 at 18:23 |
+| [License to Kill injury.rb sql injection](https://vuldb.com/?id.217191) | Visit link for details | 2023-01-03 at 18:18 |
+| [drybjed ansible-ntp main.yml amplification](https://vuldb.com/?id.217190) | Visit link for details | 2023-01-03 at 18:16 |
+| [Jobs-Plugin cross site scripting](https://vuldb.com/?id.217189) | Visit link for details | 2023-01-03 at 17:05 |
+| [rofl0r MacGeiger ESSID macgeiger.c dump_wlan_at injection](https://vuldb.com/?id.217188) | Visit link for details | 2023-01-03 at 16:53 |
+| [nterchange code_caller_controller.php getContent code injection](https://vuldb.com/?id.217187) | Visit link for details | 2023-01-03 at 16:42 |
+| [FortiOS FortiOS SSL-VPN/FortiProxy SSL-VPN Requests heap-based overflow](https://vuldb.com/?id.217186) | Visit link for details | 2023-01-03 at 12:47 |
+| [82Flex WEIPDCRM sql injection](https://vuldb.com/?id.217185) | Visit link for details | 2023-01-03 at 11:38 |
+| [82Flex WEIPDCRM cross site scripting](https://vuldb.com/?id.217184) | Visit link for details | 2023-01-03 at 11:37 |
+| [stiiv contact_app View.php render cross site scripting](https://vuldb.com/?id.217183) | Visit link for details | 2023-01-03 at 11:34 |
+| [dragonexpert Recent Threads on Index Setting hooks.php recentthread_list_threads cross site scripting](https://vuldb.com/?id.217182) | Visit link for details | 2023-01-03 at 11:32 |
+| [enigmaX Scrambling Table main.c getSeed prng seed](https://vuldb.com/?id.217181) | Visit link for details | 2023-01-03 at 09:04 |
+| [cronvel string-kit naturalSort.js naturalSort redos](https://vuldb.com/?id.217180) | Visit link for details | 2023-01-03 at 09:02 |
+| [Hesburgh Libraries of Notre Dame Sipity search_criteria_for_works_parameter.rb SearchCriteriaForWorksParameter sql injection](https://vuldb.com/?id.217179) | Visit link for details | 2023-01-03 at 08:58 |
+| [rails-cv-app uploaded_files_controller.rb path traversal](https://vuldb.com/?id.217178) | Visit link for details | 2023-01-03 at 08:56 |
+| [porpeeranut go-with-me add.php sql injection](https://vuldb.com/?id.217177) | Visit link for details | 2023-01-03 at 08:55 |
+| [kirill2485 TekNet loggedin.php cross site scripting](https://vuldb.com/?id.217176) | Visit link for details | 2023-01-03 at 08:55 |
+| [Simple FTP Client and Server server_ftp.c malloc memory corruption](https://vuldb.com/?id.217175) | Visit link for details | 2023-01-03 at 08:24 |
