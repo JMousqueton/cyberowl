@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Minetest: code execution via Mod Lua Script](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216) | An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code... | Visit link for details |
 | [saphanabootstrap-formula: privilege escalation via ha_cluster.sls](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215) | An attacker can bypass restrictions of  | Visit link for details |
 | [FFmpeg: NULL pointer dereference via vp3_decode_frame()](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214) | An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service... | Visit link for details |
 | [sdb: denial of service](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213) | An attacker can cause a fatal error of sdb, in order to trigger a denial of service... | Visit link for details |
@@ -100,4 +101,3 @@
 | [Drupal H5P: directory traversal](https://vigilance.fr/vulnerability/Drupal-H5P-directory-traversal-40114) | An attacker can traverse directories of Drupal H5P, in order to read or write a file outside the service root path... | Visit link for details |
 | [AIX: six vulnerabilities via Kernel](https://vigilance.fr/vulnerability/AIX-six-vulnerabilities-via-Kernel-40113) | An attacker can use several vulnerabilities of AIX, via Kernel... | Visit link for details |
 | [AIX: privilege escalation via rm_mlcache_file](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-rm-mlcache-file-40112) | An attacker can bypass restrictions of AIX, via rm_mlcache_file, in order to escalate his privileges... | Visit link for details |
-| [Zabbix: information disclosure via X-Forwarded-For Header](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-X-Forwarded-For-Header-40111) | An attacker can bypass access restrictions to data of Zabbix, via X-Forwarded-For Header, in order to read sensitive information... | Visit link for details |

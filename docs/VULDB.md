@@ -1,26 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [OpenDNS OpenResolve endpoints.py neutralization for logs](https://vuldb.com/?id.217197) | Visit link for details | 2023-01-03 at 22:05 |
-| [OpenDNS OpenResolve API endpoints.py get cross site scripting](https://vuldb.com/?id.217196) | Visit link for details | 2023-01-03 at 22:00 |
-| [Centralized-Salesforce-Dev-Framework SOQL SObjectService.cls SObjectService injection](https://vuldb.com/?id.217195) | Visit link for details | 2023-01-03 at 19:41 |
-| [YUI2 TreeView cross site scripting](https://vuldb.com/?id.217194) | Visit link for details | 2023-01-03 at 19:20 |
-| [Kiwi TCMS Configuration Setting weak password](https://vuldb.com/?id.217193) | Visit link for details | 2023-01-03 at 19:19 |
-| [IS_Projecto2 NewsBean.java sql injection](https://vuldb.com/?id.217192) | Visit link for details | 2023-01-03 at 18:23 |
-| [License to Kill injury.rb sql injection](https://vuldb.com/?id.217191) | Visit link for details | 2023-01-03 at 18:18 |
-| [drybjed ansible-ntp main.yml amplification](https://vuldb.com/?id.217190) | Visit link for details | 2023-01-03 at 18:16 |
-| [Jobs-Plugin cross site scripting](https://vuldb.com/?id.217189) | Visit link for details | 2023-01-03 at 17:05 |
-| [rofl0r MacGeiger ESSID macgeiger.c dump_wlan_at injection](https://vuldb.com/?id.217188) | Visit link for details | 2023-01-03 at 16:53 |
-| [nterchange code_caller_controller.php getContent code injection](https://vuldb.com/?id.217187) | Visit link for details | 2023-01-03 at 16:42 |
-| [FortiOS FortiOS SSL-VPN/FortiProxy SSL-VPN Requests heap-based overflow](https://vuldb.com/?id.217186) | Visit link for details | 2023-01-03 at 12:47 |
-| [82Flex WEIPDCRM sql injection](https://vuldb.com/?id.217185) | Visit link for details | 2023-01-03 at 11:38 |
-| [82Flex WEIPDCRM cross site scripting](https://vuldb.com/?id.217184) | Visit link for details | 2023-01-03 at 11:37 |
-| [stiiv contact_app View.php render cross site scripting](https://vuldb.com/?id.217183) | Visit link for details | 2023-01-03 at 11:34 |
-| [dragonexpert Recent Threads on Index Setting hooks.php recentthread_list_threads cross site scripting](https://vuldb.com/?id.217182) | Visit link for details | 2023-01-03 at 11:32 |
-| [enigmaX Scrambling Table main.c getSeed prng seed](https://vuldb.com/?id.217181) | Visit link for details | 2023-01-03 at 09:04 |
-| [cronvel string-kit naturalSort.js naturalSort redos](https://vuldb.com/?id.217180) | Visit link for details | 2023-01-03 at 09:02 |
-| [Hesburgh Libraries of Notre Dame Sipity search_criteria_for_works_parameter.rb SearchCriteriaForWorksParameter sql injection](https://vuldb.com/?id.217179) | Visit link for details | 2023-01-03 at 08:58 |
-| [rails-cv-app uploaded_files_controller.rb path traversal](https://vuldb.com/?id.217178) | Visit link for details | 2023-01-03 at 08:56 |
-| [porpeeranut go-with-me add.php sql injection](https://vuldb.com/?id.217177) | Visit link for details | 2023-01-03 at 08:55 |
-| [kirill2485 TekNet loggedin.php cross site scripting](https://vuldb.com/?id.217176) | Visit link for details | 2023-01-03 at 08:55 |
-| [Simple FTP Client and Server server_ftp.c malloc memory corruption](https://vuldb.com/?id.217175) | Visit link for details | 2023-01-03 at 08:24 |
+| [Fortinet FortiPortal cross site scripting](https://vuldb.com/?id.217309) | Visit link for details | 2023-01-04 at 21:08 |
+| [Fortinet FortiTester os command injection](https://vuldb.com/?id.217308) | Visit link for details | 2023-01-04 at 21:07 |
+| [Fortinet FortiWeb HTTP Response response splitting](https://vuldb.com/?id.217307) | Visit link for details | 2023-01-04 at 20:46 |
+| [Fortinet FortiADC HTTP Request os command injection](https://vuldb.com/?id.217306) | Visit link for details | 2023-01-04 at 20:45 |
+| [Apache Dubbo Telnet deserialization](https://vuldb.com/?id.217305) | Visit link for details | 2023-01-04 at 20:44 |
+| [OneClick Chat to Order Shortcode cross site scripting](https://vuldb.com/?id.217304) | Visit link for details | 2023-01-04 at 20:08 |
+| [Landing Page Builder Plugin Shortcode cross site scripting](https://vuldb.com/?id.217303) | Visit link for details | 2023-01-04 at 20:08 |
+| [ShiftNav Plugin Shortcode cross site scripting](https://vuldb.com/?id.217302) | Visit link for details | 2023-01-04 at 20:07 |
+| [GeoDirectory Plugin Shortcode cross site scripting](https://vuldb.com/?id.217301) | Visit link for details | 2023-01-04 at 20:07 |
+| [Structured Content Plugin Shortcode cross site scripting](https://vuldb.com/?id.217300) | Visit link for details | 2023-01-04 at 20:06 |
+| [Word Balloon Plugin Shortcode cross site scripting](https://vuldb.com/?id.217299) | Visit link for details | 2023-01-04 at 20:06 |
+| [Collapse-O-Matic Plugin Shortcode cross site scripting](https://vuldb.com/?id.217298) | Visit link for details | 2023-01-04 at 20:05 |
+| [Product Slider for WooCommerce Plugin Shortcode cross site scripting](https://vuldb.com/?id.217297) | Visit link for details | 2023-01-04 at 20:05 |
+| [Pardakht DelkhahPlugin cross site scripting](https://vuldb.com/?id.217296) | Visit link for details | 2023-01-04 at 20:05 |
+| [WP Popups Plugin Shortcode cross site scripting](https://vuldb.com/?id.217295) | Visit link for details | 2023-01-04 at 20:05 |
+| [Print-O-Matic Plugin Shortcode cross site scripting](https://vuldb.com/?id.217294) | Visit link for details | 2023-01-04 at 20:04 |
+| [Easy Social Feed Shortcode cross site scripting](https://vuldb.com/?id.217293) | Visit link for details | 2023-01-04 at 20:03 |
+| [Apache Tomcat JsonErrorReportValve injection](https://vuldb.com/?id.217292) | Visit link for details | 2023-01-04 at 20:00 |
+| [Ticker, Grid, List, Table & Filter Views Plugin Shortcode cross site scripting](https://vuldb.com/?id.217291) | Visit link for details | 2023-01-04 at 19:58 |
+| [Mongoose Page Plugin Shortcode cross site scripting](https://vuldb.com/?id.217290) | Visit link for details | 2023-01-04 at 18:56 |
+| [Super Socializer Plugin Shortcode cross site scripting](https://vuldb.com/?id.217289) | Visit link for details | 2023-01-04 at 18:54 |
+| [Sitemap Plugin Shortcode cross site scripting](https://vuldb.com/?id.217288) | Visit link for details | 2023-01-04 at 18:54 |
+| [Easy Appointments Plugin Shortcode cross site scripting](https://vuldb.com/?id.217287) | Visit link for details | 2023-01-04 at 18:54 |
+| [EU Cookie Law Plugin cross site scripting](https://vuldb.com/?id.217286) | Visit link for details | 2023-01-04 at 18:53 |
+| [Login as User or Customer Plugin Remote Code Execution](https://vuldb.com/?id.217285) | Visit link for details | 2023-01-04 at 18:53 |
+| [FluentAuth Plugin protection mechanism](https://vuldb.com/?id.217284) | Visit link for details | 2023-01-04 at 18:52 |
+| [Conditional Payment Methods for WooCommerce Plugin sql injection](https://vuldb.com/?id.217283) | Visit link for details | 2023-01-04 at 18:51 |
+| [Notification Bar Plugin Shortcode cross site scripting](https://vuldb.com/?id.217282) | Visit link for details | 2023-01-04 at 18:51 |
+| [WP Statistics Plugin sql injection](https://vuldb.com/?id.217281) | Visit link for details | 2023-01-04 at 18:50 |
+| [CBX Petition Plugin sql injection](https://vuldb.com/?id.217280) | Visit link for details | 2023-01-04 at 18:49 |
+| [Renault ZOE Rolling Code authentication replay](https://vuldb.com/?id.217279) | Visit link for details | 2023-01-04 at 18:49 |
+| [User Post Gallery Plugin command injection](https://vuldb.com/?id.217278) | Visit link for details | 2023-01-04 at 18:48 |
+| [Carousel, Slider, Gallery by WP Carousel Plugin Shortcode cross site scripting](https://vuldb.com/?id.217277) | Visit link for details | 2023-01-04 at 16:08 |
+| [Real Testimonials Plugin Shortcode cross site scripting](https://vuldb.com/?id.217276) | Visit link for details | 2023-01-04 at 16:07 |
+| [Members Import Plugin cross site scripting](https://vuldb.com/?id.217275) | Visit link for details | 2023-01-04 at 16:06 |
+| [Survey Maker Plugin cross site scripting](https://vuldb.com/?id.217274) | Visit link for details | 2023-01-04 at 16:06 |
+| [User Post Gallery Plugin authorization](https://vuldb.com/?id.217273) | Visit link for details | 2023-01-04 at 16:05 |
+| [Linux Kernel nfs4file.c __nfs42_ssc_open use after free](https://vuldb.com/?id.217272) | Visit link for details | 2023-01-04 at 12:15 |
+| [ahmyi RivetTracker cross site scripting](https://vuldb.com/?id.217271) | Visit link for details | 2023-01-04 at 12:08 |
+| [ummmmm nflpick-em.com LoadUsers.php _Load_Users sql injection](https://vuldb.com/?id.217270) | Visit link for details | 2023-01-04 at 12:05 |
+| [ethitter WP-Print-Friendly wp-print-friendly.php information disclosure](https://vuldb.com/?id.217269) | Visit link for details | 2023-01-04 at 12:01 |
+| [sumocoders FrameworkUserBundle login.html.twig information exposure](https://vuldb.com/?id.217268) | Visit link for details | 2023-01-04 at 09:32 |
+| [ahmyi RivetTracker css.php changeColor cross site scripting](https://vuldb.com/?id.217267) | Visit link for details | 2023-01-04 at 09:27 |
+| [WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217266) | Visit link for details | 2023-01-04 at 09:24 |
+| [WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217265) | Visit link for details | 2023-01-04 at 09:23 |
+| [Web Invoice Plugin Configuration sql injection](https://vuldb.com/?id.217264) | Visit link for details | 2023-01-04 at 09:22 |
+| [WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217263) | Visit link for details | 2023-01-04 at 09:21 |
+| [Google Chrome Window Manager out-of-bounds write](https://vuldb.com/?id.217262) | Visit link for details | 2023-01-04 at 09:21 |
+| [Octopus Deploy Preview information disclosure](https://vuldb.com/?id.217261) | Visit link for details | 2023-01-04 at 09:20 |
+| [Ruiyang Vitals ESP Upload path traversal](https://vuldb.com/?id.217260) | Visit link for details | 2023-01-04 at 09:20 |
