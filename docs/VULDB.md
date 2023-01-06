@@ -1,53 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Drupal Image Module information disclosure](https://vuldb.com/?id.217428) | Visit link for details | 2023-01-05 at 23:24 |
-| [Kaltura mwEmbed DefaultSettings.php cross site scripting](https://vuldb.com/?id.217427) | Visit link for details | 2023-01-05 at 23:07 |
-| [fossology cross site scripting](https://vuldb.com/?id.217426) | Visit link for details | 2023-01-05 at 22:39 |
-| [Linux Kernel SGI GRU Driver gru_handle_user_call_os use after free](https://vuldb.com/?id.217425) | Visit link for details | 2023-01-05 at 22:34 |
-| [vim out-of-bounds write](https://vuldb.com/?id.217424) | Visit link for details | 2023-01-05 at 22:33 |
-| [Axiell Iguana CMS Service.template.cls cross site scripting](https://vuldb.com/?id.217423) | Visit link for details | 2023-01-05 at 22:33 |
-| [tf_remapper_node access control](https://vuldb.com/?id.217422) | Visit link for details | 2023-01-05 at 22:32 |
-| [Axiell Iguana CMS imageProxy.type.php file access](https://vuldb.com/?id.217421) | Visit link for details | 2023-01-05 at 22:31 |
-| [Axiell Iguana CMS novelist.php cross site scripting](https://vuldb.com/?id.217420) | Visit link for details | 2023-01-05 at 22:31 |
-| [slackero phpwcms SVG File cross site scripting](https://vuldb.com/?id.217419) | Visit link for details | 2023-01-05 at 22:29 |
-| [slackero phpwcms sql injection](https://vuldb.com/?id.217418) | Visit link for details | 2023-01-05 at 22:25 |
-| [ghostlander Halcyon Block Verification main.cpp AddToBlockIndex access control](https://vuldb.com/?id.217417) | Visit link for details | 2023-01-05 at 22:19 |
-| [CPT Bootstrap Carousel Shortcode cross site scripting](https://vuldb.com/?id.217416) | Visit link for details | 2023-01-05 at 22:05 |
-| [window-control sendKeys command injection](https://vuldb.com/?id.217415) | Visit link for details | 2023-01-05 at 22:04 |
-| [NASM outieee.c ieee_write_file memory corruption](https://vuldb.com/?id.217414) | Visit link for details | 2023-01-05 at 22:04 |
-| [NASM outdbg.c dbgdbg_typevalue buffer overflow](https://vuldb.com/?id.217413) | Visit link for details | 2023-01-05 at 22:03 |
-| [Discourse Mermaid cross site scripting](https://vuldb.com/?id.217412) | Visit link for details | 2023-01-05 at 22:03 |
-| [IBM Sterling B2B Integrator Standard Edition information disclosure](https://vuldb.com/?id.217411) | Visit link for details | 2023-01-05 at 22:02 |
-| [IBM Sterling B2B Integrator Standard Edition Web UI cross site scripting](https://vuldb.com/?id.217410) | Visit link for details | 2023-01-05 at 22:02 |
-| [IBM Sterling B2B Integrator Standard Edition access control](https://vuldb.com/?id.217409) | Visit link for details | 2023-01-05 at 22:00 |
-| [IBM Sterling B2B Integrator Standard Edition sql injection](https://vuldb.com/?id.217408) | Visit link for details | 2023-01-05 at 21:59 |
-| [vim heap-based overflow](https://vuldb.com/?id.217407) | Visit link for details | 2023-01-05 at 21:59 |
-| [IBM Sterling B2B Integrator Standard Edition unknown vulnerability](https://vuldb.com/?id.217406) | Visit link for details | 2023-01-05 at 21:58 |
-| [Social Sharing Toolkit Plugin Shortcode cross site scripting](https://vuldb.com/?id.217405) | Visit link for details | 2023-01-05 at 18:43 |
-| [sanitize-svg cross site scripting](https://vuldb.com/?id.217404) | Visit link for details | 2023-01-05 at 18:42 |
-| [vim out-of-bounds](https://vuldb.com/?id.217403) | Visit link for details | 2023-01-05 at 18:42 |
-| [Uniswap Universal Router access control](https://vuldb.com/?id.217402) | Visit link for details | 2023-01-05 at 18:41 |
-| [Http4s Header Parser denial of service](https://vuldb.com/?id.217401) | Visit link for details | 2023-01-05 at 18:41 |
-| [KubePi hard-coded credentials](https://vuldb.com/?id.217400) | Visit link for details | 2023-01-05 at 18:40 |
-| [Apache DolphinScheduler Script Alert Plugin Parameter input validation](https://vuldb.com/?id.217399) | Visit link for details | 2023-01-05 at 18:39 |
-| [go-ipld-prime denial of service](https://vuldb.com/?id.217398) | Visit link for details | 2023-01-05 at 18:37 |
-| [MediaElement.js Plugin Shortcode cross site scripting](https://vuldb.com/?id.217397) | Visit link for details | 2023-01-05 at 17:30 |
-| [lirantal daloradius code injection](https://vuldb.com/?id.217396) | Visit link for details | 2023-01-05 at 17:30 |
-| [lirantal daloradius unknown vulnerability](https://vuldb.com/?id.217395) | Visit link for details | 2023-01-05 at 14:45 |
-| [Unisoc S8000 Messaging Service authorization](https://vuldb.com/?id.217394) | Visit link for details | 2023-01-05 at 13:50 |
-| [Unisoc S8000 Messaging Service authorization](https://vuldb.com/?id.217393) | Visit link for details | 2023-01-05 at 13:50 |
-| [Unisoc S8000 Messaging Service authorization](https://vuldb.com/?id.217392) | Visit link for details | 2023-01-05 at 13:50 |
-| [Unisoc S8000 Messaging Service authorization](https://vuldb.com/?id.217391) | Visit link for details | 2023-01-05 at 13:49 |
-| [Unisoc S8000 Messaging Service authorization](https://vuldb.com/?id.217390) | Visit link for details | 2023-01-05 at 13:49 |
-| [Unisoc S8000 Messaging Service authorization](https://vuldb.com/?id.217389) | Visit link for details | 2023-01-05 at 13:49 |
-| [Unisoc S8000 WLAN Driver buffer over-read](https://vuldb.com/?id.217388) | Visit link for details | 2023-01-05 at 13:46 |
-| [Unisoc S8000 WLAN Driver buffer over-read](https://vuldb.com/?id.217387) | Visit link for details | 2023-01-05 at 13:45 |
-| [Unisoc S8000 WLAN Driver integer underflow](https://vuldb.com/?id.217386) | Visit link for details | 2023-01-05 at 13:45 |
-| [Unisoc S8000 WLAN Driver buffer over-read](https://vuldb.com/?id.217385) | Visit link for details | 2023-01-05 at 13:45 |
-| [Unisoc S8000 WLAN Driver out-of-bounds](https://vuldb.com/?id.217384) | Visit link for details | 2023-01-05 at 13:44 |
-| [Unisoc S8000 WLAN Driver out-of-bounds](https://vuldb.com/?id.217383) | Visit link for details | 2023-01-05 at 13:44 |
-| [Unisoc S8000 WLAN Driver out-of-bounds](https://vuldb.com/?id.217382) | Visit link for details | 2023-01-05 at 13:44 |
-| [Unisoc S8000 WLAN Driver denial of service](https://vuldb.com/?id.217381) | Visit link for details | 2023-01-05 at 13:43 |
-| [Unisoc S8000 WLAN Driver denial of service](https://vuldb.com/?id.217380) | Visit link for details | 2023-01-05 at 13:43 |
-| [Unisoc S8000 WLAN Driver denial of service](https://vuldb.com/?id.217379) | Visit link for details | 2023-01-05 at 13:43 |
+| [Discourse Post Title cross site scripting](https://vuldb.com/?id.217538) | Visit link for details | 2023-01-06 at 22:31 |
+| [Discourse Post Parser cross site scripting](https://vuldb.com/?id.217537) | Visit link for details | 2023-01-06 at 22:31 |
+| [Swifty Page Manager Plugin cross-site request forgery](https://vuldb.com/?id.217536) | Visit link for details | 2023-01-06 at 22:30 |
+| [Swifty Page Manager Plugin cross site scripting](https://vuldb.com/?id.217535) | Visit link for details | 2023-01-06 at 22:30 |
+| [Discourse username.json information disclosure](https://vuldb.com/?id.217534) | Visit link for details | 2023-01-06 at 22:30 |
+| [Discourse information disclosure](https://vuldb.com/?id.217533) | Visit link for details | 2023-01-06 at 22:29 |
+| [Discourse Comment denial of service](https://vuldb.com/?id.217532) | Visit link for details | 2023-01-06 at 22:29 |
+| [Linux Kernel Cache Privilege Escalation](https://vuldb.com/?id.217531) | Visit link for details | 2023-01-06 at 22:27 |
+| [Hitachi Energy UNEM R16A COBRA cleartext transmission](https://vuldb.com/?id.217530) | Visit link for details | 2023-01-06 at 22:24 |
+| [Hitachi Energy UNEM R16A hard-coded key](https://vuldb.com/?id.217529) | Visit link for details | 2023-01-06 at 22:23 |
+| [Hitachi Energy UNEM R16A hard-coded key](https://vuldb.com/?id.217528) | Visit link for details | 2023-01-06 at 22:22 |
+| [Hitachi Energy UNEM R16A inadequate encryption](https://vuldb.com/?id.217527) | Visit link for details | 2023-01-06 at 22:21 |
+| [Hitachi Energy UNEM R16A inadequate encryption](https://vuldb.com/?id.217526) | Visit link for details | 2023-01-06 at 22:21 |
+| [meol1 index.php GetAnimal sql injection](https://vuldb.com/?id.217525) | Visit link for details | 2023-01-06 at 22:10 |
+| [Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217524) | Visit link for details | 2023-01-06 at 22:08 |
+| [Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217523) | Visit link for details | 2023-01-06 at 22:08 |
+| [Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217522) | Visit link for details | 2023-01-06 at 22:07 |
+| [Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217521) | Visit link for details | 2023-01-06 at 22:07 |
+| [Discourse Email Address unknown vulnerability](https://vuldb.com/?id.217520) | Visit link for details | 2023-01-06 at 22:06 |
+| [IBM Robotic Process Automation information disclosure](https://vuldb.com/?id.217519) | Visit link for details | 2023-01-06 at 22:06 |
+| [IBM Robotic Process Automation information disclosure](https://vuldb.com/?id.217518) | Visit link for details | 2023-01-06 at 21:48 |
+| [IBM Robotic Process Automation for Cloud Pak Logout Screen session expiration](https://vuldb.com/?id.217517) | Visit link for details | 2023-01-06 at 21:48 |
+| [Red Snapper NView Session.php mutate sql injection](https://vuldb.com/?id.217516) | Visit link for details | 2023-01-06 at 20:23 |
+| [soshtolsus wing-tight index.php file inclusion](https://vuldb.com/?id.217515) | Visit link for details | 2023-01-06 at 20:20 |
+| [vicamo NetworkManager nm-device.c send_arps return value](https://vuldb.com/?id.217514) | Visit link for details | 2023-01-06 at 20:17 |
+| [vicamo NetworkManager nm_setting_vlan_add_priority_str release of resource](https://vuldb.com/?id.217513) | Visit link for details | 2023-01-06 at 20:15 |
+| [JetWidgets for Elementor Plugin Setting cross-site request forgery](https://vuldb.com/?id.217512) | Visit link for details | 2023-01-06 at 20:13 |
+| [Libde265 void buffer overflow](https://vuldb.com/?id.217511) | Visit link for details | 2023-01-06 at 20:12 |
+| [GNU Bash parameter_transform heap-based overflow](https://vuldb.com/?id.217510) | Visit link for details | 2023-01-06 at 20:12 |
+| [GPAC box_code_adobe.c afrt_box_read memory leak](https://vuldb.com/?id.217509) | Visit link for details | 2023-01-06 at 20:10 |
+| [GPAC MP4box reframe_h263.c h263dmx_process buffer overflow](https://vuldb.com/?id.217508) | Visit link for details | 2023-01-06 at 20:10 |
+| [GPAC MP4Box media.c Media_GetSample recursion](https://vuldb.com/?id.217507) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4Box av_parsers.c gf_media_nalu_add_emulation_bytes buffer overflow](https://vuldb.com/?id.217506) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4Box isom_write.c integer overflow](https://vuldb.com/?id.217505) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box gf_bs_read_data buffer overflow](https://vuldb.com/?id.217504) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4Box av_parsers.c gf_hevc_read_vps_bs_internal buffer overflow](https://vuldb.com/?id.217503) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4Box av_parsers.c hevc_parse_vps_extension buffer overflow](https://vuldb.com/?id.217502) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box av_parsers.c gf_hevc_read_sps_bs_internal buffer overflow](https://vuldb.com/?id.217501) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box av_parsers.c gf_hevc_read_sps_bs_internal buffer overflow](https://vuldb.com/?id.217500) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box av_parsers.c eac3_update_channels buffer overflow](https://vuldb.com/?id.217499) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box av_parsers.c hevc_parse_vps_extension buffer overflow](https://vuldb.com/?id.217498) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box dmx_m2ts.c m2tsdmx_declare_pid null pointer dereference](https://vuldb.com/?id.217497) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box dmx_m2ts.c m2tsdmx_declare_pid use after free](https://vuldb.com/?id.217496) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box av_parsers.c gf_hevc_read_sps_bs_internal integer overflow](https://vuldb.com/?id.217495) | Visit link for details | 2023-01-06 at 20:09 |
+| [GPAC MP4box load_text.c gf_text_process_sub buffer overflow](https://vuldb.com/?id.217494) | Visit link for details | 2023-01-06 at 20:08 |
+| [GPAC MP4box av_parsers.c gf_vvc_read_sps_bs_internal buffer overflow](https://vuldb.com/?id.217493) | Visit link for details | 2023-01-06 at 20:08 |
+| [GPAC MP4box buffer overflow](https://vuldb.com/?id.217492) | Visit link for details | 2023-01-06 at 20:08 |
+| [GPAC MP4box av_parsers.c gf_vvc_read_pps_bs_internal buffer overflow](https://vuldb.com/?id.217491) | Visit link for details | 2023-01-06 at 20:08 |
+| [GPAC MP4Box swf_parse.c gf_sm_load_init_swf memory corruption](https://vuldb.com/?id.217490) | Visit link for details | 2023-01-06 at 20:08 |
+| [GPAC box_funcs.c gf_isom_box_parse_ex memory leak](https://vuldb.com/?id.217489) | Visit link for details | 2023-01-06 at 20:08 |
