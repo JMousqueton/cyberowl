@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Smarty: Cross Site Scripting via function.mailto.php](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228) | An attacker can trigger a Cross Site Scripting of Smarty, via  | Visit link for details |
 | [Linux kernel: reuse after free via get_vaddr_frames()](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227) | An attacker can force the reuse of a freed memory area of the Linux kernel, via get_vaddr_frames(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [PHP: SQL injection via PDO::quote()](https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226) | An attacker can use a SQL injection of PHP, via PDO::quote(), in order to read or alter data... | Visit link for details |
 | [Dell Unisphere for PowerMax: three vulnerabilities](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225) | An attacker can use several vulnerabilities of Dell Unisphere for PowerMax... | Visit link for details |
@@ -100,4 +101,3 @@
 | [Linux kernel: NULL pointer dereference via imx_register_uart_clocks()](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-imx-register-uart-clocks-40126) | An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via  | Visit link for details |
 | [Linux kernel: NULL pointer dereference via mtk_vcodec_fw_vpu_init()](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mtk-vcodec-fw-vpu-init-40125) | An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via  | Visit link for details |
 | [Linux kernel: NULL pointer dereference via amvdec_set_canvases()](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amvdec-set-canvases-40124) | An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via  | Visit link for details |
-| [Linux kernel: memory leak via wm8350_init_charger()](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-wm8350-init-charger-40123) | An attacker can create a memory leak of the Linux kernel, via  | Visit link for details |
