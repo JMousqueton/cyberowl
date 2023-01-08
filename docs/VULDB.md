@@ -1,47 +1,53 @@
 ## VULDB
 |Title|Description|Date|
 |---|---|---|
-| [Piwigo-Guest-Book Navigation Bar guestbook.inc.php sql injection](https://vuldb.com/?id.217582) | Visit link for details | 2023-01-07 at 23:49 |
-| [Huawei HarmonyOS unknown vulnerability](https://vuldb.com/?id.217581) | Visit link for details | 2023-01-07 at 23:47 |
-| [Huawei HarmonyOS DUBAI Module double free](https://vuldb.com/?id.217580) | Visit link for details | 2023-01-07 at 23:47 |
-| [Huawei HarmonyOS Bluetooth AVRCP Module denial of service](https://vuldb.com/?id.217579) | Visit link for details | 2023-01-07 at 23:46 |
-| [Huawei HarmonyOS Memory Management Module information disclosure](https://vuldb.com/?id.217578) | Visit link for details | 2023-01-07 at 23:46 |
-| [ZTE MF286R command injection](https://vuldb.com/?id.217577) | Visit link for details | 2023-01-07 at 23:46 |
-| [Huawei HarmonyOS HW_KEYMASTER Module out-of-bounds](https://vuldb.com/?id.217576) | Visit link for details | 2023-01-07 at 23:46 |
-| [Huawei HarmonyOS HW_KEYMASTER Module out-of-bounds](https://vuldb.com/?id.217575) | Visit link for details | 2023-01-07 at 23:45 |
-| [ZTE Mobile Internet SNTP interface sql injection](https://vuldb.com/?id.217574) | Visit link for details | 2023-01-07 at 23:45 |
-| [Huawei HarmonyOS DMSDP Module denial of service](https://vuldb.com/?id.217573) | Visit link for details | 2023-01-07 at 23:44 |
-| [sheilazpy eShop sql injection](https://vuldb.com/?id.217572) | Visit link for details | 2023-01-07 at 22:15 |
-| [JervenBolleman sparql-identifiers RegistryDao.java sql injection](https://vuldb.com/?id.217571) | Visit link for details | 2023-01-07 at 21:45 |
-| [devent globalpom-utils FileResourceManagerProvider.java createTmpDir temp file](https://vuldb.com/?id.217570) | Visit link for details | 2023-01-07 at 21:42 |
-| [JoomGallery Image Sort default.php sql injection](https://vuldb.com/?id.217569) | Visit link for details | 2023-01-07 at 21:38 |
-| [Nexxt Amp300 ARN02304U8 Web Service sysTools os command injection](https://vuldb.com/?id.217568) | Visit link for details | 2023-01-07 at 21:28 |
-| [Canarytokens History Page cross site scripting](https://vuldb.com/?id.217567) | Visit link for details | 2023-01-07 at 18:45 |
-| [Apache James Server Temporary Files information disclosure](https://vuldb.com/?id.217566) | Visit link for details | 2023-01-07 at 18:15 |
-| [Apache James MIME4J TempFileStorageProvider information disclosure](https://vuldb.com/?id.217565) | Visit link for details | 2023-01-07 at 18:14 |
-| [himiklab yii2-jqgrid-widget JqGridAction.php addSearchOptionsRecursively sql injection](https://vuldb.com/?id.217564) | Visit link for details | 2023-01-07 at 17:25 |
-| [intgr uqm-wasm msgbox_macosx.m log_displayBox format string](https://vuldb.com/?id.217563) | Visit link for details | 2023-01-07 at 17:22 |
-| [ScottTZhang voter-js main.js sql injection](https://vuldb.com/?id.217562) | Visit link for details | 2023-01-07 at 17:20 |
-| [DBRisinajumi d2files D2filesController.php actionDownloadFile sql injection](https://vuldb.com/?id.217561) | Visit link for details | 2023-01-07 at 13:38 |
-| [typcn Blogile server.js getNav sql injection](https://vuldb.com/?id.217560) | Visit link for details | 2023-01-07 at 13:34 |
-| [kassi xingwall oauth.js session fixiation](https://vuldb.com/?id.217559) | Visit link for details | 2023-01-07 at 13:10 |
-| [Arthmoor QSF-Portal index.php path traversal](https://vuldb.com/?id.217558) | Visit link for details | 2023-01-07 at 13:06 |
-| [tbezman school-store sql injection](https://vuldb.com/?id.217557) | Visit link for details | 2023-01-07 at 13:04 |
-| [NSA Ghidra launch.sh analyzeHeadless command injection](https://vuldb.com/?id.217556) | Visit link for details | 2023-01-07 at 13:03 |
-| [Forged Alliance Forever Vote improper authorization](https://vuldb.com/?id.217555) | Visit link for details | 2023-01-07 at 11:41 |
-| [PeterMu nodebatis sql injection](https://vuldb.com/?id.217554) | Visit link for details | 2023-01-07 at 11:38 |
-| [trampgeek jobe LanguageTask.php run_in_sandbox command injection](https://vuldb.com/?id.217553) | Visit link for details | 2023-01-07 at 11:33 |
-| [HPI-Information-Systems ProLOD sql injection](https://vuldb.com/?id.217552) | Visit link for details | 2023-01-07 at 11:31 |
-| [Seiji42 cub-scout-tracker databaseAccessFunctions.js sql injection](https://vuldb.com/?id.217551) | Visit link for details | 2023-01-07 at 10:58 |
-| [jeff-kelley opensim-utils regionscrits.php DatabaseForRegion sql injection](https://vuldb.com/?id.217550) | Visit link for details | 2023-01-07 at 10:54 |
-| [e-Contract dssp SignResponseVerifier.java checkSignResponse xml external entity reference](https://vuldb.com/?id.217549) | Visit link for details | 2023-01-07 at 10:51 |
-| [JATOS ZIP ZipUtil.java ZipUtil path traversal](https://vuldb.com/?id.217548) | Visit link for details | 2023-01-07 at 10:35 |
-| [CC Child Pages Plugin Shortcode cross site scripting](https://vuldb.com/?id.217547) | Visit link for details | 2023-01-07 at 10:26 |
-| [Maccms10 AD Management Module cross site scripting](https://vuldb.com/?id.217546) | Visit link for details | 2023-01-07 at 10:26 |
-| [exec-local-bin theProcess command injection](https://vuldb.com/?id.217545) | Visit link for details | 2023-01-07 at 10:15 |
-| [RYDE information disclosure](https://vuldb.com/?id.217544) | Visit link for details | 2023-01-07 at 10:15 |
-| [Siren Investigate Script Variable access control](https://vuldb.com/?id.217543) | Visit link for details | 2023-01-07 at 10:14 |
-| [Siren Investigate Global Object access control](https://vuldb.com/?id.217542) | Visit link for details | 2023-01-07 at 10:10 |
-| [Nuxeo REST API cross site scripting](https://vuldb.com/?id.217541) | Visit link for details | 2023-01-07 at 10:10 |
-| [Centos Panel 7 HTTP Request index.php Remote Code Execution](https://vuldb.com/?id.217540) | Visit link for details | 2023-01-07 at 10:09 |
-| [SourceCodester Theme Park Ticketing System manage_user.php information disclosure](https://vuldb.com/?id.217539) | Visit link for details | 2023-01-07 at 10:08 |
+| [XWiki CKEditor.HTMLConverter cross-site request forgery](https://vuldb.com/?id.217635) | Visit link for details | 2023-01-08 at 20:55 |
+| [DrAzraelTod pyChao __init__.py lesen sql injection](https://vuldb.com/?id.217634) | Visit link for details | 2023-01-08 at 20:49 |
+| [CESNET theme-cesnet resetpassword.php insufficiently protected credentials](https://vuldb.com/?id.217633) | Visit link for details | 2023-01-08 at 20:47 |
+| [john5223 bottle-auth sql injection](https://vuldb.com/?id.217632) | Visit link for details | 2023-01-08 at 20:44 |
+| [elgs gosqljson gosqljson.go ExecDb sql injection](https://vuldb.com/?id.217631) | Visit link for details | 2023-01-08 at 20:43 |
+| [kelvinmo simplexrd simplexrd.class.php xml external entity reference](https://vuldb.com/?id.217630) | Visit link for details | 2023-01-08 at 20:41 |
+| [MediaArea ZenLib Ztring.cpp Date_From_Seconds_1970_Local unknown vulnerability](https://vuldb.com/?id.217629) | Visit link for details | 2023-01-08 at 20:39 |
+| [ForumHulp searchresults listener.php list_keywords sql injection](https://vuldb.com/?id.217628) | Visit link for details | 2023-01-08 at 20:36 |
+| [Yomguithereal Baobab prototype pollution](https://vuldb.com/?id.217627) | Visit link for details | 2023-01-08 at 20:33 |
+| [Symbiote Seed Login SecurityLoginExtension.php onBeforeSecurityLogin redirect](https://vuldb.com/?id.217626) | Visit link for details | 2023-01-08 at 20:30 |
+| [ada-l0velace Bid sql injection](https://vuldb.com/?id.217625) | Visit link for details | 2023-01-08 at 19:42 |
+| [ss15-this-is-sparta Main Page roomElement.js cross site scripting](https://vuldb.com/?id.217624) | Visit link for details | 2023-01-08 at 19:40 |
+| [square squalor sql injection](https://vuldb.com/?id.217623) | Visit link for details | 2023-01-08 at 19:18 |
+| [hydrian TTRSS-Auth-LDAP Username ldap injection](https://vuldb.com/?id.217622) | Visit link for details | 2023-01-08 at 17:47 |
+| [ananich bitstorm announce.php sql injection](https://vuldb.com/?id.217621) | Visit link for details | 2023-01-08 at 17:35 |
+| [cronvel terminal-kit redos](https://vuldb.com/?id.217620) | Visit link for details | 2023-01-08 at 17:34 |
+| [forcedotcom SalesforceMobileSDK-Windows QuerySpec.cs ComputeCountSql sql injection](https://vuldb.com/?id.217619) | Visit link for details | 2023-01-08 at 14:04 |
+| [tiredtyrant flairbot flair.py sql injection](https://vuldb.com/?id.217618) | Visit link for details | 2023-01-08 at 14:02 |
+| [stakira OpenUtau ZIP Archive VoicebankInstaller.cs VoicebankInstaller path traversal](https://vuldb.com/?id.217617) | Visit link for details | 2023-01-08 at 14:00 |
+| [peel filebroker common.rb select_transfer_status_desc sql injection](https://vuldb.com/?id.217616) | Visit link for details | 2023-01-08 at 13:58 |
+| [luelista miniConf URL Scanning MessageView.cs denial of service](https://vuldb.com/?id.217615) | Visit link for details | 2023-01-08 at 13:53 |
+| [holdennb CollabCal calenderServer.cpp handleGet improper authentication](https://vuldb.com/?id.217614) | Visit link for details | 2023-01-08 at 13:49 |
+| [sternenseemann sternenblog main.c blog_index file inclusion](https://vuldb.com/?id.217613) | Visit link for details | 2023-01-08 at 13:47 |
+| [hoffie larasync file_storage.go path traversal](https://vuldb.com/?id.217612) | Visit link for details | 2023-01-08 at 13:44 |
+| [Fumon trello-octometric srv.go main sql injection](https://vuldb.com/?id.217611) | Visit link for details | 2023-01-08 at 12:36 |
+| [roxlukas LMeve proxy.php insert_log sql injection](https://vuldb.com/?id.217610) | Visit link for details | 2023-01-08 at 12:33 |
+| [IISH nlgis2 custom_import.pl sql injection](https://vuldb.com/?id.217609) | Visit link for details | 2023-01-08 at 12:28 |
+| [ritterim definely database.js cross site scripting](https://vuldb.com/?id.217608) | Visit link for details | 2023-01-08 at 12:24 |
+| [LearnMeSomeCodes project3 search.rb search_first_name sql injection](https://vuldb.com/?id.217607) | Visit link for details | 2023-01-08 at 11:15 |
+| [polterguy Phosphorus Five CSV Import NonQuery.cs csv.Read sql injection](https://vuldb.com/?id.217606) | Visit link for details | 2023-01-08 at 11:12 |
+| [usememos cross site scripting](https://vuldb.com/?id.217605) | Visit link for details | 2023-01-08 at 10:26 |
+| [usememos cross site scripting](https://vuldb.com/?id.217604) | Visit link for details | 2023-01-08 at 10:26 |
+| [usememos cross site scripting](https://vuldb.com/?id.217603) | Visit link for details | 2023-01-08 at 10:26 |
+| [usememos cross site scripting](https://vuldb.com/?id.217602) | Visit link for details | 2023-01-08 at 10:26 |
+| [usememos cross site scripting](https://vuldb.com/?id.217601) | Visit link for details | 2023-01-08 at 10:26 |
+| [usememos cross site scripting](https://vuldb.com/?id.217600) | Visit link for details | 2023-01-08 at 10:26 |
+| [mrobit robitailletheknot CSRF Token filters.php comparison](https://vuldb.com/?id.217599) | Visit link for details | 2023-01-08 at 10:24 |
+| [Pylons horus services.py timing discrepancy](https://vuldb.com/?id.217598) | Visit link for details | 2023-01-08 at 10:11 |
+| [jamesmartin Inline SVG URL Parameter helpers.rb cross site scripting](https://vuldb.com/?id.217597) | Visit link for details | 2023-01-08 at 10:07 |
+| [agnivade easy-scrypt scrypt.go VerifyPassphrase timing discrepancy](https://vuldb.com/?id.217596) | Visit link for details | 2023-01-08 at 10:04 |
+| [foxoverflow MySimplifiedSQL MySimplifiedSQL_Examples.php cross site scripting](https://vuldb.com/?id.217595) | Visit link for details | 2023-01-08 at 09:53 |
+| [koroket RedditOnRails Vote access control](https://vuldb.com/?id.217594) | Visit link for details | 2023-01-08 at 09:50 |
+| [Netis Netcore Router hard-coded password](https://vuldb.com/?id.217593) | Visit link for details | 2023-01-08 at 09:45 |
+| [Netis Netcore Router Backup param.file.tgz cleartext storage in a file or on disk](https://vuldb.com/?id.217592) | Visit link for details | 2023-01-08 at 09:29 |
+| [Netis Netcore Router Backup param.file.tgz information disclosure](https://vuldb.com/?id.217591) | Visit link for details | 2023-01-08 at 09:27 |
+| [Synacor Zimbra Collaboration Suite Webmail URL cross site scripting](https://vuldb.com/?id.217590) | Visit link for details | 2023-01-08 at 09:19 |
+| [Synacor Zimbra Collaboration Suite Classic UI Login Page cross site scripting](https://vuldb.com/?id.217589) | Visit link for details | 2023-01-08 at 09:18 |
+| [Bentley MicroStation CONNECT DGN File Parser stack-based overflow](https://vuldb.com/?id.217588) | Visit link for details | 2023-01-08 at 09:17 |
+| [Nokia ASIK AirScale System Module Firmware Verification unknown vulnerability](https://vuldb.com/?id.217587) | Visit link for details | 2023-01-08 at 09:17 |
+| [Efs Software Easy Chat Server DLL TextShaping.dll uncontrolled search path](https://vuldb.com/?id.217586) | Visit link for details | 2023-01-08 at 09:16 |
