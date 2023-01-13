@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0026/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 12 janvier 2023 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0025/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
+| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/) | Une vulnérabilité a été corrigée dans  | 11 janvier 2023 |
+| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/) | Une vulnérabilité a été corrigée dans  | 11 janvier 2023 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
+| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0020/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 11 janvier 2023 |
+| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0019/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 11 janvier 2023 |
+| [[SCADA] Vulnérabilité dans Moxa TN-4900](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0018/) | Une vulnérabilité a été découverte dans Moxa TN-4900. Elle permet à un attaquant de provoquer une élévation de privilèges. | 11 janvier 2023 |
+| [Multiples vulnérabilités dans Intel oneAPI Toolkit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0017/) | De multiples vulnérabilités ont été découvertes dans Intel oneAPI Toolkit. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 11 janvier 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
 | [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
 | [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0025/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
-| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/) | Une vulnérabilité a été corrigée dans  | 11 janvier 2023 |
-| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/) | Une vulnérabilité a été corrigée dans  | 11 janvier 2023 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
-| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0020/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 11 janvier 2023 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0019/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 11 janvier 2023 |
-| [[SCADA] Vulnérabilité dans Moxa TN-4900](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0018/) | Une vulnérabilité a été découverte dans Moxa TN-4900. Elle permet à un attaquant de provoquer une élévation de privilèges. | 11 janvier 2023 |
-| [Multiples vulnérabilités dans Intel oneAPI Toolkit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0017/) | De multiples vulnérabilités ont été découvertes dans Intel oneAPI Toolkit. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 11 janvier 2023 |
-| [Multiples vulnérabilités dans Adobe Reader et Acrobat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0016/) | De multiples vulnérabilités ont été découvertes dans Adobe Reader et Acrobat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données. | 11 janvier 2023 |
