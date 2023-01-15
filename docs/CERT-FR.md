@@ -1,17 +1,4 @@
 
-## CERT-FR-ALERTE
-|Title|Description|Date|
-|---|---|---|
-| [[MàJ] Vulnérabilité dans FortiOS SSL-VPN](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/) | Le 12 décembre 2022, l'éditeur Fortinet a publié un avis de sécurité mentionnant une vulnérabilité critique dans son produit FortiOS SSL-VPN. Cette vulnérabilité de débordement de tas ( | 13 décembre 2022 |
-| [Multiples vulnérabilités dans AMI MegaRAC](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/) | Le 05 décembre 2022, trois vulnérabilités respectivement identifiées par les numéros CVE-2022-40259, CVE-2022-40242 et CVE-2022-2827 ont été signalées dans la solution d’administration à distance MegaRAC de l’éditeur AMI. | 16 décembre 2022 |
-| [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
-| [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/) | [MàJ du 31 octobre 2022] | 16 septembre 2022 |
-| [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-011/) | Le 07 octobre 2022, des informations ont circulé concernant l’existence d’une vulnérabilité critique dans les produits Fortinet. Le 11 octobre 2022, l’éditeur a publié un avis de sécurité détaillant l’existence d’une vulnérabilité permettant à un attaquant non authentifié de pouvoir réaliser … | 14 octobre 2022 |
-| [[MaJ] Vulnérabilité dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/) | [MaJ 12 octobre 2022]  | 7 octobre 2022 |
-| [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
-| [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
-| [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
 | [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0020/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 11 janvier 2023 |
+## CERT-FR-ALERTE
+|Title|Description|Date|
+|---|---|---|
+| [[MàJ] Vulnérabilité dans FortiOS SSL-VPN](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/) | Le 12 décembre 2022, l'éditeur Fortinet a publié un avis de sécurité mentionnant une vulnérabilité critique dans son produit FortiOS SSL-VPN. Cette vulnérabilité de débordement de tas ( | 13 décembre 2022 |
+| [Multiples vulnérabilités dans AMI MegaRAC](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/) | Le 05 décembre 2022, trois vulnérabilités respectivement identifiées par les numéros CVE-2022-40259, CVE-2022-40242 et CVE-2022-2827 ont été signalées dans la solution d’administration à distance MegaRAC de l’éditeur AMI. | 16 décembre 2022 |
+| [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
+| [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/) | [MàJ du 31 octobre 2022] | 16 septembre 2022 |
+| [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-011/) | Le 07 octobre 2022, des informations ont circulé concernant l’existence d’une vulnérabilité critique dans les produits Fortinet. Le 11 octobre 2022, l’éditeur a publié un avis de sécurité détaillant l’existence d’une vulnérabilité permettant à un attaquant non authentifié de pouvoir réaliser … | 14 octobre 2022 |
+| [[MaJ] Vulnérabilité dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/) | [MaJ 12 octobre 2022]  | 7 octobre 2022 |
+| [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
+| [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
+| [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
