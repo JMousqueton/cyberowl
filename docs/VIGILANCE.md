@@ -1,6 +1,8 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Mozilla Firefox: multiple vulnerabilities](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292) | An attacker can use several vulnerabilities of Mozilla Firefox... | Visit link for details |
+| [Tor: information disclosure via SafeSocks DNS Leaks](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291) | An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information... | Visit link for details |
 | [PyPA setuptools: overload via package_index.py](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288) | An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service... | Visit link for details |
 | [IBM QRadar SIEM: privilege escalation via Key Files](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287) | An attacker can bypass restrictions of IBM QRadar SIEM, via Key Files, in order to escalate his privileges... | Visit link for details |
 | [SPIP: two vulnerabilities](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286) | An attacker can use several vulnerabilities of SPIP... | Visit link for details |
@@ -99,5 +101,3 @@
 | [AIX: denial of service via SMB Client Daemon](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183) | An attacker can cause a fatal error of AIX, via SMB Client Daemon, in order to trigger a denial of service... | Visit link for details |
 | [Mbed TLS: six vulnerabilities](https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182) | An attacker can use several vulnerabilities of Mbed TLS... | Visit link for details |
 | [Mbed TLS: denial of service via mbedtls_pkcs12_derivation()](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-pkcs12-derivation-40181) | An attacker can cause a fatal error of Mbed TLS, via  | Visit link for details |
-| [Node.js Hawk: overload via Regular Expression](https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180) | An attacker can trigger an overload of Node.js Hawk, via Regular Expression, in order to trigger a denial of service... | Visit link for details |
-| [WebKitGTK | WPE WebKit: multiple vulnerabilities](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179) | An attacker can use several vulnerabilities of WebKitGTK | WPE WebKit... | Visit link for details |
