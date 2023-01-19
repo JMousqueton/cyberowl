@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0031/) | Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 17 janvier 2023 |
-| [Multiples vulnérabilités les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0030/) | De multiples vulnérabilités ont été découvertes les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 16 janvier 2023 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0029/) | De multiples vulnérabilités ont été corrigées dans  | 13 janvier 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0028/) | De multiples vulnérabilités ont été corrigées dans  | 13 janvier 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0027/) | De multiples vulnérabilités ont été corrigées dans  | 13 janvier 2023 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0026/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 12 janvier 2023 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0025/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
-| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/) | Une vulnérabilité a été corrigée dans  | 11 janvier 2023 |
-| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/) | Une vulnérabilité a été corrigée dans  | 11 janvier 2023 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 11 janvier 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
 | [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
 | [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0036/) | De multiples vulnérabilités ont été corrigées dans  | 18 janvier 2023 |
+| [Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0035/) | De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 18 janvier 2023 |
+| [Multiples vulnérabilités dans les produits Oracle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0034/) | De multiples vulnérabilités ont été découvertes dans les produits Oracle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 18 janvier 2023 |
+| [Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0033/) | Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service. | 18 janvier 2023 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0032/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 18 janvier 2023 |
+| [Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0031/) | Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 17 janvier 2023 |
+| [Multiples vulnérabilités les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0030/) | De multiples vulnérabilités ont été découvertes les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 16 janvier 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0029/) | De multiples vulnérabilités ont été corrigées dans  | 13 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0028/) | De multiples vulnérabilités ont été corrigées dans  | 13 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0027/) | De multiples vulnérabilités ont été corrigées dans  | 13 janvier 2023 |
