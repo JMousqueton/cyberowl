@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/) | De multiples vulnérabilités ont été corrigées dans  | 20 janvier 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/) | De multiples vulnérabilités ont été corrigées dans  | 20 janvier 2023 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/) | De multiples vulnérabilités ont été corrigées dans  | 20 janvier 2023 |
-| [Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/) | Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 20 janvier 2023 |
-| [Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/) | De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges. | 20 janvier 2023 |
-| [Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/) | Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges. | 20 janvier 2023 |
-| [Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0042/) | De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données. | 19 janvier 2023 |
-| [Vulnérabilité dans Cisco Unified Communications Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0041/) | Une vulnérabilité a été découverte dans Cisco Unified Communications Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 19 janvier 2023 |
-| [Vulnérabilité dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0040/) | Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 19 janvier 2023 |
-| [Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0039/) | Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 19 janvier 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
 | [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
 | [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0052/) | De multiples vulnérabilités ont été corrigées dans | 23 janvier 2023 |
+| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0051/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 23 janvier 2023 |
+| [Multiples vulnérabilités dans Broadcom Symantec Identity Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0050/) | De multiples vulnérabilités ont été découvertes dans Broadcom Symantec Identity Manager. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 23 janvier 2023 |
+| [Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/) | Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 23 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/) | De multiples vulnérabilités ont été corrigées dans  | 20 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/) | De multiples vulnérabilités ont été corrigées dans  | 20 janvier 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/) | De multiples vulnérabilités ont été corrigées dans  | 20 janvier 2023 |
+| [Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/) | Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 20 janvier 2023 |
+| [Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/) | De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges. | 20 janvier 2023 |
+| [Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/) | Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges. | 20 janvier 2023 |
