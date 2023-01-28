@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyaux Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0069/) | De multiples vulnérabilités ont été découvertes dans le noyaux Linux de Debian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 27 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0068/) | De multiples vulnérabilités ont été corrigées dans  | 27 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0067/) | De multiples vulnérabilités ont été corrigées dans  | 27 janvier 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0066/) | De multiples vulnérabilités ont été corrigées dans  | 27 janvier 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0065/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 27 janvier 2023 |
+| [Multiples vulnérabilités dans Stormshield SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0064/) | De multiples vulnérabilités ont été découvertes dans Stormshield SSL VPN Client. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges. | 27 janvier 2023 |
+| [Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0063/) | Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 janvier 2023 |
+| [Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/) | Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance. | 26 janvier 2023 |
+| [Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0061/) | De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 26 janvier 2023 |
+| [Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 26 janvier 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
 | [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
 | [[MàJ] Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/) | [Mise à jour du 03 juin 2022 à 19h52] | 3 juin 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0063/) | Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 janvier 2023 |
-| [Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/) | Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance. | 26 janvier 2023 |
-| [Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0061/) | De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 26 janvier 2023 |
-| [Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 26 janvier 2023 |
-| [Multiples vulnérabilités dans ISC BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0059/) | De multiples vulnérabilités ont été découvertes dans ISC Bind. Elles permettent à un attaquant de provoquer un déni de service à distance. | 26 janvier 2023 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0057/) | De multiples vulnérabilités ont été corrigées dans  | 25 janvier 2023 |
-| [Multiples vulnérabilités dans VMware vRealize Log Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0058/) | De multiples vulnérabilités ont été découvertes dans VMware vRealize Log Insight. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 25 janvier 2023 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0056/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 24 janvier 2023 |
-| [Vulnérabilité dans IBM WebSphere Application Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0055/) | Une vulnérabilité a été découverte dans IBM WebSphere Application Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 24 janvier 2023 |
-| [Multiples vulnérabilités dans Elastic Endpoint et Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0053/) | De multiples vulnérabilités ont été découvertes dans Elastic Endpoint et Security. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 24 janvier 2023 |
