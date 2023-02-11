@@ -2,20 +2,20 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
-| [Vulnérabilité dans phpMyAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0103/) | Une vulnérabilité a été découverte dans phpMyAdmin. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 8 février 2023 |
-| [Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0102/) | De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 février 2023 |
-| [Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0101/) | De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance. | 8 février 2023 |
-| [Vulnérabilité dans TYPO3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0100/) | Une vulnérabilité a été découverte dans TYPO3. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 8 février 2023 |
-| [Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0099/) | De multiples vulnérabilités ont été corrigées dans  | 8 février 2023 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données. | 7 février 2023 |
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service. | 7 février 2023 |
-| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/) | De multiples vulnérabilités ont été corrigées dans  | 6 février 2023 |
-| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 6 février 2023 |
-| [Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/) | De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges. | 6 février 2023 |
+| [[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/) | Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges. | 10 février 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/) | De multiples vulnérabilités ont été corrigées dans  | 10 février 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/) | De multiples vulnérabilités ont été corrigées dans  | 10 février 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/) | De multiples vulnérabilités ont été corrigées dans  | 10 février 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/) | De multiples vulnérabilités ont été corrigées dans  | 9 février 2023 |
+| [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance. | 9 février 2023 |
+| [Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/) | Une vulnérabilité a été corrigée dans  | 9 février 2023 |
+| [Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/) | Une vulnérabilité a été corrigée dans  | 9 février 2023 |
+| [Multiples vulnérabilités dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0106/) | De multiples vulnérabilités ont été corrigées dans  | 9 février 2023 |
+| [Multiples vulnérabilités dans les produits PaloAlto](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0105/) | De multiples vulnérabilités ont été corrigées dans  | 9 février 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 05 février 2023] Mise à jour du résumé et de la section 'Solution'. | 3 février 2023 |
+| [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 10 février 2023] | 3 février 2023 |
 | [[MàJ] Vulnérabilité dans FortiOS SSL-VPN](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/) | Le 12 décembre 2022, l'éditeur Fortinet a publié un avis de sécurité mentionnant une vulnérabilité critique dans son produit FortiOS SSL-VPN. Cette vulnérabilité de débordement de tas ( | 13 décembre 2022 |
 | [Multiples vulnérabilités dans AMI MegaRAC](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/) | Le 05 décembre 2022, trois vulnérabilités respectivement identifiées par les numéros CVE-2022-40259, CVE-2022-40242 et CVE-2022-2827 ont été signalées dans la solution d’administration à distance MegaRAC de l’éditeur AMI. | 16 décembre 2022 |
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
