@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/) | De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 21 février 2023 |
-| [Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/) | De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 21 février 2023 |
-| [Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/) | De multiples vulnérabilités ont été corrigées dans  | 21 février 2023 |
-| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0150/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance. | 21 février 2023 |
-| [Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0149/) | De multiples vulnérabilités ont été corrigées dans  | 21 février 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/) | De multiples vulnérabilités ont été corrigées dans  | 17 février 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/) | De multiples vulnérabilités ont été corrigées dans  | 17 février 2023 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/) | De multiples vulnérabilités ont été corrigées dans  | 17 février 2023 |
-| [Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/) | Une vulnérabilité a été corrigée dans  | 17 février 2023 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/) | De multiples vulnérabilités ont été corrigées dans  | 17 février 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MaJ] Vulnérabilité dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/) | [MaJ 12 octobre 2022]  | 7 octobre 2022 |
 | [Multiples vulnérabilités dans GLPI](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/) | Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de … | 7 octobre 2022 |
 | [Vulnérabilité dans VMware Spring Cloud Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/) | Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance. | 3 mars 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0160/) | De multiples vulnérabilités ont été corrigées dans  | 22 février 2023 |
+| [Vulnérabilité dans Nextcloud Serveur](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0159/) | Une vulnérabilité a été corrigée dans  | 22 février 2023 |
+| [Vulnérabilité dans les routeurs 4G Zyxel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0158/) | Une vulnérabilité a été découverte dans les routeurs 4G Zyxel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 22 février 2023 |
+| [Vulnérabilité dans IBM Spectrum Protect Plus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0157/) | Une vulnérabilité a été corrigée dans IBM Spectrum Protect Plus. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 22 février 2023 |
+| [Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0156/) | De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 22 février 2023 |
+| [Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0155/) | De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 22 février 2023 |
+| [Multiples vulnérabilités dans les produits Vmware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0154/) | De multiples vulnérabilités ont été corrigées dans  | 22 février 2023 |
+| [Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/) | De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 21 février 2023 |
+| [Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/) | De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 21 février 2023 |
+| [Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/) | De multiples vulnérabilités ont été corrigées dans  | 21 février 2023 |
