@@ -15,6 +15,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0245/) | De multiples vulnérabilités ont été corrigées dans les produits  | 20 mars 2023 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/) | De multiples vulnérabilités ont été découvertes dans  | 17 mars 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/) | De multiples vulnérabilités ont été découvertes dans  | 17 mars 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/) | De multiples vulnérabilités ont été découvertes dans  | 17 mars 2023 |
@@ -24,4 +25,3 @@
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/) | De multiples vulnérabilités ont été découvertes dans les produits  | 16 mars 2023 |
 | [Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/) | De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 16 mars 2023 |
 | [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/) | De multiples vulnérabilités ont été découvertes dans Mozilla  | 16 mars 2023 |
-| [Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/) | De multiples vulnérabilités ont été corrigées dans  | 16 mars 2023 |
