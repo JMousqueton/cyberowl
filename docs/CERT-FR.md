@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/) | Une vulnérabilité a été découverte dans  | 6 avril 2023 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0288/) | De multiples vulnérabilités ont été découvertes dans  | 6 avril 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0287/) | De multiples vulnérabilités ont été découvertes dans les produits  | 6 avril 2023 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/) | De multiples vulnérabilités ont été découvertes dans les produits  | 5 avril 2023 |
 | [Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/) | De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 5 avril 2023 |
 | [Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0284/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2023 |
@@ -9,9 +12,6 @@
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0282/) | De multiples vulnérabilités ont été découvertes dans les produits  | 4 avril 2023 |
 | [Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0281/) | De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données. | 4 avril 2023 |
 | [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/) | De multiples vulnérabilités ont été découvertes dans  | 31 mars 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0279/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges. | 31 mars 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0278/) | De multiples vulnérabilités ont été découvertes dans  | 31 mars 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/) | De multiples vulnérabilités ont été découvertes dans  | 31 mars 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
