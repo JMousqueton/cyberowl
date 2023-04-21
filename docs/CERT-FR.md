@@ -2,21 +2,21 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
-| [Multiples vulnérabilités dans les produits Oracle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0325/) | De multiples vulnérabilités ont été découvertes dans Oracle les produits Oracle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 19 avril 2023 |
+| [Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/) | De multiples vulnérabilités ont été découvertes dans  | 20 avril 2023 |
+| [Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/) | Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 20 avril 2023 |
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 20 avril 2023 |
+| [Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/) | De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service. | 20 avril 2023 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/) | De multiples vulnérabilités ont été découvertes dans les produits  | 20 avril 2023 |
+| [Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0326/) | De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une élévation de privilèges. | 20 avril 2023 |
+| [Multiples vulnérabilités dans les produits Oracle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0325/) | De multiples vulnérabilités ont été découvertes dans les produits Oracle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 19 avril 2023 |
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0324/) | De multiples vulnérabilités ont été découvertes dans  | 19 avril 2023 |
 | [Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0323/) | De multiples vulnérabilités ont été découvertes dans  | 18 avril 2023 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0322/) | De multiples vulnérabilités ont été découvertes dans les produits  | 18 avril 2023 |
-| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0321/) | De multiples vulnérabilités ont été découvertes dans les produits  | 18 avril 2023 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/) | De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 17 avril 2023 |
-| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/) | Une vulnérabilité a été découverte dans  | 17 avril 2023 |
-| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/) | De multiples vulnérabilités ont été découvertes dans  | 17 avril 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/) | De multiples vulnérabilités ont été découvertes dans  | 14 avril 2023 |
-| [Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/) | Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges. | 14 avril 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
+| [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/) | [mise à jour du 20 avril 2023] clarification de la recommandation pour le filtrage du flux SMB | 15 mars 2023 |
 | [[MàJ] Compromission de l’application 3CX Desktop App](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/) | Le 30 mars 2023, l'éditeur a publié un communiqué concernant la compromission de leur application de bureau 3CX ( | 31 mars 2023 |
-| [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/) | [mise à jour du 29 mars 2023] complément d'information et recommandation | 15 mars 2023 |
 | [Vulnérabilité dans Fortinet FortiOS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-001/) | Le 07 mars 2023, Fortinet a publié un avis de sécurité détaillant l’existence d’une vulnérabilité de type traversée de chemin ( | 14 mars 2023 |
 | [[MàJ] Vulnérabilité dans FortiOS SSL-VPN](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/) | Le 12 décembre 2022, l'éditeur Fortinet a publié un avis de sécurité mentionnant une vulnérabilité critique dans son produit FortiOS SSL-VPN. Cette vulnérabilité de débordement de tas ( | 13 décembre 2022 |
 | [Multiples vulnérabilités dans AMI MegaRAC](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/) | Le 05 décembre 2022, trois vulnérabilités respectivement identifiées par les numéros CVE-2022-40259, CVE-2022-40242 et CVE-2022-2827 ont été signalées dans la solution d’administration à distance MegaRAC de l’éditeur AMI. | 16 décembre 2022 |
