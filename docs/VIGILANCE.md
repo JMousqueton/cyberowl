@@ -1,6 +1,11 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [VMware Workstation: three vulnerabilities](https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136) | An attacker can use several vulnerabilities of VMware Workstation... | Visit link for details |
+| [Secure Boot: renewal of cryptographic keys](https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135) | Cryptographic keys used for Secure Boot must be renewed... | Visit link for details |
+| [Git: three vulnerabilities](https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134) | An attacker can use several vulnerabilities of Git... | Visit link for details |
+| [HPE ProLiant: information disclosure](https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133) | An attacker can bypass access restrictions to data of HPE ProLiant, in order to read sensitive information... | Visit link for details |
+| [LilyPond: privilege escalation](https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132) | An attacker can bypass restrictions of LilyPond, in order to escalate his privileges... | Visit link for details |
 | [Xen: memory corruption via direct PCI access](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-direct-PCI-access-41131) | An attacker in a guest system can cause Xen memory corruption, via direct access to a PCI device, in order to conduct a denial of service, and possibly execute code on the host system... | Visit link for details |
 | [protobuf-c: buffer overflow via protobuf_c_message_unpack()](https://vigilance.fr/vulnerability/protobuf-c-buffer-overflow-via-protobuf-c-message-unpack-41130) | An attacker can trigger a buffer overflow of protobuf-c, via  | Visit link for details |
 | [QATzip: privilege escalation](https://vigilance.fr/vulnerability/QATzip-privilege-escalation-41129) | An attacker can bypass restrictions of QATzip, in order to escalate his privileges... | Visit link for details |
@@ -96,8 +101,3 @@
 | [Junos OS: multiple vulnerabilities of April 2023](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034) | An attacker can use several vulnerabilities of Junos OS... | Visit link for details |
 | [Jenkins Plugins: multiple vulnerabilities](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033) | An attacker can use several vulnerabilities of Jenkins Plugins... | Visit link for details |
 | [Drupal Protected Pages: read-write access](https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032) | An attacker can bypass access restrictions of Drupal Protected Pages, in order to read or alter data... | Visit link for details |
-| [Nexcloud Desktop: Cross Site Scripting via Qml Labels](https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031) | An attacker can trigger a Cross Site Scripting of Nexcloud Desktop, via Qml Labels, in order to run JavaScript code in the context of the web site... | Visit link for details |
-| [Nexcloud Desktop: four vulnerabilities](https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030) | An attacker can use several vulnerabilities of Nexcloud Desktop... | Visit link for details |
-| [NTP.org: four vulnerabilities via mstolfp](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029) | An attacker can use several vulnerabilities of NTP.org, via mstolfp... | Visit link for details |
-| [NTP.org: buffer overflow via praecis_parse()](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028) | An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [SQLite: memory corruption via ORDER BY Alias](https://vigilance.fr/vulnerability/SQLite-memory-corruption-via-ORDER-BY-Alias-41027) | An attacker can trigger a memory corruption of SQLite, via ORDER BY Alias, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
