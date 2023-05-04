@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0353/) | De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 3 mai 2023 |
+| [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0352/) | De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. | 3 mai 2023 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0351/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 3 mai 2023 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0350/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 3 mai 2023 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0349/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données. | 2 mai 2023 |
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0348/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 2 mai 2023 |
+| [Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/) | De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance. | 2 mai 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0346/) | De multiples vulnérabilités ont été découvertes dans  | 28 avril 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0345/) | De multiples vulnérabilités ont été découvertes dans  | 28 avril 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/) | De multiples vulnérabilités ont été découvertes dans  | 28 avril 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 10 février 2023] | 3 février 2023 |
 | [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/) | [MàJ du 31 octobre 2022] | 16 septembre 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0349/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données. | 2 mai 2023 |
-| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0348/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 2 mai 2023 |
-| [Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/) | De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance. | 2 mai 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0346/) | De multiples vulnérabilités ont été découvertes dans  | 28 avril 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0345/) | De multiples vulnérabilités ont été découvertes dans  | 28 avril 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/) | De multiples vulnérabilités ont été découvertes dans  | 28 avril 2023 |
-| [Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0343/) | Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 28 avril 2023 |
-| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0342/) | De multiples vulnérabilités ont été découvertes dans  | 26 avril 2023 |
-| [Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0341/) | Une vulnérabilité a été découverte dans  | 26 avril 2023 |
-| [Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/) | Une vulnérabilité a été découverte dans  | 26 avril 2023 |
