@@ -1,6 +1,10 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [cmark-gfm: overload via handle_close_bracket()](https://vigilance.fr/vulnerability/cmark-gfm-overload-via-handle-close-bracket-41188) | An attacker can trigger an overload of cmark-gfm, via  | Visit link for details |
+| [FortiOS: buffer overflow via sslvpnd](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187) | An attacker can trigger a buffer overflow of FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+| [Drupal S3 File System: file write](https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186) | An attacker can bypass access restrictions of Drupal S3 File System, in order to alter files... | Visit link for details |
+| [Sentry SDK for Python: information disclosure via sendDefaultPII](https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185) | An attacker can bypass access restrictions to data of Sentry SDK for Python, via sendDefaultPII, in order to read sensitive information... | Visit link for details |
 | [Python: information disclosure via SimpleHTTPServer](https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184) | An attacker can bypass access restrictions to data of Python, via SimpleHTTPServer, in order to read sensitive information... | Visit link for details |
 | [Django: file upload via Multiple Files](https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183) | An attacker can upload a malicious file on Django, via Multiple Files, in order for example to upload a Trojan... | Visit link for details |
 | [F5 BIG-IP: multiple vulnerabilities](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182) | An attacker can use several vulnerabilities of F5 BIG-IP... | Visit link for details |
@@ -97,7 +101,3 @@
 | [Google Chrome: height vulnerabilities](https://vigilance.fr/vulnerability/Google-Chrome-height-vulnerabilities-41079) | An attacker can use several vulnerabilities of Google Chrome... | Visit link for details |
 | [Perl HTTP-Tiny: Man-in-the-Middle](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-41078) | An attacker can act as a Man-in-the-Middle on Perl HTTP::Tiny, in order to read or write data in the session... | Visit link for details |
 | [Eclipse Jetty: memory leak via HttpServletRequest.getParameter()](https://vigilance.fr/vulnerability/Eclipse-Jetty-memory-leak-via-HttpServletRequest-getParameter-41077) | An attacker can create a memory leak of Eclipse Jetty, via  | Visit link for details |
-| [Eclipse Jetty: information disclosure via cookie](https://vigilance.fr/vulnerability/Eclipse-Jetty-information-disclosure-via-cookie-41076) | An attacker can bypass access restrictions to data of Eclipse Jetty, via cookie, in order to read sensitive information... | Visit link for details |
-| [Asterisk Open Source: buffer overflow via parse_query()](https://vigilance.fr/vulnerability/Asterisk-Open-Source-buffer-overflow-via-parse-query-41075) | An attacker can trigger a buffer overflow of Asterisk Open Source, via parse_query(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [Oracle VM VirtualBox: vulnerabilities of April 2023](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-April-2023-41074) | Several vulnerabilities were announced in Oracle products... | Visit link for details |
-| [Oracle MySQL: vulnerabilities of April 2023](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-April-2023-41073) | Several vulnerabilities were announced in Oracle products... | Visit link for details |
