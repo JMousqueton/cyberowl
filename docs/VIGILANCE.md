@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [SnapCenter: privilege escalation](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252) | An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges... | Visit link for details |
 | [NVIDIA GPU Display Driver R390: height vulnerabilities](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-R390-height-vulnerabilities-41250) | An attacker can use several vulnerabilities of NVIDIA GPU Display Driver R390... | Visit link for details |
 | [PostgreSQL: read-write access via Row Security User ID Changes](https://vigilance.fr/vulnerability/PostgreSQL-read-write-access-via-Row-Security-User-ID-Changes-41249) | An attacker can bypass access restrictions of PostgreSQL, via Row Security User ID Changes, in order to read or alter data... | Visit link for details |
 | [PostgreSQL: privilege escalation via CREATE SCHEMA Search Path](https://vigilance.fr/vulnerability/PostgreSQL-privilege-escalation-via-CREATE-SCHEMA-Search-Path-41248) | An attacker can bypass restrictions of PostgreSQL, via CREATE SCHEMA Search Path, in order to escalate his privileges... | Visit link for details |
@@ -100,4 +101,3 @@
 | [Laminas Diactoros: header injection](https://vigilance.fr/vulnerability/Laminas-Diactoros-header-injection-41146) | An attacker can add new headers on Laminas Diactoros, in order to alter the service behavior... | Visit link for details |
 | [guzzlehttp/psr7: header injection](https://vigilance.fr/vulnerability/guzzlehttp-psr7-header-injection-41145) | An attacker can add new headers on guzzlehttp/psr7, in order to alter the service behavior... | Visit link for details |
 | [Grafana: denial of service via crewjam/saml library](https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-crewjam-saml-library-41142) | An attacker can cause a fatal error of Grafana, in the library crewjam/saml, in order to trigger a denial of service... | Visit link for details |
-| [Grafana: user access via JWT](https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141) | An attacker can bypass restrictions of Grafana, via JWT, in order to gain user privileges... | Visit link for details |
