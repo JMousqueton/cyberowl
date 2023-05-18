@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits VMware Tanzu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0385/) | De multiples vulnérabilités ont été découvertes dans  | 15 mai 2023 |
-| [Multiples vulnérabilités dans TrendMicro Mobile Security (entreprise)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0384/) | De multiples vulnérabilités ont été découvertes dans  | 15 mai 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0383/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0382/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0381/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
-| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0380/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
-| [Multiples vulnérabilités Vmware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0379/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
-| [Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0378/) | De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 12 mai 2023 |
-| [Multiples vulnérabilités dans PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0377/) | De multiples vulnérabilités ont été découvertes dans  | 11 mai 2023 |
-| [Vulnérabilité dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0376/) | Une vulnérabilité a été découverte dans  | 11 mai 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 10 février 2023] | 3 février 2023 |
 | [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/) | [MàJ du 31 octobre 2022] | 16 septembre 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0389/) | Une vulnérabilité a été découverte dans  | 17 mai 2023 |
+| [Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0388/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 17 mai 2023 |
+| [Multiples vulnérabilités dans TrendMicro Apex One et Apex Central](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0387/) | De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One et Apex Central. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 17 mai 2023 |
+| [Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0386/) | De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 17 mai 2023 |
+| [Multiples vulnérabilités dans les produits VMware Tanzu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0385/) | De multiples vulnérabilités ont été découvertes dans  | 15 mai 2023 |
+| [Multiples vulnérabilités dans TrendMicro Mobile Security (entreprise)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0384/) | De multiples vulnérabilités ont été découvertes dans  | 15 mai 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0383/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0382/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0381/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
+| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0380/) | De multiples vulnérabilités ont été découvertes dans  | 12 mai 2023 |
