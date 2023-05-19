@@ -1,6 +1,8 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Qt: two vulnerabilities](https://vigilance.fr/vulnerability/Qt-two-vulnerabilities-41279) | An attacker can use several vulnerabilities of Qt... | Visit link for details |
+| [cups-filters: code execution via Backend Error Handler](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-Backend-Error-Handler-41278) | An attacker can use a vulnerability of cups-filters, via Backend Error Handler, in order to run code... | Visit link for details |
 | [Python urllib: ingress filtrering bypass via Space Handling](https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-Space-Handling-41277) | An attacker can bypass filtering rules of Python urllib, via Space Handling, in order to send malicious data... | Visit link for details |
 | [Chrome: six vulnerabilities](https://vigilance.fr/vulnerability/Chrome-six-vulnerabilities-41275) | An attacker can use several vulnerabilities of Chrome... | Visit link for details |
 | [QEMU: denial of service via lsi_execute_script()](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-lsi-execute-script-41274) | An attacker, in a guest system, can cause a fatal error of QEMU, via  | Visit link for details |
@@ -99,5 +101,3 @@
 | [Linux kernel: memory reading via copy_from_user()](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177) | An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information... | Visit link for details |
 | [Linux kernel: memory reading via spectre_v2_in_ibrs_mode()](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176) | An attacker can read a memory fragment of the Linux kernel, via  | Visit link for details |
 | [Puppet Server: overload via Certificate Validation Regular Expression](https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170) | An attacker can trigger an overload of Puppet Server, via Certificate Validation Regular Expression, in order to trigger a denial of service... | Visit link for details |
-| [GitLab CE/EE: multiple vulnerabilities](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169) | An attacker can use several vulnerabilities of GitLab CE/EE... | Visit link for details |
-| [IBM i: privilege escalation via SQL Operation](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168) | An attacker can bypass restrictions of IBM i, via SQL Operation, in order to escalate his privileges... | Visit link for details |
