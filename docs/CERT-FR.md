@@ -2,6 +2,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0404/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance. | 22 mai 2023 |
+| [Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0402/) | Une vulnérabilité a été découverte dans Wordpress. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 22 mai 2023 |
 | [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/) | De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs  | 19 mai 2023 |
 | [Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/) | De multiples vulnérabilités ont été découvertes dans les produits  | 19 mai 2023 |
 | [Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/) | De multiples vulnérabilités ont été découvertes dans les produits  | 19 mai 2023 |
@@ -10,8 +12,6 @@
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0396/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 19 mai 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0395/) | De multiples vulnérabilités ont été découvertes dans  | 19 mai 2023 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0394/) | De multiples vulnérabilités ont été découvertes dans  | 19 mai 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0393/) | De multiples vulnérabilités ont été découvertes dans  | 19 mai 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0392/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de  | 19 mai 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
