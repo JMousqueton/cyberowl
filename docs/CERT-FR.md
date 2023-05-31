@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 30 mai 2023 |
+| [Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0417/) | De multiples vulnérabilités ont été découvertes dans les produits  | 30 mai 2023 |
+| [Multiples vulnérabilités dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0415/) | De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, et un déni de service à distance. | 30 mai 2023 |
 | [Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/) | Une vulnérabilité a été découverte dans  | 26 mai 2023 |
 | [Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/) | De multiples vulnérabilités ont été découvertes dans  | 26 mai 2023 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/) | De multiples vulnérabilités ont été découvertes dans  | 26 mai 2023 |
@@ -9,9 +12,6 @@
 | [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/) | De multiples vulnérabilités ont été découvertes dans  | 25 mai 2023 |
 | [Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/) | Une vulnérabilité a été découverte dans  | 25 mai 2023 |
 | [Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/) | De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 24 mai 2023 |
-| [Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/) | De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 24 mai 2023 |
-| [Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/) | Une vulnérabilité a été découverte dans  | 24 mai 2023 |
-| [Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/) | Une vulnérabilité a été découverte dans  | 24 mai 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
