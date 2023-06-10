@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/) | De multiples vulnérabilités ont été découvertes dans  | 9 juin 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/) | De multiples vulnérabilités ont été découvertes dans  | 9 juin 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/) | De multiples vulnérabilités ont été découvertes dans  | 9 juin 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/) | De multiples vulnérabilités ont été découvertes dans  | 9 juin 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/) | De multiples vulnérabilités ont été découvertes dans | 9 juin 2023 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/) | De multiples vulnérabilités ont été découvertes dans  | 8 juin 2023 |
 | [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/) | De multiples vulnérabilités ont été découvertes dans  | 8 juin 2023 |
 | [Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 8 juin 2023 |
 | [Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/) | De multiples vulnérabilités ont été découvertes dans  | 8 juin 2023 |
 | [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/) | Une vulnérabilité a été découverte dans  | 7 juin 2023 |
-| [Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0439/) | De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données. | 7 juin 2023 |
-| [Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0438/) | De multiples vulnérabilités ont été découvertes dans  | 7 juin 2023 |
-| [Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0437/) | De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juin 2023 |
-| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0436/) | De multiples vulnérabilités ont été découvertes dans  | 6 juin 2023 |
-| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0435/) | De multiples vulnérabilités ont été découvertes dans  | 6 juin 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|

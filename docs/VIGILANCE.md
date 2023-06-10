@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Puppet Enterprise: code execution via Orchestrator](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436) | An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code... | Visit link for details |
 | [PHP: read-write access via SOAP HTTP Digest Authentication](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435) | An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data... | Visit link for details |
 | [SUSE supportutils: information disclosure via iSCSI Passwords](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434) | An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information... | Visit link for details |
 | [OpenSC: out-of-bounds memory reading via cardos_have_verifyrc_package()](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433) | An attacker can force a read at an invalid memory address of OpenSC, via  | Visit link for details |
@@ -100,4 +101,3 @@
 | [Ubuntu: user access via Calamares Settings Blank Password](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320) | An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges... | Visit link for details |
 | [GNU binutils: four vulnerabilities](https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319) | An attacker can use several vulnerabilities of GNU binutils... | Visit link for details |
 | [GNU binutils: buffer overflow via bfd_getl64()](https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318) | An attacker can trigger a buffer overflow of GNU binutils, via bfd_getl64(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [OpenSSL: denial of service via Translating ASN.1 Object Identifiers](https://vigilance.fr/vulnerability/OpenSSL-denial-of-service-via-Translating-ASN-1-Object-Identifiers-41317) | An attacker can cause a fatal error of OpenSSL, via Translating ASN.1 Object Identifiers, in order to trigger a denial of service... | Visit link for details |
