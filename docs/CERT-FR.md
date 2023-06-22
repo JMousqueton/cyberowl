@@ -15,7 +15,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
-| [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/) | Une vulnérabilité a été découverte dans les produits Fortinet. Elle permet à un attaquant de provoquer un déni de service à distance. | 20 juin 2023 |
+| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 21 juin 2023 |
 | [Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/) | Une vulnérabilité a été découverte dans | 19 juin 2023 |
 | [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/) | De multiples vulnérabilités ont été découvertes dans  | 19 juin 2023 |
 | [Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/) | De multiples vulnérabilités ont été découvertes dans | 19 juin 2023 |
