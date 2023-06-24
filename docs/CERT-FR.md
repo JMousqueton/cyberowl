@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
-| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
-| [Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/) | Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 22 juin 2023 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
-| [Multiples vulnérabilités dans BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0479/) | De multiples vulnérabilités ont été découvertes dans BIND. Elles permettent à un attaquant de provoquer un déni de service à distance. | 22 juin 2023 |
-| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0478/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 21 juin 2023 |
-| [Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0477/) | Une vulnérabilité a été découverte dans | 19 juin 2023 |
-| [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0476/) | De multiples vulnérabilités ont été découvertes dans  | 19 juin 2023 |
-| [Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/) | De multiples vulnérabilités ont été découvertes dans | 19 juin 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service. | 16 juin 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
 | [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 10 février 2023] | 3 février 2023 |
 | [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
+| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
+| [Vulnérabilité dans StormShield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0486/) | Une vulnérabilité a été découverte dans | 23 juin 2023 |
+| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0485/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0484/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
+| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
+| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
+| [Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/) | Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 22 juin 2023 |
+| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
