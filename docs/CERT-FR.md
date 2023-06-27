@@ -15,6 +15,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/) | De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 26 juin 2023 |
+| [Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/) | De multiples vulnérabilités ont été découvertes dans | 26 juin 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
 | [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
@@ -23,5 +25,3 @@
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0484/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
 | [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
 | [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
-| [Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/) | Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 22 juin 2023 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/) | De multiples vulnérabilités ont été découvertes dans  | 22 juin 2023 |
