@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0507/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service à distance. | 30 juin 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0506/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service. | 30 juin 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0505/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 30 juin 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0504/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 30 juin 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0503/) | De multiples vulnérabilités ont été corrigées dans  | 30 juin 2023 |
+| [Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0502/) | Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance. | 30 juin 2023 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 30 juin 2023 |
+| [Multiples vulnérabilités dans MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0500/) | De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. | 30 juin 2023 |
+| [Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 30 juin 2023 |
+| [Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/) | De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 29 juin 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
 | [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 10 février 2023] | 3 février 2023 |
 | [[MaJ] Multiples vulnérabilités dans Microsoft Exchange](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/) | [Mise à jour du 09 novembre 2022] | 30 septembre 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/) | De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 29 juin 2023 |
-| [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0497/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service à distance. | 29 juin 2023 |
-| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0496/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 29 juin 2023 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 27 juin 2023 |
-| [Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/) | De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données | 27 juin 2023 |
-| [Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/) | Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges. | 27 juin 2023 |
-| [Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0492/) | Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une élévation de privilèges. | 27 juin 2023 |
-| [Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/) | De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 26 juin 2023 |
-| [Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/) | De multiples vulnérabilités ont été découvertes dans | 26 juin 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/) | De multiples vulnérabilités ont été découvertes dans  | 23 juin 2023 |
