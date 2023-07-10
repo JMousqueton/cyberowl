@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/) | De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 7 juillet 2023 |
-| [Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/) | Une vulnérabilité a été découverte dans  | 7 juillet 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/) | De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service. | 7 juillet 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
-| [Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/) | De multiples vulnérabilités ont été découvertes dans les produits  | 7 juillet 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
-| [Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/) | Une vulnérabilité a été découverte dans  | 6 juillet 2023 |
-| [Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/) | Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF). | 5 juillet 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-011/) | Le 07 octobre 2022, des informations ont circulé concernant l’existence d’une vulnérabilité critique dans les produits Fortinet. Le 11 octobre 2022, l’éditeur a publié un avis de sécurité détaillant l’existence d’une vulnérabilité permettant à un attaquant non authentifié de pouvoir réaliser … | 14 octobre 2022 |
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
 | [[MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/) | [Mise à jour du 10 février 2023] | 3 février 2023 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Progress Software MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0519/) | De multiples vulnérabilités ont été découvertes dans Progress Software MOVEit Transfer. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 7 juillet 2023 |
+| [Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0518/) | Une vulnérabilité a été découverte dans  | 7 juillet 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0517/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0516/) | De multiples vulnérabilités ont été découvertes dans Google Android et Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service. | 7 juillet 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0515/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
+| [Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0514/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0513/) | De multiples vulnérabilités ont été découvertes dans les produits  | 7 juillet 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0512/) | De multiples vulnérabilités ont été découvertes dans  | 7 juillet 2023 |
+| [Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/) | Une vulnérabilité a été découverte dans  | 6 juillet 2023 |
+| [Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/) | Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF). | 5 juillet 2023 |
