@@ -15,13 +15,13 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-536/) | De multiples vulnérabilités ont été corrigées dans  | 12 juillet 2023 |
-| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-535/) | Une vulnérabilité a été corrigée dans  | 12 juillet 2023 |
-| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-534/) | De multiples vulnérabilités ont été corrigées dans  | 12 juillet 2023 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-533/) | De multiples vulnérabilités ont été corrigées dans  | 12 juillet 2023 |
-| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-532/) | De multiples vulnérabilités ont été corrigées dans  | 12 juillet 2023 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0531/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 12 juillet 2023 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0530/) | De multiples vulnérabilités ont été découvertes dans  | 12 juillet 2023 |
-| [Multiples vulnérabilités dans Citrix Secure Access client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0529/) | De multiples vulnérabilités ont été découvertes dans  | 12 juillet 2023 |
-| [Multiples vulnérabilités dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0528/) | De multiples vulnérabilités ont été découvertes dans  | 12 juillet 2023 |
-| [Vulnérabilité dans Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0527/) | Une vulnérabilité a été découverte dans  | 12 juillet 2023 |
+| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0537/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 13 juillet 2023 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0536/) | De multiples vulnérabilités ont été corrigées dans  | 13 juillet 2023 |
+| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0535/) | Une vulnérabilité a été corrigée dans  | 13 juillet 2023 |
+| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0534/) | De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une élévation de privilèges. | 13 juillet 2023 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0533/) | De multiples vulnérabilités ont été corrigées dans  | 13 juillet 2023 |
+| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0532/) | De multiples vulnérabilités ont été corrigées dans  | 13 juillet 2023 |
+| [Vulnérabilité dans Cisco SD-WAN vManage](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0548/) | Une vulnérabilité a été découverte dans  | 13 juillet 2023 |
+| [Vulnérabilité dans Microsoft Active Directory Federation Service](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0547/) | Une vulnérabilité a été découverte dans Microsoft Active Directory Federation Service. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 13 juillet 2023 |
+| [Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0546/) | Une vulnérabilité a été découverte dans  | 13 juillet 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0545/) | De multiples vulnérabilités ont été découvertes dans  | 13 juillet 2023 |
