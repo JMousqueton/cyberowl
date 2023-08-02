@@ -15,6 +15,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Palo Alto Networks GlobalProtect App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0607/) | Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer une élévation de privilèges. | 1 août 2023 |
+| [Vulnérabilité dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0606/) | Une vulnérabilité a été découverte dans Splunk SOAR. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 1 août 2023 |
+| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0605/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 1 août 2023 |
 | [Vulnérabilité dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0604/) | Une vulnérabilité a été découverte dans Ivanti Endpoint Manager Mobile et Endpoint Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. | 31 juillet 2023 |
 | [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0603/) | De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 31 juillet 2023 |
 | [Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/) | De multiples vulnérabilités ont été découvertes dans  | 28 juillet 2023 |
@@ -22,6 +25,3 @@
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/) | De multiples vulnérabilités ont été découvertes dans  | 28 juillet 2023 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/) | De multiples vulnérabilités ont été découvertes dans  | 28 juillet 2023 |
 | [Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/) | De multiples vulnérabilités ont été découvertes dans  | 28 juillet 2023 |
-| [Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0597/) | De multiples vulnérabilités ont été découvertes dans | 28 juillet 2023 |
-| [Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0596/) | De multiples vulnérabilités ont été découvertes dans  | 27 juillet 2023 |
-| [Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0595/) | Une vulnérabilité a été découverte dans Mozilla | 27 juillet 2023 |
