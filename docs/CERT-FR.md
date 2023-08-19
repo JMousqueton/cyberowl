@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de Debian et DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0667/) | De multiples vulnérabilités ont été découvertes le noyau Linux de Debian et DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 18 août 2023 |
+| [Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0666/) | De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 18 août 2023 |
+| [Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0665/) | De multiples vulnérabilités ont été découvertes dans  | 18 août 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0664/) | De multiples vulnérabilités ont été découvertes dans  | 18 août 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0663/) | De multiples vulnérabilités ont été découvertes dans  | 18 août 2023 |
+| [Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0662/) | Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 18 août 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0661/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 18 août 2023 |
+| [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0660/) | De multiples vulnérabilités ont été corrigées dans  | 18 août 2023 |
 | [[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0659/) | De multiples vulnérabilités ont été découvertes dans  | 17 août 2023 |
 | [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0658/) | De multiples vulnérabilités ont été découvertes dans  | 17 août 2023 |
-| [Vulnérabilité dans Microsoft Office et OneNote](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0657/) | Une vulnérabilité a été découverte dans Microsoft Office et OneNote. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 16 août 2023 |
-| [Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0656/) | De multiples vulnérabilités ont été découvertes dans  | 16 août 2023 |
-| [Multiples vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0655/) | De multiples vulnérabilités ont été découvertes dans | 16 août 2023 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0654/) | De multiples vulnérabilités ont été découvertes dans  | 16 août 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0653/) | De multiples vulnérabilités ont été découvertes dans  | 11 août 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0652/) | De multiples vulnérabilités ont été découvertes dans  | 11 août 2023 |
-| [Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0651/) | De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité. | 11 août 2023 |
-| [Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0650/) | De multiples vulnérabilités ont été découvertes dans IBM Spectrum Copy Data Management. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
