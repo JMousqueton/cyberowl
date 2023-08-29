@@ -2,6 +2,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0691/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 28 août 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0690/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges. | 28 août 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/) | De multiples vulnérabilités ont été découvertes dans  | 25 août 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/) | De multiples vulnérabilités ont été découvertes dans  | 25 août 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/) | De multiples vulnérabilités ont été découvertes dans  | 25 août 2023 |
@@ -10,8 +12,6 @@
 | [Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/) | Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 25 août 2023 |
 | [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance. | 24 août 2023 |
 | [Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/) | De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 24 août 2023 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance. | 24 août 2023 |
-| [Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/) | Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 24 août 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
