@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0694/) | Une vulnérabilité a été découverte dans  | 29 août 2023 |
+| [Vulnérabilité dans Synology SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0693/) | Une vulnérabilité a été découverte dans Synology SSL VPN Client. Elle permet à un attaquant de provoquer un déni de service. | 29 août 2023 |
+| [Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0692/) | Une vulnérabilités a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 29 août 2023 |
 | [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0691/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 28 août 2023 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0690/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges. | 28 août 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/) | De multiples vulnérabilités ont été découvertes dans  | 25 août 2023 |
@@ -9,9 +12,6 @@
 | [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/) | De multiples vulnérabilités ont été découvertes dans  | 25 août 2023 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0686/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 25 août 2023 |
 | [Multiples vulnérabilités dans Qnap QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0685/) | De multiples vulnérabilités ont été découvertes dans Qnap QTS et QuTS hero. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 25 août 2023 |
-| [Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/) | Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 25 août 2023 |
-| [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance. | 24 août 2023 |
-| [Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/) | De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 24 août 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
