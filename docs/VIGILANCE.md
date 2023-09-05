@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Linux kernel: double free via nft_set_elem_mark_busy()](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nft-set-elem-mark-busy-42179) | An attacker can force a double memory free of the Linux kernel, via  | Visit link for details |
 | [GStreamer: buffer overflow via RealMedia File Demuxer](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178) | An attacker can trigger a buffer overflow of GStreamer, via RealMedia File Demuxer, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [libeconf: buffer overflow via read_file()](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177) | An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [Mosquitto: three vulnerabilities](https://vigilance.fr/vulnerability/Mosquitto-three-vulnerabilities-42176) | An attacker can use several vulnerabilities of Mosquitto... | Visit link for details |
@@ -87,6 +88,7 @@
 | [Chrome: multiple vulnerabilities](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091) | An attacker can use several vulnerabilities of Chrome... | Visit link for details |
 | [Cacti: Cross Site Scripting via auth_changepassword.php](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090) | An attacker can trigger a Cross Site Scripting of Cacti, via  | Visit link for details |
 | [ImageMagick: memory leak via Identify Help](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089) | An attacker can create a memory leak of ImageMagick, via Identify Help, in order to trigger a denial of service... | Visit link for details |
+| [BusyBox: buffer overflow via ash evaluate_string()](https://vigilance.fr/vulnerability/BusyBox-buffer-overflow-via-ash-evaluate-string-42088) | An attacker can trigger a buffer overflow of BusyBox, via ash evaluate_string(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [LibTIFF: overload via TIFFReadDirectory()](https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087) | An attacker can trigger an overload of LibTIFF, via  | Visit link for details |
 | [QEMU: NULL pointer dereference via of_dpa_cmd_add_l2_flood](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086) | An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via  | Visit link for details |
 | [ImageMagick: denial of service via ReadEnhMetaFile()](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085) | An attacker can cause a fatal error of ImageMagick, via ReadEnhMetaFile(), in order to trigger a denial of service... | Visit link for details |
@@ -99,5 +101,3 @@
 | [Joomla Virtual Classroom: SQL injection](https://vigilance.fr/vulnerability/Joomla-Virtual-Classroom-SQL-injection-42077) | An attacker can use a SQL injection of Joomla Virtual Classroom, in order to read or alter data... | Visit link for details |
 | [Joomla Proforms Basic: SQL injection](https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-SQL-injection-42076) | An attacker can use a SQL injection of Joomla Proforms Basic, in order to read or alter data... | Visit link for details |
 | [Joomla Plugin Creative Gallery: SQL injection](https://vigilance.fr/vulnerability/Joomla-Plugin-Creative-Gallery-SQL-injection-42075) | An attacker can use a SQL injection of Joomla Plugin Creative Gallery, in order to read or alter data... | Visit link for details |
-| [Joomla LivingWord: vulnerability](https://vigilance.fr/vulnerability/Joomla-LivingWord-vulnerability-42074) | A vulnerability of Joomla LivingWord was announced... | Visit link for details |
-| [Joomla LivingWord: Cross Site Scripting](https://vigilance.fr/vulnerability/Joomla-LivingWord-Cross-Site-Scripting-42073) | An attacker can trigger a Cross Site Scripting of Joomla LivingWord, in order to run JavaScript code in the context of the web site... | Visit link for details |
