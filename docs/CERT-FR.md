@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0710/) | De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 5 septembre 2023 |
 | [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 1 septembre 2023 |
 | [[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
 | [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
@@ -11,7 +12,6 @@
 | [Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
 | [Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/) | Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 31 août 2023 |
 | [Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/) | De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 31 août 2023 |
-| [Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/) | Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 30 août 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
