@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0710/) | De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 5 septembre 2023 |
-| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 1 septembre 2023 |
-| [[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
-| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0704/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
-| [Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0703/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
-| [Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0702/) | Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 31 août 2023 |
-| [Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0701/) | De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 31 août 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/) | [mise à jour du 11 mai 2023] Possibilité de contournement du correctif proposé par l'éditeur par le biais de la CVE-2023-29324 | 15 mars 2023 |
 | [[MàJ] Compromission de l’application 3CX Desktop App](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/) | Le 30 mars 2023, l'éditeur a publié un communiqué concernant la compromission de leur application de bureau 3CX ( | 31 mars 2023 |
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0714/) | De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 6 septembre 2023 |
+| [Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0713/) | Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 6 septembre 2023 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0712/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 6 septembre 2023 |
+| [Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0711/) | De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 6 septembre 2023 |
+| [Multiples vulnérabilités dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0710/) | De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 5 septembre 2023 |
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0709/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 1 septembre 2023 |
+| [[SCADA] Multiples vulnérabilités dans Moxa MXSecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0708/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0707/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0706/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0705/) | De multiples vulnérabilités ont été découvertes dans  | 1 septembre 2023 |
