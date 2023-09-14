@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0743/) | De multiples vulnérabilités ont été corrigées dans  | 13 septembre 2023 |
+| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0742/) | De multiples vulnérabilités ont été corrigées dans  | 13 septembre 2023 |
+| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0741/) | De multiples vulnérabilités ont été corrigées dans  | 13 septembre 2023 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0740/) | De multiples vulnérabilités ont été corrigées dans  | 13 septembre 2023 |
+| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0739/) | De multiples vulnérabilités ont été corrigées dans  | 13 septembre 2023 |
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0738/) | Une vulnérabilité a été corrigée dans  | 13 septembre 2023 |
+| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0737/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 13 septembre 2023 |
+| [Vulnérabilité dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0736/) | Une vulnérabilité a été découverte dans  | 13 septembre 2023 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0735/) | De multiples vulnérabilités ont été découvertes dans  | 13 septembre 2023 |
+| [Vulnérabilité dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0734/) | Une vulnérabilité a été découverte dans  | 13 septembre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/) | [mise à jour du 11 mai 2023] Possibilité de contournement du correctif proposé par l'éditeur par le biais de la CVE-2023-29324 | 15 mars 2023 |
 | [[MàJ] Compromission de l’application 3CX Desktop App](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/) | Le 30 mars 2023, l'éditeur a publié un communiqué concernant la compromission de leur application de bureau 3CX ( | 31 mars 2023 |
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0733/) | De multiples vulnérabilités ont été découvertes dans  | 12 septembre 2023 |
-| [[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0732/) | Une vulnérabilité a été découverte dans  | 12 septembre 2023 |
-| [Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0731/) | De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 12 septembre 2023 |
-| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0730/) | Une vulnérabilité a été découverte dans  | 12 septembre 2023 |
-| [Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0729/) | Une vulnérabilité a été découverte dans  | 12 septembre 2023 |
-| [Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0728/) | De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance. | 12 septembre 2023 |
-| [Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/) | De multiples vulnérabilités ont été découvertes dans  | 11 septembre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/) | De multiples vulnérabilités ont été découvertes dans  | 8 septembre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/) | De multiples vulnérabilités ont été découvertes dans  | 8 septembre 2023 |
-| [Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/) | Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance. | 8 septembre 2023 |
