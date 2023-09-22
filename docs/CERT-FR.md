@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/) | De multiples vulnérabilités ont été découvertes dans  | 21 septembre 2023 |
+| [Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/) | Une vulnérabilité a été découverte dans  | 21 septembre 2023 |
+| [Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/) | De multiples vulnérabilités ont été découvertes dans  | 21 septembre 2023 |
+| [Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/) | Une vulnérabilité a été découverte dans  | 20 septembre 2023 |
+| [Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/) | Une vulnérabilité a été découverte dans  | 20 septembre 2023 |
+| [Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/) | Une vulnérabilité a été découverte dans  | 20 septembre 2023 |
+| [Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/) | De multiples vulnérabilités ont été découvertes dans | 19 septembre 2023 |
+| [Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/) | De multiples vulnérabilités ont été découvertes dans  | 19 septembre 2023 |
+| [Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/) | Une vulnérabilité a été découverte dans  | 19 septembre 2023 |
+| [Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/) | De multiples vulnérabilités ont été découvertes dans | 19 septembre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/) | [mise à jour du 11 mai 2023] Possibilité de contournement du correctif proposé par l'éditeur par le biais de la CVE-2023-29324 | 15 mars 2023 |
 | [[MàJ] Compromission de l’application 3CX Desktop App](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/) | Le 30 mars 2023, l'éditeur a publié un communiqué concernant la compromission de leur application de bureau 3CX ( | 31 mars 2023 |
 | [[MàJ] Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/) | Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro ( | 13 décembre 2022 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/) | Une vulnérabilité a été découverte dans  | 20 septembre 2023 |
-| [Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/) | Une vulnérabilité a été découverte dans  | 20 septembre 2023 |
-| [Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/) | Une vulnérabilité a été découverte dans  | 20 septembre 2023 |
-| [Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0763/) | De multiples vulnérabilités ont été découvertes dans | 19 septembre 2023 |
-| [Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/) | De multiples vulnérabilités ont été découvertes dans  | 19 septembre 2023 |
-| [Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/) | Une vulnérabilité a été découverte dans  | 19 septembre 2023 |
-| [Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/) | De multiples vulnérabilités ont été découvertes dans | 19 septembre 2023 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges. | 18 septembre 2023 |
-| [Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/) | De multiples vulnérabilités ont été découvertes dans  | 18 septembre 2023 |
-| [Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/) | De multiples vulnérabilités ont été découvertes dans | 18 septembre 2023 |
