@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0814/) | De multiples vulnérabilités ont été découvertes dans  | 6 octobre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0813/) | De multiples vulnérabilités ont été découvertes dans  | 6 octobre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0812/) | De multiples vulnérabilités ont été découvertes dans  | 6 octobre 2023 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0811/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 6 octobre 2023 |
+| [Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0810/) | Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 6 octobre 2023 |
 | [Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0809/) | Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 5 octobre 2023 |
 | [Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0808/) | Une vulnérabilité a été découverte dans  | 5 octobre 2023 |
 | [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0807/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 5 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0806/) | De multiples vulnérabilités ont été découvertes dans  | 5 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0805/) | De multiples vulnérabilités ont été découvertes dans  | 5 octobre 2023 |
-| [Vulnérabilité dans GNU LIBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0804/) | Une vulnérabilité a été découverte dans GNU LIBC. Elle permet à un attaquant de provoquer une élévation de privilèges. | 5 octobre 2023 |
-| [Vulnérabilité dans Atlassian Confluence](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0803/) | Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une élévation de privilèges. | 5 octobre 2023 |
-| [[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0802/) | Une vulnérabilité a été découverte dans  | 4 octobre 2023 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0801/) | De multiples vulnérabilités ont été découvertes dans  | 4 octobre 2023 |
-| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0800/) | Une vulnérabilité a été découverte dans  | 4 octobre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
