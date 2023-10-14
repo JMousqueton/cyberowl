@@ -15,13 +15,13 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/) | Une vulnérabilité a été découverte dans | 13 octobre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0844/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
+| [Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0843/) | Une vulnérabilité a été découverte dans  | 13 octobre 2023 |
+| [Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0842/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0841/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0840/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0839/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/) | De multiples vulnérabilités ont été découvertes dans  | 12 octobre 2023 |
 | [Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/) | De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 12 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité. | 12 octobre 2023 |
-| [Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/) | Une vulnérabilité a été découverte dans | 12 octobre 2023 |
-| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/) | De multiples vulnérabilités ont été découvertes dans | 12 octobre 2023 |
-| [Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/) | De multiples vulnérabilités ont été découvertes dans  | 12 octobre 2023 |
-| [Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/) | De multiples vulnérabilités ont été découvertes dans  | 12 octobre 2023 |
-| [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/) | De multiples vulnérabilités ont été découvertes dans | 12 octobre 2023 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/) | De multiples vulnérabilités ont été corrigées dans  | 11 octobre 2023 |
-| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/) | De multiples vulnérabilités ont été corrigées dans  | 11 octobre 2023 |
