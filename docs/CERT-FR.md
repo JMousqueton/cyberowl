@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0854/) | De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 17 octobre 2023 |
+| [Vulnérabilité dans Roubdcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0853/) | Une vulnérabilité a été découverte dans Roubdcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 17 octobre 2023 |
+| [Multiples vulnérabilités dans SonicWall SonicOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0852/) | De multiples vulnérabilités ont été découvertes dans SonicWall SonicOS. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges. | 17 octobre 2023 |
+| [Vulnérabilité dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0851/) | Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 16 octobre 2023 |
+| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0850/) | De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 16 octobre 2023 |
+| [Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0849/) | De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 16 octobre 2023 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0848/) | De multiples vulnérabilités ont été corrigées dans  | 16 octobre 2023 |
+| [Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0847/) | Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges. | 16 octobre 2023 |
+| [Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0846/) | De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 16 octobre 2023 |
+| [Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/) | Une vulnérabilité a été découverte dans | 13 octobre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [Multiples vulnérabilités dans AMI MegaRAC](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/) | Le 05 décembre 2022, trois vulnérabilités respectivement identifiées par les numéros CVE-2022-40259, CVE-2022-40242 et CVE-2022-2827 ont été signalées dans la solution d’administration à distance MegaRAC de l’éditeur AMI. | 16 décembre 2022 |
 | [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/) | [mise à jour du 11 mai 2023] Possibilité de contournement du correctif proposé par l'éditeur par le biais de la CVE-2023-29324 | 15 mars 2023 |
 | [[MàJ] Compromission de l’application 3CX Desktop App](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/) | Le 30 mars 2023, l'éditeur a publié un communiqué concernant la compromission de leur application de bureau 3CX ( | 31 mars 2023 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/) | Une vulnérabilité a été découverte dans | 13 octobre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0844/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
-| [Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0843/) | Une vulnérabilité a été découverte dans  | 13 octobre 2023 |
-| [Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0842/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0841/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0840/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0839/) | De multiples vulnérabilités ont été découvertes dans  | 13 octobre 2023 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/) | De multiples vulnérabilités ont été découvertes dans  | 12 octobre 2023 |
-| [Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/) | De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 12 octobre 2023 |
-| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité. | 12 octobre 2023 |
