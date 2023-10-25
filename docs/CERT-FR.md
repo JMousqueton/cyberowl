@@ -15,7 +15,7 @@
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | Le 10 octobre 2023, Citrix a publié un avis de sécurité [1] concernant la vulnérabilité CVE-2023-4966 affectant NetScaler ADC et NetScaler Gateway. L'éditeur lui a donné un score de 9,4 et indiqué qu'elle permet une atteinte à la confidentialité des données. | 23 octobre 2023 |
+| [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 24 octobre 2023] | 23 octobre 2023 |
 | [[MàJ] Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/) | [Mise à jour du 23 octobre 2023] | 17 octobre 2023 |
 | [Multiples vulnérabilités dans Exim](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/) | Le 27 septembre 2023, Zero Day Initiative (ZDI) a publié six avis de sécurité [1] concernant des vulnérabilités de type zéro-jour affectant les versions antérieures à 4.96.1 ou 4.97 de l'agent de transfert de courriels ( | 2 octobre 2023 |
 | [[MàJ] Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-007/) | [Mise à jour du 26 juillet 2023] Publication du correctif de sécurité par l'éditeur | 17 juillet 2023 |
