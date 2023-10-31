@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/) | De multiples vulnérabilités ont été corrigées dans  | 30 octobre 2023 |
 | [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 27 octobre 2023 |
 | [Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/) | De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges. | 27 octobre 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 27 octobre 2023 |
@@ -11,12 +12,11 @@
 | [Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/) | De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges. | 26 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/) | De multiples vulnérabilités ont été découvertes dans  | 26 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/) | De multiples vulnérabilités ont été découvertes dans  | 26 octobre 2023 |
-| [Multiples vulnérabilités dans ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0888/) | De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 26 octobre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
+| [[MàJ] Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/) | [Mise à jour du 30 octobre 2023] | 17 octobre 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 24 octobre 2023] | 23 octobre 2023 |
-| [[MàJ] Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/) | [Mise à jour du 23 octobre 2023] | 17 octobre 2023 |
 | [Multiples vulnérabilités dans Exim](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/) | Le 27 septembre 2023, Zero Day Initiative (ZDI) a publié six avis de sécurité [1] concernant des vulnérabilités de type zéro-jour affectant les versions antérieures à 4.96.1 ou 4.97 de l'agent de transfert de courriels ( | 2 octobre 2023 |
 | [[MàJ] Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-007/) | [Mise à jour du 26 juillet 2023] Publication du correctif de sécurité par l'éditeur | 17 juillet 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/) | Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. | 19 juillet 2023 |
