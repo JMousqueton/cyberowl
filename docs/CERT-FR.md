@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Atlassian Confluence Data Center et Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/) | Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données. | 31 octobre 2023 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/) | De multiples vulnérabilités ont été corrigées dans  | 30 octobre 2023 |
 | [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 27 octobre 2023 |
 | [Multiples vulnérabilités dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/) | De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges. | 27 octobre 2023 |
@@ -11,7 +12,6 @@
 | [Multiples vulnérabilités dans les produits Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/) | De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 26 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/) | De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges. | 26 octobre 2023 |
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/) | De multiples vulnérabilités ont été découvertes dans  | 26 octobre 2023 |
-| [Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/) | De multiples vulnérabilités ont été découvertes dans  | 26 octobre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
