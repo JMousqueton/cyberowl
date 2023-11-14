@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges. | 13 novembre 2023 |
+| [Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/) | De multiples vulnérabilités ont été découvertes dans  | 13 novembre 2023 |
+| [Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/) | De multiples vulnérabilités ont été découvertes dans | 13 novembre 2023 |
+| [Vulnérabilité dans SolarWinds Network Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/) | Une vulnérabilité a été découverte dans S | 13 novembre 2023 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0928/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges. | 10 novembre 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/) | De multiples vulnérabilités ont été découvertes dans  | 10 novembre 2023 |
 | [Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/) | De multiples vulnérabilités ont été découvertes dans  | 10 novembre 2023 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/) | De multiples vulnérabilités ont été découvertes dans  | 10 novembre 2023 |
 | [Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/) | De multiples vulnérabilités ont été découvertes dans  | 10 novembre 2023 |
 | [Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/) | Une vulnérabilité a été découverte dans  | 9 novembre 2023 |
-| [Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/) | De multiples vulnérabilités ont été découvertes dans | 8 novembre 2023 |
-| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/) | Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 8 novembre 2023 |
-| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/) | Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 8 novembre 2023 |
-| [Vulnérabilité dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/) | Une vulnérabilité a été découverte dans  | 8 novembre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
