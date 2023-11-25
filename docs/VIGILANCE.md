@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Vim: multiple vulnerabilities](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955) | An attacker can use several vulnerabilities of Vim... | Visit link for details |
 | [Linux kernel: NULL pointer dereference via nf_tables](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954) | An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service... | Visit link for details |
 | [Bouncy Castle Java Cryptography Extension: denial of service via PEMParser](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953) | An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service... | Visit link for details |
 | [OpenZFS: ingress filtrering bypass via sharenfs](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952) | An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data... | Visit link for details |
@@ -100,4 +101,3 @@
 | [Xen: information disclosure via IOMMU Quarantine Page Table Levels](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-IOMMU-Quarantine-Page-Table-Levels-42852) | An attacker, in a guest system, can bypass access restrictions to data of Xen, via IOMMU Quarantine Page Table Levels, in order to read sensitive information on the host system... | Visit link for details |
 | [SIMATIC PCS neo: multiple vulnerabilities](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-42851) | An attacker can use several vulnerabilities of SIMATIC PCS neo... | Visit link for details |
 | [xterm: buffer overflow via ReGIS reporting](https://vigilance.fr/vulnerability/xterm-buffer-overflow-via-ReGIS-reporting-42850) | An attacker can trigger a buffer overflow of xterm, via ReGIS reporting, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [TYPO3 Core: Cross Site Scripting via HTML Sanitizer Bypass](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-HTML-Sanitizer-Bypass-42848) | An attacker can trigger a Cross Site Scripting of TYPO3 Core, via HTML Sanitizer Bypass, in order to run JavaScript code in the context of the web site... | Visit link for details |
