@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/) | Une vulnérabilité a été découverte dans  | 1 décembre 2023 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/) | De multiples vulnérabilités ont été découvertes dans  | 1 décembre 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0990/) | De multiples vulnérabilités ont été découvertes dans  | 1 décembre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/) | De multiples vulnérabilités ont été découvertes dans  | 1 décembre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/) | De multiples vulnérabilités ont été découvertes dans  | 1 décembre 2023 |
+| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/) | De multiples vulnérabilités ont été découvertes dans  | 1 décembre 2023 |
 | [Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 30 novembre 2023 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/) | De multiples vulnérabilités ont été corrigées dans  | 30 novembre 2023 |
 | [Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/) | De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données. | 29 novembre 2023 |
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 29 novembre 2023 |
-| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 29 novembre 2023 |
-| [Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/) | Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 29 novembre 2023 |
-| [Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/) | De multiples vulnérabilités ont été découvertes dans  | 27 novembre 2023 |
-| [Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/) | Une vulnérabilité a été découverte dans  | 24 novembre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/) | De multiples vulnérabilités ont été découvertes dans  | 24 novembre 2023 |
-| [Multiples vulnérabilités dans le noyau Linux de Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données. | 24 novembre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
