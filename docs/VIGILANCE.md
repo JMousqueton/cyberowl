@@ -1,6 +1,7 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [Apache Struts: directory traversal via File Upload Params](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035) | An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path... | Visit link for details |
 | [Drupal Group: read-write access](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034) | An attacker can bypass access restrictions of Drupal Group, in order to read or alter data... | Visit link for details |
 | [WordPress Core: code execution](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033) | An attacker can use a vulnerability of WordPress Core, in order to run code... | Visit link for details |
 | [Python Cryptography: NULL pointer dereference via load_pem_pkcs7_certificates()](https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032) | An attacker can force a NULL pointer to be dereferenced on Python Cryptography, via  | Visit link for details |
@@ -100,4 +101,3 @@
 | [strongSwan: denial of service via DH Public Values](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927) | An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service... | Visit link for details |
 | [Twisted: write access via Response Order](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926) | An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data... | Visit link for details |
 | [Extreme Networks EXOS: denial of service via BGP Update Messages](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925) | An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service... | Visit link for details |
-| [IP Infusion ZebOS: denial of service via BGP Update Messages](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924) | An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service... | Visit link for details |
