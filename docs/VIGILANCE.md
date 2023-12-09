@@ -1,6 +1,8 @@
 ## VIGILANCE
 |Title|Description|Date|
 |---|---|---|
+| [UEFI: privilege escalation via LogoFAIL](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038) | An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges... | Visit link for details |
+| [Microsoft Edge Chromium: three vulnerabilities](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036) | An attacker can use several vulnerabilities of Microsoft Edge Chromium... | Visit link for details |
 | [Apache Struts: directory traversal via File Upload Params](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035) | An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path... | Visit link for details |
 | [Drupal Group: read-write access](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034) | An attacker can bypass access restrictions of Drupal Group, in order to read or alter data... | Visit link for details |
 | [WordPress Core: code execution](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033) | An attacker can use a vulnerability of WordPress Core, in order to run code... | Visit link for details |
@@ -99,5 +101,3 @@
 | [WordPress Core: information disclosure via Email Leak](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929) | An attacker can bypass access restrictions to data of WordPress Core, via Email Leak, in order to read sensitive information... | Visit link for details |
 | [OpenBSD: NULL pointer dereference via Fastcgi Request](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928) | An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service... | Visit link for details |
 | [strongSwan: denial of service via DH Public Values](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927) | An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service... | Visit link for details |
-| [Twisted: write access via Response Order](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926) | An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data... | Visit link for details |
-| [Extreme Networks EXOS: denial of service via BGP Update Messages](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925) | An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service... | Visit link for details |
