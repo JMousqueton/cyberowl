@@ -15,13 +15,13 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/) | Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 14 décembre 2023 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 14 décembre 2023 |
+| [Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/) | Une vulnérabilité a été découverte dans  | 14 décembre 2023 |
+| [Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/) | De multiples vulnérabilités ont été découvertes dans  | 14 décembre 2023 |
+| [Vulnérabilité dans les produits Wallix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1028/) | De multiples vulnérabilités ont été découvertes dans  | 14 décembre 2023 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1027/) | De multiples vulnérabilités ont été découvertes dans  | 14 décembre 2023 |
+| [Vulnérabilité dans VMware Workspace ONE Launcher](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/) | Une vulnérabilité a été découverte dans VMware Workspace ONE Launcher. Elle permet à un attaquant de provoquer une élévation de privilèges. | 14 décembre 2023 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/) | De multiples vulnérabilités ont été corrigées dans  | 13 décembre 2023 |
 | [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/) | De multiples vulnérabilités ont été corrigées dans  | 13 décembre 2023 |
 | [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/) | De multiples vulnérabilités ont été corrigées dans  | 13 décembre 2023 |
-| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/) | De multiples vulnérabilités ont été corrigées dans  | 13 décembre 2023 |
-| [Multiples vulnérabilités dans les produits PRIM’X](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/) | De multiples vulnérabilités ont été découvertes dans les produits PRIM'X. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 13 décembre 2023 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 13 décembre 2023 |
-| [Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 13 décembre 2023 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/) | De multiples vulnérabilités ont été découvertes dans  | 13 décembre 2023 |
-| [Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/) | De multiples vulnérabilités ont été découvertes dans  | 13 décembre 2023 |
-| [Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/) | Une vulnérabilité a été découverte | 12 décembre 2023 |
