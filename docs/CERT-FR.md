@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/) | Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 21 décembre 2023 |
-| [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/) | De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 21 décembre 2023 |
-| [Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1049/) | De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 21 décembre 2023 |
-| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/) | De multiples vulnérabilités ont été découvertes dans  | 20 décembre 2023 |
-| [Vulnérabilité dans macOS Sonoma](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/) | Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 20 décembre 2023 |
-| [Vulnérabilité dans Stormshield Network VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/) | Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges. | 19 décembre 2023 |
-| [Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/) | Une vulnérabilité a été découverte dans  | 19 décembre 2023 |
-| [Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/) | De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité. | 19 décembre 2023 |
-| [Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/) | De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 18 décembre 2023 |
-| [Vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/) | De multiples vulnérabilités ont été découvertes dans | 18 décembre 2023 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-009/) | [Mise à jour du 15 septembre 2023]  | 26 juillet 2023 |
 | [Synthèse sur l’exploitation d’une vulnérabilité dans MOVEit Transfer](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-005/) | La découverte d'une vulnérabilité affectant le logiciel MOVEit Transfer de Progress Software, le 31 mai 2023, avait conduit le CERT-FR à publier des éléments d'information dans le bulletin d'actualité CERTFR-2023-ACT-025. | 5 juillet 2023 |
 | [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-004/) | Le 12 juin 2023, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2023-27997. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance sur des produits Fortinet qui proposent une fonctionnalité de  | 13 juin 2023 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1057/) | De multiples vulnérabilités ont été corrigées dans . Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 22 décembre 2023 |
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1056/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 22 décembre 2023 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1055/) | De multiples vulnérabilités ont été découvertes dans  | 22 décembre 2023 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1054/) | De multiples vulnérabilités ont été découvertes dans  | 22 décembre 2023 |
+| [Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/) | Une vulnérabilité a été découverte dans  | 22 décembre 2023 |
+| [Vulnérabilité dans SolarWinds Access Rights Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1052/) | Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 22 décembre 2023 |
+| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/) | Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 21 décembre 2023 |
+| [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/) | De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 21 décembre 2023 |
+| [Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1049/) | De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 21 décembre 2023 |
+| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/) | De multiples vulnérabilités ont été découvertes dans  | 20 décembre 2023 |
