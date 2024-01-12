@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0024/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
-| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0023/) | Une vulnérabilité a été corrigée dans  | 10 janvier 2024 |
-| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0021/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
-| [Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0020/) | Une vulnérabilité a été corrigée dans  | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0019/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0018/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0017/) | De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges. | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits Trend Micro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0016/) | De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une élévation de privilèges. | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0015/) | De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance. | 10 janvier 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-009/) | [Mise à jour du 15 septembre 2023]  | 26 juillet 2023 |
 | [Synthèse sur l’exploitation d’une vulnérabilité dans MOVEit Transfer](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-005/) | La découverte d'une vulnérabilité affectant le logiciel MOVEit Transfer de Progress Software, le 31 mai 2023, avait conduit le CERT-FR à publier des éléments d'information dans le bulletin d'actualité CERTFR-2023-ACT-025. | 5 juillet 2023 |
 | [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-004/) | Le 12 juin 2023, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2023-27997. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance sur des produits Fortinet qui proposent une fonctionnalité de  | 13 juin 2023 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 11 janvier 2024 |
+| [Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/) | Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 11 janvier 2024 |
+| [Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 11 janvier 2024 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0024/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
+| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0023/) | Une vulnérabilité a été corrigée dans  | 10 janvier 2024 |
+| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0021/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
+| [Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0020/) | Une vulnérabilité a été corrigée dans  | 10 janvier 2024 |
+| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0019/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 10 janvier 2024 |
+| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0018/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 janvier 2024 |
