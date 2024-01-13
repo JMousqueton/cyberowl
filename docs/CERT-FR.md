@@ -1,7 +1,22 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 12 janvier 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/) | De multiples vulnérabilités ont été découvertes dans  | 12 janvier 2024 |
+| [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges. | 12 janvier 2024 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité. | 12 janvier 2024 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/) | De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 12 janvier 2024 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/) | De multiples vulnérabilités ont été corrigées dans  | 12 janvier 2024 |
+| [Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 12 janvier 2024 |
+| [Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 11 janvier 2024 |
+| [Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/) | Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 11 janvier 2024 |
+| [Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 11 janvier 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/) | Le 11 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. | 12 janvier 2024 |
+| [Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | Le 10 janvier 2024, Ivanti a publié un avis de sécurité concernant ses produits ICS et IPS car ils sont affectés par deux vulnérabilités critiques. | 11 janvier 2024 |
 | [Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/) | Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique  | 13 décembre 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 22 novembre 2023] | 23 octobre 2023 |
 | [[MàJ] Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/) | [Mise à jour du 02 novembre 2023] | 17 octobre 2023 |
@@ -10,18 +25,3 @@
 | [[MàJ] Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-007/) | [Mise à jour du 26 juillet 2023] Publication du correctif de sécurité par l'éditeur | 17 juillet 2023 |
 | [Vulnérabilité dans les produits Microsoft](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-006/) | Dans le cadre de son  | 12 juillet 2023 |
 | [[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-009/) | [Mise à jour du 15 septembre 2023]  | 26 juillet 2023 |
-| [Synthèse sur l’exploitation d’une vulnérabilité dans MOVEit Transfer](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-005/) | La découverte d'une vulnérabilité affectant le logiciel MOVEit Transfer de Progress Software, le 31 mai 2023, avait conduit le CERT-FR à publier des éléments d'information dans le bulletin d'actualité CERTFR-2023-ACT-025. | 5 juillet 2023 |
-| [Vulnérabilité dans les produits Fortinet](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-004/) | Le 12 juin 2023, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2023-27997. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance sur des produits Fortinet qui proposent une fonctionnalité de  | 13 juin 2023 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 11 janvier 2024 |
-| [Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/) | Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 11 janvier 2024 |
-| [Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 11 janvier 2024 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0024/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
-| [Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0023/) | Une vulnérabilité a été corrigée dans  | 10 janvier 2024 |
-| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0022/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0021/) | De multiples vulnérabilités ont été corrigées dans  | 10 janvier 2024 |
-| [Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0020/) | Une vulnérabilité a été corrigée dans  | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0019/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 10 janvier 2024 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0018/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 janvier 2024 |
