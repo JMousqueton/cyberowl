@@ -15,7 +15,7 @@
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 17 janvier 2024] | 11 janvier 2024 |
+| [[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 18 janvier 2024] compléments d'informations sur les actions à réaliser. | 11 janvier 2024 |
 | [Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/) | Le 11 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. | 12 janvier 2024 |
 | [Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/) | Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique  | 13 décembre 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 22 novembre 2023] | 23 octobre 2023 |
