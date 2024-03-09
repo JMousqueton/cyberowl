@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité. | 8 mars 2024 |
+| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
+| [Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0193/) | Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 mars 2024 |
+| [Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/) | Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 7 mars 2024 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/) | De multiples vulnérabilités ont été découvertes dans  | 7 mars 2024 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/) | De multiples vulnérabilités ont été découvertes dans  | 7 mars 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [Multiples vulnérabilités dans Exim](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/) | Le 27 septembre 2023, Zero Day Initiative (ZDI) a publié six avis de sécurité [1] concernant des vulnérabilités de type zéro-jour affectant les versions antérieures à 4.96.1 ou 4.97 de l'agent de transfert de courriels ( | 2 octobre 2023 |
 | [Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/) | Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique  | 13 décembre 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/) | Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. | 19 juillet 2023 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [[SCADA] Vulnérabilité dans Moxa NPort W2150A/W2250A Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0189/) | Une vulnérabilité a été découverte dans Moxa  | 6 mars 2024 |
-| [Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0188/) | De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 6 mars 2024 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0187/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 6 mars 2024 |
-| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/) | De multiples vulnérabilités ont été découvertes dans  | 6 mars 2024 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/) | De multiples vulnérabilités ont été découvertes dans  | 6 mars 2024 |
-| [Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/) | Une vulnérabilité a été découverte dans | 5 mars 2024 |
-| [Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/) | Une vulnérabilité a été découverte dans  | 5 mars 2024 |
-| [Vulnérabilité dans les produits Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/) | Une vulnérabilité a été découverte dans  | 5 mars 2024 |
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0181/) | De multiples vulnérabilités ont été découvertes dans Google | 5 mars 2024 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/) | De multiples vulnérabilités ont été découvertes dans  | 1 mars 2024 |
