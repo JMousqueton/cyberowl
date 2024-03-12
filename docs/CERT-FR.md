@@ -2,6 +2,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0201/) | De multiples vulnérabilités ont été découvertes dans  | 11 mars 2024 |
+| [Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0200/) | Une vulnérabilité a été découverte dans  | 11 mars 2024 |
 | [Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
 | [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
@@ -10,8 +12,6 @@
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0194/) | De multiples vulnérabilités ont été découvertes dans  | 8 mars 2024 |
 | [Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0193/) | Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 mars 2024 |
 | [Vulnérabilité dans VMware Cloud Director](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0192/) | Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 7 mars 2024 |
-| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/) | De multiples vulnérabilités ont été découvertes dans  | 7 mars 2024 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0190/) | De multiples vulnérabilités ont été découvertes dans  | 7 mars 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
