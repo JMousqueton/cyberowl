@@ -15,9 +15,9 @@
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
+| [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 15 mars 2024] Ajout de précision concernant les défi-réponses NTLM | 15 février 2024 |
 | [[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 4 mars 2024] | 11 janvier 2024 |
 | [[MàJ] Incident affectant les solutions AnyDesk](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/) | [Mise à jour du 27 février 2024]  | 5 février 2024 |
-| [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 22 février 2024]  | 15 février 2024 |
 | [[MàJ] Vulnérabilité dans Fortinet FortiOS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/) | Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. | 9 février 2024 |
 | [[MàJ] Multiples Vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/) | [Mise à jour du 29 janvier 2024]  | 12 janvier 2024 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 22 novembre 2023] | 23 octobre 2023 |
