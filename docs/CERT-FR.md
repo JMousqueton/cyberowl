@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0243/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0241/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0240/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
-| [Vulnérabilité dansMicrosoft Xbox Gaming Services](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/) | Une vulnérabilité a été découverte dans  | 21 mars 2024 |
-| [Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/) | De multiples vulnérabilités ont été découvertes dans  | 21 mars 2024 |
-| [[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/) | De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 20 mars 2024 |
-| [Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/) | Une vulnérabilité a été découverte dans  | 20 mars 2024 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 20 mars 2024 |
-| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/) | De multiples vulnérabilités ont été découvertes dans  | 20 mars 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [Multiples vulnérabilités dans Exim](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/) | Le 27 septembre 2023, Zero Day Initiative (ZDI) a publié six avis de sécurité [1] concernant des vulnérabilités de type zéro-jour affectant les versions antérieures à 4.96.1 ou 4.97 de l'agent de transfert de courriels ( | 2 octobre 2023 |
 | [Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/) | Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique  | 13 décembre 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/) | Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. | 19 juillet 2023 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0243/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0242/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0241/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0240/) | De multiples vulnérabilités ont été découvertes dans  | 22 mars 2024 |
+| [Vulnérabilité dansMicrosoft Xbox Gaming Services](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/) | Une vulnérabilité a été découverte dans  | 21 mars 2024 |
+| [Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/) | De multiples vulnérabilités ont été découvertes dans  | 21 mars 2024 |
+| [[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/) | De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 20 mars 2024 |
+| [Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/) | Une vulnérabilité a été découverte dans  | 20 mars 2024 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 20 mars 2024 |
+| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/) | De multiples vulnérabilités ont été découvertes dans  | 20 mars 2024 |
