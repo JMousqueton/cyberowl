@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 27 mars 2024 |
-| [Vulnérabilité dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/) | Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance. | 27 mars 2024 |
-| [Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/) | De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS). | 27 mars 2024 |
-| [Multiples vulnérabilités dans Kaspersky Anti Targeted Attack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/) | De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 26 mars 2024 |
-| [Vulnérabilité dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/) | Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 26 mars 2024 |
-| [Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/) | De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. | 26 mars 2024 |
-| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0248/) | Une vulnérabilité a été corrigée dans  | 25 mars 2024 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/) | De multiples vulnérabilités ont été corrigées dans  | 25 mars 2024 |
-| [Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/) | De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 25 mars 2024 |
-| [Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/) | De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. | 25 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0262/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/) | De multiples vulnérabilités ont été corrigées dans  | 28 mars 2024 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 28 mars 2024 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/) | De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS). | 28 mars 2024 |
+| [Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/) | De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 28 mars 2024 |
+| [Multiples vulnérabilités dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/) | De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données. | 28 mars 2024 |
+| [Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/) | Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance. | 28 mars 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
