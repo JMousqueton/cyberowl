@@ -1,4 +1,17 @@
 
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
+| [Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/) | Une vulnérabilité a été découverte dans  | 5 avril 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
+| [Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
+| [Multiples vulnérabilités dans Google Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/) | De multiples vulnérabilités ont été découvertes dans  | 4 avril 2024 |
+| [Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0271/) | De multiples vulnérabilités ont été découvertes dans  | 4 avril 2024 |
+| [Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/) | Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 4 avril 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -12,16 +25,3 @@
 | [Multiples vulnérabilités dans Exim](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/) | Le 27 septembre 2023, Zero Day Initiative (ZDI) a publié six avis de sécurité [1] concernant des vulnérabilités de type zéro-jour affectant les versions antérieures à 4.96.1 ou 4.97 de l'agent de transfert de courriels ( | 2 octobre 2023 |
 | [Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/) | Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique  | 13 décembre 2023 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-008/) | Le 18 juillet 2023, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités. La plus critique, dont l'identifiant CVE est CVE-2023-3519, permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. | 19 juillet 2023 |
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans VMware SD-WAN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/) | De multiples vulnérabilités ont été découvertes dans VMware SD-WAN. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 3 avril 2024 |
-| [Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/) | Une vulnérabilité a été découverte dans  | 2 avril 2024 |
-| [Multiples vulnérabilités dans Synology Surveillance Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0266/) | De multiples vulnérabilités ont été découvertes dans | 2 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0262/) | De multiples vulnérabilités ont été découvertes dans  | 29 mars 2024 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/) | De multiples vulnérabilités ont été corrigées dans  | 28 mars 2024 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité. | 28 mars 2024 |
-| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/) | De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS). | 28 mars 2024 |
