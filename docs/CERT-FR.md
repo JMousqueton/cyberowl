@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
+| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
+| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/) | Une vulnérabilité a été découverte dans  | 10 avril 2024 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0289/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
+| [Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0288/) | Une vulnérabilité a été découverte dans  | 10 avril 2024 |
+| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
+| [Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
+| [Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/) | Une vulnérabilité a été découverte dans  | 10 avril 2024 |
+| [Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
 | [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0283/) | De multiples vulnérabilités ont été découvertes dans  | 9 avril 2024 |
-| [[SCADA] Vulnérabilité dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0282/) | Une vulnérabilité a été découverte dans  | 9 avril 2024 |
-| [[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0281/) | De multiples vulnérabilités ont été découvertes dans  | 9 avril 2024 |
-| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0280/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 9 avril 2024 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
-| [Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/) | Une vulnérabilité a été découverte dans  | 5 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
-| [Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/) | De multiples vulnérabilités ont été découvertes dans  | 5 avril 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
