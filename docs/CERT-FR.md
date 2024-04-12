@@ -2,16 +2,16 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/) | De multiples vulnérabilités ont été découvertes dans  | 11 avril 2024 |
+| [Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/) | Une vulnérabilité a été découverte dans | 11 avril 2024 |
+| [Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/) | De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 11 avril 2024 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/) | De multiples vulnérabilités ont été découvertes dans  | 11 avril 2024 |
+| [Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0295/) | De multiples vulnérabilités ont été découvertes dans  | 11 avril 2024 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0294/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 11 avril 2024 |
+| [Multiples vulnérabilités dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0293/) | De multiples vulnérabilités ont été découvertes dans  | 11 avril 2024 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
 | [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
 | [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/) | Une vulnérabilité a été découverte dans  | 10 avril 2024 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0289/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
-| [Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0288/) | Une vulnérabilité a été découverte dans  | 10 avril 2024 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
-| [Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
-| [Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/) | Une vulnérabilité a été découverte dans  | 10 avril 2024 |
-| [Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/) | De multiples vulnérabilités ont été découvertes dans  | 10 avril 2024 |
-| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0283/) | De multiples vulnérabilités ont été découvertes dans  | 9 avril 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
