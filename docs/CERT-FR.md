@@ -15,10 +15,10 @@
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/) | Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 12 avril 2024 |
+| [[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/) | Une vulnérabilité a été découverte dans la fonctionnalité GlobalProtect de Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 12 avril 2024 |
 | [[MàJ] Vulnérabilité dans Fortinet FortiOS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/) | [Mise à jour du 19 mars 2024] | 9 février 2024 |
-| [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 15 mars 2024] Ajout de précision concernant les défi-réponses NTLM | 15 février 2024 |
 | [[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 4 mars 2024] | 11 janvier 2024 |
+| [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 15 mars 2024] Ajout de précision concernant les défi-réponses NTLM | 15 février 2024 |
 | [[MàJ] Incident affectant les solutions AnyDesk](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/) | [Mise à jour du 27 février 2024]  | 5 février 2024 |
 | [[MàJ] Multiples Vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/) | [Mise à jour du 29 janvier 2024]  | 12 janvier 2024 |
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 22 novembre 2023] | 23 octobre 2023 |
