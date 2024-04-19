@@ -2,20 +2,20 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0315/) | Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 17 avril 2024 |
+| [Multiples vulnérabilités dans Ivanti Avalanche](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0314/) | De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 17 avril 2024 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0313/) | De multiples vulnérabilités ont été découvertes dans  | 17 avril 2024 |
+| [Multiples vulnérabilités dans les produits Atlassian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0312/) | De multiples vulnérabilités ont été découvertes dans  | 17 avril 2024 |
+| [Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0311/) | De multiples vulnérabilités ont été découvertes dans  | 17 avril 2024 |
 | [Vulnérabilité dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/) | Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance. | 16 avril 2024 |
 | [Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/) | Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance. | 16 avril 2024 |
 | [Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/) | Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance. | 15 avril 2024 |
 | [Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/) | Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 15 avril 2024 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/) | De multiples vulnérabilités ont été découvertes dans  | 15 avril 2024 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/) | De multiples vulnérabilités ont été découvertes dans  | 12 avril 2024 |
-| [Multiples vulnérabilités dans Debian LTS buster](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/) | De multiples vulnérabilités ont été découvertes dans  | 12 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/) | De multiples vulnérabilités ont été découvertes dans  | 12 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/) | De multiples vulnérabilités ont été découvertes dans  | 12 avril 2024 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/) | De multiples vulnérabilités ont été découvertes dans  | 12 avril 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/) | [Mise à jour du 17 avril 2024]  | 12 avril 2024 |
+| [[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/) | [Mise à jour du 18 avril 2024] Le CERT-FR a connaissance d'incidents liés à l'exploitation de la vulnérabilité. | 12 avril 2024 |
 | [[MàJ] Vulnérabilité dans Fortinet FortiOS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/) | [Mise à jour du 19 mars 2024] | 9 février 2024 |
 | [[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 4 mars 2024] | 11 janvier 2024 |
 | [[MàJ] Vulnérabilité dans Microsoft Outlook](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 15 mars 2024] Ajout de précision concernant les défi-réponses NTLM | 15 février 2024 |
