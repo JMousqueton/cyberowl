@@ -2,6 +2,8 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/) | De multiples vulnérabilités ont été découvertes dans  | 29 avril 2024 |
+| [Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/) | De multiples vulnérabilités ont été découvertes dans  | 29 avril 2024 |
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/) | De multiples vulnérabilités ont été découvertes dans  | 26 avril 2024 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/) | De multiples vulnérabilités ont été découvertes dans  | 26 avril 2024 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/) | De multiples vulnérabilités ont été découvertes dans  | 26 avril 2024 |
@@ -10,8 +12,6 @@
 | [Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/) | Une vulnérabilité a été découverte dans  | 25 avril 2024 |
 | [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/) | De multiples vulnérabilités ont été découvertes dans  | 25 avril 2024 |
 | [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/) | De multiples vulnérabilités ont été découvertes dans  | 25 avril 2024 |
-| [Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0345/) | Une preuve de concept a été publiée affectant | 25 avril 2024 |
-| [Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0344/) | De multiples vulnérabilités ont été découvertes dans  | 25 avril 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
