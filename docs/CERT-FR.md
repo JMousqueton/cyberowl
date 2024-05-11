@@ -15,7 +15,7 @@
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/) | [Mise à jour du 26 avril 2024] | 12 avril 2024 |
+| [[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/) | [Mise à jour du 10 mai 2024]  | 12 avril 2024 |
 | [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/) | Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. | 25 avril 2024 |
 | [[MàJ] Vulnérabilité dans Fortinet FortiOS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/) | [Mise à jour du 19 mars 2024] | 9 février 2024 |
 | [[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 4 mars 2024] | 11 janvier 2024 |
