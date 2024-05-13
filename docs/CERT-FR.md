@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
-| [Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
-| [Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/) | Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité. | 10 mai 2024 |
-| [Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/) | De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 mai 2024 |
-| [Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/) | De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 mai 2024 |
-| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [[MàJ] Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/) | [Mise à jour du 22 novembre 2023] | 23 octobre 2023 |
 | [[MàJ] Multiples vulnérabilités dans Cisco IOS XE](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-011/) | [Mise à jour du 02 novembre 2023] | 17 octobre 2023 |
 | [Multiples vulnérabilités dans Exim](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/) | Le 27 septembre 2023, Zero Day Initiative (ZDI) a publié six avis de sécurité [1] concernant des vulnérabilités de type zéro-jour affectant les versions antérieures à 4.96.1 ou 4.97 de l'agent de transfert de courriels ( | 2 octobre 2023 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
+| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
+| [Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
+| [Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/) | Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité. | 10 mai 2024 |
+| [Multiples vulnérabilités dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/) | De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 mai 2024 |
+| [Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/) | De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 10 mai 2024 |
+| [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/) | De multiples vulnérabilités ont été découvertes dans  | 10 mai 2024 |
