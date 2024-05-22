@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service. | 17 mai 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 17 mai 2024 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance. | 17 mai 2024 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/) | De multiples vulnérabilités ont été découvertes dans  | 17 mai 2024 |
-| [Vulnérabilité dans Microsoft Azure Monitor Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/) | Une vulnérabilité a été découverte dans  | 17 mai 2024 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/) | De multiples vulnérabilités ont été découvertes dans  | 17 mai 2024 |
-| [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 17 mai 2024 |
-| [Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/) | De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges. | 17 mai 2024 |
-| [Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/) | Une vulnérabilité a été découverte dans  | 17 mai 2024 |
-| [Multiples vulnérabilités dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/) | De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance. | 17 mai 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
