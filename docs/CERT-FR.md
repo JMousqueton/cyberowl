@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0710/) | De multiples vulnérabilités ont été découvertes dans les produits Dovecot. Elles permettent à un attaquant de provoquer un déni de service à distance. | 22 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0709/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 22 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0708/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. | 22 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0707/) | Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 22 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0706/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2024-7971 est activement exploitée. | 22 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0705/) | Une vulnérabilité a été découverte dans MongoDB Enterprise Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 21 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0704/) | Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges. | 21 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0703/) | De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF). | 21 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0702/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 21 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0701/) | De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. | 21 août 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 4 mars 2024] Ivanti a publié le 29 février des recommandations de résolution pour les Ivanti Connect Secure ou Policy Secure en machine virtuelle [16]. [Mise à jour du 15 février 2024] l'éditeur a publié le 15 février des correctifs pour les versions suivantes, qui n'en... | 11 janvier 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 15 mars 2024] Ajout de précision concernant les défi-réponses NTLM [Mise à jour du 22 février 2024] Ajout de recommandations et de précisions sur le fonctionnement de la vulnérabilité. La vulnérabilité CVE-2024-21413 permet à un attaquant de contourner les mesures de sécurité... | 15 février 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/) | [Mise à jour du 29 janvier 2024] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des... | 12 janvier 2024 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0710/) | De multiples vulnérabilités ont été découvertes dans les produits Dovecot. Elles permettent à un attaquant de provoquer un déni de service à distance. | 22 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0709/) | De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 22 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0708/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. | 22 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0707/) | Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 22 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0706/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2024-7971 est activement exploitée. | 22 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0705/) | Une vulnérabilité a été découverte dans MongoDB Enterprise Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 21 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0704/) | Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges. | 21 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0703/) | De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF). | 21 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0702/) | Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 21 août 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0701/) | De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. | 21 août 2024 |
