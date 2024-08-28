@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0721/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 26 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0720/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. | 23 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0719/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service. | 23 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0718/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données. | 23 août 2024 |
@@ -11,7 +12,6 @@
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0714/) | Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 23 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0713/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une injection de code indirecte à distance (XSS). | 23 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0712/) | Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 23 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0711/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité... | 23 août 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
