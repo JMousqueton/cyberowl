@@ -2,6 +2,7 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0730/) | De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. | 02 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 30 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0728/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur. | 30 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0727/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 30 août 2024 |
@@ -11,7 +12,6 @@
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0723/) | Une vulnérabilité a été découverte dans les produits Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance. | 29 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0722/) | Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 28 août 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0721/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 26 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0720/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. | 23 août 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
