@@ -1,17 +1,4 @@
 
-## CERT-FR-AVIS
-|Title|Description|Date|
-|---|---|---|
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0732/) | Une vulnérabilité a été découverte dans VMware Fusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 03 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0731/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 03 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0730/) | De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. | 02 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 30 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0728/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur. | 30 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0727/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 30 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0726/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 30 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0725/) | Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance. | 29 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0724/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 29 août 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0723/) | Une vulnérabilité a été découverte dans les produits Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance. | 29 août 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
@@ -25,3 +12,16 @@
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/) | [Mise à jour du 4 mars 2024] Ivanti a publié le 29 février des recommandations de résolution pour les Ivanti Connect Secure ou Policy Secure en machine virtuelle [16]. [Mise à jour du 15 février 2024] l'éditeur a publié le 15 février des correctifs pour les versions suivantes, qui n'en... | 11 janvier 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/) | [Mise à jour du 15 mars 2024] Ajout de précision concernant les défi-réponses NTLM [Mise à jour du 22 février 2024] Ajout de recommandations et de précisions sur le fonctionnement de la vulnérabilité. La vulnérabilité CVE-2024-21413 permet à un attaquant de contourner les mesures de sécurité... | 15 février 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/) | [Mise à jour du 29 janvier 2024] Le 25 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE. La vulnérabilité CVE-2024-0402 est considérée critique avec un score CVSSv3 de 9,9. Elle permet à un attaquant authentifié d'écrire des... | 12 janvier 2024 |
+## CERT-FR-AVIS
+|Title|Description|Date|
+|---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0738/) | Une vulnérabilité a été découverte dans Synacor Zimbra Desktop. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 04 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0737/) | De multiples vulnérabilités ont été découvertes dans Moxa OnCell 3120-LTE-1 Series. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 04 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0736/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 04 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0735/) | De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. | 04 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0734/) | Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service. | 04 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0733/) | De multiples vulnérabilités ont été découvertes dans les produits Google. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. | 04 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0732/) | Une vulnérabilité a été découverte dans VMware Fusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 03 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0731/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 03 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0730/) | De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. | 02 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 30 août 2024 |
