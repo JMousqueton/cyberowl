@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/) | Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 24 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0802/) | De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 23 septembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0801/) | De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service. | 23 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 20 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0799/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 20 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0798/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance. | 20 septembre 2024 |
@@ -9,9 +12,6 @@
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0796/) | Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Ivanti déclare que la vulnérabilité CVE-2024-8963 est activement exploitée dans le cadre d'attaques ciblées, en combinaison avec la... | 20 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0795/) | Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 20 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0794/) | Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 20 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. | 20 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 18 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/) | Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 18 septembre 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
