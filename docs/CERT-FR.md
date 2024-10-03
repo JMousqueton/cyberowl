@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0827/) | Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 01 octobre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0826/) | De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. | 01 octobre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0825/) | Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service. | 01 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0824/) | De multiples vulnérabilités ont été découvertes dans Foxit PDF Editor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données. | 30 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0823/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 27 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0822/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données. | 27 septembre 2024 |
@@ -9,9 +12,6 @@
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0820/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 27 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0819/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 27 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0818/) | De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 27 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0817/) | Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité. | 27 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0816/) | De multiples vulnérabilités ont été découvertes dans les produits Foxit. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. | 26 septembre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0815/) | De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 26 septembre 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
