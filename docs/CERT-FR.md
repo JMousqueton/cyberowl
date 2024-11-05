@@ -2,6 +2,9 @@
 ## CERT-FR-AVIS
 |Title|Description|Date|
 |---|---|---|
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0942/) | Une vulnérabilité a été découverte dans les produits Broadcom. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 04 novembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0941/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 04 novembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0940/) | De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. | 04 novembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0939/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 31 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0938/) | De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données. | 31 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0937/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 31 octobre 2024 |
@@ -9,9 +12,6 @@
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0935/) | Une vulnérabilité a été découverte dans Tenable Sensor Proxy. Elle permet à un attaquant de provoquer un déni de service à distance. | 31 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0934/) | De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 30 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0933/) | De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur. | 30 octobre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0932/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. | 30 octobre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0931/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 30 octobre 2024 |
-| [](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0930/) | Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 29 octobre 2024 |
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
