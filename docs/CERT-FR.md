@@ -15,8 +15,8 @@
 ## CERT-FR-ALERTE
 |Title|Description|Date|
 |---|---|---|
-| [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/) | [Mise à jour du 15 novembre 2024] | 30 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-015/) | Le 8 novembre 2024, Palo Alto Networks a publié un avis de sécurité relatif à une vulnérabilité critique dans certains pare-feux Palo Alto Networks. Elle permet à un attaquant non authentifié d'exécuter du code arbitraire à distance sur l'interface d'administration des équipements. L'éditeur... | 15 novembre 2024 |
+| [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/) | [Mise à jour du 15 novembre 2024] | 30 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-013/) | Ivanti a publié plusieurs avis de sécurité sur des vulnérabilités affectant CSA qui sont activement exploitées : * le 10 septembre 2024, Ivanti a publié un avis de sécurité concernant la vulnérabilité CVE-2024-8190 qui permet à un attaquant, authentifié en tant qu'administrateur, d'exécuter du... | 22 octobre 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-012/) | [Mise à jour du 10 octobre 2024] | 27 septembre 2024 |
 | [](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-011/) | Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance, une atteinte à... | 10 septembre 2024 |
